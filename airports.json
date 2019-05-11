@@ -1,4 +1,4 @@
-let airports = {
+{
     "AAA": {
         "IATA": "AAA",
         "ICAO": "NTGA",
