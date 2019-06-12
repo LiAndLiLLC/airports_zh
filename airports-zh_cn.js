@@ -49051,11 +49051,11 @@ let airports = {
         "IATA": "SHE",
         "ICAO": "ZYTX",
         "altitude": 198.0,
-        "city": "沉阳",
+        "city": "沈阳",
         "country": "中国",
         "latitude": 41.639801025390625,
         "longitude": 123.48300170898438,
-        "name": "Taoxian国际机场",
+        "name": "桃仙国际机场",
         "timezone": "Asia/Shanghai"
     },
     "SHG": {
