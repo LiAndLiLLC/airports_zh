@@ -1,0 +1,370 @@
+{
+    "CAN": {
+        "IATA": "CAN",
+        "ICAO": "ZGGG",
+        "city": "Guangzhou",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "TPE": {
+        "IATA": "TPE",
+        "ICAO": "RCTP",
+        "city": "Taipei",
+        "country": "中国",
+        "timezone": "Asia/Taipei"
+    },
+    "TSA": {
+        "IATA": "TSA",
+        "ICAO": "RCSS",
+        "city": "Taipei",
+        "country": "中国",
+        "timezone": "Asia/Taipei"
+    },
+    "KHH": {
+        "IATA": "KHH",
+        "ICAO": "RCKH",
+        "city": "Kaohsiung",
+        "country": "中国",
+        "timezone": "Asia/Taipei"
+    },
+    "HKG": {
+        "IATA": "HKG",
+        "ICAO": "VHHH",
+        "city": "Hong Kong",
+        "country": "中国",
+        "timezone": "Asia/Hong_Kong"
+    },
+    "CKG": {
+        "IATA": "CKG",
+        "ICAO": "ZUCK",
+        "city": "Chongqing",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "CSX": {
+        "IATA": "CSX",
+        "ICAO": "ZGHA",
+        "city": "Changsha",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "CTU": {
+        "IATA": "CTU",
+        "ICAO": "ZUUU",
+        "city": "Chengdu",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "CZX": {
+        "IATA": "CZX",
+        "ICAO": "ZSCG",
+        "city": "Changzhou",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "DLC": {
+        "IATA": "DLC",
+        "ICAO": "ZYTL",
+        "city": "Dalian",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "FOC": {
+        "IATA": "FOC",
+        "ICAO": "ZSFZ",
+        "city": "Fuzhou",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "HAK": {
+        "IATA": "HAK",
+        "ICAO": "ZJHK",
+        "city": "Haikou",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "HET": {
+        "IATA": "HET",
+        "ICAO": "ZBHH",
+        "city": "Hohhot",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "HFE": {
+        "IATA": "HFE",
+        "ICAO": "ZSOF",
+        "city": "Hefei",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "HGH": {
+        "IATA": "HGH",
+        "ICAO": "ZSHC",
+        "city": "Hangzhou",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "HRB": {
+        "IATA": "HRB",
+        "ICAO": "ZYHB",
+        "city": "Harbin",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "INC": {
+        "IATA": "INC",
+        "ICAO": "ZLIC",
+        "city": "Yinchuan",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "JHG": {
+        "IATA": "JHG",
+        "ICAO": "ZPJH",
+        "city": "Xishuangbanna",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "JJN": {
+        "IATA": "JJN",
+        "ICAO": "ZSQZ",
+        "city": "Quanzhou",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "KHN": {
+        "IATA": "KHN",
+        "ICAO": "ZSCN",
+        "city": "南昌",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "KMG": {
+        "IATA": "KMG",
+        "ICAO": "ZPPP",
+        "city": "昆明",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "KWE": {
+        "IATA": "KWE",
+        "ICAO": "ZUGY",
+        "city": "贵阳",
+        "country": "China",
+        "name": "贵阳龙洞堡",
+        "timezone": "Asia/Shanghai"
+    },
+    "KWL": {
+        "IATA": "KWL",
+        "ICAO": "ZGKL",
+        "city": "桂林",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "LHW": {
+        "IATA": "LHW",
+        "ICAO": "ZLLL",
+        "city": "兰州",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "LJG": {
+        "IATA": "LJG",
+        "ICAO": "ZPLJ",
+        "city": "丽江",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "LXA": {
+        "IATA": "LXA",
+        "ICAO": "ZULS",
+        "city": "拉萨",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "MIG": {
+        "IATA": "MIG",
+        "ICAO": "ZUMY",
+        "city": "绵阳",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "NAY": {
+        "IATA": "NAY",
+        "ICAO": "ZBNY",
+        "city": "北京",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "NGB": {
+        "IATA": "NGB",
+        "ICAO": "ZSNB",
+        "city": "宁波",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "NKG": {
+        "IATA": "NKG",
+        "ICAO": "ZSNJ",
+        "city": "南京",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "NNG": {
+        "IATA": "NNG",
+        "ICAO": "ZGNN",
+        "city": "南宁",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "PEK": {
+        "IATA": "PEK",
+        "ICAO": "ZBAA",
+        "city": "北京",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "PVG": {
+        "IATA": "PVG",
+        "ICAO": "ZSPD",
+        "city": "上海",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "SHA": {
+        "IATA": "SHA",
+        "ICAO": "ZSSS",
+        "city": "上海",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "SHE": {
+        "IATA": "SHE",
+        "ICAO": "ZYTX",
+        "city": "沈阳",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "SJW": {
+        "IATA": "SJW",
+        "ICAO": "ZBSJ",
+        "city": "石家庄",
+        "country": "China",
+        "name": "石家庄正定",
+        "timezone": "Asia/Shanghai"
+    },
+    "SWA": {
+        "IATA": "SWA",
+        "ICAO": "ZGOW",
+        "city": "汕头",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "SYX": {
+        "IATA": "SYX",
+        "ICAO": "ZJSY",
+        "city": "三亚",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "SZX": {
+        "IATA": "SZX",
+        "ICAO": "ZGSZ",
+        "city": "深圳",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "TAO": {
+        "IATA": "TAO",
+        "ICAO": "ZSQD",
+        "city": "青岛",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "TNA": {
+        "IATA": "TNA",
+        "ICAO": "ZSJN",
+        "city": "济南",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "TSN": {
+        "IATA": "TSN",
+        "ICAO": "ZBTJ",
+        "city": "天津",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "TYN": {
+        "IATA": "TYN",
+        "ICAO": "ZBYN",
+        "city": "太原",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "URC": {
+        "IATA": "URC",
+        "ICAO": "ZWWW",
+        "city": "乌鲁木齐",
+        "country": "China",
+        "name": "乌鲁木齐地窝堡",
+        "timezone": "Asia/Shanghai"
+    },
+    "WNZ": {
+        "IATA": "WNZ",
+        "ICAO": "ZSWZ",
+        "city": "温州",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "WUH": {
+        "IATA": "WUH",
+        "ICAO": "ZHHH",
+        "city": "武汉",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "WUX": {
+        "IATA": "WUX",
+        "ICAO": "ZSWX",
+        "city": "无锡",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "XIY": {
+        "IATA": "XIY",
+        "ICAO": "ZLXY",
+        "city": "西安",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "XMN": {
+        "IATA": "XMN",
+        "ICAO": "ZSAM",
+        "city": "厦门",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "XNN": {
+        "IATA": "XNN",
+        "ICAO": "ZLXN",
+        "city": "西宁",
+        "country": "China",
+        "name": "西宁曹家堡",
+        "timezone": "Asia/Shanghai"
+    },
+    "YNT": {
+        "IATA": "YNT",
+        "ICAO": "ZSYT",
+        "city": "烟台",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    },
+    "ZUH": {
+        "IATA": "ZUH",
+        "ICAO": "ZGSD",
+        "city": "珠海",
+        "country": "China",
+        "timezone": "Asia/Shanghai"
+    }
+}
