@@ -13500,6 +13500,8 @@ let airports = {
         "city": "多哈",
         "country": "卡塔尔",
         "name": "Hamad",
+        "latitude": 25.273056,
+        "longitude": 51.608056,
         "timezone": "Asia/Qatar"
     },
     "DOK": {
