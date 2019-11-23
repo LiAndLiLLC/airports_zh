@@ -3919,7 +3919,7 @@ let airports = {
         "latitude": 19.139166666666664,
         "longitude": 110.46361111111112,
         "name": "琼海博鳌机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "BAS": {
         "IATA": "BAS",
@@ -4920,7 +4920,7 @@ let airports = {
         "latitude": 32.8477333333,
         "longitude": 117.320244444,
         "name": "Bengbu",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "BFV": {
         "IATA": "BFV",
@@ -6680,7 +6680,7 @@ let airports = {
         "latitude": 44.900277777777774,
         "longitude": 82.30305555555556,
         "name": "博乐阿拉山口机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "BPM": {
         "IATA": "BPM",
@@ -8953,7 +8953,7 @@ let airports = {
         "latitude": 41.12777777777778,
         "longitude": 118.08111111111111,
         "name": "承德普宁机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "CDG": {
         "IATA": "CDG",
@@ -11824,7 +11824,7 @@ let airports = {
         "latitude": 23.2675,
         "longitude": 99.36555555555555,
         "name": "沧源佤山机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "CWL": {
         "IATA": "CWL",
@@ -13963,7 +13963,7 @@ let airports = {
         "latitude": 48.447222222222216,
         "longitude": 126.13138888888888,
         "name": "五大连池德都机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "DTW": {
         "IATA": "DTW",
@@ -15620,7 +15620,7 @@ let airports = {
         "latitude": 43.42583333333333,
         "longitude": 112.09722222222221,
         "name": "二连浩特赛乌苏国际机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "ERM": {
         "IATA": "ERM",
@@ -17739,7 +17739,7 @@ let airports = {
         "latitude": 48.20305555555556,
         "longitude": 134.3752777777778,
         "name": "抚远东极机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "FYN": {
         "IATA": "FYN",
@@ -17750,7 +17750,7 @@ let airports = {
         "latitude": 46.808611111111105,
         "longitude": 89.5175,
         "name": "富蕴可可托海机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "FYT": {
         "IATA": "FYT",
@@ -20635,7 +20635,7 @@ let airports = {
         "latitude": 24.806944444444444,
         "longitude": 107.71194444444444,
         "name": "河池金城江机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "HCN": {
         "IATA": "HCN",
@@ -21721,7 +21721,7 @@ let airports = {
         "latitude": 26.72111111111111,
         "longitude": 112.61972222222222,
         "name": "衡阳南岳机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "HOA": {
         "IATA": "HOA",
@@ -21963,7 +21963,7 @@ let airports = {
         "latitude": 31.61861111111111,
         "longitude": 110.3436111111111,
         "name": "神农架红坪机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "HPH": {
         "IATA": "HPH",
@@ -22304,7 +22304,7 @@ let airports = {
         "latitude": 38.20333333333333,
         "longitude": 90.84166666666667,
         "name": "茫崖花土沟机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "HTU": {
         "IATA": "HTU",
@@ -22425,7 +22425,7 @@ let airports = {
         "latitude": 45.48583333333333,
         "longitude": 119.41777777777779,
         "name": "霍林郭勒霍林河机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "HUQ": {
         "IATA": "HUQ",
@@ -22645,7 +22645,7 @@ let airports = {
         "latitude": 37.12861111111111,
         "longitude": 97.26638888888888,
         "name": "德令哈机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "HXX": {
         "IATA": "HXX",
@@ -25501,7 +25501,7 @@ let airports = {
         "latitude": 22.412499999999998,
         "longitude": 99.78972222222222,
         "name": "澜沧景迈机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "JMK": {
         "IATA": "JMK",
@@ -25875,7 +25875,7 @@ let airports = {
         "latitude": 47.10861111111111,
         "longitude": 132.66805555555555,
         "name": "建三江湿地机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "JSM": {
         "IATA": "JSM",
@@ -27397,7 +27397,7 @@ let airports = {
         "latitude": 26.972499999999997,
         "longitude": 107.99083333333333,
         "name": "凯里黄平机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "KJI": {
         "IATA": "KJI",
@@ -30422,7 +30422,7 @@ let airports = {
         "latitude": 36.13027777777778,
         "longitude": 111.63722222222223,
         "name": "临汾乔李机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "LFR": {
         "IATA": "LFR",
@@ -30664,7 +30664,7 @@ let airports = {
         "latitude": 32.389400482177734,
         "longitude": 111.69499969482422,
         "name": "Guangzhou MR Air Base",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "LHR": {
         "IATA": "LHR",
@@ -31071,7 +31071,7 @@ let airports = {
         "latitude": 25.44361111111111,
         "longitude": 107.9675,
         "name": "荔波机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "LLE": {
         "IATA": "LLE",
@@ -31331,7 +31331,7 @@ let airports = {
         "latitude": 33.78611111111111,
         "longitude": 105.78055555555555,
         "name": "陇南成县机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "LNN": {
         "IATA": "LNN",
@@ -31595,7 +31595,7 @@ let airports = {
         "latitude": 26.602500000000003,
         "longitude": 104.97277777777778,
         "name": "六盘水月照机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "LPG": {
         "IATA": "LPG",
@@ -39386,7 +39386,7 @@ let airports = {
         "latitude": 47.870555555555555,
         "longitude": 122.7675,
         "name": "扎兰屯成吉思汗机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "NZY": {
         "IATA": "NZY",
@@ -42133,7 +42133,7 @@ let airports = {
         "altitude": 116,
         "city": "北京",
         "country": "中国",
-        "latitude": 39.511944, 
+        "latitude": 39.511944,
         "longitude": 116.410556,
         "name": "北京大兴国际机场",
         "timezone": "Asia/Shanghai"
@@ -45630,7 +45630,7 @@ let airports = {
         "latitude": 38.25111111111111,
         "longitude": 77.06416666666667,
         "name": "莎车叶尔羌机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "QUG": {
         "IATA": "QUG",
@@ -46693,7 +46693,7 @@ let airports = {
         "latitude": 35.396388888888886,
         "longitude": 119.34638888888888,
         "name": "日照山字河机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "RJA": {
         "IATA": "RJA",
@@ -47598,7 +47598,7 @@ let airports = {
         "latitude": 32.25788497924805,
         "longitude": 120.50165557861328,
         "name": "Rugao Air Base",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "RUH": {
         "IATA": "RUH",
@@ -52041,7 +52041,7 @@ let airports = {
         "latitude": 42.91170120239258,
         "longitude": 90.24749755859375,
         "name": "Shanshan",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "SXK": {
         "IATA": "SXK",
@@ -56202,7 +56202,7 @@ let airports = {
         "latitude": 41.12861111111111,
         "longitude": 113.11749999999999,
         "name": "乌兰察布集宁机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "UCK": {
         "IATA": "UCK",
@@ -59095,7 +59095,7 @@ let airports = {
         "latitude": 32.58722222222222,
         "longitude": 110.91055555555556,
         "name": "十堰武当山机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "WEF": {
         "IATA": "WEF",
@@ -59183,7 +59183,7 @@ let airports = {
         "latitude": 26.796944444444446,
         "longitude": 110.64111111111112,
         "name": "邵阳武冈机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "WGP": {
         "IATA": "WGP",
@@ -59612,7 +59612,7 @@ let airports = {
         "latitude": 27.962777777777777,
         "longitude": 106.44,
         "name": "遵义茅台机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "WMX": {
         "IATA": "WMX",
@@ -60081,7 +60081,7 @@ let airports = {
         "latitude": 38.59916666666667,
         "longitude": 112.96777777777778,
         "name": "忻州五台山机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "WUU": {
         "IATA": "WUU",
@@ -62189,7 +62189,7 @@ let airports = {
         "latitude": 47.31055555555555,
         "longitude": 119.91194444444444,
         "name": "阿尔山伊尔施机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "YIF": {
         "IATA": "YIF",
@@ -62365,7 +62365,7 @@ let airports = {
         "latitude": 40.54333333333333,
         "longitude": 122.35583333333332,
         "name": "营口兰旗机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "YKJ": {
         "IATA": "YKJ",
@@ -63784,7 +63784,7 @@ let airports = {
         "latitude": 44.94027777777777,
         "longitude": 124.55694444444444,
         "name": "松原查干湖机场",
-        "timezone": "\\N"
+        "timezone": "Asia/Shanghai"
     },
     "YSR": {
         "IATA": "YSR",
