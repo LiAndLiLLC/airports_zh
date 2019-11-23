@@ -730,10 +730,12 @@ const airports = {
         "ICAO": "YPAD",
         "altitude": 20,
         "city": "阿德莱德",
-        "country": "澳洲",
+        "city_en": "Adelaide",
+        "country": "AU",
         "latitude": -34.945,
-        "longitude": 138.531006,
+        "longitude": 138.530502,
         "name": "阿德莱德",
+        "name_en": "Adelaide Airport",
         "timezone": "Australia/Adelaide"
     },
     "ADM": {
@@ -1774,11 +1776,13 @@ const airports = {
         "ICAO": "UAAA",
         "altitude": 2234,
         "city": "Alma-ata",
-        "country": "哈萨克斯坦",
-        "latitude": 43.35210037231445,
-        "longitude": 77.04049682617188,
+        "city_en": "Almaty",
+        "country": "KZ",
+        "latitude": 43.35207,
+        "longitude": 77.040497,
         "name": "Almaty",
-        "timezone": "Asia/Qyzylorda"
+        "name_en": "Almaty International Airport",
+        "timezone": "Asia/Almaty"
     },
     "ALB": {
         "IATA": "ALB",
@@ -2638,10 +2642,12 @@ const airports = {
         "ICAO": "ZSAQ",
         "altitude": 0,
         "city": "安庆",
+        "city_en": "Anqing",
         "country": "CN",
-        "latitude": 30.583055555555557,
-        "longitude": 117.0525,
+        "latitude": 30.582222,
+        "longitude": 117.050278,
         "name": "安庆天柱山机场",
+        "name_en": "Anqing Tianzhushan Airport",
         "timezone": "Asia/Shanghai"
     },
     "AQI": {
@@ -3932,10 +3938,12 @@ const airports = {
         "ICAO": "ZJQH",
         "altitude": 30,
         "city": "琼海",
+        "city_en": "Qionghai",
         "country": "CN",
-        "latitude": 19.139166666666664,
-        "longitude": 110.46361111111112,
+        "latitude": 19.13969,
+        "longitude": 110.455772,
         "name": "琼海博鳌机场",
+        "name_en": "Qionghai Bo'ao Airport",
         "timezone": "Asia/Shanghai"
     },
     "BAS": {
@@ -8452,10 +8460,12 @@ const airports = {
         "ICAO": "ZGGG",
         "altitude": 50,
         "city": "广州",
+        "city_en": "Guangzhou",
         "country": "CN",
-        "latitude": 23.3925,
-        "longitude": 113.29888888888888,
+        "latitude": 23.392429,
+        "longitude": 113.298698,
         "name": "广州白云国际机场",
+        "name_en": "Guangzhou Baiyun International Airport",
         "timezone": "Asia/Shanghai"
     },
     "CAP": {
@@ -12375,10 +12385,12 @@ const airports = {
         "ICAO": "ZBDT",
         "altitude": 3442,
         "city": "大同",
+        "city_en": "Datong",
         "country": "CN",
-        "latitude": 40.05611111111111,
-        "longitude": 113.48027777777779,
+        "latitude": 40.055538,
+        "longitude": 113.481361,
         "name": "大同云冈机场",
+        "name_en": "Datong Yungang Airport",
         "timezone": "Asia/Shanghai"
     },
     "DAU": {
@@ -13658,10 +13670,12 @@ const airports = {
         "ICAO": "ZSDY",
         "altitude": 18,
         "city": "东营",
+        "city_en": "Dongying",
         "country": "CN",
-        "latitude": 37.50555555555555,
-        "longitude": 118.78944444444444,
+        "latitude": 37.510277,
+        "longitude": 118.784447,
         "name": "东营胜利机场",
+        "name_en": "Dongying Shengli Airport",
         "timezone": "Asia/Shanghai"
     },
     "DPA": {
@@ -15421,10 +15435,12 @@ const airports = {
         "ICAO": "ZHES",
         "altitude": 1605,
         "city": "恩施",
+        "city_en": "Enshi",
         "country": "CN",
-        "latitude": 30.320555555555554,
-        "longitude": 109.48722222222223,
+        "latitude": 30.320278,
+        "longitude": 109.485001,
         "name": "恩施许家坪机场",
+        "name_en": "Enshi Xujiaping Airport",
         "timezone": "Asia/Shanghai"
     },
     "ENK": {
@@ -16545,10 +16561,12 @@ const airports = {
         "ICAO": "LIRF",
         "altitude": 13,
         "city": "罗马",
-        "country": "意大利",
-        "latitude": 41.8002778,
-        "longitude": 12.2388889,
+        "city_en": "Rome",
+        "country": "IT",
+        "latitude": 41.80447,
+        "longitude": 12.25079,
         "name": "Leonardo da Vinci–Fiumicino",
+        "name_en": "Rome Leonardo da Vinci Fiumicino Airport",
         "timezone": "Europe/Rome"
     },
     "FCS": {
@@ -17775,11 +17793,16 @@ const airports = {
         "timezone": "Pacific/Funafuti"
     },
     "FUO": {
+        "IATA": "FUO",
         "ICAO": "ZGFS",
         "city": "佛山",
-        "latitude": 23.06833333333333,
-        "longitude": 113.07166666666666,
-        "name": "佛山沙堤机场"
+        "city_en": "Foshan",
+        "country": "CN",
+        "latitude": 23.0825,
+        "longitude": 113.070831,
+        "name": "佛山沙堤机场",
+        "name_en": "Foshan Shadi Airport",
+        "timezone": "Asia/Shanghai"
     },
     "FUT": {
         "IATA": "FUT",
@@ -19106,10 +19129,12 @@ const airports = {
         "ICAO": "RKSS",
         "altitude": 59,
         "city": "首尔",
-        "country": "韩国",
-        "latitude": 37.5583,
-        "longitude": 126.791,
+        "city_en": "Seoul",
+        "country": "KR",
+        "latitude": 37.558311,
+        "longitude": 126.790497,
         "name": "金浦国际机场",
+        "name_en": "Seoul Gimpo International Airport",
         "timezone": "Asia/Seoul"
     },
     "GMQ": {
@@ -21434,10 +21459,12 @@ const airports = {
         "ICAO": "ZGCJ",
         "altitude": 882,
         "city": "怀化",
+        "city_en": "Huaihua",
         "country": "CN",
-        "latitude": 27.440833333333334,
-        "longitude": 109.70527777777778,
+        "latitude": 27.441389,
+        "longitude": 109.699722,
         "name": "怀化芷江机场",
+        "name_en": "Huaihua Zhijiang Airport",
         "timezone": "Asia/Shanghai"
     },
     "HJR": {
@@ -22652,10 +22679,12 @@ const airports = {
         "ICAO": "ZGHZ",
         "altitude": 0,
         "city": "惠州",
+        "city_en": "Huizhou",
         "country": "CN",
-        "latitude": 23.049444444444447,
-        "longitude": 114.60722222222222,
+        "latitude": 23.050419,
+        "longitude": 114.596863,
         "name": "惠州平潭机场",
+        "name_en": "Huizhou Pingtan Airport",
         "timezone": "Asia/Shanghai"
     },
     "HVA": {
@@ -29368,11 +29397,13 @@ const airports = {
         "ICAO": "ZGKL",
         "altitude": 570,
         "city": "桂林",
+        "city_en": "Guilin",
         "country": "CN",
-        "latitude": 25.215,
-        "longitude": 110.05138888888888,
+        "latitude": 25.2181,
+        "longitude": 110.039101,
         "name": "桂林两江国际机场",
-        "timezone": "Asia/Shanghai"
+        "name_en": "Guilin Liangjiang International Airport",
+        "timezone": "Asia/Chongqing"
     },
     "KWM": {
         "IATA": "KWM",
@@ -30692,10 +30723,12 @@ const airports = {
         "ICAO": "EBLG",
         "altitude": 659,
         "city": "Liege",
-        "country": "比利时",
-        "latitude": 50.63740158081055,
-        "longitude": 5.443220138549805,
+        "city_en": "Liege",
+        "country": "BE",
+        "latitude": 50.636379,
+        "longitude": 5.442778,
         "name": "Liège",
+        "name_en": "Liege Airport",
         "timezone": "Europe/Brussels"
     },
     "LGH": {
@@ -30725,10 +30758,12 @@ const airports = {
         "ICAO": "WMKL",
         "altitude": 29,
         "city": "兰卡威",
-        "country": "马来西亚",
-        "latitude": 6.329730033874512,
-        "longitude": 99.72869873046875,
+        "city_en": "Langkawi",
+        "country": "MY",
+        "latitude": 6.329728,
+        "longitude": 99.728661,
         "name": "Langkawi",
+        "name_en": "Langkawi International Airport",
         "timezone": "Asia/Kuala_Lumpur"
     },
     "LGL": {
@@ -32715,10 +32750,12 @@ const airports = {
         "ICAO": "ZULS",
         "altitude": 11713,
         "city": "拉萨",
+        "city_en": "Lhasa",
         "country": "CN",
-        "latitude": 29.297777777777778,
-        "longitude": 90.91194444444444,
+        "latitude": 29.29777,
+        "longitude": 90.911942,
         "name": "拉萨贡嘎机场",
+        "name_en": "Lhasa Gonggar Airport",
         "timezone": "Asia/Shanghai"
     },
     "LXG": {
@@ -32941,11 +32978,13 @@ const airports = {
         "ICAO": "ZGZH",
         "altitude": 295,
         "city": "柳州",
+        "city_en": "Liuzhou",
         "country": "CN",
-        "latitude": 24.202777777777776,
-        "longitude": 109.40305555555557,
+        "latitude": 24.2075,
+        "longitude": 109.391098,
         "name": "柳州白莲机场",
-        "timezone": "Asia/Shanghai"
+        "name_en": "Liuzhou Bailian Airport",
+        "timezone": "Asia/Chongqing"
     },
     "LZN": {
         "IATA": "LZN",
@@ -34071,10 +34110,12 @@ const airports = {
         "ICAO": "VMMC",
         "altitude": 20,
         "city": "澳门",
-        "country": "CN澳门",
-        "latitude": 22.149444444444445,
-        "longitude": 113.59166666666667,
+        "city_en": "Macau",
+        "country": "MO",
+        "latitude": 22.149549,
+        "longitude": 113.591499,
         "name": "澳门国际机场",
+        "name_en": "Macau International Airport",
         "timezone": "Asia/Macau"
     },
     "MFN": {
@@ -37588,10 +37629,12 @@ const airports = {
         "ICAO": "HKJK",
         "altitude": 5330,
         "city": "内罗毕",
-        "country": "肯尼亚",
-        "latitude": -1.31923997402,
-        "longitude": 36.9277992249,
+        "city_en": "Nairobi",
+        "country": "KE",
+        "latitude": -1.31924,
+        "longitude": 36.927769,
         "name": "Jomo 肯尼亚tta",
+        "name_en": "Nairobi Jomo Kenyatta International Airport",
         "timezone": "Africa/Nairobi"
     },
     "NBS": {
@@ -49231,10 +49274,12 @@ const airports = {
         "ICAO": "KSFO",
         "altitude": 13,
         "city": "旧金山",
+        "city_en": "San Francisco",
         "country": "US",
-        "latitude": 37.61899948120117,
-        "longitude": -122.375,
+        "latitude": 37.618969,
+        "longitude": -122.374001,
         "name": "San Francisco",
+        "name_en": "San Francisco International Airport",
         "timezone": "America/Los_Angeles"
     },
     "SFQ": {
@@ -51030,10 +51075,12 @@ const airports = {
         "ICAO": "PGSN",
         "altitude": 215,
         "city": "塞班",
-        "country": "北马里亚纳群岛",
+        "city_en": "Saipan",
+        "country": "MP",
         "latitude": 15.119,
-        "longitude": 145.729004,
+        "longitude": 145.729294,
         "name": "塞班",
+        "name_en": "Saipan International Airport",
         "timezone": "Pacific/Saipan"
     },
     "SPP": {
@@ -52731,10 +52778,12 @@ const airports = {
         "ICAO": "ZGSZ",
         "altitude": 13,
         "city": "深圳",
+        "city_en": "Shenzhen",
         "country": "CN",
-        "latitude": 22.62611111111111,
-        "longitude": 113.8125,
+        "latitude": 22.63925,
+        "longitude": 113.8106,
         "name": "深圳宝安国际机场",
+        "name_en": "Shenzhen Bao'an International Airport",
         "timezone": "Asia/Shanghai"
     },
     "SZY": {
@@ -55507,10 +55556,12 @@ const airports = {
         "ICAO": "RCSS",
         "altitude": 18,
         "city": "台北",
+        "city_en": "Taipei",
         "country": "TW",
-        "latitude": 25.069400787353516,
-        "longitude": 121.552001953125,
+        "latitude": 25.069719,
+        "longitude": 121.552498,
         "name": "台北松山国际机场",
+        "name_en": "Taipei Songshan Airport",
         "timezone": "Asia/Taipei"
     },
     "TSB": {
@@ -59390,10 +59441,12 @@ const airports = {
         "ICAO": "ZHSY",
         "altitude": 0,
         "city": "十堰",
+        "city_en": "Shiyan",
         "country": "CN",
-        "latitude": 32.58722222222222,
-        "longitude": 110.91055555555556,
+        "latitude": 32.591667,
+        "longitude": 110.907776,
         "name": "十堰武当山机场",
+        "name_en": "Shiyan Wudangshan Airport",
         "timezone": "Asia/Shanghai"
     },
     "WEF": {
@@ -60609,11 +60662,16 @@ const airports = {
         "timezone": "Europe/Paris"
     },
     "XAI": {
+        "IATA": "XAI",
         "ICAO": "ZHXY",
         "city": "信阳",
-        "latitude": 32.32194444444445,
-        "longitude": 114.04388888888889,
-        "name": "信阳明港机场"
+        "city_en": "Xinyang",
+        "country": "CN",
+        "latitude": 32.541389,
+        "longitude": 114.077782,
+        "name": "信阳明港机场",
+        "name_en": "Xinyang Minggang Airport",
+        "timezone": "Asia/Shanghai"
     },
     "XAP": {
         "IATA": "XAP",
@@ -60956,11 +61014,13 @@ const airports = {
         "ICAO": "ZLXN",
         "altitude": 7119,
         "city": "西宁",
+        "city_en": "Xining",
         "country": "CN",
-        "latitude": 36.52833333333333,
-        "longitude": 102.04694444444445,
+        "latitude": 36.525322,
+        "longitude": 102.037537,
         "name": "西宁曹家堡国际机场",
-        "timezone": "Asia/Shanghai"
+        "name_en": "Xining Caojiabao Airport",
+        "timezone": "Asia/Chongqing"
     },
     "XOG": {
         "IATA": "XOG",
@@ -64875,11 +64935,16 @@ const airports = {
         "timezone": "America/Toronto"
     },
     "YYA": {
+        "IATA": "YYA",
         "ICAO": "ZGYY",
         "city": "岳阳",
-        "latitude": 29.31361111111111,
-        "longitude": 113.27777777777777,
-        "name": "岳阳三荷机场"
+        "city_en": "Yueyang",
+        "country": "CN",
+        "latitude": 29.312778,
+        "longitude": 113.28167,
+        "name": "岳阳三荷机场",
+        "name_en": "Yueyang Sanhe Airport",
+        "timezone": "Asia/Shanghai"
     },
     "YYB": {
         "IATA": "YYB",
@@ -65787,7 +65852,7 @@ const airports = {
         "country": "德国",
         "latitude": 52.073612,
         "longitude": 11.626389,
-        "name": "Magdeburg \"City\"",
+        "name": "Magdeburg City",
         "timezone": "Europe/Berlin"
     },
     "ZMH": {
@@ -65956,12 +66021,16 @@ const airports = {
         "timezone": "Europe/Berlin"
     },
     "ZQZ": {
+        "IATA": "ZQZ",
         "ICAO": "ZBZJ",
         "city": "张家口",
+        "city_en": "Zhangjiakou",
         "country": "CN",
-        "latitude": 40.73916666666667,
-        "longitude": 114.93083333333334,
-        "name": "张家口宁远机场"
+        "latitude": 40.739227,
+        "longitude": 114.931458,
+        "name": "张家口宁远机场",
+        "name_en": "Zhangjiakou Ningyuan Airport",
+        "timezone": "Asia/Shanghai"
     },
     "ZRH": {
         "IATA": "ZRH",
@@ -66122,10 +66191,12 @@ const airports = {
         "ICAO": "ZGSD",
         "altitude": 23,
         "city": "珠海",
+        "city_en": "Zhuhai",
         "country": "CN",
-        "latitude": 22.00888888888889,
-        "longitude": 113.37694444444443,
+        "latitude": 22.00666,
+        "longitude": 113.376297,
         "name": "珠海金湾机场",
+        "name_en": "Zhuhai Jinwan Airport",
         "timezone": "Asia/Shanghai"
     },
     "ZUM": {
