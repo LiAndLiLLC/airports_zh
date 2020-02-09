@@ -1,0 +1,1782 @@
+{
+  "AC": {
+    "flag": "🇦🇨",
+    "name": {
+      "en": "Ascension Island"
+    }
+  },
+  "AD": {
+    "flag": "🇦🇩",
+    "name": {
+      "en": "Andorra"
+    }
+  },
+  "AE": {
+    "flag": "🇦🇪",
+    "name": {
+      "en": "United Arab Emirates",
+      "zh-Hans": "阿联酋"
+    }
+  },
+  "AF": {
+    "flag": "🇦🇫",
+    "name": {
+      "en": "Afghanistan",
+      "zh-Hans": "阿富汗"
+    }
+  },
+  "AG": {
+    "flag": "🇦🇬",
+    "name": {
+      "en": "Antigua & Barbuda",
+      "zh-Hans": "安提瓜和巴布达"
+    }
+  },
+  "AI": {
+    "flag": "🇦🇮",
+    "name": {
+      "en": "Anguilla",
+      "zh-Hans": "安圭拉"
+    }
+  },
+  "AL": {
+    "flag": "🇦🇱",
+    "name": {
+      "en": "Albania",
+      "zh-Hans": "阿尔巴尼亚"
+    }
+  },
+  "AM": {
+    "flag": "🇦🇲",
+    "name": {
+      "en": "Armenia",
+      "zh-Hans": "亚美尼亚"
+    }
+  },
+  "AO": {
+    "flag": "🇦🇴",
+    "name": {
+      "en": "Angola",
+      "zh-Hans": "安哥拉"
+    }
+  },
+  "AQ": {
+    "flag": "🇦🇶",
+    "name": {
+      "en": "Antarctica",
+      "zh-Hans": "南极洲"
+    }
+  },
+  "AR": {
+    "flag": "🇦🇷",
+    "name": {
+      "en": "Argentina",
+      "zh-Hans": "阿根廷"
+    }
+  },
+  "AS": {
+    "flag": "🇦🇸",
+    "name": {
+      "en": "American Samoa",
+      "zh-Hans": "美属萨摩亚"
+    }
+  },
+  "AT": {
+    "flag": "🇪🇺🇦🇹",
+    "name": {
+      "en": "Austria",
+      "zh-Hans": "奥地利"
+    }
+  },
+  "AU": {
+    "flag": "🇦🇺",
+    "name": {
+      "en": "Australia",
+      "zh-Hans": "澳大利亚"
+    }
+  },
+  "AW": {
+    "flag": "🇦🇼",
+    "name": {
+      "en": "Aruba",
+      "zh-Hans": "阿鲁巴"
+    }
+  },
+  "AX": {
+    "flag": "🇦🇽",
+    "name": {
+      "en": "Åland Islands"
+    }
+  },
+  "AZ": {
+    "flag": "🇦🇿",
+    "name": {
+      "en": "Azerbaijan",
+      "zh-Hans": "阿塞拜疆"
+    }
+  },
+  "BA": {
+    "flag": "🇧🇦",
+    "name": {
+      "en": "Bosnia & Herzegovina",
+      "zh-Hans": "波黑"
+    }
+  },
+  "BB": {
+    "flag": "🇧🇧",
+    "name": {
+      "en": "Barbados",
+      "zh-Hans": "巴巴多斯"
+    }
+  },
+  "BD": {
+    "flag": "🇧🇩",
+    "name": {
+      "en": "Bangladesh",
+      "zh-Hans": "孟加拉国"
+    }
+  },
+  "BE": {
+    "flag": "🇪🇺🇧🇪",
+    "name": {
+      "en": "Belgium",
+      "zh-Hans": "比利时"
+    }
+  },
+  "BF": {
+    "flag": "🇧🇫",
+    "name": {
+      "en": "Burkina Faso",
+      "zh-Hans": "布基纳法索"
+    }
+  },
+  "BG": {
+    "flag": "🇧🇬",
+    "name": {
+      "en": "Bulgaria",
+      "zh-Hans": "保加利亚"
+    }
+  },
+  "BH": {
+    "flag": "🇧🇭",
+    "name": {
+      "en": "Bahrain",
+      "zh-Hans": "巴林"
+    }
+  },
+  "BI": {
+    "flag": "🇧🇮",
+    "name": {
+      "en": "Burundi",
+      "zh-Hans": "布隆迪"
+    }
+  },
+  "BJ": {
+    "flag": "🇧🇯",
+    "name": {
+      "en": "Benin",
+      "zh-Hans": "贝宁"
+    }
+  },
+  "BL": {
+    "flag": "🇧🇱",
+    "name": {
+      "en": "St. Barthélemy"
+    }
+  },
+  "BM": {
+    "flag": "🇧🇲",
+    "name": {
+      "en": "Bermuda",
+      "zh-Hans": "百慕大"
+    }
+  },
+  "BN": {
+    "flag": "🇧🇳",
+    "name": {
+      "en": "Brunei",
+      "zh-Hans": "文莱"
+    }
+  },
+  "BO": {
+    "flag": "🇧🇴",
+    "name": {
+      "en": "Bolivia",
+      "zh-Hans": "玻利维亚"
+    }
+  },
+  "BQ": {
+    "flag": "🇧🇶",
+    "name": {
+      "en": "Caribbean Netherlands"
+    }
+  },
+  "BR": {
+    "flag": "🇧🇷",
+    "name": {
+      "en": "Brazil",
+      "zh-Hans": "巴西"
+    }
+  },
+  "BS": {
+    "flag": "🇧🇸",
+    "name": {
+      "en": "Bahamas",
+      "zh-Hans": "巴哈马"
+    }
+  },
+  "BT": {
+    "flag": "🇧🇹",
+    "name": {
+      "en": "Bhutan",
+      "zh-Hans": "不丹"
+    }
+  },
+  "BV": {
+    "flag": "🇧🇻",
+    "name": {
+      "en": "Bouvet Island"
+    }
+  },
+  "BW": {
+    "flag": "🇧🇼",
+    "name": {
+      "en": "Botswana",
+      "zh-Hans": "博茨瓦纳"
+    }
+  },
+  "BY": {
+    "flag": "🇧🇾",
+    "name": {
+      "en": "Belarus",
+      "zh-Hans": "白俄罗斯"
+    }
+  },
+  "BZ": {
+    "flag": "🇧🇿",
+    "name": {
+      "en": "Belize",
+      "zh-Hans": "伯利兹"
+    }
+  },
+  "CA": {
+    "flag": "🇨🇦",
+    "name": {
+      "en": "Canada",
+      "zh-Hans": "加拿大"
+    }
+  },
+  "CC": {
+    "flag": "🇨🇨",
+    "name": {
+      "en": "Cocos (Keeling) Islands",
+      "zh-Hans": "科科斯（基林）群岛"
+    }
+  },
+  "CD": {
+    "flag": "🇨🇩",
+    "name": {
+      "en": "Congo - Kinshasa",
+      "zh-Hans": "刚果（金）"
+    }
+  },
+  "CF": {
+    "flag": "🇨🇫",
+    "name": {
+      "en": "Central African Republic",
+      "zh-Hans": "中非共和国"
+    }
+  },
+  "CG": {
+    "flag": "🇨🇬",
+    "name": {
+      "en": "Congo - Brazzaville",
+      "zh-Hans": "刚果（布）"
+    }
+  },
+  "CH": {
+    "flag": "🇨🇭",
+    "name": {
+      "en": "Switzerland",
+      "zh-Hans": "瑞士"
+    }
+  },
+  "CI": {
+    "flag": "🇨🇮",
+    "name": {
+      "en": "Côte d'Ivoire",
+      "zh-Hans": "科特迪瓦"
+    }
+  },
+  "CK": {
+    "flag": "🇨🇰",
+    "name": {
+      "en": "Cook Islands",
+      "zh-Hans": "库克群岛"
+    }
+  },
+  "CL": {
+    "flag": "🇨🇱",
+    "name": {
+      "en": "Chile",
+      "zh-Hans": "智利"
+    }
+  },
+  "CM": {
+    "flag": "🇨🇲",
+    "name": {
+      "en": "Cameroon",
+      "zh-Hans": "喀麦隆"
+    }
+  },
+  "CN": {
+    "flag": "🇨🇳",
+    "name": {
+      "en": "China",
+      "zh-Hans": "中国"
+    }
+  },
+  "CO": {
+    "flag": "🇨🇴",
+    "name": {
+      "en": "Colombia",
+      "zh-Hans": "哥伦比亚"
+    }
+  },
+  "CP": {
+    "flag": "🇨🇵",
+    "name": {
+      "en": "Clipperton Island"
+    }
+  },
+  "CR": {
+    "flag": "🇨🇷",
+    "name": {
+      "en": "Costa Rica",
+      "zh-Hans": "哥斯达黎加"
+    }
+  },
+  "CU": {
+    "flag": "🇨🇺",
+    "name": {
+      "en": "Cuba",
+      "zh-Hans": "古巴"
+    }
+  },
+  "CV": {
+    "flag": "🇨🇻",
+    "name": {
+      "en": "Cape Verde",
+      "zh-Hans": "佛得角"
+    }
+  },
+  "CW": {
+    "flag": "🇨🇼",
+    "name": {
+      "en": "Curaçao",
+      "zh-Hans": "库拉索"
+    }
+  },
+  "CX": {
+    "flag": "🇨🇽",
+    "name": {
+      "en": "Christmas Island",
+      "zh-Hans": "圣诞岛"
+    }
+  },
+  "CY": {
+    "flag": "🇨🇾",
+    "name": {
+      "en": "Cyprus",
+      "zh-Hans": "塞浦路斯"
+    }
+  },
+  "CZ": {
+    "flag": "🇪🇺🇨🇿",
+    "name": {
+      "en": "Czechia",
+      "zh-Hans": "捷克"
+    }
+  },
+  "DE": {
+    "flag": "🇪🇺🇩🇪",
+    "name": {
+      "en": "Germany",
+      "zh-Hans": "德国"
+    }
+  },
+  "DG": {
+    "flag": "🇩🇬",
+    "name": {
+      "en": "Diego Garcia"
+    }
+  },
+  "DJ": {
+    "flag": "🇩🇯",
+    "name": {
+      "en": "Djibouti",
+      "zh-Hans": "吉布提"
+    }
+  },
+  "DK": {
+    "flag": "🇪🇺🇩🇰",
+    "name": {
+      "en": "Denmark",
+      "zh-Hans": "丹麦"
+    }
+  },
+  "DM": {
+    "flag": "🇩🇲",
+    "name": {
+      "en": "Dominica",
+      "zh-Hans": "多米尼克"
+    }
+  },
+  "DO": {
+    "flag": "🇩🇴",
+    "name": {
+      "en": "Dominican Republic",
+      "zh-Hans": "多米尼加"
+    }
+  },
+  "DZ": {
+    "flag": "🇩🇿",
+    "name": {
+      "en": "Algeria",
+      "zh-Hans": "阿尔及利亚"
+    }
+  },
+  "EA": {
+    "flag": "🇪🇦",
+    "name": {
+      "en": "Ceuta & Melilla"
+    }
+  },
+  "EC": {
+    "flag": "🇪🇨",
+    "name": {
+      "en": "Ecuador",
+      "zh-Hans": "厄瓜多尔"
+    }
+  },
+  "EE": {
+    "flag": "🇪🇺🇪🇪",
+    "name": {
+      "en": "Estonia",
+      "zh-Hans": "爱沙尼亚"
+    }
+  },
+  "EG": {
+    "flag": "🇪🇬",
+    "name": {
+      "en": "Egypt",
+      "zh-Hans": "埃及"
+    }
+  },
+  "EH": {
+    "flag": "🇪🇭",
+    "name": {
+      "en": "Western Sahara",
+      "zh-Hans": "西撒哈拉"
+    }
+  },
+  "ER": {
+    "flag": "🇪🇷",
+    "name": {
+      "en": "Eritrea",
+      "zh-Hans": "厄立特里亚"
+    }
+  },
+  "ES": {
+    "flag": "🇪🇺🇪🇸",
+    "name": {
+      "en": "Spain",
+      "zh-Hans": "西班牙"
+    }
+  },
+  "ET": {
+    "flag": "🇪🇹",
+    "name": {
+      "en": "Ethiopia",
+      "zh-Hans": "埃塞俄比亚"
+    }
+  },
+  "EU": {
+    "flag": "🇪🇺",
+    "name": {
+      "en": "European Union"
+    }
+  },
+  "FI": {
+    "flag": "🇪🇺🇫🇮",
+    "name": {
+      "en": "Finland",
+      "zh-Hans": "芬兰"
+    }
+  },
+  "FJ": {
+    "flag": "🇫🇯",
+    "name": {
+      "en": "Fiji",
+      "zh-Hans": "斐济"
+    }
+  },
+  "FK": {
+    "flag": "🇫🇰",
+    "name": {
+      "en": "Falkland Islands",
+      "zh-Hans": "福克兰群岛"
+    }
+  },
+  "FM": {
+    "flag": "🇫🇲",
+    "name": {
+      "en": "Micronesia",
+      "zh-Hans": "密克罗尼西亚联邦"
+    }
+  },
+  "FO": {
+    "flag": "🇫🇴",
+    "name": {
+      "en": "Faroe Islands",
+      "zh-Hans": "法罗群岛"
+    }
+  },
+  "FR": {
+    "flag": "🇪🇺🇫🇷",
+    "name": {
+      "en": "France",
+      "zh-Hans": "法国"
+    }
+  },
+  "GA": {
+    "flag": "🇬🇦",
+    "name": {
+      "en": "Gabon",
+      "zh-Hans": "加蓬"
+    }
+  },
+  "GB": {
+    "flag": "🇬🇧",
+    "name": {
+      "en": "United Kingdom",
+      "zh-Hans": "英国"
+    }
+  },
+  "GD": {
+    "flag": "🇬🇩",
+    "name": {
+      "en": "Grenada",
+      "zh-Hans": "格林纳达"
+    }
+  },
+  "GE": {
+    "flag": "🇬🇪",
+    "name": {
+      "en": "Georgia",
+      "zh-Hans": "格鲁吉亚"
+    }
+  },
+  "GF": {
+    "flag": "🇬🇫",
+    "name": {
+      "en": "French Guiana",
+      "zh-Hans": "法属圭亚那"
+    }
+  },
+  "GG": {
+    "flag": "🇬🇬",
+    "name": {
+      "en": "Guernsey",
+      "zh-Hans": "根西岛"
+    }
+  },
+  "GH": {
+    "flag": "🇬🇭",
+    "name": {
+      "en": "Ghana",
+      "zh-Hans": "加纳"
+    }
+  },
+  "GI": {
+    "flag": "🇬🇮",
+    "name": {
+      "en": "Gibraltar",
+      "zh-Hans": "直布罗陀"
+    }
+  },
+  "GL": {
+    "flag": "🇬🇱",
+    "name": {
+      "en": "Greenland",
+      "zh-Hans": "格陵兰"
+    }
+  },
+  "GM": {
+    "flag": "🇬🇲",
+    "name": {
+      "en": "Gambia",
+      "zh-Hans": "冈比亚"
+    }
+  },
+  "GN": {
+    "flag": "🇬🇳",
+    "name": {
+      "en": "Guinea",
+      "zh-Hans": "几内亚"
+    }
+  },
+  "GP": {
+    "flag": "🇬🇵",
+    "name": {
+      "en": "Guadeloupe",
+      "zh-Hans": "瓜德罗普"
+    }
+  },
+  "GQ": {
+    "flag": "🇬🇶",
+    "name": {
+      "en": "Equatorial Guinea",
+      "zh-Hans": "赤道几内亚"
+    }
+  },
+  "GR": {
+    "flag": "🇪🇺🇬🇷",
+    "name": {
+      "en": "Greece",
+      "zh-Hans": "希腊"
+    }
+  },
+  "GS": {
+    "flag": "🇬🇸",
+    "name": {
+      "en": "South Georgia & South Sandwich Islands"
+    }
+  },
+  "GT": {
+    "flag": "🇬🇹",
+    "name": {
+      "en": "Guatemala",
+      "zh-Hans": "危地马拉"
+    }
+  },
+  "GU": {
+    "flag": "🇬🇺",
+    "name": {
+      "en": "Guam",
+      "zh-Hans": "关岛"
+    }
+  },
+  "GW": {
+    "flag": "🇬🇼",
+    "name": {
+      "en": "Guinea-Bissau",
+      "zh-Hans": "几内亚比绍"
+    }
+  },
+  "GY": {
+    "flag": "🇬🇾",
+    "name": {
+      "en": "Guyana",
+      "zh-Hans": "圭亚那"
+    }
+  },
+  "HK": {
+    "flag": "🇨🇳",
+    "name": {
+      "en": "China",
+      "zh-Hans": "中国"
+    }
+  },
+  "HM": {
+    "flag": "🇭🇲",
+    "name": {
+      "en": "Heard & McDonald Islands"
+    }
+  },
+  "HN": {
+    "flag": "🇭🇳",
+    "name": {
+      "en": "Honduras",
+      "zh-Hans": "洪都拉斯"
+    }
+  },
+  "HR": {
+    "flag": "🇭🇷",
+    "name": {
+      "en": "Croatia",
+      "zh-Hans": "克罗地亚"
+    }
+  },
+  "HT": {
+    "flag": "🇭🇹",
+    "name": {
+      "en": "Haiti",
+      "zh-Hans": "海地"
+    }
+  },
+  "HU": {
+    "flag": "🇪🇺🇭🇺",
+    "name": {
+      "en": "Hungary",
+      "zh-Hans": "匈牙利"
+    }
+  },
+  "IC": {
+    "flag": "🇮🇨",
+    "name": {
+      "en": "Canary Islands"
+    }
+  },
+  "ID": {
+    "flag": "🇮🇩",
+    "name": {
+      "en": "Indonesia",
+      "zh-Hans": "印尼"
+    }
+  },
+  "IE": {
+    "flag": "🇮🇪",
+    "name": {
+      "en": "Ireland",
+      "zh-Hans": "爱尔兰"
+    }
+  },
+  "IL": {
+    "flag": "🇮🇱",
+    "name": {
+      "en": "Israel",
+      "zh-Hans": "以色列"
+    }
+  },
+  "IM": {
+    "flag": "🇮🇲",
+    "name": {
+      "en": "Isle of Man",
+      "zh-Hans": "马恩岛"
+    }
+  },
+  "IN": {
+    "flag": "🇮🇳",
+    "name": {
+      "en": "India",
+      "zh-Hans": "印度"
+    }
+  },
+  "IO": {
+    "flag": "🇮🇴",
+    "name": {
+      "en": "British Indian Ocean Territory",
+      "zh-Hans": "英属印度洋领地"
+    }
+  },
+  "IQ": {
+    "flag": "🇮🇶",
+    "name": {
+      "en": "Iraq",
+      "zh-Hans": "伊拉克"
+    }
+  },
+  "IR": {
+    "flag": "🇮🇷",
+    "name": {
+      "en": "Iran",
+      "zh-Hans": "伊朗"
+    }
+  },
+  "IS": {
+    "flag": "🇪🇺🇮🇸",
+    "name": {
+      "en": "Iceland",
+      "zh-Hans": "冰岛"
+    }
+  },
+  "IT": {
+    "flag": "🇪🇺🇮🇹",
+    "name": {
+      "en": "Italy",
+      "zh-Hans": "意大利"
+    }
+  },
+  "JE": {
+    "flag": "🇯🇪",
+    "name": {
+      "en": "Jersey",
+      "zh-Hans": "泽西"
+    }
+  },
+  "JM": {
+    "flag": "🇯🇲",
+    "name": {
+      "en": "Jamaica",
+      "zh-Hans": "牙买加"
+    }
+  },
+  "JO": {
+    "flag": "🇯🇴",
+    "name": {
+      "en": "Jordan",
+      "zh-Hans": "约旦"
+    }
+  },
+  "JP": {
+    "flag": "🇯🇵",
+    "name": {
+      "en": "Japan",
+      "zh-Hans": "日本"
+    }
+  },
+  "KE": {
+    "flag": "🇰🇪",
+    "name": {
+      "en": "Kenya",
+      "zh-Hans": "肯尼亚"
+    }
+  },
+  "KG": {
+    "flag": "🇰🇬",
+    "name": {
+      "en": "Kyrgyzstan",
+      "zh-Hans": "吉尔吉斯斯坦"
+    }
+  },
+  "KH": {
+    "flag": "🇰🇭",
+    "name": {
+      "en": "Cambodia",
+      "zh-Hans": "柬埔寨"
+    }
+  },
+  "KI": {
+    "flag": "🇰🇮",
+    "name": {
+      "en": "Kiribati",
+      "zh-Hans": "基里巴斯"
+    }
+  },
+  "KM": {
+    "flag": "🇰🇲",
+    "name": {
+      "en": "Comoros",
+      "zh-Hans": "科摩罗"
+    }
+  },
+  "KN": {
+    "flag": "🇰🇳",
+    "name": {
+      "en": "St. Kitts & Nevis",
+      "zh-Hans": "圣基茨和尼维斯"
+    }
+  },
+  "KP": {
+    "flag": "🇰🇵",
+    "name": {
+      "en": "North Korea",
+      "zh-Hans": "朝鲜"
+    }
+  },
+  "KR": {
+    "flag": "🇰🇷",
+    "name": {
+      "en": "South Korea",
+      "zh-Hans": "韩国"
+    }
+  },
+  "KW": {
+    "flag": "🇰🇼",
+    "name": {
+      "en": "Kuwait",
+      "zh-Hans": "科威特"
+    }
+  },
+  "KY": {
+    "flag": "🇰🇾",
+    "name": {
+      "en": "Cayman Islands",
+      "zh-Hans": "开曼群岛"
+    }
+  },
+  "KZ": {
+    "flag": "🇰🇿",
+    "name": {
+      "en": "Kazakhstan",
+      "zh-Hans": "哈萨克斯坦"
+    }
+  },
+  "LA": {
+    "flag": "🇱🇦",
+    "name": {
+      "en": "Laos",
+      "zh-Hans": "老挝"
+    }
+  },
+  "LB": {
+    "flag": "🇱🇧",
+    "name": {
+      "en": "Lebanon",
+      "zh-Hans": "黎巴嫩"
+    }
+  },
+  "LC": {
+    "flag": "🇱🇨",
+    "name": {
+      "en": "St. Lucia",
+      "zh-Hans": "圣卢西亚"
+    }
+  },
+  "LI": {
+    "flag": "🇪🇺🇱🇮",
+    "name": {
+      "en": "Liechtenstein"
+    }
+  },
+  "LK": {
+    "flag": "🇱🇰",
+    "name": {
+      "en": "Sri Lanka",
+      "zh-Hans": "斯里兰卡"
+    }
+  },
+  "LR": {
+    "flag": "🇱🇷",
+    "name": {
+      "en": "Liberia",
+      "zh-Hans": "利比里亚"
+    }
+  },
+  "LS": {
+    "flag": "🇱🇸",
+    "name": {
+      "en": "Lesotho",
+      "zh-Hans": "莱索托"
+    }
+  },
+  "LT": {
+    "flag": "🇪🇺🇱🇹",
+    "name": {
+      "en": "Lithuania",
+      "zh-Hans": "立陶宛"
+    }
+  },
+  "LU": {
+    "flag": "🇪🇺🇱🇺",
+    "name": {
+      "en": "Luxembourg",
+      "zh-Hans": "卢森堡"
+    }
+  },
+  "LV": {
+    "flag": "🇪🇺🇱🇻",
+    "name": {
+      "en": "Latvia",
+      "zh-Hans": "拉脱维亚"
+    }
+  },
+  "LY": {
+    "flag": "🇱🇾",
+    "name": {
+      "en": "Libya",
+      "zh-Hans": "利比亚"
+    }
+  },
+  "MA": {
+    "flag": "🇲🇦",
+    "name": {
+      "en": "Morocco",
+      "zh-Hans": "摩洛哥"
+    }
+  },
+  "MC": {
+    "flag": "🇲🇨",
+    "name": {
+      "en": "Monaco"
+    }
+  },
+  "MD": {
+    "flag": "🇲🇩",
+    "name": {
+      "en": "Moldova",
+      "zh-Hans": "摩尔多瓦"
+    }
+  },
+  "ME": {
+    "flag": "🇲🇪",
+    "name": {
+      "en": "Montenegro",
+      "zh-Hans": "黑山"
+    }
+  },
+  "MF": {
+    "flag": "🇲🇫",
+    "name": {
+      "en": "St. Martin"
+    }
+  },
+  "MG": {
+    "flag": "🇲🇬",
+    "name": {
+      "en": "Madagascar",
+      "zh-Hans": "马达加斯加"
+    }
+  },
+  "MH": {
+    "flag": "🇲🇭",
+    "name": {
+      "en": "Marshall Islands",
+      "zh-Hans": "马绍尔群岛"
+    }
+  },
+  "MK": {
+    "flag": "🇲🇰",
+    "name": {
+      "en": "Macedonia",
+      "zh-Hans": "北马其顿"
+    }
+  },
+  "ML": {
+    "flag": "🇲🇱",
+    "name": {
+      "en": "Mali",
+      "zh-Hans": "马里"
+    }
+  },
+  "MM": {
+    "flag": "🇲🇲",
+    "name": {
+      "en": "Myanmar (Burma)",
+      "zh-Hans": "缅甸"
+    }
+  },
+  "MN": {
+    "flag": "🇲🇳",
+    "name": {
+      "en": "Mongolia",
+      "zh-Hans": "蒙古国"
+    }
+  },
+  "MO": {
+    "flag": "🇨🇳",
+    "name": {
+      "en": "China",
+      "zh-Hans": "中国"
+    }
+  },
+  "MP": {
+    "flag": "🇲🇵",
+    "name": {
+      "en": "Northern Mariana Islands",
+      "zh-Hans": "北马里亚纳群岛"
+    }
+  },
+  "MQ": {
+    "flag": "🇲🇶",
+    "name": {
+      "en": "Martinique",
+      "zh-Hans": "马提尼克"
+    }
+  },
+  "MR": {
+    "flag": "🇲🇷",
+    "name": {
+      "en": "Mauritania",
+      "zh-Hans": "毛里塔尼亚"
+    }
+  },
+  "MS": {
+    "flag": "🇲🇸",
+    "name": {
+      "en": "Montserrat",
+      "zh-Hans": "蒙特塞拉特"
+    }
+  },
+  "MT": {
+    "flag": "🇪🇺🇲🇹",
+    "name": {
+      "en": "Malta",
+      "zh-Hans": "马耳他"
+    }
+  },
+  "MU": {
+    "flag": "🇲🇺",
+    "name": {
+      "en": "Mauritius",
+      "zh-Hans": "毛里求斯"
+    }
+  },
+  "MV": {
+    "flag": "🇲🇻",
+    "name": {
+      "en": "Maldives",
+      "zh-Hans": "马尔代夫"
+    }
+  },
+  "MW": {
+    "flag": "🇲🇼",
+    "name": {
+      "en": "Malawi",
+      "zh-Hans": "马拉维"
+    }
+  },
+  "MX": {
+    "flag": "🇲🇽",
+    "name": {
+      "en": "Mexico",
+      "zh-Hans": "墨西哥"
+    }
+  },
+  "MY": {
+    "flag": "🇲🇾",
+    "name": {
+      "en": "Malaysia",
+      "zh-Hans": "马来西亚"
+    }
+  },
+  "MZ": {
+    "flag": "🇲🇿",
+    "name": {
+      "en": "Mozambique",
+      "zh-Hans": "莫桑比克"
+    }
+  },
+  "NA": {
+    "flag": "🇳🇦",
+    "name": {
+      "en": "Namibia",
+      "zh-Hans": "纳米比亚"
+    }
+  },
+  "NC": {
+    "flag": "🇳🇨",
+    "name": {
+      "en": "New Caledonia",
+      "zh-Hans": "新喀里多尼亚"
+    }
+  },
+  "NE": {
+    "flag": "🇳🇪",
+    "name": {
+      "en": "Niger",
+      "zh-Hans": "尼日尔"
+    }
+  },
+  "NF": {
+    "flag": "🇳🇫",
+    "name": {
+      "en": "Norfolk Island",
+      "zh-Hans": "诺福克岛"
+    }
+  },
+  "NG": {
+    "flag": "🇳🇬",
+    "name": {
+      "en": "Nigeria",
+      "zh-Hans": "尼日利亚"
+    }
+  },
+  "NI": {
+    "flag": "🇳🇮",
+    "name": {
+      "en": "Nicaragua",
+      "zh-Hans": "尼加拉瓜"
+    }
+  },
+  "NL": {
+    "flag": "🇪🇺🇳🇱",
+    "name": {
+      "en": "Netherlands",
+      "zh-Hans": "荷兰"
+    }
+  },
+  "NO": {
+    "flag": "🇳🇴",
+    "name": {
+      "en": "Norway",
+      "zh-Hans": "挪威"
+    }
+  },
+  "NP": {
+    "flag": "🇳🇵",
+    "name": {
+      "en": "Nepal",
+      "zh-Hans": "尼泊尔"
+    }
+  },
+  "NR": {
+    "flag": "🇳🇷",
+    "name": {
+      "en": "Nauru",
+      "zh-Hans": "瑙鲁"
+    }
+  },
+  "NU": {
+    "flag": "🇳🇺",
+    "name": {
+      "en": "Niue",
+      "zh-Hans": "纽埃"
+    }
+  },
+  "NZ": {
+    "flag": "🇳🇿",
+    "name": {
+      "en": "New Zealand",
+      "zh-Hans": "新西兰"
+    }
+  },
+  "OM": {
+    "flag": "🇴🇲",
+    "name": {
+      "en": "Oman",
+      "zh-Hans": "阿曼"
+    }
+  },
+  "PA": {
+    "flag": "🇵🇦",
+    "name": {
+      "en": "Panama",
+      "zh-Hans": "巴拿马"
+    }
+  },
+  "PE": {
+    "flag": "🇵🇪",
+    "name": {
+      "en": "Peru",
+      "zh-Hans": "秘鲁"
+    }
+  },
+  "PF": {
+    "flag": "🇵🇫",
+    "name": {
+      "en": "French Polynesia",
+      "zh-Hans": "法属波利尼西亚"
+    }
+  },
+  "PG": {
+    "flag": "🇵🇬",
+    "name": {
+      "en": "Papua New Guinea",
+      "zh-Hans": "巴布亚新几内亚"
+    }
+  },
+  "PH": {
+    "flag": "🇵🇭",
+    "name": {
+      "en": "Philippines",
+      "zh-Hans": "菲律宾"
+    }
+  },
+  "PK": {
+    "flag": "🇵🇰",
+    "name": {
+      "en": "Pakistan",
+      "zh-Hans": "巴基斯坦"
+    }
+  },
+  "PL": {
+    "flag": "🇵🇱",
+    "name": {
+      "en": "Poland",
+      "zh-Hans": "波兰"
+    }
+  },
+  "PM": {
+    "flag": "🇵🇲",
+    "name": {
+      "en": "St. Pierre & Miquelon",
+      "zh-Hans": "圣皮埃尔和密克隆"
+    }
+  },
+  "PN": {
+    "flag": "🇵🇳",
+    "name": {
+      "en": "Pitcairn Islands"
+    }
+  },
+  "PR": {
+    "flag": "🇵🇷",
+    "name": {
+      "en": "Puerto Rico",
+      "zh-Hans": "波多黎各"
+    }
+  },
+  "PS": {
+    "flag": "🇵🇸",
+    "name": {
+      "en": "Palestinian Territories",
+      "zh-Hans": "巴勒斯坦"
+    }
+  },
+  "PT": {
+    "flag": "🇵🇹",
+    "name": {
+      "en": "Portugal",
+      "zh-Hans": "葡萄牙"
+    }
+  },
+  "PW": {
+    "flag": "🇵🇼",
+    "name": {
+      "en": "Palau",
+      "zh-Hans": "帕劳"
+    }
+  },
+  "PY": {
+    "flag": "🇵🇾",
+    "name": {
+      "en": "Paraguay",
+      "zh-Hans": "巴拉圭"
+    }
+  },
+  "QA": {
+    "flag": "🇶🇦",
+    "name": {
+      "en": "Qatar",
+      "zh-Hans": "卡塔尔"
+    }
+  },
+  "RE": {
+    "flag": "🇷🇪",
+    "name": {
+      "en": "Réunion",
+      "zh-Hans": "留尼汪"
+    }
+  },
+  "RO": {
+    "flag": "🇷🇴",
+    "name": {
+      "en": "Romania",
+      "zh-Hans": "罗马尼亚"
+    }
+  },
+  "RS": {
+    "flag": "🇷🇸",
+    "name": {
+      "en": "Serbia",
+      "zh-Hans": "塞尔维亚"
+    }
+  },
+  "RU": {
+    "flag": "🇷🇺",
+    "name": {
+      "en": "Russia",
+      "zh-Hans": "俄罗斯"
+    }
+  },
+  "RW": {
+    "flag": "🇷🇼",
+    "name": {
+      "en": "Rwanda",
+      "zh-Hans": "卢旺达"
+    }
+  },
+  "SA": {
+    "flag": "🇸🇦",
+    "name": {
+      "en": "Saudi Arabia",
+      "zh-Hans": "沙特阿拉伯"
+    }
+  },
+  "SB": {
+    "flag": "🇸🇧",
+    "name": {
+      "en": "Solomon Islands",
+      "zh-Hans": "所罗门群岛"
+    }
+  },
+  "SC": {
+    "flag": "🇸🇨",
+    "name": {
+      "en": "Seychelles",
+      "zh-Hans": "塞舌尔"
+    }
+  },
+  "SD": {
+    "flag": "🇸🇩",
+    "name": {
+      "en": "Sudan",
+      "zh-Hans": "苏丹"
+    }
+  },
+  "SE": {
+    "flag": "🇸🇪",
+    "name": {
+      "en": "Sweden",
+      "zh-Hans": "瑞典"
+    }
+  },
+  "SG": {
+    "flag": "🇸🇬",
+    "name": {
+      "en": "Singapore",
+      "zh-Hans": "新加坡"
+    }
+  },
+  "SH": {
+    "flag": "🇸🇭",
+    "name": {
+      "en": "St. Helena",
+      "zh-Hans": "圣赫勒拿"
+    }
+  },
+  "SI": {
+    "flag": "🇸🇮",
+    "name": {
+      "en": "Slovenia",
+      "zh-Hans": "斯洛文尼亚"
+    }
+  },
+  "SJ": {
+    "flag": "🇸🇯",
+    "name": {
+      "en": "Svalbard & Jan Mayen"
+    }
+  },
+  "SK": {
+    "flag": "🇸🇰",
+    "name": {
+      "en": "Slovakia",
+      "zh-Hans": "斯洛伐克"
+    }
+  },
+  "SL": {
+    "flag": "🇸🇱",
+    "name": {
+      "en": "Sierra Leone",
+      "zh-Hans": "塞拉利昂"
+    }
+  },
+  "SM": {
+    "flag": "🇸🇲",
+    "name": {
+      "en": "San Marino"
+    }
+  },
+  "SN": {
+    "flag": "🇸🇳",
+    "name": {
+      "en": "Senegal",
+      "zh-Hans": "塞内加尔"
+    }
+  },
+  "SO": {
+    "flag": "🇸🇴",
+    "name": {
+      "en": "Somalia",
+      "zh-Hans": "索马里"
+    }
+  },
+  "SR": {
+    "flag": "🇸🇷",
+    "name": {
+      "en": "Suriname",
+      "zh-Hans": "苏里南"
+    }
+  },
+  "SS": {
+    "flag": "🇸🇸",
+    "name": {
+      "en": "South Sudan",
+      "zh-Hans": "南苏丹"
+    }
+  },
+  "ST": {
+    "flag": "🇸🇹",
+    "name": {
+      "en": "São Tomé & Príncipe",
+      "zh-Hans": "圣多美和普林西比"
+    }
+  },
+  "SV": {
+    "flag": "🇸🇻",
+    "name": {
+      "en": "El Salvador",
+      "zh-Hans": "萨尔瓦多"
+    }
+  },
+  "SX": {
+    "flag": "🇸🇽",
+    "name": {
+      "en": "Sint Maarten"
+    }
+  },
+  "SY": {
+    "flag": "🇸🇾",
+    "name": {
+      "en": "Syria",
+      "zh-Hans": "叙利亚"
+    }
+  },
+  "SZ": {
+    "flag": "🇸🇿",
+    "name": {
+      "en": "Eswatini",
+      "zh-Hans": "斯威士兰"
+    }
+  },
+  "TA": {
+    "flag": "🇹🇦",
+    "name": {
+      "en": "Tristan da Cunha"
+    }
+  },
+  "TC": {
+    "flag": "🇹🇨",
+    "name": {
+      "en": "Turks & Caicos Islands",
+      "zh-Hans": "特克斯和凯科斯群岛"
+    }
+  },
+  "TD": {
+    "flag": "🇹🇩",
+    "name": {
+      "en": "Chad",
+      "zh-Hans": "乍得"
+    }
+  },
+  "TF": {
+    "flag": "🇹🇫",
+    "name": {
+      "en": "French Southern Territories"
+    }
+  },
+  "TG": {
+    "flag": "🇹🇬",
+    "name": {
+      "en": "Togo",
+      "zh-Hans": "多哥"
+    }
+  },
+  "TH": {
+    "flag": "🇹🇭",
+    "name": {
+      "en": "Thailand",
+      "zh-Hans": "泰国"
+    }
+  },
+  "TJ": {
+    "flag": "🇹🇯",
+    "name": {
+      "en": "Tajikistan",
+      "zh-Hans": "塔吉克斯坦"
+    }
+  },
+  "TK": {
+    "flag": "🇹🇰",
+    "name": {
+      "en": "Tokelau"
+    }
+  },
+  "TL": {
+    "flag": "🇹🇱",
+    "name": {
+      "en": "Timor-Leste",
+      "zh-Hans": "东帝汶"
+    }
+  },
+  "TM": {
+    "flag": "🇹🇲",
+    "name": {
+      "en": "Turkmenistan",
+      "zh-Hans": "土库曼斯坦"
+    }
+  },
+  "TN": {
+    "flag": "🇹🇳",
+    "name": {
+      "en": "Tunisia",
+      "zh-Hans": "突尼斯"
+    }
+  },
+  "TO": {
+    "flag": "🇹🇴",
+    "name": {
+      "en": "Tonga",
+      "zh-Hans": "汤加"
+    }
+  },
+  "TR": {
+    "flag": "🇹🇷",
+    "name": {
+      "en": "Turkey",
+      "zh-Hans": "土耳其"
+    }
+  },
+  "TT": {
+    "flag": "🇹🇹",
+    "name": {
+      "en": "Trinidad & Tobago",
+      "zh-Hans": "特立尼达和多巴哥"
+    }
+  },
+  "TV": {
+    "flag": "🇹🇻",
+    "name": {
+      "en": "Tuvalu",
+      "zh-Hans": "图瓦卢"
+    }
+  },
+  "TW": {
+    "flag": "🇨🇳",
+    "name": {
+      "en": "China",
+      "zh-Hans": "中国"
+    }
+  },
+  "TZ": {
+    "flag": "🇹🇿",
+    "name": {
+      "en": "Tanzania",
+      "zh-Hans": "坦桑尼亚"
+    }
+  },
+  "UA": {
+    "flag": "🇺🇦",
+    "name": {
+      "en": "Ukraine",
+      "zh-Hans": "乌克兰"
+    }
+  },
+  "UG": {
+    "flag": "🇺🇬",
+    "name": {
+      "en": "Uganda",
+      "zh-Hans": "乌干达"
+    }
+  },
+  "UM": {
+    "flag": "🇺🇲",
+    "name": {
+      "en": "U.S. Outlying Islands",
+      "zh-Hans": "美国本土外小岛屿"
+    }
+  },
+  "UN": {
+    "flag": "🇺🇳",
+    "name": {
+      "en": "United Nations"
+    }
+  },
+  "US": {
+    "flag": "🇺🇸",
+    "name": {
+      "en": "United States",
+      "zh-Hans": "美国"
+    }
+  },
+  "UY": {
+    "flag": "🇺🇾",
+    "name": {
+      "en": "Uruguay",
+      "zh-Hans": "乌拉圭"
+    }
+  },
+  "UZ": {
+    "flag": "🇺🇿",
+    "name": {
+      "en": "Uzbekistan",
+      "zh-Hans": "乌兹别克斯坦"
+    }
+  },
+  "VA": {
+    "flag": "🇻🇦",
+    "name": {
+      "en": "Vatican City"
+    }
+  },
+  "VC": {
+    "flag": "🇻🇨",
+    "name": {
+      "en": "St. Vincent & Grenadines",
+      "zh-Hans": "圣文森特和格林纳丁斯"
+    }
+  },
+  "VE": {
+    "flag": "🇻🇪",
+    "name": {
+      "en": "Venezuela",
+      "zh-Hans": "委内瑞拉"
+    }
+  },
+  "VG": {
+    "flag": "🇻🇬",
+    "name": {
+      "en": "British Virgin Islands",
+      "zh-Hans": "英属维尔京群岛"
+    }
+  },
+  "VI": {
+    "flag": "🇻🇮",
+    "name": {
+      "en": "U.S. Virgin Islands",
+      "zh-Hans": "美属维尔京群岛"
+    }
+  },
+  "VN": {
+    "flag": "🇻🇳",
+    "name": {
+      "en": "Vietnam",
+      "zh-Hans": "越南"
+    }
+  },
+  "VU": {
+    "flag": "🇻🇺",
+    "name": {
+      "en": "Vanuatu",
+      "zh-Hans": "瓦努阿图"
+    }
+  },
+  "WF": {
+    "flag": "🇼🇫",
+    "name": {
+      "en": "Wallis & Futuna",
+      "zh-Hans": "瓦利斯和富图纳"
+    }
+  },
+  "WS": {
+    "flag": "🇼🇸",
+    "name": {
+      "en": "Samoa",
+      "zh-Hans": "萨摩亚"
+    }
+  },
+  "XK": {
+    "flag": "🇽🇰",
+    "name": {
+      "en": "Kosovo"
+    }
+  },
+  "YE": {
+    "flag": "🇾🇪",
+    "name": {
+      "en": "Yemen",
+      "zh-Hans": "也门"
+    }
+  },
+  "YT": {
+    "flag": "🇾🇹",
+    "name": {
+      "en": "Mayotte",
+      "zh-Hans": "马约特"
+    }
+  },
+  "ZA": {
+    "flag": "🇿🇦",
+    "name": {
+      "en": "South Africa",
+      "zh-Hans": "南非"
+    }
+  },
+  "ZM": {
+    "flag": "🇿🇲",
+    "name": {
+      "en": "Zambia",
+      "zh-Hans": "赞比亚"
+    }
+  },
+  "ZW": {
+    "flag": "🇿🇼",
+    "name": {
+      "en": "Zimbabwe",
+      "zh-Hans": "津巴布韦"
+    }
+  }
+}
