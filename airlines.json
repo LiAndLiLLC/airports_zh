@@ -569,6 +569,9 @@
   "DE": {
     "IATA": "DE",
     "ICAO": "CFG",
+    "aka": {
+      "en": "Condor"
+    },
     "country": "DE",
     "name": {
       "en": "Condor Flugdienst",
@@ -1574,6 +1577,9 @@
   "S4": {
     "IATA": "S4",
     "ICAO": "RZO",
+    "aka": {
+      "en": "Azores Airlines"
+    },
     "country": "PT",
     "name": {
       "en": "Azores Airlines - SATA International",
@@ -1667,6 +1673,9 @@
   "SS": {
     "IATA": "SS",
     "ICAO": "CRL",
+    "aka": {
+      "en": "Corsair"
+    },
     "country": "FR",
     "name": {
       "en": "Corsair International",
