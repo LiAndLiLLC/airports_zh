@@ -1364,6 +1364,9 @@
   "OS": {
     "IATA": "OS",
     "ICAO": "AUA",
+    "aka": {
+      "en": "Austrian"
+    },
     "country": "AT",
     "name": {
       "en": "Austrian Airlines",
