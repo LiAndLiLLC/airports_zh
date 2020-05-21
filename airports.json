@@ -56328,8 +56328,8 @@
     "city": "沈阳",
     "city_en": "Shenyang",
     "country": "CN",
-    "name": "沈阳桃仙",
-    "name_en": "Shenyang Taoxian",
+    "name": "桃仙",
+    "name_en": "Taoxian",
     "position": [
       41.639839,
       123.483398
@@ -56340,8 +56340,10 @@
     "IATA": "SHF",
     "ICAO": "ZWHZ",
     "city": "石河子",
+    "city_en": "Shihezi",
     "country": "CN",
     "name": "花园",
+    "name_en": "Huayuan",
     "position": [
       44.24167,
       85.89111
@@ -63889,6 +63891,20 @@
       151.916
     ],
     "timezone": "Australia/Brisbane"
+  },
+  "TWC": {
+    "IATA": "TWC",
+    "ICAO": "ZWTS",
+    "city": "图木舒克",
+    "city_en": "Tumxuk (Tumushuke)",
+    "country": "CN",
+    "name": "唐王城",
+    "name_en": "Tangwangcheng",
+    "position": [
+      39.880556,
+      78.99
+    ],
+    "timezone": "Asia/Shanghai"
   },
   "TWF": {
     "IATA": "TWF",
