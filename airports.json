@@ -1,4 +1,18 @@
 {
+  "RQA": {
+    "IATA": "RQA",
+    "ICAO": "ZWRQ",
+    "city": "若羌",
+    "city_en": "Ruoqiang",
+    "country": "CN",
+    "name": "楼兰",
+    "name_en": "Loulan",
+    "position": [
+      38.974722,
+      88.008333
+    ],
+    "timezone": "Asia/Shanghai"
+  },
   "AAA": {
     "IATA": "AAA",
     "ICAO": "NTGA",
