@@ -9441,7 +9441,8 @@
     "position": [
       31.738056,
       106.64389
-    ]
+    ],
+    "timezone": "Asia/Chongqing"
   },
   "BZY": {
     "IATA": "BZY",
@@ -23887,8 +23888,8 @@
     "city": "合肥",
     "city_en": "Hefei",
     "country": "CN",
-    "name": "合肥新桥",
-    "name_en": "Hefei Xinqiao",
+    "name": "新桥",
+    "name_en": "Xinqiao",
     "position": [
       31.986345,
       116.970474
@@ -53611,12 +53612,13 @@
     "ICAO": "ZURK",
     "city": "日喀则",
     "city_en": "Shigatse",
-    "name": "日喀则和平",
-    "name_en": "Shigatse Peace",
+    "name": "和平",
+    "name_en": "Heping (Peace)",
     "position": [
       29.351944,
       89.309998
-    ]
+    ],
+    "timezone": "Asia/Shanghai"
   },
   "RLG": {
     "IATA": "RLG",
@@ -58216,12 +58218,13 @@
     "ICAO": "ZSSR",
     "city": "上饶",
     "city_en": "Shangrao",
-    "name": "上饶三清山",
-    "name_en": "Shangrao Sanqingshan",
+    "name": "三清山",
+    "name_en": "Sanqingshan",
     "position": [
       28.39212,
       117.961327
-    ]
+    ],
+    "timezone": "Asia/Shanghai"
   },
   "SQG": {
     "IATA": "SQG",
@@ -61275,12 +61278,13 @@
     "ICAO": "ZLTS",
     "city": "天水",
     "city_en": "Tianshui",
-    "name": "天水麦积山",
-    "name_en": "Tianshui Maijishan",
+    "name": "麦积山",
+    "name_en": "Maijishan",
     "position": [
       34.558334,
       105.861115
-    ]
+    ],
+    "timezone": "Asia/Chongqing"
   },
   "THR": {
     "IATA": "THR",
@@ -65134,8 +65138,8 @@
     "city": "乌鲁木齐",
     "city_en": "Urumqi",
     "country": "CN",
-    "name": "乌鲁木齐地窝堡",
-    "name_en": "Urumqi Diwopu",
+    "name": "地窝堡",
+    "name_en": "Diwopu",
     "position": [
       43.907101,
       87.474243
@@ -69149,8 +69153,8 @@
     "city": "西安",
     "city_en": "Xi'an",
     "country": "CN",
-    "name": "西安咸阳",
-    "name_en": "Xi'an Xianyang",
+    "name": "咸阳",
+    "name_en": "Xianyang",
     "position": [
       34.447109,
       108.751503
@@ -73962,12 +73966,13 @@
     "ICAO": "ZLZY",
     "city": "张掖",
     "city_en": "Zhangye",
-    "name": "张掖甘州",
-    "name_en": "Zhangye Ganzhou",
+    "name": "甘州",
+    "name_en": "Ganzhou",
     "position": [
       38.801945,
       100.675003
-    ]
+    ],
+    "timezone": "Asia/Chongqing"
   },
   "YZZ": {
     "IATA": "YZZ",
@@ -74762,8 +74767,8 @@
     "city": "张家口",
     "city_en": "Zhangjiakou",
     "country": "CN",
-    "name": "张家口宁远",
-    "name_en": "Zhangjiakou Ningyuan",
+    "name": "宁远",
+    "name_en": "Ningyuan",
     "position": [
       40.739227,
       114.931458
