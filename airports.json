@@ -25119,8 +25119,8 @@
     "city": "哈尔滨",
     "city_en": "Harbin",
     "country": "CN",
-    "name": "哈尔滨太平",
-    "name_en": "Harbin Taiping",
+    "name": "太平",
+    "name_en": "Taiping",
     "position": [
       45.623402,
       126.250298
@@ -25311,8 +25311,8 @@
     "city": "舟山",
     "city_en": "Zhoushan",
     "country": "CN",
-    "name": "舟山普陀山",
-    "name_en": "Zhoushan Putuoshan",
+    "name": "普陀山",
+    "name_en": "Putuoshan",
     "position": [
       29.9342,
       122.362
@@ -28775,7 +28775,8 @@
     "position": [
       50.371387,
       124.1175
-    ]
+    ],
+    "timezone": "Asia/Harbin"
   },
   "JGN": {
     "IATA": "JGN",
@@ -28923,12 +28924,13 @@
     "ICAO": "ZLJC",
     "city": "金昌",
     "city_en": "Jinchang",
-    "name": "金昌金川",
-    "name_en": "Jinchang Jinchuan",
+    "name": "金川",
+    "name_en": "Jinchuan",
     "position": [
       38.541943,
       102.347778
-    ]
+    ],
+    "timezone": "Asia/Shanghai"
   },
   "JIJ": {
     "IATA": "JIJ",
@@ -35852,12 +35854,13 @@
     "ICAO": "ZPLC",
     "city": "临沧",
     "city_en": "Lincang",
-    "name": "临沧博尚",
-    "name_en": "Lincang",
+    "name": "博尚",
+    "name_en": "Boshang",
     "position": [
       23.738333,
       100.025002
-    ]
+    ],
+    "timezone": "Asia/Chongqing"
   },
   "LNK": {
     "IATA": "LNK",
@@ -43947,12 +43950,13 @@
     "ICAO": "ZPNL",
     "city": "宁蒗",
     "city_en": "Ninglang",
-    "name": "宁蒗泸沽湖",
-    "name_en": "Ninglang Luguhu",
+    "name": "泸沽湖",
+    "name_en": "Luguhu",
     "position": [
       27.542559,
       100.759323
-    ]
+    ],
+    "timezone": "Asia/Shanghai"
   },
   "NLK": {
     "IATA": "NLK",
@@ -51784,12 +51788,13 @@
     "ICAO": "ZUZH",
     "city": "攀枝花",
     "city_en": "Panzhihua",
-    "name": "攀枝花保安营",
-    "name_en": "Panzhihua Bao'angong",
+    "name": "保安营",
+    "name_en": "Bao'anying",
     "position": [
       26.542315,
       101.798515
-    ]
+    ],
+    "timezone": "Asia/Chongqing"
   },
   "PZO": {
     "IATA": "PZO",
