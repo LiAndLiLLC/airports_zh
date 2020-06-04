@@ -1,0 +1,1140 @@
+country,ICAO,IATA,city,name,latitude,longitude,timezone,city_en,name_en
+US,KAAF,AAF,Apalachicola,Apalachicola Regional,29.7275,-85.027496,America/New_York, , 
+US,KAAP,AAP,休斯顿,Andrau Airpark,29.722499,-95.588302,America/Chicago, , 
+US,KABE,ABE,Allentown,Lehigh Valley,40.652302,-75.440399,America/New_York,Allentown,Allentown Lehigh Valley
+US,KABI,ABI,Abilene,Abilene Regional,32.411301,-99.681801,America/Chicago,Abilene,Abilene Regional
+US,KABQ,ABQ,Albuquerque,AlbuquerqueSunport,35.040218,-106.609001,America/Denver,Albuquerque,Albuquerque
+US,KABR,ABR,Aberdeen,Aberdeen Regional,45.439999,-98.419998,America/Chicago,Aberdeen,Aberdeen Regional
+US,KABY,ABY,Albany,Southwest Georgia Regional,31.535509,-84.194397,America/New_York,Albany,Albany Southwest Georgia Regional
+US,KACK,ACK,nulltucket,nulltucket Memorial,41.253052,-70.060097,America/New_York,nulltucket,nulltucket Memorial
+US,KACT,ACT,Waco,Waco Regional,31.61128,-97.230499,America/Chicago,Waco,Waco Regional
+US,KACV,ACV,Arcata CA,California Redwood Coast-Humboldt County,40.978111,-124.108002,America/Los_Angeles,Eureka,Eureka Arcata
+US,KACY,ACY,Atlantic City,Atlantic City,39.457581,-74.577103,America/New_York,Atlantic City,Atlantic City
+US,KADH,ADT,Ada,Ada Regional,34.804298,-96.671303,America/Chicago, , 
+US,KADM,ADM,Ardmore,Ardmore Municipal,34.303009,-97.0196,America/Chicago,Ardmore,Ardmore Municipal
+US,KADS,ADS,Addison,Addison,32.959999,-96.830002,America/Chicago,Dallas,Dallas Addison
+US,KADW,ADW,Camp Springs,Andrews Air Force Base,38.810799,-76.866997,America/New_York, , 
+US,KAEX,AEX,Alexandria,Alexandria,31.32737,-92.5485,America/Chicago,Alexandria,Alexandria
+US,KAFW,AFW,Fort Worth,Fort Worth Alliance,32.98,-97.309998,America/Chicago,Fort Worth,Fort Worth Alliance
+US,KAGC,AGC,Pittsburgh,Allegheny County,40.3544,-79.930198,America/New_York, , 
+US,KAGS,AGS,Bush Field,Augusta Regional At Bush Field,33.369942,-81.9645,America/New_York,Augusta,Augusta Regional
+US,KAHN,AHN,Athens,Athens Ben Epps,33.9486,-83.326301,America/New_York, , 
+US,KAIA,AIA,Alliance,Alliance Municipal,42.053219,-102.803001,America/Denver,Alliance,Alliance Municipal
+US,KAIK,AIK,Aiken,Aiken Municipal,33.649398,-81.684997,America/New_York, , 
+US,KAIZ,AIZ,Kaiser Lake Ozark,Lee C Fine Memorial,38.096,-92.549499,America/Chicago, , 
+US,KAKO,AKO,Akron,Colorado Plains Regional,40.175598,-103.222,America/Denver, , 
+US,KAKR,AKC,Akron,Akron Fulton,41.037498,-81.466903,America/New_York, , 
+US,KALB,ALB,Albany,Albany,42.749111,-73.801903,America/New_York,Albany,Albany
+US,KALI,ALI,Alice,Alice,27.7409,-98.026901,America/Chicago, , 
+US,KALM,ALM,Alamogordo,Alamogordo White Sands Regional,32.8399,-105.990997,America/Denver, , 
+US,KALO,ALO,Waterloo,Waterloo Regional,42.549999,-92.400002,America/Chicago,Waterloo,Waterloo Regional
+US,KALS,ALS,Alamosa,San Luis Valley Regional Bergman Field,37.43491,-105.865997,America/Denver,Alamosa,Alamosa San Luis Valley Regional
+US,KALW,ALW,Walla Walla,Walla Walla Regional,46.09,-118.279999,America/Los_Angeles,Walla Walla,Walla Walla
+US,KAMA,AMA,Amarillo,Rick Husband Amarillo,35.21936,-101.705002,America/Chicago,Amarillo,Amarillo Rick Husband
+US,KANB,ANB,Anniston,Anniston Metropolitan,33.588199,-85.8581,America/Chicago, , 
+US,KAND,AND,Andersen,Anderson Regional,34.494598,-82.709396,America/New_York, , 
+US,KANP,ANP,Annapolis,Lee,38.942902,-76.568398,America/New_York, , 
+US,KANQ,ANQ,Angola,Tri State Steuben County,41.639702,-85.083504,America/New_York, , 
+US,KAOH,AOH,利马,利马 Allen County,40.706902,-84.026703,America/New_York, , 
+US,KAOO,AOO,Altoona,Altoona Blair County,40.296371,-78.32,America/New_York,Altoona,Altoona Blair County
+US,KAPA,APA,丹佛,Centennial,39.570098,-104.848999,America/Denver, , 
+US,KAPC,APC,Napa,Napa County,38.2132,-122.280998,America/Los_Angeles, , 
+US,KAPF,APF,Naples,Naples Municipal,26.152201,-81.775703,America/New_York,Naples,Naples Municipal
+US,KAPG,APG,Aberdeen,Phillips Army Air Field,39.466202,-76.1688,America/New_York, , 
+US,KAPN,APN,Alpena,Alpena County Regional,45.081669,-83.555832,America/New_York,Alpena,Alpena County Regional
+US,KARA,ARA,Louisiana,Acadiana Regional,30.03775,-91.883797,America/Chicago,New Iberia,New Iberia Acadiana Regional
+US,KARB,ARB,Ann Arbor,Ann Arbor Municipal,42.222999,-83.745597,America/New_York, , 
+US,KART,ART,Watertown,Watertown,43.99192,-76.021698,America/New_York,Watertown,Watertown
+US,KARV,ARV,Minocqua - Woodruff,Lakeland-Noble F. Lee Memorial field,45.927898,-89.730903,America/Chicago, , 
+US,KARW,BFT,Beaufort,Beaufort County,32.4122,-80.634399,America/New_York, , 
+US,KASE,ASE,Aspen,Aspen-Pitkin Co/Sardy Field,39.22316,-106.867996,America/Denver,Aspen,Aspen Pitkin County
+US,KASH,ASH,Nashua,Boire Field,42.7817,-71.514801,America/New_York, , 
+US,KAST,AST,Astoria,Astoria Regional,46.158,-123.878997,America/Los_Angeles, , 
+US,KATL,ATL,亚特兰大,Hartsfield Jackson Atlanta,33.636719,-84.428001,America/New_York,Atlanta,Atlanta Hartsfield-Jackson
+US,KATW,ATW,Appleton,Appleton,44.258091,-88.518997,America/Chicago,Appleton,Appleton
+US,KATY,ATY,Watertown,Watertown Regional,44.913971,-97.154701,America/Chicago,Watertown,Watertown Regional
+US,KAUG,AUG,Augusta,Augusta State,44.320648,-69.797302,America/New_York,Augusta,Augusta State
+US,KAUO,AUO,Auburn,Auburn Opelika Robert G. Pitts,32.615101,-85.433998,America/Chicago,Auburn,Auburn University Regional
+US,KAUS,AUS,Austin,Austin Bergstrom,30.194521,-97.6698,America/Chicago,Austin,Austin Bergstrom
+US,KAUW,AUW,Wausau,Wausau Downtown,44.9262,-89.626602,America/Chicago, , 
+US,KAVL,AVL,Asheville,Asheville Regional,35.436192,-82.541801,America/New_York,Asheville,Asheville Regional
+US,KAVO,AVO,Avon Park,Avon Park Executive,27.591199,-81.527801,America/New_York, , 
+US,KAVP,AVP,Scranton,Wilkes Barre Scranton,41.33847,-75.723297,America/New_York,Avoca,Avoca Wilkes-Barre/Scranton
+US,KAVQ,AVW,Tucson,Marana Regional,32.409599,-111.218002,America/Phoenix, , 
+US,KAVX,AVX,Catalina Island,Catalina,33.4049,-118.416,America/Los_Angeles, , 
+US,KAZO,AZO,Kalamazoo,Kalamazoo Battle Creek,42.23,-85.550003,America/New_York,Kalamazoo,Kalamazoo Battle Creek
+US,KBAB,BAB,Marysville,Beale Air Force Base,39.1361,-121.436996,America/Los_Angeles, , 
+US,KBAD,BAD,Shreveport,Barksdale Air Force Base,32.5018,-93.662696,America/Chicago, , 
+US,KBAF,BAF,Westfield,Westfield-Barnes Regional,42.157799,-72.715599,America/New_York, , 
+US,KBCE,BCE,Bryce Canyon,Bryce Canyon,37.706401,-112.144996,America/Denver, , 
+US,KBCT,BCT,Boca Raton,Boca Raton,26.3785,-80.107597,America/New_York,Boca Raton,Boca Raton
+US,KBDE,BDE,Baudette,Baudette,48.728401,-94.612197,America/Chicago, , 
+US,KBDL,BDL,Windsor Locks,Bradley,41.938881,-72.683197,America/New_York,Windsor Locks,Windsor Locks Bradley
+US,KBDR,BDR,Stratford,Igor I Sikorsky Memorial,41.163471,-73.126099,America/New_York,Stratford,Stratford Sikorsky Memorial
+US,KBDU,WBU,Boulder,Boulder Municipal,40.039398,-105.225997,America/Denver, , 
+US,KBEC,BEC,Wichita,Beech Factory,37.694499,-97.214996,America/Chicago, , 
+US,KBED,BED,Bedford,Laurence G Hanscom Field,42.469952,-71.289001,America/New_York,Bedford,Bedford Hanscom Field
+US,KBFD,BFD,Bradford,Bradford Regional,41.802223,-78.639442,America/New_York,Bradford,Bradford Regional
+US,KBFF,BFF,Scottsbluff,Western Neb. Rgnl/William B. Heilig,41.87402,-103.595001,America/Denver,Scottsbluff,Scottsbluff Western Nebraska Regional
+US,KBFI,BFI,西雅图,Boeing Field King County,47.5341,-122.305901,America/Los_Angeles,Seattle,Seattle Boeing Field
+US,KBFL,BFL,Bakersfield,Meadows Field,35.433861,-119.056999,America/Los_Angeles,Bakersfield,Bakersfield Meadows Field
+US,KBFM,BFM,Mobile,Mobile Downtown,30.62677,-88.068001,America/Chicago,Mobile,Mobile Downtown
+US,KBGE,BGE,Bainbridge,Decatur County Industrial Air Park,30.9715,-84.637397,America/New_York, , 
+US,KBGM,BGM,Binghamton,Greater Binghamton/Edwin A Link field,42.208611,-75.979698,America/New_York,Binghamton,Greater Binghamton
+US,KBGR,BGR,Bangor,Bangor,44.807442,-68.828102,America/New_York,Bangor,Bangor
+US,KBHB,BHB,Bar Harbor,Hancock County-Bar Harbor,44.449699,-68.361504,America/New_York,Bar Harbor,Hancock County Bar Harbor
+US,KBHM,BHM,Birmingham,Birmingham-Shuttlesworth,33.563881,-86.752296,America/Chicago,Birmingham,Birmingham Shuttlesworth
+US,KBID,BID,Block Island,Block Island State,41.168098,-71.577796,America/New_York, , 
+US,KBIF,BIF,El Paso,Biggs Army Air Field (Fort Bliss),31.8495,-106.379997,America/Denver, , 
+US,KBIL,BIL,Billings,Billings Logan,45.807659,-108.542,America/Denver,Billings,Billings Logan
+US,KBIS,BIS,Bismarck,Bismarck Municipal,46.774479,-100.758209,America/Chicago,Bismarck,Bismarck Municipal
+US,KBIX,BIX,Biloxi,Keesler Air Force Base,30.4104,-88.9244,America/Chicago, , 
+US,KBJC,BJC,Broomfield-CO,Rocky Mountain Metropolitan,39.908798,-105.116996,America/Denver, , 
+US,KBJI,BJI,Bemidji,Bemidji Regional,47.509998,-94.93,America/Chicago,Bemidji,Bemidji Regional
+US,KBKD,BKD,Breckenridge,Stephens County,32.719001,-98.890998,America/Chicago, , 
+US,KBKF,BFK,Buckley,Buckley Air Force Base,39.701698,-104.751998,America/Denver, , 
+US,KBKL,BKL,Cleveland,Burke Lakefront,41.517501,-81.683296,America/New_York, , 
+US,KBKW,BKW,Beckley,Raleigh County Memorial,37.779999,-81.120003,America/New_York,Beckley,Beckley Raleigh County Memorial
+US,KBLF,BLF,Bluefield,Mercer County,37.295799,-81.207702,America/New_York, , 
+US,KBLH,BLH,Blythe,Blythe,33.619201,-114.717002,America/Los_Angeles, , 
+US,KBLI,BLI,Bellingham,Bellingham,48.79269,-122.537003,America/Los_Angeles,Bellingham,Bellingham
+US,KBLM,BLM,Atlantic City,Atlantic City Monmouth Executive,40.186668,-74.124443, ,Atlantic City,Atlantic City Monmouth Executive
+US,KBLV,BLV,Belleville,Scott AFB/Midamerica,38.5452,-89.835197,America/Chicago, , 
+US,KBMC,BMC,Brigham City,Brigham City Regional,41.552399,-112.061996,America/Denver, , 
+US,KBMG,BMG,Bloomington,Monroe County,39.139999,-86.610001,America/New_York,Bloomington,Bloomington Monroe County
+US,KBMI,BMI,Bloomington,Central Illinois Regional  at Bloomington-Normal,40.477112,-88.915901,America/Chicago,Bloomington,Bloomington Central Illinois Regional
+US,KBMT,BMT,Beaumont,Beaumont Municipal,30.070699,-94.215797,America/Chicago, , 
+US,KBNA,BNA,Nashville,Nashville,36.12447,-86.678101,America/Chicago,Nashville,Nashville
+US,KBNO,BNO,Burns,Burns Municipal,43.591899,-118.955001,America/Los_Angeles, , 
+US,KBOI,BOI,Boise,Boise Air Terminal/Gowen Field,43.564362,-116.222,America/Denver,Boise,Boise
+US,KBOS,BOS,波士顿,洛根,42.362968,-71.006401,America/New_York,Boston,Logan
+US,KBOW,BOW,Bartow,Bartow Municipal,27.943399,-81.783401,America/New_York, , 
+US,KBPT,BPT,Beaumont,Southeast Texas Regional,29.95083,-94.020599,America/Chicago,Beaumont,Beaumont Jack Brooks Regional
+US,KBQK,BQK,Brunswick,Brunswick Golden Isles,31.258801,-81.4664,America/New_York,Brunswick,Brunswick Golden Isles
+US,KBRD,BRD,Brainerd,Brainerd Lakes Regional,46.397221,-94.137497,America/Chicago,Brainerd,Brainerd Lakes Regional
+US,KBRL,BRL,Burlington,Southeast Iowa Regional,40.78611,-91.123337,America/Chicago,Burlington,Burlington Southeast Iowa Regional
+US,KBRO,BRO,Brownsville,Brownsville South Padre Island,25.90683,-97.425797,America/Chicago,Brownsville,Brownsville South Padre Island
+US,KBTM,BTM,Butte,Bert Mooney,45.954799,-112.497001,America/Denver, , 
+US,KBTR,BTR,Baton Rouge,Baton Rouge Metropolitan,30.5329,-91.149803,America/Chicago,Baton Rouge,Baton Rouge Metropolitan
+US,KBTV,BTV,Burlington,Burlington,44.471859,-73.153198,America/New_York,Burlington,Burlington
+US,KBUF,BUF,Buffalo,Buffalo Niagara,42.940521,-78.732101,America/New_York,Buffalo,Buffalo Niagara
+US,KBUR,BUR,Burbank,Bob Hope,34.200661,-118.358002,America/Los_Angeles,Burbank,Burbank Bob Hope
+US,KBUY,QQY,Burlington,Burlington Alamance Regional,36.048611,-79.474998, ,Burlington,Burlington Alamance Regional
+US,KBVI,BFP,Beaver Falls,Beaver County,40.772499,-80.391403,America/New_York, , 
+US,KBVX,BVX,Batesville,Batesville Regional,35.7262,-91.647301, ,Batesville,Batesville Regional
+US,KBVY,BVY,Beverly,Beverly Municipal,42.584201,-70.916496,America/New_York, , 
+US,KBWD,BWD,Brownwood,Brownwood Regional,31.794722,-98.956665, ,Brownwood,Brownwood Regional
+US,KBWG,BWG,Bowling Green,Bowling Green Warren County Regional,36.9645,-86.4197,America/Chicago, , 
+US,KBWI,BWI,Baltimore,Baltimore/WashingtonThurgood Marshall,39.175362,-76.668297,America/New_York,Baltimore,Baltimore Washington
+US,KBXK,BXK,Buckeye,Buckeye Municipal,33.420398,-112.685997,America/Phoenix, , 
+US,KBYH,BYH,Blytheville,Arkansas,35.964298,-89.944,America/Chicago, , 
+US,KBYS,BYS,Fort Irwin,Bicycle Lake Army Air Field,35.280498,-116.629997,America/Los_Angeles, , 
+US,KBZN,BZN,Bozeman,Gallatin Field,45.777458,-111.152,America/Denver,Bozeman,Bozeman Yellowstone
+US,KCAE,CAE,哥伦比亚,哥伦比亚 Metropolitan,33.938831,-81.119499,America/New_York,Columbia,Columbia Metropolitan
+US,KCAK,CAK,Akron,Akron Canton Regional,40.91608,-81.442101,America/New_York,Akron,Akron Canton
+US,KCAR,CAR,Caribou,Caribou Municipal,46.871498,-68.017898,America/New_York, , 
+US,KCBE,CBE,Cumberland,Greater Cumberland Regional,39.615398,-78.760902,America/New_York, , 
+US,KCBM,CBM,Colombus,Columbus Air Force Base,33.643798,-88.443801,America/Chicago, , 
+US,KCCR,CCR,Concord,Buchanull Field,37.988888,-122.055557,America/Los_Angeles,Concord,Concord Buchanull Field
+US,KCDC,CDC,Cedar City,Cedar City Regional,37.701,-113.098999,America/Denver, , 
+US,KCDN,CDN,Camden,Woodward Field,34.283599,-80.564903,America/New_York, , 
+US,KCDR,CDR,Chadron,Chadron Municipal,42.834999,-103.097778,America/Denver,Chadron,Chadron Municipal
+US,KCDS,CDS,Childress,Childress Municipal,34.433799,-100.288002,America/Chicago, , 
+US,KCDW,CDW,Caldwell,Essex County,40.875198,-74.281402,America/New_York, , 
+US,KCEC,CEC,Crescent City,Jack Mc Namara Field,41.7802,-124.236999,America/Los_Angeles, , 
+US,KCEF,CEF,Chicopee Falls,Westover ARB/Metropolitan,42.194,-72.534797,America/New_York, , 
+US,KCEU,CEU,Clemson,Oconee County Regional,34.671901,-82.886497,America/New_York, , 
+US,KCEW,CEW,Crestview,Bob Sikes,30.778799,-86.522102,America/Chicago, , 
+US,KCEZ,CEZ,Cortez,Cortez Municipal,37.302776,-108.62722,America/Denver,Cortez,Cortez Municipal
+US,KCFD,CFD,Bryan,Coulter Field,30.7157,-96.331398,America/Chicago, , 
+US,KCGF,CGF,Richmond Heights,Cuyahoga County,41.565182,-81.488052,America/New_York,Cleveland,Cleveland Cuyahoga County
+US,KCGI,CGI,Cape Girardeau,Cape Girardeau Regional,37.225311,-89.570702,America/Chicago,Cape Girardeau,Cape Girardeau Regional
+US,KCGX,CGX,芝加哥,Chicago Meigs,41.858798,-87.607902,America/Chicago, , 
+US,KCGZ,CGZ,Casa Grande,Casa Grande Municipal,32.954899,-111.766998,America/Phoenix, , 
+US,KCHA,CHA,Chattanooga,Lovell Field,35.035191,-85.203499,America/New_York,Chattanooga,Chattanooga Metropolitan
+US,KCHO,CHO,Charlottesville VA,Charlottesville Albemarle,38.138638,-78.452858,America/New_York,Charlottesville,Charlottesville Albemarle
+US,KCHS,CHS,Charleston,Charleston Air Force Base-International,32.898628,-80.040497,America/New_York,Charleston,Charleston
+US,KCIC,CIC,Chico,Chico Municipal,39.795398,-121.858001,America/Los_Angeles, , 
+US,KCID,CID,Cedar Rapids,The Eastern Iowa,41.884682,-91.710701,America/Chicago,Cedar Rapids,Cedar Rapids Eastern Iowa
+US,KCIU,CIU,Sault Ste Marie,Chippewa County,46.25,-84.470001,America/New_York,Sault Sainte Marie,Sault Sainte Marie Chippewa County
+US,KCKB,CKB,Clarksburg,North Central West Virginia,39.295555,-80.229446,America/New_York,Clarksburg,Clarksburg North Central West Virginia
+US,KCKC,GRM,Grand Marais,Grand Marais Cook County,47.838298,-90.382896,America/Chicago, , 
+US,KCKV,CKV,Clarksville,Clarksville-Montgomery County Regional,36.621898,-87.415,America/Chicago, , 
+US,KCLE,CLE,Cleveland,Cleveland Hopkins,41.410252,-81.853897,America/New_York,Cleveland,Cleveland Hopkins
+US,KCLL,CLL,College Station,Easterwood Field,30.588579,-96.3638,America/Chicago,College Station,College Station Easterwood
+US,KCLM,CLM,Port Angeles,William R Fairchild,48.120201,-123.5,America/Los_Angeles, , 
+US,KCLS,CLS,Chehalis,Chehalis Centralia,46.676998,-122.983001,America/Los_Angeles, , 
+US,KCLT,CLT,夏洛特,Charlotte Douglas,35.214001,-80.9431,America/New_York,Charlotte,Charlotte Douglas
+US,KCLW,CLW,Clearwater,Clearwater Air Park,27.976699,-82.758697,America/New_York, , 
+US,KCMH,CMH,Columbus,John Glenn Columbus,39.997971,-82.8918,America/New_York,Columbus,Columbus John Glenn
+US,KCMI,CMI,Champaign,University of Illinois Willard,40.039665,-88.269051,America/Chicago,Champaign,Champaign University of Illinois Willard
+US,KCMX,CMX,Hancock,Houghton County Memorial,47.168411,-88.488998,America/New_York,Hancock,Hancock Houghton County Memorial
+US,KCNM,CNM,Carlsbad,Cavern City Air Terminal,32.337471,-104.263,America/Denver,Carlsbad,Carlsbad Cavern City Air Terminal
+US,KCNW,CNW,Waco,TSTC Waco,31.6378,-97.074096,America/Chicago, , 
+US,KCNY,CNY,Moab,Canyonlands Field,38.759445,-109.746109,America/Denver,Moab,Moab Canyonlands Field
+US,KCOD,COD,Cody,Yellowstone Regional,44.52,-109.019997,America/Denver,Cody,Cody Yellowstone Regional
+US,KCOE,COE,Coeur d'Alene,Coeur D'Alene - Pappy Boyington Field,47.774299,-116.819999,America/Los_Angeles, , 
+US,KCOF,COF,Coco Beach,Patrick Air Force Base,28.234899,-80.610099,America/New_York, , 
+US,KCON,CON,Concord NH,Concord Municipal,43.202701,-71.502296,America/New_York, , 
+US,KCOS,COS,Colorado Springs,City of Colorado Springs Municipal,38.805801,-104.699997,America/Denver,Colorado Springs,Colorado Springs
+US,KCOT,COT,Cotulla,Cotulla-La Salle County,28.456699,-99.220298,America/Chicago, , 
+US,KCOU,COU,哥伦比亚,哥伦比亚 Regional,38.818089,-92.219597,America/Chicago,Columbia,Columbia Regional
+US,KCPR,CPR,Casper,Casper-Natrona County,42.908001,-106.463997,America/Denver,Casper,Casper Natrona County
+US,KCQW,HCW,Cheraw,Cheraw Municipal /Lynch Bellinger Field,34.712898,-79.957,America/New_York, , 
+US,KCRE,CRE,North Myrtle Beach,Grand Strand,33.811698,-78.723899,America/New_York, , 
+US,KCRP,CRP,Corpus Christi,Corpus Christi,27.770361,-97.501198,America/Chicago,Corpus Christi,Corpus Christi
+US,KCRQ,CLD,Carlsbad,Mc Clellan-Palomar,33.12825,-117.279999,America/Los_Angeles,San Diego,San Diego McClellan Palomar
+US,KCRW,CRW,Charleston,Yeager,38.373138,-81.593102,America/New_York,Charleston,Charleston Yeager
+US,KCSG,CSG,Columbus,Columbus Metropolitan,32.516331,-84.938797,America/New_York,Columbus,Columbus Metropolitan
+US,KCSM,CSM,Clinton,Clinton Sherman,35.339801,-99.2005,America/Chicago, , 
+US,KCTB,CTB,Cutbank,Cut Bank,48.608398,-112.375999,America/Denver, , 
+US,KCTY,CTY,Cross City,Cross City,29.635499,-83.104797,America/New_York, , 
+US,KCUH,CUH,Cushing,Cushing Municipal,35.949901,-96.773101,America/Chicago, , 
+US,KCVG,CVG,Cincinnati,Cincinnati Northern Kentucky,39.048828,-84.667801,America/New_York,Cincinnati,Cincinnati Northern Kentucky
+US,KCVN,CVN,Clovis,Clovis Municipal,34.427223,-103.078888,America/Denver,Clovis,Clovis Municipal
+US,KCVO,CVO,Corvallis,Corvallis Municipal,44.4972,-123.29,America/Los_Angeles, , 
+US,KCVS,CVS,Clovis,Cannon Air Force Base,34.382801,-103.321998,America/Denver, , 
+US,KCWA,CWA,Wassau,Central Wisconsin,44.777611,-89.666702,America/Chicago,Wausau,Wausau Central Wisconsin
+US,KCWI,CWI,Clinton,Clinton Municipal,41.8311,-90.329101,America/Chicago, , 
+US,KCXL,CXL,Calexico,Calexico,32.669498,-115.513,America/Los_Angeles, , 
+US,KCXO,CXO,Conroe,Conroe-North Houston Regional,30.351801,-95.414497,America/Chicago, , 
+US,KCXY,HAR,Harrisburg,Capital City,40.217098,-76.851501,America/New_York, , 
+US,KCYS,CYS,Cheyenne,Cheyenne Regional Jerry Olson Field,41.155628,-104.809998,America/Denver,Cheyenne,Cheyenne Regional
+US,KDAB,DAB,Daytona Beach, ,29.185192,-81.060829,America/New_York,Daytona Beach, 
+US,KDAL,DAL,Dallas,Dallas Love Field,32.847111,-96.8517,America/Chicago,Dallas,Dallas Love Field
+US,KDAN,DAN,Danville,Danville Regional,36.572898,-79.336097,America/New_York, , 
+US,KDAY,DAY,Dayton,James M Cox Dayton,39.90237,-84.219299,America/New_York,Dayton,Dayton
+US,KDBN,DBN,都柏林,W H 'Bud' Barron,32.564399,-82.985298,America/New_York, , 
+US,KDBQ,DBQ,Dubuque IA,Dubuque Regional,42.400002,-90.699997,America/Chicago,Dubuque,Dubuque Regional
+US,KDCA,DCA,华盛顿,Ronald Reagan Washington National,38.852081,-77.037697,America/New_York,Washington,Washington Ronald Reagan National
+US,KDDC,DDC,Dodge City,Dodge City Regional,37.763119,-99.965401,America/Chicago,Dodge City,Dodge City Regional
+US,KDEC,DEC,Decatur,Decatur,39.830002,-88.860001,America/Chicago,Decatur,Decatur
+US,KDEN,DEN,丹佛,Denver,39.858784,-104.673882,America/Denver,Denver,Denver
+US,KDET,DET,Detroit,Coleman A. Young Municipal,42.409198,-83.009902,America/New_York, , 
+US,KDFW,DFW,达拉斯,沃斯堡,32.89682,-97.037903,America/Chicago,Dallas,Dallas Fort Worth
+US,KDGL,DGL,Douglas,Douglas Municipal,31.342599,-109.505996,America/Phoenix, , 
+US,KDHN,DHN,Dothan,Dothan Regional,31.321329,-85.4496,America/Chicago,Dothan,Dothan Regional
+US,KDHT,DHT,Dalhart,Dalhart Municipal,36.022598,-102.546997,America/Chicago, , 
+US,KDIK,DIK,Dickinson,Dickinson Theodore Roosevelt Regional,46.797329,-102.801003,America/Denver,Dickinson,Dickinson Theodore Roosevelt Regional
+US,KDKK,DKK,Dunkirk,Chautauqua County-Dunkirk,42.493301,-79.272003,America/New_York, , 
+US,KDLF,DLF,Del Rio,DLF,29.359501,-100.778002,America/Chicago, , 
+US,KDLH,DLH,Duluth,Duluth,46.842079,-92.193604,America/Chicago,Duluth,Duluth
+US,KDLS,DLS,The Dalles,哥伦比亚 Gorge Regional the Dalles Municipal,45.618499,-121.166999,America/Los_Angeles, , 
+US,KDMA,DMA,Tucson,Davis Monthan Air Force Base,32.1665,-110.883003,America/Phoenix, , 
+US,KDNL,DNL,Augusta,Daniel Field,33.466499,-82.039398,America/New_York, , 
+US,KDNN,DNN,Dalton,Dalton Municipal,34.7229,-84.870201,America/New_York, , 
+US,KDNV,DNV,Danville,Vermilion Regional,40.199199,-87.595901,America/Chicago, , 
+US,KDOV,DOV,Dover,Dover Air Force Base,39.129501,-75.466003,America/New_York, , 
+US,KDPA,DPA,West Chicago,Dupage,41.90694,-88.248199,America/Chicago,Chicago,Chicago DuPage
+US,KDRI,DRI,Deridder,Beauregard Regional,30.831699,-93.339897,America/Chicago, , 
+US,KDRM,DRE,Drummond Island,Drummond Island,46.0093,-83.743896,America/New_York, , 
+US,KDRO,DRO,Durango,Durango La Plata County,37.151508,-107.752998,America/Denver,Durango,Durango La Plata County
+US,KDRT,DRT,Del Rio,Del Rio,29.374201,-100.927002,America/Chicago,Del Rio,Del Rio
+US,KDSM,DSM,Des Moines,Des Moines,41.53397,-93.663002,America/Chicago,Des Moines,Des Moines
+US,KDTA,DTA,Delta,Delta Municipal,39.380599,-112.508003,America/Denver, , 
+US,KDTN,DTN,Shreveport,Shreveport Downtown,32.540199,-93.745002,America/Chicago, , 
+US,KDTS,DSI,Destin,Destin Executive,30.399591,-86.470879,America/Chicago,Destin,Destin Fort Walton Beach
+US,KDTW,DTW,Detroit,Detroit Metropolitan Wayne County,42.21244,-83.353302,America/New_York,Detroit,Detroit Metropolitan Wayne County
+US,KDUC,DUC,Duncan,Halliburton Field,34.470901,-97.959899,America/Chicago, , 
+US,KDUG,DUG,Douglas,Bisbee Douglas,31.468999,-109.603996,America/Phoenix, , 
+US,KDUJ,DUJ,Du Bois,DuBois Regional,41.169998,-78.889999,America/New_York,DuBois,DuBois Regional
+US,KDVL,DVL,Devils Lake,Devils Lake Regional,48.1142,-98.908798,America/Chicago, , 
+US,KDVO,NOT,Novato,Marin County  - Gnoss Field,38.1436,-122.555999,America/Los_Angeles, , 
+US,KDVT,DVT,菲尼克斯,Phoenix Deer Valley,33.688301,-112.083,America/Phoenix, , 
+US,KDWH,DWH,休斯顿,David Wayne Hooks Memorial,30.0618,-95.552803,America/Chicago, , 
+US,KDXR,DXR,Danbury,Danbury Municipal,41.371498,-73.4822,America/New_York, , 
+US,KDYL,DYL,Doylestown,Doylestown,40.333,-75.122299,America/New_York, , 
+US,KDYS,DYS,Abilene,Dyess Air Force Base,32.420799,-99.854598,America/Chicago, , 
+US,KEAR,EAR,Kearney,Kearney Regional,40.728333,-98.998886, ,Kearney,Kearney Regional
+US,KEAT,EAT,Wenatchee,Pangborn Memorial,47.399723,-120.207779,America/Los_Angeles,Wenatchee,Wenatchee Pangborn Memorial
+US,KEAU,EAU,Eau Claire,Chippewa Valley Regional,44.860001,-91.480003,America/Chicago,Eau Claire,Eau Claire Chippewa Valley Regional
+US,KECG,ECG,Elizabeth City,Elizabeth City Regional  & Coast Guard Air Station,36.260601,-76.174598,America/New_York, , 
+US,KECP,ECP,Panama City,Northwest Florida Beaches,30.35,-85.790001,America/Chicago,Panama City,Panama City
+US,KEDW,EDW,Edwards Afb,Edwards Air Force Base,34.905399,-117.884003,America/Los_Angeles, , 
+US,KEEN,EEN,Keene,Dillant Hopkins,42.898399,-72.270797,America/New_York, , 
+US,KEFD,EFD,休斯顿,Ellington,29.607299,-95.158798,America/Chicago, , 
+US,KEGE,EGE,Vail,Eagle County Regional,39.642551,-106.917,America/Denver,Eagle,Eagle County Regional
+US,KEGV,EGV,Eagle River,Eagle River Union,45.9323,-89.268302,America/Chicago, , 
+US,KEKN,EKN,Elkins,Elkins-Randolph Co-Jennings Randolph Field,38.8894,-79.857101,America/New_York, , 
+US,KEKO,EKO,Elko,Elko Regional,40.824901,-115.791999,America/Los_Angeles, , 
+US,KELD,ELD,El Dorado,South Arkansas Regional At Goodwin Field,33.22097,-92.813202,America/Chicago,El Dorado,El Dorado South Arkansas Regional
+US,KELM,ELM,Elmira,Elmira Corning Regional,42.16304,-76.895859,America/New_York,Elmira,Elmira Corning Regional
+US,KELN,ELN,Ellensburg,Ellensburg Bowers,47.033001,-120.530998, ,Ellensburg,Ellensburg Bowers
+US,KELO,LYU,Ely,Ely Municipal,47.824501,-91.830703,America/Chicago, , 
+US,KELP,ELP,El Paso,El Paso,31.807249,-106.376999,America/Denver,El Paso,El Paso
+US,KELY,ELY,Ely,Ely  Yelland Field,39.299701,-114.842002,America/Los_Angeles, , 
+US,KEND,END,Enid,Vance Air Force Base,36.339199,-97.916496,America/Chicago, , 
+US,KENV,ENV,Wendover,Wendover,40.7187,-114.030998,America/Denver, , 
+US,KENW,ENW,Kenosha,Kenosha Regional,42.595699,-87.927803,America/Chicago, , 
+US,KEOK,EOK,Keokuk,Keokuk Municipal,40.459899,-91.428497,America/Chicago, , 
+US,KERI,ERI,Erie,ErieTom Ridge Field,42.082001,-80.176201,America/New_York,Erie,Erie
+US,KERV,ERV,Kerrville,Kerrville Municipal Louis Schreiner Field,29.976699,-99.0857,America/Chicago, , 
+US,KESC,ESC,Escanaba,Delta County,45.72266,-87.093697,America/New_York,Escanaba,Escanaba Delta County
+US,KESF,ESF,Alexandria,Esler Regional,31.394899,-92.295799,America/Chicago, , 
+US,KESN,ESN,Easton,Easton Newnam Field,38.804199,-76.069,America/New_York, , 
+US,KEUF,EUF,Eufala,Weedon Field,31.951299,-85.128898,America/Chicago, , 
+US,KEUG,EUG,Eugene,Mahlon Sweet Field,44.12458,-123.210999,America/Los_Angeles,Eugene,Eugene
+US,KEVV,EVV,Evansville,Evansville Regional,38.036991,-87.532303,America/Chicago,Evansville,Evansville Regional
+US,KEVW,EVW,Evanston,Evanston-Uinta County -Burns Field,41.274799,-111.035003,America/Denver, , 
+US,KEWB,EWB,New Bedford,New Bedford Regional,41.676101,-70.956901,America/New_York, , 
+US,KEWK,EWK,Newton,Newton City-County,38.0582,-97.274497,America/Chicago, , 
+US,KEWN,EWN,New Bern,Coastal Carolina Regional,35.072971,-77.0429,America/New_York,New Bern,New Bern Coastal Carolina Regional
+US,KEWR,EWR,纽约,纽瓦克自由,40.692501,-74.168602,America/New_York,New York,Newark Liberty
+US,KEYW,EYW,Key West,Key West,24.55611,-81.759499,America/New_York,Key West,Key West
+US,KF70,RBK,Murrieta-Temecula,French Valley,33.574199,-117.127998,America/Los_Angeles, , 
+US,KFAF,FAF,Fort Eustis,Felker Army Air Field,37.132499,-76.608802,America/New_York, , 
+US,KFAR,FAR,Fargo,Hector,46.92065,-96.815697,America/Chicago,Fargo,Fargo Hector
+US,KFAT,FAT,Fresno,Fresno Yosemite,36.776192,-119.718002,America/Los_Angeles,Fresno,Fresno Yosemite
+US,KFAY,FAY,Fayetteville,Fayetteville Regional Grannis Field,34.990002,-78.879997,America/New_York,Fayetteville,Fayetteville Regional
+US,KFBG,FBG,Fredericksburg,Simmons Army Air Field,35.131801,-78.936698,America/New_York, , 
+US,KFBR,FBR,Fort Bridger,Fort Bridger,41.391899,-110.406997,America/Denver, , 
+US,KFCM,FCM,Eden Prairie,Flying Cloud,44.827221,-93.457222,America/Chicago,Minneapolis,Minneapolis Flying Cloud
+US,KFCS,FCS,Fort Carson,Butts AAF (Fort Carson) Air Field,38.678398,-104.757003,America/Denver, , 
+US,KFDY,FDY,Findley,Findlay,41.0135,-83.668701,America/New_York, , 
+US,KFFA,FFA,Kill Devil Hills,First Flight,36.018199,-75.671302,America/New_York, , 
+US,KFFO,FFO,Dayton,Wright-Patterson Air Force Base,39.826099,-84.048301,America/New_York, , 
+US,KFFT,FFT,Frankfort,Capital City,38.182498,-84.904701,America/New_York, , 
+US,KFFZ,MSC,Mesa,Falcon Field,33.4608,-111.727996,America/Phoenix, , 
+US,KFHR,FRD,Friday Harbor,Friday Harbor,48.521999,-123.024002,America/Los_Angeles, , 
+US,KFHU,FHU,Fort Huachuca,Sierra Vista Municipal Libby Army Air Field,31.588499,-110.344001,America/Phoenix, , 
+US,KFKL,FKL,Franklin,Venullgo Regional,41.377899,-79.860397,America/New_York, , 
+US,KFLD,FLD,Fond du Lac,Fond du Lac County,43.771198,-88.488403,America/Chicago, , 
+US,KFLG,FLG,Flagstaff,Flagstaff Pulliam,35.140308,-111.668999,America/Phoenix,Flagstaff,Flagstaff Pulliam
+US,KFLL,FLL,劳德代尔堡,劳德代尔堡 Hollywood,26.07258,-80.152702,America/New_York,Fort Lauderdale,Fort Lauderdale Hollywood
+US,KFLO,FLO,Florence,Florence Regional,34.18536,-79.723801,America/New_York,Florence,Florence Regional
+US,KFLV,FLV,Fort Leavenworth,Sherman Army Air Field,39.368301,-94.914703,America/Chicago, , 
+US,KFME,FME,Fort Meade,Tipton,39.085399,-76.759399,America/New_York, , 
+US,KFMH,FMH,Falmouth,Cape Cod Coast Guard Air Station,41.658401,-70.5214,America/New_York, , 
+US,KFMN,FMN,Farmington,Four Corners Regional,36.741249,-108.228996,America/Denver,Farmington,Farmington Four Corners Regional
+US,KFMY,FMY,Fort Myers,Page Field,26.586599,-81.863296,America/New_York, , 
+US,KFNL,FNL,Fort Collins,Northern Colorado Regional,40.451804,-105.011,America/Denver, , 
+US,KFNT,FNT,Flint,Bishop,42.96542,-83.743599,America/New_York,Flint,Flint Bishop
+US,KFOD,FOD,Fort Dodge,Fort Dodge Regional,42.551189,-94.191803,America/Chicago,Fort Dodge,Fort Dodge Regional
+US,KFOE,FOE,Topeka,Topeka Regional  - Forbes Field,38.950939,-95.663597,America/Chicago,Topeka,Topeka Regional
+US,KFOK,FOK,West Hampton Beach,Francis S Gabreski,40.843651,-72.631699,America/New_York,Westhampton Beach,Westhampton Beach Francis S Gabresk
+US,KFPR,FPR,Fort Pierce,St Lucie County,27.4951,-80.368301,America/New_York,Fort Pierce,Fort Pierce St. Lucie County
+US,KFRG,FRG,Farmingdale,Republic,40.728889,-73.41333,America/New_York,Farmingdale,Farmingdale Republic
+US,KFRI,FRI,Fort Riley,Marshall Army Air Field,39.055301,-96.764503,America/Chicago, , 
+US,KFSD,FSD,Sioux Falls,Joe Foss Field,43.582008,-96.741898,America/Chicago,Sioux Falls,Sioux Falls Regional
+US,KFSI,FSI,Fort Sill,Henry Post Army Air Field (Fort Sill),34.649799,-98.402198,America/Chicago, , 
+US,KFSM,FSM,Fort Smith,Fort Smith Regional,35.336578,-94.367401,America/Chicago,Fort Smith,Fort Smith Regional
+US,KFST,FST,Fort Stockton,Fort Stockton Pecos County,30.9157,-102.916,America/Chicago, , 
+US,KFTK,FTK,Fort Knox,Godman Army Air Field,37.9071,-85.972099,America/New_York, , 
+US,KFTW,FTW,Fort Worth,Fort Worth Meacham,32.819771,-97.362396,America/Chicago,Fort Worth,Fort Worth Meacham
+US,KFTY,FTY,亚特兰大,Fulton County  Brown Field,33.779098,-84.5214,America/New_York, , 
+US,KFUL,FUL,Fullerton,Fullerton Municipal,33.872001,-117.980003,America/Los_Angeles, , 
+US,KFVE,WFK,Frenchville,Northern Aroostook Regional,47.285499,-68.312797,America/New_York, , 
+US,KFWA,FWA,Fort Wayne,Fort Wayne,40.97847,-85.195099,America/New_York,Fort Wayne,Fort Wayne
+US,KFXE,FXE,劳德代尔堡,劳德代尔堡 Executive,26.197269,-80.1707,America/New_York,Fort Lauderdale,Fort Lauderdale Executive
+US,KFYV,FYV,Fayetteville,Drake Field,36.0051,-94.170097,America/Chicago, , 
+US,KGAD,GAD,Gadsden,Northeast Alabama Regional,33.972599,-86.088996,America/Chicago, , 
+US,KGAI,GAI,Gaithersburg,Montgomery County Airpark,39.1683,-77.166,America/New_York, , 
+US,KGBD,GBD,Great Bend,Great Bend Municipal,38.344299,-98.859199,America/Chicago, , 
+US,KGCC,GCC,Gillette,Gillette Campbell County,44.346355,-105.532684,America/Denver,Gillette,Gillette Campbell County
+US,KGCK,GCK,Garden City,Garden City Regional,37.927521,-100.723999,America/Chicago,Garden City,Garden City Regional
+US,KGCN,GCN,Grand Canyon,Grand Canyon National Park,35.9524,-112.147003,America/Phoenix, , 
+US,KGDV,GDV,Glendive,Dawson Community,47.138698,-104.806999,America/Denver, , 
+US,KGDW,GDW,Gladwin,Gladwin Zettel Memorial,43.9706,-84.474998,America/New_York, , 
+US,KGED,GED,Georgetown,Sussex County,38.688332,-75.357498,America/New_York,Georgetown,Georgetown Delaware Coastal
+US,KGEG,GEG,Spokane,Spokane,47.619862,-117.532997,America/Los_Angeles,Spokane,Spokane
+US,KGFK,GFK,Grand Forks,Grand Forks,47.949249,-97.176102,America/Chicago,Grand Forks,Grand Forks
+US,KGFL,GFL,Queensbury,Floyd Bennett Memorial,43.341201,-73.610298,America/New_York, , 
+US,KGGE,GGE,Georgetown,Georgetown County,33.311698,-79.319602,America/New_York, , 
+US,KGGG,GGG,Longview,East Texas Regional,32.38401,-94.711403,America/Chicago,Longview,Longview East Texas Regional
+US,KGGW,GGW,Glasgow,Wokal Field Glasgow,48.212502,-106.614998,America/Denver, , 
+US,KGIF,GIF,Winter Haven,Winter Haven Municipal  - Gilbert Field,28.0629,-81.753303,America/New_York, , 
+US,KGJT,GJT,Grand Junction,Grand Junction Regional,39.12241,-108.526001,America/Denver,Grand Junction,Grand Junction Regional
+US,KGLD,GLD,Goodland,Renner Field-Goodland Municipal,39.370601,-101.698997,America/Denver, , 
+US,KGLH,GLH,Greenville,Mid Delta Regional,33.484444,-90.985001,America/Chicago,Greenville,Greenville Mid Delta Regional
+US,KGLS,GLS,Galveston,ScholesAt Galveston,29.2653,-94.860397,America/Chicago, , 
+US,KGNT,GNT,Grants,Grants-Milan Municipal,35.167301,-107.902,America/Denver, , 
+US,KGNV,GNV,Gainesville,Gainesville Regional,29.69005,-82.271698,America/New_York,Gainesville,Gainesville Regional
+US,KGON,GON,Groton CT,Groton New London,41.330101,-72.045097,America/New_York, , 
+US,KGPI,FCA,Kalispell,Glacier Park,48.310555,-114.256111,America/Denver,Kalispell,Kalispell Glacier Park
+US,KGPT,GPT,Gulfport,Gulfport Biloxi,30.407261,-89.07,America/Chicago,Gulfport,Gulfport Biloxi
+US,KGPZ,GPZ,Grand Rapids MN,Grand Rapids Itasca Co-Gordon Newstrom field,47.211101,-93.509803,America/Chicago, , 
+US,KGQQ,GQQ,Galion,Galion Municipal,40.753398,-82.7238,America/New_York, , 
+US,KGRB,GRB,Green Bay,Austin Straubel,44.484631,-88.1297,America/Chicago,Green Bay,Green Bay Austin Straubel
+US,KGRF,GRF,Fort Lewis,Gray Army Air Field,47.0792,-122.581001,America/Los_Angeles, , 
+US,KGRI,GRI,Grand Island,Central Nebraska Regional,40.967541,-98.309601,America/Chicago,Grand Island,Grand Island Central Nebraska Regional
+US,KGRK,GRK,Killeen,Robert Gray  Army Air Field,31.067249,-97.828903,America/Chicago,Killeen,Killeen Fort Hood Regional
+US,KGRR,GRR,Grand Rapids,Gerald R. Ford,42.880829,-85.522797,America/New_York,Grand Rapids,Grand Rapids Gerald R. Ford
+US,KGSB,GSB,Goldsboro,Seymour Johnson Air Force Base,35.339401,-77.960601,America/New_York, , 
+US,KGSO,GSO,Greensboro,Piedmont Triad,36.097752,-79.937302,America/New_York,Greensboro,Greensboro Piedmont Triad
+US,KGSP,GSP,Greenville,Greenville Spartanburg,34.89566,-82.218803,America/New_York,Greenville-Spartanburg,Greenville-Spartanburg
+US,KGTF,GTF,Great Falls,Great Falls,47.482651,-111.370003,America/Denver,Great Falls,Great Falls
+US,KGTR,GTR,Columbus Mississippi,Golden Triangle Regional,33.450328,-88.591301,America/Chicago,Golden Triangle,Golden Triangle Regional
+US,KGUC,GUC,Gunnison,Gunnison Crested Butte Regional,38.533939,-106.932999,America/Denver,Gunnison,Gunnison Crested Butte Regional
+US,KGUP,GUP,Gallup,Gallup Municipal,35.5111,-108.789001,America/Denver, , 
+US,KGUS,GUS,Peru,Grissom Air Reserve Base,40.648101,-86.152099,America/New_York, , 
+US,KGVL,GVL,Gainesville,Lee Gilmer Memorial,34.272598,-83.8302,America/New_York, , 
+US,KGVT,GVT,Greenvile,Majors,33.067798,-96.065299,America/Chicago, , 
+US,KGWO,GWO,Greenwood,Greenwood-Leflore,33.4943,-90.084701,America/Chicago, , 
+US,KGYR,GYR,Goodyear,Phoenix Goodyear,33.4225,-112.375999,America/Phoenix, , 
+US,KGYY,GYY,Gary,Gary Chicago,41.616298,-87.412803,America/Chicago, , 
+US,KHAO,HAO,Hamilton,Butler Co Regional  - Hogan Field,39.3638,-84.522003,America/New_York, , 
+US,KHBG,HBG,Hattiesburg,Hattiesburg Bobby L Chain Municipal,31.264799,-89.252799,America/Chicago, , 
+US,KHBR,HBR,Hobart,Hobart Regional,34.991317,-99.051313,America/Chicago, , 
+US,KHDI,HDI,Cleveland,Hardwick Field,35.2201,-84.832397,America/New_York, , 
+US,KHDN,HDN,Hayden,Yampa Valley,40.481159,-107.217003,America/Denver,Hayden,Hayden Yampa Valley
+US,KHEF,MNZ,Manassas,Manassas Regional /Harry P. Davis Field,38.721401,-77.515403,America/New_York, , 
+US,KHFD,HFD,Hartford,Hartford Brainard,41.736698,-72.649398,America/New_York, , 
+US,KHGR,HGR,Hagerstown,Hagerstown Regional Richard A Henson Field,39.707901,-77.729499,America/New_York, , 
+US,KHHR,HHR,Hawthorne,Jack Northrop Field Hawthorne Municipal,33.922993,-118.331543,America/Los_Angeles,Hawthorne,Hawthorne Municipal
+US,KHIB,HIB,Hibbing,Range Regional,47.386589,-92.838898,America/Chicago,Hibbing,Hibbing Range Regional
+US,KHIF,HIF,Ogden,Hill Air Force Base,41.12403,-111.973086,America/Denver, , 
+US,KHII,HII,Lake Havasu City,Lake Havasu City,34.571098,-114.358002,America/Phoenix, , 
+US,KHIO,HIO,Hillsboro,Portland Hillsboro,45.540001,-122.949997,America/Los_Angeles,Portland,Portland Hillsboro
+US,KHKY,HKY,Hickory,Hickory Regional,35.7411,-81.389503,America/New_York, , 
+US,KHLG,HLG,Wheeling,Wheeling Ohio County,40.174999,-80.646301,America/New_York, , 
+US,KHLN,HLN,Helena,Helena Regional,46.6068,-111.982002,America/Denver,Helena,Helena Regional
+US,KHLR,HLR,Fort Hood,Hood Army Air Field,31.1387,-97.7145,America/Chicago, , 
+US,KHMN,HMN,Alamogordo,Holloman Air Force Base,32.8525,-106.107002,America/Denver, , 
+US,KHND,HSH,Henderson,Henderson Executive,35.972801,-115.134002,America/Los_Angeles, , 
+US,KHOB,HOB,Hobbs,Lea County Regional,32.687519,-103.217003,America/Denver,Hobbs,Hobbs Lea County Regional
+US,KHON,HON,Huron,Huron Regional,44.3852,-98.2285,America/Chicago, , 
+US,KHOP,HOP,Hopkinsville,Campbell AAF (Fort Campbell) Air Field,36.668598,-87.4962,America/Chicago, , 
+US,KHOT,HOT,Hot Springs,Memorial Field,34.478889,-93.096107,America/Chicago,Hot Springs,Hot Springs Memorial Field
+US,KHOU,HOU,休斯顿,William P Hobby,29.645411,-95.278801,America/Chicago,Houston,Houston William P. Hobby
+US,KHPN,HPN,White Plains,Westchester County,41.06694,-73.707497,America/New_York,White Plains,White Plains Westchester County
+US,KHQM,HQM,Hoquiam,Bowerman,46.971199,-123.936996,America/Los_Angeles, , 
+US,KHRL,HRL,Harlingen,Valley,26.2285,-97.654297,America/Chicago,Harlingen,Harlingen Valley
+US,KHRO,HRO,Harrison,Boone County,36.26152,-93.154701,America/Chicago,Harrison,Harrison Boone County
+US,KHST,HST,Homestead,Homestead ARB,25.488599,-80.383598,America/New_York, , 
+US,KHSV,HSV,Huntsville,HuntsvilleCarl T Jones Field,34.637192,-86.775002,America/Chicago,Huntsville,Huntsville
+US,KHTL,HTL,Houghton Lake,Roscommon County - Blodgett Memorial,44.359798,-84.671095,America/New_York, , 
+US,KHTS,HTS,Huntington,Tri-State/Milton J. Ferguson Field,38.360001,-82.550003,America/New_York,Huntington,Huntington Tri State
+US,KHUA,HUA,Redstone,Redstone Army Air Field,34.678699,-86.684799,America/Chicago, , 
+US,KHUF,HUF,Terre Haute,Terre HauteHulman Field,39.451499,-87.307601,America/New_York, , 
+US,KHUL,HUL,Houlton,Houlton,46.1231,-67.792098,America/New_York, , 
+US,KHUT,HUT,Hutchinson,Hutchinson Municipal,38.065498,-97.860603,America/Chicago, , 
+US,KHVN,HVN,New Haven,Tweed New Haven,41.263748,-72.886803,America/New_York,New Haven,New Haven Tweed
+US,KHVR,HVR,Havre,Havre City County,48.542999,-109.762001,America/Denver, , 
+US,KHWD,HWD,Hayward,Hayward Executive,37.65889,-122.121666,America/Los_Angeles,Hayward,Hayward Executive
+US,KHWO,HWO,Hollywood,North Perry,26.0012,-80.2407,America/New_York, , 
+US,KHXD,HHH,Hilton Head Island,Hilton Head,32.220001,-80.690002,America/New_York,Hilton Head Island,Hilton Head Island
+US,KHYA,HYA,Barnstable,Barnstable Municipal Boardman Polando Field,41.665833,-70.280556,America/New_York,Hyannis,Hyannis Barnstable Municipal
+US,KHYS,HYS,Hays,Hays Regional,38.846111,-99.27417,America/Chicago,Hays,Hays Regional
+US,KHZL,HZL,Hazleton,Hazleton Municipal,40.986801,-75.994903,America/New_York, , 
+US,KIAB,IAB,Wichita,Mc Connell Air Force Base,37.621898,-97.268203,America/Chicago, , 
+US,KIAD,IAD,华盛顿特区,杜勒斯,38.947441,-77.4599,America/New_York,Washington,Dulles
+US,KIAG,IAG,Niagara Falls,Niagara Falls,43.107299,-78.946197,America/New_York, , 
+US,KIAH,IAH,休斯顿,George Bush Intercontinental Houston,29.98443,-95.3414,America/Chicago,Houston,Houston George Bush Intercontinental
+US,KICT,ICT,Wichita,Wichita Eisenhower National,37.64994,-97.432999,America/Chicago,Wichita,Wichita Dwight D. Eisenhower National
+US,KIDA,IDA,Idaho Falls,Idaho Falls Regional,43.513721,-112.07,America/Denver,Idaho Falls,Idaho Falls Regional
+US,KIGM,IGM,Kingman,Kingman,35.25,-113.93, ,Kingman,Kingman
+US,KIKK,IKK,Kankakee,Greater Kankakee,41.071399,-87.846298,America/Chicago, , 
+US,KILG,ILG,Wilmington,New Castle,39.678719,-75.606499,America/New_York,Wilmington,Wilmington New Castle
+US,KILM,ILM,Wilmington,Wilmington,34.27066,-77.902496,America/New_York,Wilmington,Wilmington
+US,KILN,ILN,Wilmington,Wilmington Airpark,39.428055,-83.792221,America/New_York,Wilmington,Wilmington Air Park
+US,KIMM,IMM,Immokalee,Immokalee Regional,26.4332,-81.401,America/New_York, , 
+US,KIMT,IMT,Iron Mountain,Ford,45.818352,-88.114502,America/Chicago,Iron Mountain,Iron Mountain Ford
+US,KIND,IND,Indianapolis,Indianapolis,39.717289,-86.294601,America/New_York,Indianapolis,Indianapolis
+US,KINK,INK,Wink,Winkler County,31.7796,-103.200996,America/Chicago, , 
+US,KINL,INL,International Falls,Falls,48.565578,-93.4021,America/Chicago,International Falls,Falls
+US,KINS,INS,Indian Springs,Creech Air Force Base,36.5872,-115.672996,America/Los_Angeles, , 
+US,KINT,INT,Winston-salem,Smith Reynolds,36.133701,-80.222,America/New_York, , 
+US,KINW,INW,Winslow,Winslow Lindbergh Regional,35.0219,-110.722999,America/Phoenix, , 
+US,KIOW,IOW,Iowa City,Iowa City Municipal,41.639198,-91.546501,America/Chicago, , 
+US,KIPL,IPL,Imperial,Imperial County,32.834209,-115.578003,America/Los_Angeles,Imperial,Imperial County
+US,KIPT,IPT,Williamsport,Williamsport Regional,41.241829,-76.920998,America/New_York,Williamsport,Williamsport Regional
+US,KIRK,IRK,Kirksville,Kirksville Regional,40.092499,-92.543892,America/Chicago,Kirksville,Kirksville Municipal
+US,KISM,ISM,Kissimmee,Kissimmee Gateway,28.2898,-81.437103,America/New_York, , 
+US,KISN,ISN,Williston,Sloulin Field,48.177898,-103.641998,America/Chicago, , 
+US,KISO,ISO,Kinston,Kinston Regional Jetport At Stallings Field,35.331401,-77.608802,America/New_York, , 
+US,KISP,ISP,Islip,Long Island Mac Arthur,40.79525,-73.100197,America/New_York,Islip,Islip Long Island MacArthur
+US,KISW,ISW,Wisconsin Rapids,Alexander Field South Wood County,44.360298,-89.838996,America/Chicago, , 
+US,KITH,ITH,Ithaca,Ithaca Tompkins Regional,42.490341,-76.463593,America/New_York,Ithaca,Ithaca Tompkins Regional
+US,KIWA,AZA,Mesa,Phoenix-Mesa-Gateway,33.299999,-111.650002,America/Phoenix,Phoenix,Phoenix Mesa Gateway
+US,KIWD,IWD,Ironwood,Ironwood Gogebic Iron County,46.525555,-90.131668, ,Ironwood,Ironwood Gogebic Iron County
+US,KIWS,IWS,休斯顿,West Houston,29.818199,-95.672599,America/Chicago, , 
+US,KIXD,JCI,Olathe,New Century Aircenter,38.830002,-94.889999,America/Chicago,Kansas City,Kansas City New Century Aircenter
+US,KIYK,IYK,Inyokern,Inyokern,35.656666,-117.82917,America/Los_Angeles,Inyokern,Inyokern
+US,KIZG,FRY,Fryeburg,Eastern Slopes Regional,43.9911,-70.947898,America/New_York, , 
+US,KJAC,JAC,Jacksn Hole,Jackson Hole,43.60733,-110.737,America/Denver,Jackson,Jackson Hole
+US,KJAN,JAN,Jackson,Jackson-Medgar Wiley Evers,32.311161,-90.075798,America/Chicago,Jackson,Jackson Evers
+US,KJAX,JAX,Jacksonville,Jacksonville,30.494049,-81.687798,America/New_York,Jacksonville,Jacksonville
+US,KJBR,JBR,Jonesboro,Jonesboro Municipal,35.831699,-90.6464,America/Chicago, , 
+US,KJEF,JEF,Jefferson City,Jefferson City Memorial,38.591201,-92.156097,America/Chicago, , 
+US,KJFK,JFK,纽约,肯尼迪,40.639751,-73.7789,America/New_York,New York,John F. Kennedy
+US,KJHW,JHW,Jamestown,Chautauqua County-Jamestown,42.1534,-79.258003,America/New_York, , 
+US,KJKA,GUF,Gulf Shores,Jack Edwards,30.2905,-87.671798,America/Chicago, , 
+US,KJLN,JLN,Joplin,Joplin Regional,37.15181,-94.498199,America/Chicago,Joplin,Joplin Regional
+US,KJMS,JMS,Jamestown,Jamestown Regional,46.919998,-98.669998,America/Chicago,Jamestown,Jamestown Regional
+US,KJOT,JOT,Joliet,Joliet Regional,41.517799,-88.175498,America/Chicago, , 
+US,KJQF,USA,Concord,Concord Regional,35.385139,-80.711189,America/New_York,Concord,Concord Regional
+US,KJST,JST,Johnstown,John Murtha Johnstown Cambria County,40.310001,-78.830002,America/New_York,Johnstown,Johnstown Cambria County
+US,KJVL,JVL,Janesville,Southern Wisconsin Regional,42.6203,-89.041603,America/Chicago, , 
+US,KJXN,JXN,Jackson,Jackson County Reynolds Field,42.259799,-84.459396,America/New_York, , 
+US,KJZI,JZI,Charleston,Charleston Executive,32.700001,-80, ,Charleston,Charleston Executive
+US,KKLS,KLS,Kelso,Southwest Washington Regional,46.118,-122.898002,America/Los_Angeles, , 
+US,KLAA,LAA,Lamar,Lamar Municipal,38.069698,-102.688003,America/Denver, , 
+US,KLAF,LAF,Lafayette,Purdue University,40.4123,-86.936897,America/New_York, , 
+US,KLAL,LAL,Lakeland,Lakeland Linder Regional,27.988899,-82.0186,America/New_York, , 
+US,KLAM,LAM,Los Alamos,Los Alamos,35.879798,-106.268997,America/Denver, , 
+US,KLAN,LAN,Lansing,Capital City,42.77866,-84.586601,America/New_York,Lansing,Lansing Capital Region
+US,KLAR,LAR,Laramie,Laramie Regional,41.31361,-105.673058,America/Denver,Laramie,Laramie Regional
+US,KLAS,LAS,拉斯维加斯,McCarran,36.080051,-115.152,America/Los_Angeles,Las Vegas,Las Vegas McCarran
+US,KLAW,LAW,Lawton,Lawton Fort Sill Regional,34.560001,-98.410004,America/Chicago,Lawton,Lawton Fort Sill Regional
+US,KLAX,LAX,洛杉矶,洛杉矶,33.94252,-118.406998,America/Los_Angeles,Los Angeles,Los Angeles
+US,KLBB,LBB,Lubbock,Lubbock Preston Smith,33.663631,-101.821999,America/Chicago,Lubbock,Lubbock Preston Smith
+US,KLBE,LBE,Latrobe,Arnold Palmer Regional,40.274601,-79.4067,America/New_York,Latrobe,Latrobe Arnold Palmer Regional
+US,KLBF,LBF,North Platte,North Platte Regional  Lee Bird Field,41.126202,-100.683601,America/Chicago,North Platte,North Platte Regional
+US,KLBL,LBL,Liberal,Liberal Mid-America Regional,37.044167,-100.959999,America/Chicago,Liberal,Liberal Mid-America Regional
+US,KLBT,LBT,Lumberton,Lumberton Regional,34.609901,-79.059402,America/New_York, , 
+US,KLBX,LJN,Angleton,Texas Gulf Coast Regional,29.1086,-95.462097,America/Chicago, , 
+US,KLCH,LCH,Lake Charles,Lake Charles Regional,30.12608,-93.223396,America/Chicago,Lake Charles,Lake Charles Regional
+US,KLCK,LCK,Columbus,Rickenbacker,39.813782,-82.927803,America/New_York,Columbus,Columbus Rickenbacker
+US,KLCQ,LCQ,Lake City,Lake City Gateway,30.181999,-82.576896,America/New_York, , 
+US,KLDJ,LDJ,Linden,Linden,40.617401,-74.244598,America/New_York, , 
+US,KLEB,LEB,Lebanon,Lebanon Municipal,43.62611,-72.3041,America/New_York,Lebanon,Lebanon Municipal
+US,KLEW,LEW,Lewiston,Auburn Lewiston Municipal,44.0485,-70.2835,America/New_York, , 
+US,KLEX,LEX,Lexington KY,Blue Grass,38.036499,-84.605797,America/New_York,Lexington,Lexington Blue Grass
+US,KLFI,LFI,Hampton,Langley Air Force Base,37.082901,-76.360496,America/New_York, , 
+US,KLFK,LFK,Lufkin,Angelina County,31.233999,-94.75,America/Chicago, , 
+US,KLFT,LFT,Lafayette,Lafayette Regional,30.20525,-91.987602,America/Chicago,Lafayette,Lafayette Regional
+US,KLGA,LGA,纽约,La Guardia,40.777248,-73.872597,America/New_York,New York,New York LaGuardia
+US,KLGB,LGB,Long Beach,Long Beach /Daugherty Field/,33.817719,-118.151001,America/Los_Angeles,Long Beach,Long Beach
+US,KLGC,LGC,LaGrange,Lagrange Callaway,33.008899,-85.072601,America/New_York, , 
+US,KLGU,LGU,Logan,Logan-Cache,41.791198,-111.851997,America/Denver, , 
+US,KLHV,LHV,Lock Haven,William T. Piper Memorial,41.135601,-77.422302,America/New_York, , 
+US,KLHW,LIY,Wright,Wright AAF (Fort Stewart)/Midcoast Regional,31.889099,-81.562303,America/New_York, , 
+US,KLIT,LIT,Little Rock,Bill & Hillary Clinton National /Adams Field,34.729439,-92.224297,America/Chicago,Little Rock,Little Rock Clinton National
+US,KLKP,LKP,Lake Placid,Lake Placid,44.264499,-73.961898,America/New_York, , 
+US,KLKV,LKV,Lakeview,Lake County,42.161098,-120.399002,America/Los_Angeles, , 
+US,KLMT,LMT,Klamath Falls,Crater Lake-Klamath Regional,42.156101,-121.733002,America/Los_Angeles, , 
+US,KLNA,LNA,West Palm Beach,Palm Beach County Park,26.593,-80.085098,America/New_York, , 
+US,KLNK,LNK,Lincoln,Lincoln,40.850971,-96.759201,America/Chicago,Lincoln,Lincoln
+US,KLNN,LNN,Willoughby,Willoughby Lost Nation Municipal,41.683998,-81.389701,America/New_York, , 
+US,KLNR,LNR,Lone Rock,Tri-County Regional,43.2117,-90.181602,America/Chicago, , 
+US,KLNS,LNS,Lancaster,Lancaster,40.12236,-76.294296,America/New_York,Lancaster,Lancaster
+US,KLOM,BBX,Philadelphia,Wings Field,40.1375,-75.265098,America/New_York, , 
+US,KLOT,LOT,Lockport,Lewis University,41.607299,-88.096199,America/Chicago, , 
+US,KLOU,LOU,Louisville,Bowman Field,38.228,-85.663696,America/New_York, , 
+US,KLOZ,LOZ,London,London-Corbin /Magee Field,37.082199,-84.084899,America/New_York, , 
+US,KLPC,LPC,Lompoc,Lompoc,34.665599,-120.468002,America/Los_Angeles, , 
+US,KLRD,LRD,Laredo,Laredo,27.543791,-99.461502,America/Chicago,Laredo,Laredo
+US,KLRF,LRF,Jacksonville,Little Rock Air Force Base,34.9169,-92.149696,America/Chicago, , 
+US,KLRU,LRU,Las Cruces,Las Cruces,32.289398,-106.921997,America/Denver, , 
+US,KLSE,LSE,La Crosse,La Crosse Municipal,43.879261,-91.256599,America/Chicago,La Crosse,La Crosse Regional
+US,KLSF,LSF,Fort Benning,Lawson Army Air Field (Fort Benning),32.337299,-84.991302,America/New_York, , 
+US,KLSV,LSV,拉斯维加斯,Nellis Air Force Base,36.236198,-115.033996,America/Los_Angeles, , 
+US,KLTS,LTS,Altus,Altus Air Force Base,34.667098,-99.2667,America/Chicago, , 
+US,KLUF,LUF,菲尼克斯,Luke Air Force Base,33.534999,-112.383003,America/Phoenix, , 
+US,KLUK,LUK,Cincinnati,Cincinnati Municipal  Lunken Field,39.103329,-84.418602,America/New_York,Cincinnati,Cincinnati Municipal Lunken
+US,KLVK,LVK,Livermore,Livermore Municipal,37.69389,-121.817223,America/Los_Angeles,Livermore,Livermore Municipal
+US,KLVM,LVM,Livingston-Montana,Mission Field,45.699401,-110.447998,America/Denver, , 
+US,KLVS,LVS,拉斯维加斯,Las Vegas Municipal,35.654201,-105.141998,America/Denver, , 
+US,KLWB,LWB,Lewisburg,Greenbrier Valley,37.859722,-80.398613,America/New_York,Lewisburg,Lewisburg Greenbrier Valley
+US,KLWC,LWC,Lawrence,Lawrence Municipal,39.009167,-95.217499,America/Chicago,Lawrence,Lawrence Municipal
+US,KLWM,LWM,Lawrence,Lawrence Municipal,42.717201,-71.123397,America/New_York, , 
+US,KLWS,LWS,Lewiston,Lewiston Nez Perce County,46.3745,-117.014999,America/Los_Angeles, , 
+US,KLWT,LWT,Lewistown,Lewistown Municipal,47.049301,-109.467002,America/Denver, , 
+US,KLYH,LYH,Lynchburg,Lynchburg Regional Preston Glenn Field,37.325378,-79.200401,America/New_York,Lynchburg,Lynchburg Regional
+US,KLZU,LZU,Lawrenceville,Gwinnett County Briscoe Field,33.970001,-83.959999,America/New_York,Lawrenceville,Lawrenceville Gwinnett County
+US,KMAE,MAE,Madera,Madera Municipal,36.988601,-120.111999,America/Los_Angeles, , 
+US,KMAF,MAF,Midland,Midland,31.94252,-102.200996,America/Chicago,Midland,Midland
+US,KMBL,MBL,Manistee,Manistee Co Blacker,44.272399,-86.246902,America/New_York, , 
+US,KMBS,MBS,Saginaw,MBS,43.532909,-84.079597,America/New_York,Saginaw,Saginaw MBS
+US,KMCC,MCC,Sacramento,Mc Clellan Airfield,38.667598,-121.401001,America/Los_Angeles, , 
+US,KMCE,MCE,Merced,Merced Regional Macready Field,37.284721,-120.512779,America/Los_Angeles,Merced,Merced Municipal
+US,KMCF,MCF,Tampa,Mac Dill Air Force Base,27.8493,-82.521202,America/New_York, , 
+US,KMCI,MCI,Kansas City,Kansas City,39.2976,-94.713898,America/Chicago,Kansas City,Kansas City
+US,KMCK,MCK,McCook,Mc Cook Ben Nelson Regional,40.206268,-100.592003,America/Chicago,McCook,McCook Ben Nelson Regional
+US,KMCN,MCN,Macon,Middle Georgia Regional,32.692848,-83.6492,America/New_York,Macon,Macon Middle Georgia Regional
+US,KMCO,MCO,奥兰多,Orlando,28.42939,-81.308899,America/New_York,Orlando,Orlando
+US,KMCW,MCW,Mason City,Mason City Municipal,43.156944,-93.329445,America/Chicago,Mason City,Mason City Municipal
+US,KMDT,MDT,Harrisburg,Harrisburg,40.193489,-76.763397,America/New_York,Harrisburg,Harrisburg
+US,KMDW,MDW,芝加哥,Chicago Midway,41.785969,-87.752403,America/Chicago,Chicago,Chicago Midway
+US,KMEI,MEI,Meridian,Key Field,32.337223,-88.749168,America/Chicago,Meridian,Meridian Regional
+US,KMEM,MEM,Memphis,Memphis,35.042412,-89.976601,America/Chicago,Memphis,Memphis
+US,KMER,MER,Merced,Castle,37.3805,-120.568,America/Los_Angeles, , 
+US,KMEV,MEV,Minden,Minden Tahoe,39,-119.75, ,Minden,Minden Tahoe
+US,KMFD,MFD,Mansfield,Mansfield Lahm Regional,40.821399,-82.516601,America/New_York, , 
+US,KMFE,MFE,Mcallen,Mc Allen Miller,26.175831,-98.238602,America/Chicago,McAllen,McAllen Miller
+US,KMFI,MFI,Marshfield,Marshfield Municipal,44.636901,-90.1893,America/Chicago, , 
+US,KMFR,MFR,Medford,Rogue ValleyMedford,42.374222,-122.873001,America/Los_Angeles,Medford,Medford Rogue Valley
+US,KMGC,MGC,Michigan City,Michigan City Municipal,41.7033,-86.821197,America/Chicago, , 
+US,KMGE,MGE,Marietta,Dobbins Air Reserve Base,33.915401,-84.516296,America/New_York, , 
+US,KMGJ,MGJ,Montgomery,Orange County,41.509998,-74.264602,America/New_York, , 
+US,KMGM,MGM,MONTGOMERY,Montgomery Regional (Dannelly Field),32.300629,-86.393898,America/Chicago,Montgomery,Montgomery Regional
+US,KMGW,MGW,Morgantown,Morgantown Municipal Walter L. Bill Hart Field,39.642776,-79.915833,America/New_York,Morgantown,Morgantown Municipal
+US,KMGY,MGY,Dayton,Dayton-Wright Brothers,39.589,-84.224899,America/New_York, , 
+US,KMHK,MHK,Manhattan,Manhattan Regional,39.140968,-96.670799,America/Chicago,Manhattan,Manhattan Regional
+US,KMHR,MHR,Sacramento,Sacramento Mather,38.55526,-121.296997,America/Los_Angeles,Sacramento,Sacramento Mather
+US,KMHT,MHT,Manchester NH,Manchester-Boston Regional,42.9328,-71.435699,America/New_York,Manchester,Manchester Boston Regional
+US,KMHV,MHV,Mojave,Mojave,35.059398,-118.152,America/Los_Angeles, , 
+US,KMIA,MIA,迈阿密,Miami,25.793249,-80.290497,America/New_York,Miami,Miami
+US,KMIB,MIB,Minot,Minot Air Force Base,48.4156,-101.358002,America/Chicago, , 
+US,KMIE,MIE,Muncie,Delaware County Johnson Field,40.242298,-85.395896,America/New_York, , 
+US,KMIV,MIV,Millville,Millville Municipal,39.367802,-75.072197,America/New_York, , 
+US,KMKC,MKC,Kansas City,Charles B. Wheeler Downtown,39.123199,-94.592796,America/Chicago, , 
+US,KMKE,MKE,Milwaukee,General Mitchell,42.94722,-87.8965,America/Chicago,Milwaukee,Milwaukee General Mitchell
+US,KMKG,MKG,Muskegon,Muskegon County,43.169479,-86.238197,America/New_York,Muskegon,Muskegon County
+US,KMKL,MKL,Jackson,Mc Kellar Sipes Regional,35.59988,-88.915604,America/Chicago,Jackson,Jackson McKellar Sipes Regional
+US,KMKT,MKT,Mankato,Mankato Regional,44.22361,-93.918335, ,Mankato,Mankato Regional
+US,KMKY,MRK,Marco Island,Marco Island,25.995,-81.6725,America/New_York, , 
+US,KMLB,MLB,墨尔本,Melbourne,28.102751,-80.645203,America/New_York,Melbourne,Melbourne
+US,KMLC,MLC,Mcalester,Mc Alester Regional,34.882401,-95.783501,America/Chicago, , 
+US,KMLI,MLI,Moline,Quad City,41.453896,-90.506111,America/Chicago,Moline,Moline Quad City
+US,KMLS,MLS,Miles City,Frank Wiley Field,46.428001,-105.886001,America/Denver, , 
+US,KMLU,MLU,Monroe,Monroe Regional,32.51086,-92.037598,America/Chicago,Monroe,Monroe Regional
+US,KMMH,MMH,Mammoth Lakes,Mammoth Yosemite,37.631111,-118.851387,America/Los_Angeles,Mammoth Lakes,Mammoth Yosemite
+US,KMMI,MMI,Athens,McMinn County,35.3973,-84.562599,America/New_York, , 
+US,KMMU,MMU,Morristown,Morristown Municipal,40.799168,-74.415833,America/New_York,Morristown,Morristown Municipal
+US,KMMV,MMV,McMinnville,McMinnville Municipal,45.194439,-123.135002, ,McMinnville,McMinnville Municipal
+US,KMNM,MNM,Macon,Menominee Regional,45.126701,-87.638397,America/Chicago, , 
+US,KMOB,MOB,Mobile,Mobile Regional,30.69141,-88.242798,America/Chicago,Mobile,Mobile Regional
+US,KMOD,MOD,Modesto,Modesto City Co-Harry Sham Field,37.625801,-120.954002,America/Los_Angeles, , 
+US,KMOT,MOT,Minot,Minot,48.257629,-101.278,America/Chicago,Minot,Minot
+US,KMPI,RMY,Mariposa,Mariposa Yosemite,37.510898,-120.04,America/Los_Angeles, , 
+US,KMPV,MPV,Montpelier,Edward F Knapp State,44.203498,-72.562301,America/New_York, , 
+US,KMQI,MEO,Manteo,Dare County Regional,35.918998,-75.695503,America/New_York, , 
+US,KMQS,CTH,Coatesville,Chester County G O Carlson,39.979,-75.865501,America/New_York, , 
+US,KMQY,MQY,Smyrna,Smyrna,36.008998,-86.520103,America/Chicago, , 
+US,KMRB,MRB,Martinsburg,Eastern WV Regional /Shepherd Field,39.401901,-77.984596,America/New_York, , 
+US,KMRY,MRY,Monterey,Monterey Peninsula,36.587002,-121.842003,America/Los_Angeles,Monterey,Monterey Regional
+US,KMSL,MSL,Muscle Shoals,Northwest Alabama Regional,34.740002,-87.610001,America/Chicago,Muscle Shoals,Muscle Shoals Northwest Alabama Regional
+US,KMSN,MSN,Madison,Dane County Regional Truax Field,43.139851,-89.337502,America/Chicago,Madison,Madison Dane County Regional
+US,KMSO,MSO,Missoula,Missoula,46.916302,-114.089996,America/Denver,Missoula,Missoula
+US,KMSP,MSP,Minneapolis,Minneapolis-St Paul International/Wold-Chamberlain,44.88195,-93.221703,America/Chicago,Minneapolis,Minneapolis Saint Paul
+US,KMSS,MSS,Massena,MassenaRichards Field,44.935829,-74.845497,America/New_York,Massena,Massena
+US,KMSY,MSY,New Orleans,Louis Armstrong New Orleans,29.99338,-90.258003,America/Chicago,New Orleans,New Orleans Louis Armstrong
+US,KMTC,MTC,Mount Clemens,Selfridge Air National Guard Base,42.613463,-82.836919,America/New_York, , 
+US,KMTH,MTH,Marathon,The Florida Keys Marathon,24.726101,-81.051399,America/New_York, , 
+US,KMTJ,MTJ,Montrose CO,Montrose Regional,38.509789,-107.893997,America/Denver,Montrose,Montrose Regional
+US,KMTN,MTN,Baltimore,Martin State,39.325699,-76.413803,America/New_York, , 
+US,KMUO,MUO,Mountain Home,Mountain Home Air Force Base,43.043598,-115.872002,America/Denver, , 
+US,KMVL,MVL,Morrisville,Morrisville Stowe State,44.534599,-72.613998,America/New_York, , 
+US,KMVY,MVY,Vineyard Haven MA,Martha's Vineyard,41.389336,-70.611816,America/New_York,Martha's Vineyard,Martha's Vineyard
+US,KMWA,MWA,Marion,Williamson County Regional,37.755001,-89.0111,America/Chicago, , 
+US,KMWC,MWC,Milwaukee,Lawrence J Timmerman,43.110401,-88.034401,America/Chicago, , 
+US,KMWH,MWH,Grant County,Grant County,47.207698,-119.319999,America/Los_Angeles, , 
+US,KMWL,MWL,Mineral Wells,Mineral Wells,32.7816,-98.060203,America/Chicago, , 
+US,KMXF,MXF,Montgomery,Maxwell Air Force Base,32.3829,-86.365799,America/Chicago, , 
+US,KMYL,MYL,McCall,McCall Municipal,44.889701,-116.100997,America/Denver, , 
+US,KMYR,MYR,Myrtle Beach,Myrtle Beach,33.679749,-78.928299,America/New_York,Myrtle Beach,Myrtle Beach
+US,KMYV,MYV,Yuba City,Yuba County,39.097801,-121.569999,America/Los_Angeles, , 
+US,KMZJ,MZJ,Marana,Pinal Airpark,32.510601,-111.328002,America/Phoenix, , 
+US,KNBG,NBG,New Orleans,New Orleans NAS JRB/Alvin Callender Field,29.8253,-90.035003,America/Chicago, , 
+US,KNEL,NEL,Lakehurst,Lakehurst Maxfield Field,40.033298,-74.353302,America/New_York, , 
+US,KNEW,NEW,New Orleans,Lakefront,30.0424,-90.028297,America/Chicago, , 
+US,KNFL,NFL,Fallon,Fallon Naval Air Station,39.416599,-118.700996,America/Los_Angeles, , 
+US,KNFW,FWH,Dallas,NAS Fort Worth JRB/Carswell Field,32.769199,-97.441497,America/Chicago, , 
+US,KNGU,NGU,Norfolk,Norfolk Naval Station (Chambers Field),36.937462,-76.2892,America/New_York,Norfolk,Norfolk NS
+US,KNGZ,NGZ,Alameda,Alameda Naval Air Station,37.788898,-122.319999,America/Los_Angeles, , 
+US,KNHK,NHK,Patuxent River,Patuxent River Naval Air Station (Trapnell Field),38.285999,-76.411797,America/New_York, , 
+US,KNIP,NIP,Jacksonville,Jacksonville Naval Air Station (Towers Field),30.2358,-81.680603,America/New_York, , 
+US,KNJK,NJK,El Centro,El Centro Naval Air Facility,32.829201,-115.671997,America/Los_Angeles, , 
+US,KNKX,NKX,Miramar,Miramar Marine Corps Air Station - Mitscher Field,32.8684,-117.142997,America/Los_Angeles, , 
+US,KNLC,NLC,Lemoore,Lemoore Naval Air Station (Reeves Field),36.333,-119.952003,America/Los_Angeles, , 
+US,KNPA,NPA,Pensacola,Pensacola Naval Air Station/Forrest Sherman Field,30.352699,-87.318603,America/Chicago, , 
+US,KNQA,NQA,Millington,Millington-Memphis,35.356701,-89.8703,America/Chicago, , 
+US,KNQI,NQI,Kingsville,Kingsville Naval Air Station,27.5072,-97.8097,America/Chicago, , 
+US,KNQX,NQX,Key West,Naval Air Station Key West/Boca Chica Field,24.575799,-81.688903,America/New_York, , 
+US,KNSE,NSE,Milton,Whiting Field Naval Air Station - North,30.724199,-87.021896,America/Chicago, , 
+US,KNTD,NTD,Point Mugu,Point Mugu Naval Air Station (Naval Base Ventura Co),34.1203,-119.121002,America/Los_Angeles, , 
+US,KNTU,NTU,Oceana,Oceana Naval Air Station,36.820702,-76.033501,America/New_York, , 
+US,KNUQ,NUQ,Mountain View,Moffett Federal Airfield,37.416142,-122.049004,America/Los_Angeles,Mountain View,Mountain View Moffett Federal Airfield
+US,KNUW,NUW,Whidbey Island,Whidbey Island Naval Air Station (Ault Field),48.351799,-122.655998,America/Los_Angeles, , 
+US,KNXX,NXX,Willow Grove,Willow Grove Naval Air Station/Joint Reserve Base,40.199798,-75.1482,America/New_York, , 
+US,KNZJ,NZJ,Santa Ana,El Toro Marine Corps Air Station,33.676101,-117.731002,America/Los_Angeles, , 
+US,KNZY,NZY,圣地亚哥,North Island Naval Air Station-Halsey Field,32.699199,-117.214996,America/Los_Angeles, , 
+US,KOAJ,OAJ,Jacksonville NC,Albert J Ellis,34.830441,-77.605835,America/New_York,Jacksonville,Jacksonville Albert J. Ellis
+US,KOAK,OAK,Oakland,Metropolitan Oakland,37.721272,-122.220001,America/Los_Angeles,Oakland,Oakland
+US,KOAR,OAR,Fort Ord,Marina Municipal,36.6819,-121.762001,America/Los_Angeles, , 
+US,KOBE,OBE,Okeechobee,Okeechobee County,27.2628,-80.8498,America/New_York, , 
+US,KOCF,OCF,Ocala,Ocala - Jim Taylor Field,29.174091,-82.221596,America/New_York,Ocala,Ocala
+US,KOCH,OCH,Nacogdoches,Nacogdoches,31.583332,-94.699997, ,Nacogdoches,Nacogdoches
+US,KOCW,OCW,华盛顿,Warren Field,35.570499,-77.049797,America/New_York, , 
+US,KOFF,OFF,Omaha,Offutt Air Force Base,41.118301,-95.912498,America/Chicago, , 
+US,KOGD,OGD,Ogden,Ogden Hinckley,41.195899,-112.012001,America/Denver, , 
+US,KOGS,OGS,Ogdensburg,Ogdensburg,44.681862,-75.4655,America/New_York,Ogdensburg,Ogdensburg
+US,KOJC,OJC,Olathe,Johnson County Executive,38.847599,-94.737602,America/Chicago, , 
+US,KOKC,OKC,Oklahoma City,Will Rogers World,35.393082,-97.6007,America/Chicago,Oklahoma City,Oklahoma City Will Rogers World
+US,KOKM,OKM,Okmulgee,Okmulgee Regional,35.668098,-95.948699,America/Chicago, , 
+US,KOLF,OLF,Wolf Point,L M Clayton,48.094501,-105.574996,America/Denver, , 
+US,KOLM,OLM,Olympia,Olympia Regional,46.969398,-122.902999,America/Los_Angeles, , 
+US,KOLS,OLS,Nogales,Nogales,31.4177,-110.848,America/Phoenix, , 
+US,KOLV,OLV,Olive Branch,Olive Branch,34.978698,-89.786903,America/Chicago, , 
+US,KOMA,OMA,Omaha,Eppley Airfield,41.303162,-95.893997,America/Chicago,Omaha,Omaha Eppley Airfield
+US,KONO,ONO,Ontario,Ontario Municipal,44.0205,-117.013999,America/Denver, , 
+US,KONP,ONP,Newport,Newport Municipal,44.580399,-124.057999,America/Los_Angeles, , 
+US,KONT,ONT,Ontario,Ontario,34.056,-117.600998,America/Los_Angeles,Ontario,Ontario
+US,KOPF,OPF,迈阿密,Opa-locka Executive,25.907,-80.278297,America/New_York,Miami,Miami Opa Locka Executive
+US,KOQU,NCO,North Kingstown,Quonset State,41.597099,-71.412101,America/New_York, , 
+US,KORD,ORD,芝加哥,奥黑尔,41.978142,-87.9058,America/Chicago,Chicago,Chicago O'Hare
+US,KORF,ORF,Norfolk,Norfolk,36.894611,-76.201202,America/New_York,Norfolk,Norfolk
+US,KORH,ORH,Worcester,Worcester Regional,42.269169,-71.874443,America/New_York,Worcester,Worcester Regional
+US,KORL,ORL,奥兰多,Orlando Executive,28.5455,-81.332901,America/New_York, , 
+US,KORS,ESD,Eastsound,Orcas Island,48.708198,-122.910003,America/Los_Angeles, , 
+US,KOSC,OSC,Oscoda,Oscoda Wurtsmith,44.450001,-83.389999,America/New_York,Oscoda,Oscoda Wurtsmith
+US,KOSH,OSH,Oshkosh,Wittman Regional,43.984401,-88.556999,America/Chicago, , 
+US,KOSU,OSU,Columbus,The Ohio State University  - Don Scott Field,40.0798,-83.072998,America/New_York, , 
+US,KOTH,OTH,North Bend,Southwest Oregon Regional,43.418888,-124.239998,America/Los_Angeles,North Bend,North Bend Southwest Oregon Regional
+US,KOWB,OWB,Owensboro,Owensboro Daviess County,37.7401,-87.166801,America/Chicago, , 
+US,KOWD,OWD,Norwood,Norwood Memorial,42.190498,-71.172897,America/New_York, , 
+US,KOXC,OXC,Oxford,Waterbury Oxford,41.478599,-73.1352,America/New_York, , 
+US,KOXR,OXR,Oxnard,Oxnard,34.200801,-119.207,America/Los_Angeles, , 
+US,KOZA,OZA,Ozona,Ozona Municipal,30.7353,-101.203002,America/Chicago, , 
+US,KPAE,PAE,Everett,Snohomish County (Paine Field),47.9077,-122.282799,America/Los_Angeles,Everett,Everett Paine Field
+US,KPAH,PAH,PADUCAH,Barkley Regional,37.06028,-88.772903,America/Chicago,Paducah,Paducah Barkley Regional
+US,KPAM,PAM,Panama City,Tyndall Air Force Base,30.069599,-85.575401,America/Chicago, , 
+US,KPAO,PAO,Palo Alto,Palo Alto  of Santa Clara County,37.461101,-122.114997,America/Los_Angeles, , 
+US,KPBF,PBF,Pine Bluff,Grider Field,34.173099,-91.9356,America/Chicago, , 
+US,KPBG,PBG,Plattsburgh,Plattsburgh,44.65094,-73.468102,America/New_York,Plattsburgh,Plattsburgh
+US,KPBI,PBI,West Palm Beach,Palm Beach,26.683161,-80.095497,America/New_York,West Palm Beach,West Palm Beach
+US,KPBX,PVL,Pikeville,Pike County-Hatcher Field,37.561798,-82.566398,America/New_York, , 
+US,KPDK,PDK,亚特兰大,DeKalb Peachtree,33.869999,-84.300003,America/New_York,Atlanta,Atlanta DeKalb Peachtree
+US,KPDT,PDT,Pendleton,Eastern Oregon Regional At Pendleton,45.698334,-118.836113,America/Los_Angeles,Pendleton,Pendleton Eastern Oregon Regional
+US,KPDX,PDX,Portland,Portland,45.588718,-122.597,America/Los_Angeles,Portland,Portland
+US,KPEQ,PEQ,Pecos,Pecos Municipal,31.3824,-103.511001,America/Chicago, , 
+US,KPFN,PFN,Panama City,Panama City-Bay Co,30.212099,-85.6828,America/Chicago, , 
+US,KPGA,PGA,Page,Page Municipal,36.926083,-111.448357,America/Phoenix,Page,Page Municipal
+US,KPGD,PGD,Punta Gorda,Charlotte County,26.918888,-81.990829,America/New_York,Punta Gorda,Punta Gorda
+US,KPGV,PGV,Greenville,Pitt Greenville,35.63525,-77.3853,America/New_York,Greenville,Greenville Pitt
+US,KPHD,PHD,New Philadelpha,Harry Clever Field,40.470901,-81.4197,America/New_York, , 
+US,KPHF,PHF,Newport News,Newport News Williamsburg,37.131889,-76.492897,America/New_York,Newport News,Newport News Williamsburg
+US,KPHK,PHK,Pahokee,Palm Beach County Glades,26.784999,-80.693397,America/New_York, , 
+US,KPHL,PHL,Philadelphia,Philadelphia,39.871941,-75.241096,America/New_York,Philadelphia,Philadelphia
+US,KPHN,PHN,Port Huron,St Clair County,42.910999,-82.5289,America/New_York, , 
+US,KPHX,PHX,菲尼克斯,Phoenix Sky Harbor,33.434269,-112.011002,America/Phoenix,Phoenix,Phoenix Sky Harbor
+US,KPIA,PIA,Peoria,General Wayne A. Downing Peoria,40.6642,-89.693199,America/Chicago,Peoria,Peoria
+US,KPIB,PIB,Hattiesburg/Laurel,Hattiesburg Laurel Regional,31.467501,-89.33667,America/Chicago,Hattiesburg,Hattiesburg Laurel Regional
+US,KPIE,PIE,St. Petersburg,St Petersburg Clearwater,27.91,-82.687401,America/New_York,St. Petersburg,St. Petersburg Clearwater
+US,KPIH,PIH,Pocatello,Pocatello Regional,42.909801,-112.596,America/Denver, , 
+US,KPIM,PIM,Pine Mountain,Harris County,32.840698,-84.8824,America/New_York, , 
+US,KPIR,PIR,Pierre,Pierre Regional,44.38269,-100.285004,America/Chicago,Pierre,Pierre Regional
+US,KPIT,PIT,Pittsburgh,Pittsburgh,40.49147,-80.232803,America/New_York,Pittsburgh,Pittsburgh
+US,KPKB,PKB,PARKERSBURG,Mid Ohio Valley Regional,39.345554,-81.438889,America/New_York,Parkersburg,Parkersburg Mid-Ohio Valley Regional
+US,KPLN,PLN,Pellston,Pellston Regional  of Emmet County,45.570831,-84.792778,America/New_York,Pellston,Pellston Regional
+US,KPMB,PMB,Pembina,Pembina Municipal,48.942501,-97.240798,America/Chicago, , 
+US,KPMD,PMD,Palmdale,Palmdale Regional/USAF Plant 42,34.629398,-118.084999,America/Los_Angeles, , 
+US,KPMP,PPM,Pompano Beach,Pompano Beach Airpark,26.2471,-80.111099,America/New_York, , 
+US,KPNC,PNC,Ponca City,Ponca City Regional,36.731998,-97.0998,America/Chicago, , 
+US,KPNE,PNE,Philadelphia,Northeast Philadelphia,40.081902,-75.010597,America/New_York, , 
+US,KPNS,PNS,Pensacola,Pensacola Regional,30.473419,-87.1866,America/Chicago,Pensacola,Pensacola
+US,KPOB,POB,Fort Bragg,Pope Field,35.170898,-79.014503,America/New_York, , 
+US,KPOC,POC,La Verne,Brackett Field,34.091598,-117.781997,America/Los_Angeles, , 
+US,KPOE,POE,Fort Polk,Polk Army Air Field,31.044799,-93.191703,America/Chicago, , 
+US,KPOF,POF,Poplar Bluff,Poplar Bluff Municipal,36.773899,-90.324897,America/Chicago, , 
+US,KPQI,PQI,Presque Isle,Northern Maine Regional  at Presque Isle,46.688969,-68.0448,America/New_York,Presque Isle,Presque Isle Northern Maine
+US,KPRC,PRC,Prescott,Ernest A. Love Field,34.654469,-112.418999,America/Phoenix,Prescott,Prescott Municipal
+US,KPSC,PSC,Pasco,Tri Cities,46.26469,-119.119003,America/Los_Angeles,Pasco,Pasco Tri-Cities
+US,KPSM,PSM,Portsmouth,Portsmouthat Pease,43.077899,-70.823303,America/New_York, , 
+US,KPSP,PSP,Palm Springs,Palm Springs,33.829659,-116.505997,America/Los_Angeles,Palm Springs,Palm Springs
+US,KPSX,PSX,Palacios,Palacios Municipal,28.7275,-96.250999,America/Chicago, , 
+US,KPTB,PTB,Petersburg,Dinwiddie County,37.183799,-77.5074,America/New_York, , 
+US,KPTK,PTK,Pontiac,Oakland County,42.6655,-83.420097,America/New_York, , 
+US,KPTW,PTW,Pottstown,Pottstown Heritage Field,40.260372,-75.669518, ,Pottstown,Pottstown Heritage Field
+US,KPUB,PUB,Pueblo,Pueblo Memorial,38.289131,-104.496002,America/Denver,Pueblo,Pueblo Memorial
+US,KPUC,PUC,Price,Carbon County Regional/Buck Davis Field,39.613899,-110.750999,America/Denver, , 
+US,KPUW,PUW,Pullman,Pullman Moscow Regional,46.74472,-117.105003,America/Los_Angeles,Pullman,Pullman Moscow Regional
+US,KPVC,PVC,Provincetown,Provincetown Municipal,42.071991,-70.221298,America/New_York,Provincetown,Provincetown Municipal
+US,KPVD,PVD,Providence,Theodore Francis Green State,41.723991,-71.4282,America/New_York,Providence,Providence Theodore Francis Green
+US,KPVU,PVU,Provo,Provo Municipal,40.218056,-111.722221,America/Denver,Provo,Provo Municipal
+US,KPWA,PWA,Oklahoma City,Wiley Post,35.534161,-97.647003,America/Chicago,Oklahoma City,Oklahoma City Wiley Post
+US,KPWK,PWK,Chicago-Wheeling,Chicago Executive,42.114166,-87.901665,America/Chicago,Chicago,Chicago Executive
+US,KPWM,PWM,Portland,PortlandJetport,43.64616,-70.309196,America/New_York,Portland,Portland International Jetport
+US,KPWT,PWT,Bremerton,Bremerton National,47.4902,-122.764999,America/Los_Angeles, , 
+US,KPYM,PYM,Plymouth,Plymouth Municipal,41.909,-70.728798,America/New_York, , 
+US,KQA,KQA,Akutan,Akutan Seaplane Base,54.13377,-165.778895,America/Anchorage, , 
+US,KRAC,RAC,Racine,John H Batten,42.760601,-87.8152,America/Chicago, , 
+US,KRAL,RAL,Riverside,Riverside Municipal,33.9519,-117.444999,America/Los_Angeles, , 
+US,KRAP,RAP,Rapid City,Rapid City Regional,44.04533,-103.056999,America/Denver,Rapid City,Rapid City Regional
+US,KRBD,RBD,Dallas,Dallas Executive,32.6809,-96.868202,America/Chicago, , 
+US,KRBL,RBL,Red Bluff,Red Bluff Municipal,40.150699,-122.251998,America/Los_Angeles, , 
+US,KRCA,RCA,Rapid City,Ellsworth Air Force Base,44.145,-103.103996,America/Denver, , 
+US,KRDD,RDD,Redding,Redding Municipal,40.508999,-122.292999,America/Los_Angeles,Redding,Redding Municipal
+US,KRDG,RDG,Reading,Reading Regional Carl A Spaatz Field,40.378501,-75.965202,America/New_York, , 
+US,KRDM,RDM,Redmond-Bend,Roberts Field,44.254051,-121.149002,America/Los_Angeles,Redmond,Redmond Municipal
+US,KRDR,RDR,Red River,Grand Forks Air Force Base,47.961101,-97.401199,America/Chicago, , 
+US,KRDU,RDU,Raleigh-durham,Raleigh Durham,35.877628,-78.787399,America/New_York,Raleigh-Durham,Raleigh-Durham
+US,KRFD,RFD,Rockford,Chicago Rockford,42.195278,-89.097221,America/Chicago,Chicago,Chicago Rockford
+US,KRHI,RHI,Rhinelander,Rhinelander Oneida County,45.631191,-89.4674,America/Chicago,Rhinelander,Rhinelander Oneida County
+US,KRIC,RIC,Richmond,Richmond,37.505161,-77.319603,America/New_York,Richmond,Richmond
+US,KRIL,RIL,Rifle,Garfield County Regional,39.526299,-107.726997,America/Denver, , 
+US,KRIV,RIV,Riverside,March ARB,33.880699,-117.259003,America/Los_Angeles, , 
+US,KRIW,RIW,Riverton WY,Riverton Regional,43.064445,-108.456947,America/Denver,Riverton,Riverton Regional
+US,KRKD,RKD,Rockland,Knox County Regional,44.059166,-69.098053,America/New_York,Rockland,Rockland Knox County Regional
+US,KRKP,RKP,Rockport,Aransas County,28.086799,-97.044601,America/Chicago, , 
+US,KRKS,RKS,Rock Springs,Southwest Wyoming Regional,41.59639,-109.065834,America/Denver,Rock Springs,Rock Springs Sweetwater County
+US,KRME,RME,罗马,Griffiss,43.233798,-75.406997,America/New_York, , 
+US,KRMG,RMG,罗马,Richard B Russell,34.350601,-85.157997,America/New_York, , 
+US,KRND,RND,San Antonio,Randolph Air Force Base,29.529699,-98.2789,America/Chicago, , 
+US,KRNO,RNO,Reno,Reno Tahoe,39.499111,-119.767998,America/Los_Angeles,Reno,Reno Tahoe
+US,KRNT,RNT,Renton,Renton Municipal,47.493099,-122.216003,America/Los_Angeles, , 
+US,KROA,ROA,Roanoke VA,Roanoke-Blacksburg Regional,37.32,-79.970001,America/New_York,Roanoke,Roanoke Regional
+US,KROC,ROC,Rochester,Greater Rochester,43.118858,-77.672302,America/New_York,Rochester,Rochester
+US,KROW,ROW,Roswell,RoswellAir Center,33.301552,-104.529999,America/Denver,Roswell,Roswell International Air Center
+US,KRST,RST,Rochester,Rochester,43.908272,-92.5,America/Chicago,Rochester,Rochester
+US,KRSW,RSW,Fort Myers,Southwest Florida,26.53616,-81.755096,America/New_York,Fort Myers,Southwest Florida
+US,KRUT,RUT,Rutland,Rutland - Southern Vermont Regional,43.529446,-72.948334,America/New_York,Rutland,Rutland Southern Vermont Regional
+US,KRVS,RVS,Tulsa,Richard Lloyd Jones Jr,36.0396,-95.984596,America/Chicago, , 
+US,KRWI,RWI,Rocky Mount,Rocky Mount Wilson Regional,35.8563,-77.891899,America/New_York, , 
+US,KRWL,RWL,Rawlins,Rawlins Municipal /Harvey Field,41.805599,-107.199996,America/Denver, , 
+US,KS39,PRZ,Prineville,Prineville,44.286998,-120.903999,America/Los_Angeles, , 
+US,KSAA,SAA,SARATOGA,Shively Field,41.444901,-106.823997,America/Denver, , 
+US,KSAC,SAC,Sacramento,Sacramento Executive,38.51252,-121.492996,America/Los_Angeles,Sacramento,Sacramento Executive
+US,KSAD,SAD,Safford,Safford Regional,32.854801,-109.635002,America/Phoenix, , 
+US,KSAF,SAF,Santa Fe,Santa Fe Municipal,35.6171,-106.088997,America/Denver,Santa Fe,Santa Fe Municipal
+US,KSAN,SAN,圣地亚哥,San Diego,32.733551,-117.189003,America/Los_Angeles,San Diego,San Diego
+US,KSAT,SAT,San Antonio,San Antonio,29.533689,-98.469704,America/Chicago,San Antonio,San Antonio
+US,KSAV,SAV,Savannah,Savannah Hilton Head,32.127579,-81.202103,America/New_York,Savannah,Savannah Hilton Head
+US,KSAW,MQT,Gwinn,Sawyer,46.35363,-87.395302,America/New_York,Marquette,Marquette Sawyer
+US,KSBA,SBA,Santa Barbara,Santa Barbara Municipal,34.426182,-119.841003,America/Los_Angeles,Santa Barbara,Santa Barbara Municipal
+US,KSBD,SBD,San Bernardino,San Bernardino,34.095401,-117.235,America/Los_Angeles, , 
+US,KSBM,SBM,Sheboygan,Sheboygan County Memorial,43.769599,-87.851402,America/Chicago, , 
+US,KSBN,SBN,South Bend,South Bend Regional,41.708221,-86.317299,America/New_York,South Bend,South Bend
+US,KSBO,SBO,Salina,Salina Gunnison,39.029121,-111.837997, ,Salina,Salina Gunnison
+US,KSBP,SBP,San Luis Obispo,San Luis County Regional,35.237259,-120.641998,America/Los_Angeles,San Luis Obispo,San Luis Obispo County Regional
+US,KSBS,SBS,Steamboat Springs,Steamboat Springs Bob Adams Field,40.5163,-106.865997,America/Denver, , 
+US,KSBY,SBY,Salisbury,Salisbury Ocean City Wicomico Regional,38.340519,-75.510201,America/New_York,Salisbury,Salisbury Ocean City Wicomico Regional
+US,KSCH,SCH,Scotia NY,Schenectady County,42.8525,-73.928901,America/New_York, , 
+US,KSCK,SCK,Stockton,Stockton Metropolitan,37.894161,-121.237999,America/Los_Angeles,Stockton,Stockton Metropolitan
+US,KSDF,SDF,Louisville,LouisvilleStandiford Field,38.17408,-85.736397,America/New_York,Louisville,Louisville
+US,KSDL,SCF,Scottsdale,Scottsdale,33.619999,-111.910004,America/Phoenix,Scottsdale,Scottsdale
+US,KSDM,SDM,圣地亚哥,Brown Field Municipal,32.572299,-116.980003,America/Los_Angeles, , 
+US,KSDY,SDY,Sidney,Sidney - Richland Regional,47.706902,-104.193001,America/Denver, , 
+US,KSEA,SEA,西雅图,塔科马,47.4482,-122.311203,America/Los_Angeles,Seattle,Tacoma
+US,KSEE,SEE,El Cajon,Gillespie Field,32.826198,-116.972,America/Los_Angeles, , 
+US,KSEF,SEF,Sebring,Sebring Regional,27.456399,-81.342399,America/New_York, , 
+US,KSEM,SEM,Selma,Craig Field,32.343898,-86.9878,America/Chicago, , 
+US,KSEP,SEP,Stephenville,Stephenville Clark Regional,32.215301,-98.177696,America/Chicago, , 
+US,KSEZ,SDX,Sedona,Sedona,34.848598,-111.788002,America/Phoenix, , 
+US,KSFB,SFB,Sanford,Orlando Sanford,28.776699,-81.235497,America/New_York,Orlando,Orlando Sanford
+US,KSFF,SFF,Spokane,Felts Field,47.6828,-117.322998,America/Los_Angeles, , 
+US,KSFO,SFO,旧金山,旧金山,37.618969,-122.374001,America/Los_Angeles,San Francisco,San Francisco
+US,KSFZ,SFZ,Smithfield,North Central State,41.920799,-71.491401,America/New_York, , 
+US,KSGF,SGF,Springfield,Springfield Branson National,37.245659,-93.388603,America/Chicago,Springfield,Springfield Branson National
+US,KSGH,SGH,Springfield,Springfield-Beckley Municipal,39.840301,-83.840202,America/New_York, , 
+US,KSGJ,UST,St. Augustine,Northeast Florida Regional,29.9592,-81.339798,America/New_York, , 
+US,KSGR,SGR,Sugar Land,Sugar Land Regional,29.622299,-95.656501,America/Chicago, , 
+US,KSGU,SGU,Saint George,St George Municipal,37.029999,-113.510002,America/Denver,St. George,St. George Regional
+US,KSHD,SHD,Weyers Cave,Shenulldoah Valley Regional,38.263889,-78.896667,America/New_York,Staunton,Staunton Shenulldoah Valley Regional
+US,KSHN,SHN,Shelton,Sanderson Field,47.2336,-123.148002,America/Los_Angeles, , 
+US,KSHR,SHR,Sheridan,Sheridan County,44.774166,-106.977219,America/Denver,Sheridan,Sheridan County
+US,KSHV,SHV,Shreveport,Shreveport Regional,32.446609,-93.8256,America/Chicago,Shreveport,Shreveport Regional
+US,KSIK,SIK,Sikeston,Sikeston Memorial Municipal,36.898899,-89.561798,America/Chicago, , 
+US,KSJC,SJC,圣何塞,Norman Y. Mineta San Jose,37.362659,-121.929001,America/Los_Angeles,San Jose,San Jose
+US,KSJT,SJT,San Angelo,San Angelo Regional Mathis Field,31.35775,-100.496002,America/Chicago,San Angelo,San Angelo Regional
+US,KSKA,SKA,Spokane,Fairchild Air Force Base,47.6151,-117.655998,America/Los_Angeles, , 
+US,KSKF,SKF,San Antonio,Lackland Air Force Base,29.384199,-98.5811,America/Chicago, , 
+US,KSKY,SKY,Sandusky,Griffing Sandusky,41.433399,-82.652297,America/New_York, , 
+US,KSLC,SLC,Salt Lake City,Salt Lake City,40.78838,-111.976997,America/Denver,Salt Lake City,Salt Lake City
+US,KSLE,SLE,Salem,Salem Municipal /McNary Field,44.9095,-123.002998,America/Los_Angeles, , 
+US,KSLK,SLK,Saranac Lake,Adirondack Regional,44.382778,-74.206665,America/New_York,Saranac Lake,Saranac Lake Adirondack Regional
+US,KSLN,SLN,Salina,Salina Municipal,38.790958,-97.6521,America/Chicago,Salina,Salina Regional
+US,KSMD,SMD,Fort Wayne IN,Smith Field,41.143398,-85.152801,America/New_York, , 
+US,KSME,SME,Somerset,Lake Cumberland Regional,37.053398,-84.615898,America/New_York, , 
+US,KSMF,SMF,Sacramento,Sacramento,38.695412,-121.589996,America/Los_Angeles,Sacramento,Sacramento
+US,KSMN,SMN,Salmon,Lemhi County,45.123798,-113.880996,America/Denver, , 
+US,KSMO,SMO,Santa Monica,Santa Monica Municipal,34.017735,-118.449646,America/Los_Angeles,Santa Monica,Santa Monica
+US,KSMX,SMX,Santa Maria,Santa Maria Pub/Capt G Allan Hancock Field,34.898911,-120.457001,America/Los_Angeles,Santa Maria,Santa Maria Public
+US,KSNA,SNA,Santa Ana,John Wayne -Orange County,33.675659,-117.867996,America/Los_Angeles,Orange County,Orange County John Wayne
+US,KSNY,SNY,Sidney,Sidney Municipal-Lloyd W Carr Field,41.101299,-102.985,America/Denver, , 
+US,KSOP,SOP,Pinehurst-Southern Pines,Moore County,35.2374,-79.391197,America/New_York, , 
+US,KSOW,SOW,Show Low,Show Low Regional,34.2654,-110.0056,America/Phoenix,Show Low,Show Low Regional
+US,KSPF,SPF,Spearfish-South Dakota,Black Hills -Clyde Ice Field,44.4803,-103.782997,America/Denver, , 
+US,KSPG,SPG,St. Petersburg,Albert Whitted,27.7651,-82.626999,America/New_York, , 
+US,KSPI,SPI,Springfield,Abraham Lincoln Capital,39.844101,-89.677803,America/Chicago,Springfield,Springfield Abraham Lincoln Capital
+US,KSPS,SPS,Wichita Falls,Sheppard Air Force Base-Wichita Falls Municipal,33.988789,-98.491798,America/Chicago,Wichita Falls,Wichita Falls Municipal
+US,KSPW,SPW,Spencer,Spencer Municipal,43.1655,-95.202796,America/Chicago, , 
+US,KSQL,SQL,San Carlos,San Carlos,37.511901,-122.25,America/Los_Angeles, , 
+US,KSRQ,SRQ,Sarasota,Sarasota Bradenton,27.395439,-82.554298,America/New_York,Sarasota,Sarasota-Bradenton
+US,KSRR,RUI,Ruidoso,Sierra Blanca Regional,33.462799,-105.535003,America/Denver, , 
+US,KSSC,SSC,Sumter,Shaw Air Force Base,33.972698,-80.470596,America/New_York, , 
+US,KSSI,SSI,Brunswick,Malcolm McKinnon,31.15,-81.389999,America/New_York,Brunswick,Brunswick Malcolm McKinnon
+US,KSTC,STC,Saint Cloud,St Cloud Regional,45.5466,-94.059898,America/Chicago, , 
+US,KSTE,STE,Stevens Point,Stevens Point Municipal,44.5452,-89.530296,America/Chicago, , 
+US,KSTJ,STJ,Rosecrans,Rosecrans Memorial,39.7719,-94.909698,America/Chicago, , 
+US,KSTK,STK,Sterling,Sterling Municipal,40.615299,-103.264999,America/Denver, , 
+US,KSTL,STL,St. Louis,St Louis Lambert,38.748692,-90.370003,America/Chicago,St. Louis,St. Louis Lambert
+US,KSTP,STP,St. Paul,St Paul Downtown Holman Field,44.934501,-93.059997,America/Chicago, , 
+US,KSTS,STS,Santa Rosa,Charles M. Schulz Sonoma County,38.508888,-122.811668,America/Los_Angeles,Santa Rosa,Santa Rosa Sonoma County
+US,KSUA,SUA,Stuart,Witham Field,27.182892,-80.22168,America/New_York,Stuart,Stuart Witham Field
+US,KSUN,SUN,Hailey,Friedman Memorial,43.5,-114.290001,America/Denver,Hailey,Hailey Friedman Memorial
+US,KSUS,SUS,Null,Spirit of St Louis,38.662101,-90.652,America/Chicago, , 
+US,KSUU,SUU,Fairfield,Travis Air Force Base,38.262699,-121.927001,America/Los_Angeles, , 
+US,KSUX,SUX,Sioux City,Sioux Gateway Col. Bud Day Field,42.402599,-96.3843,America/Chicago,Sioux City,Sioux Gateway
+US,KSVC,SVC,Silver City,Silver City Grant County,32.631943,-108.153893, ,Silver City,Silver City Grant County
+US,KSVH,SVH,Statesville,Statesville Regional,35.7653,-80.953903,America/New_York, , 
+US,KSVN,SVN,Hunter Aaf,Hunter Army Air Field,32.009998,-81.145698,America/New_York, , 
+US,KSWF,SWF,Newburgh,Stewart,41.504108,-74.104797,America/New_York,New York,New York Stewart
+US,KSWO,SWO,Stillwater,Stillwater Regional,36.15889,-97.085556,America/Chicago,Stillwater,Stillwater Regional
+US,KSYR,SYR,Syracuse,Syracuse Hancock,43.111179,-76.1063,America/New_York,Syracuse,Syracuse Hancock
+US,KSZL,SZL,Knobnoster,Whiteman Air Force Base,38.7303,-93.547897,America/Chicago, , 
+US,KTBN,TBN,Fort Leonardwood,Waynesville-St. Robert Regional Forney field,37.7416,-92.140701,America/Chicago, , 
+US,KTCC,TCC,Tucumcari,Tucumcari Municipal,35.1828,-103.602996,America/Denver, , 
+US,KTCL,TCL,Tuscaloosa AL,Tuscaloosa Regional,33.2206,-87.611396,America/Chicago, , 
+US,KTCM,TCM,Tacoma,McChord Air Force Base,47.137699,-122.475997,America/Los_Angeles, , 
+US,KTCS,TCS,Truth Or Consequences,Truth Or Consequences Municipal,33.2369,-107.272003,America/Denver, , 
+US,KTEB,TEB,Teterboro,Teterboro,40.850101,-74.060799,America/New_York,Teterboro,Teterboro
+US,KTEX,TEX,Telluride,Telluride Regional,37.953888,-107.908607,America/Denver,Telluride,Telluride Regional
+US,KTIK,TIK,Oklahoma City,Tinker Air Force Base,35.414699,-97.386596,America/Chicago, , 
+US,KTIW,TIW,Tacoma,Tacoma Narrows,47.267898,-122.578002,America/Los_Angeles, , 
+US,KTIX,TIX,Titusville,Space Coast Regional,28.514799,-80.799201,America/New_York, , 
+US,KTLH,TLH,Tallahassee,Tallahassee Regional,30.396521,-84.350304,America/New_York,Tallahassee,Tallahassee
+US,KTMA,TMA,Tifton,Henry Tift Myers,31.429,-83.488502,America/New_York, , 
+US,KTMB,TMB,Kendall-tamiami,Kendall-Tamiami Executive,25.64788,-80.432701,America/New_York,Miami,Miami Executive
+US,KTMK,OTK,Tillamook,Tillamook,45.418201,-123.814002,America/Los_Angeles, , 
+US,KTNT,TNT,迈阿密,Dade Collier Training and Transition,25.861799,-80.897003,America/New_York, , 
+US,KTNX,XSD,Tonopah,Tonopah Test Range,37.798801,-116.780998,America/Los_Angeles,Tonopah,Tonopah Test Range
+US,KTOA,TOA,Torrance,Zamperini Field,33.803398,-118.339996,America/Los_Angeles, , 
+US,KTOC,TOC,Toccoa,Toccoa  - R.G. Letourneau Field,34.583332,-83.316666,America/New_York,Toccoa,Toccoa
+US,KTOL,TOL,Toledo,Toledo Express,41.580002,-83.800003,America/New_York,Toledo,Toledo Express
+US,KTOP,TOP,Topeka,Philip Billard Municipal,39.068698,-95.622497,America/Chicago, , 
+US,KTPA,TPA,Tampa,Tampa,27.97547,-82.533203,America/New_York,Tampa,Tampa
+US,KTPL,TPL,Temple,Draughon Miller Central Texas Regional,31.1525,-97.407798,America/Chicago, , 
+US,KTRI,TRI,BRISTOL,Tri-Cities Regional TN/VA,36.47522,-82.407402,America/New_York,Blountville,Blountville Tri-Cities Regional
+US,KTRK,TKF,Truckee,Truckee Tahoe,39.31789,-120.140503,America/Los_Angeles,Truckee,Truckee Tahoe
+US,KTRM,TRM,Palm Springs,Jacqueline Cochran Regional,33.626884,-116.155937,America/Los_Angeles,Thermal,Thermal Jacqueline Cochran Regional
+US,KTTD,TTD,Troutdale,Portland Troutdale,45.5494,-122.401,America/Los_Angeles, , 
+US,KTTN,TTN,Trenton,Trenton Mercer,40.276691,-74.8134,America/New_York,Trenton,Trenton Mercer
+US,KTUL,TUL,Tulsa,Tulsa,36.19838,-95.8881,America/Chicago,Tulsa,Tulsa
+US,KTUP,TUP,Tupelo,Tupelo Regional,34.258888,-88.76722,America/Chicago,Tupelo,Tupelo Regional
+US,KTUS,TUS,Tucson,Tucson,32.116081,-110.941002,America/Phoenix,Tucson,Tucson
+US,KTVC,TVC,Traverse City,Cherry Capital,44.74139,-85.582222,America/New_York,Traverse City,Traverse City Cherry Capital
+US,KTVF,TVF,Thief River Falls,Thief River Falls Regional,48.066113,-96.184998,America/Chicago,Thief River Falls,Thief River Falls Regional
+US,KTVI,TVI,Thomasville,Thomasville Regional,30.901599,-83.881301,America/New_York, , 
+US,KTVL,TVL,South Lake Tahoe,Lake Tahoe,38.893901,-119.995002,America/Los_Angeles, , 
+US,KTWF,TWF,Twin Falls,Joslin Field Magic Valley Regional,42.4818,-114.487999,America/Denver, , 
+US,KTXK,TXK,Texarkana,Texarkana Regional Webb Field,33.45372,-93.990997,America/Chicago,Texarkana,Texarkana Regional
+US,KTYR,TYR,Tyler,Tyler Pounds Regional,32.35413,-95.402298,America/Chicago,Tyler,Tyler Pounds Regional
+US,KTYS,TYS,Knoxville,McGhee Tyson,35.81097,-83.994003,America/New_York,Knoxville,Knoxville McGhee Tyson
+US,KUDD,UDD,Palm Springs,Bermuda Dunes,33.748401,-116.275001,America/Los_Angeles, , 
+US,KUGN,UGN,芝加哥,Waukegan National,42.422199,-87.867897,America/Chicago, , 
+US,KUIN,UIN,Quincy,Quincy Regional Baldwin Field,39.944168,-91.19722,America/Chicago,Quincy,Quincy Municipal
+US,KUKF,IKB,North Wilkesboro,Wilkes County,36.222801,-81.098297,America/New_York, , 
+US,KUNI,ATO,Athens,Ohio University Snyder Field,39.210998,-82.231399,America/New_York, , 
+US,KUNV,SCE,State College Pennsylvania,University Park,40.84927,-77.848602,America/New_York,State College,State College University Park
+US,KUOS,UOS,Sewanee,Franklin County,35.205101,-85.898101,America/Chicago, , 
+US,KUTA,UTM,Tunica,Tunica Municipal,34.680999,-90.346702,America/Chicago, , 
+US,KUVA,UVA,Uvalde,Garner Field,29.211299,-99.743598,America/Chicago, , 
+US,KUZA,RKH,Rock Hill,Rock Hill - York County,34.9878,-81.057197,America/New_York, , 
+US,KVAD,VAD,Valdosta,Moody Air Force Base,30.9678,-83.193,America/New_York, , 
+US,KVAY,LLY,Mount Holly,South Jersey Regional,39.942901,-74.845703,America/New_York, , 
+US,KVBG,VBG,Lompoc,Vandenberg Air Force Base,34.7373,-120.583999,America/Los_Angeles, , 
+US,KVCT,VCT,Victoria,Victoria Regional,28.85111,-96.914444,America/Chicago,Victoria,Victoria Regional
+US,KVCV,VCV,Victorville,Southern California Logistics,34.597499,-117.383003,America/Los_Angeles, , 
+US,KVDF,VDF,Tampa,Tampa Executive,28.010859,-82.342102, ,Tampa,Tampa Executive
+US,KVEL,VEL,Vernal,Vernal Regional,40.438889,-109.510277,America/Denver,Vernal,Vernal
+US,KVGT,VGT,拉斯维加斯,North Las Vegas,36.2107,-115.194,America/Los_Angeles, , 
+US,KVIS,VIS,Visalia,Visalia Municipal,36.318698,-119.392997,America/Los_Angeles, , 
+US,KVLD,VLD,Valdosta,Valdosta Regional,30.780001,-83.269997,America/New_York,Valdosta,Valdosta Regional
+US,KVNC,VNC,Venice,Venice Municipal,27.071599,-82.440299,America/New_York, , 
+US,KVNY,VNY,Van Nuys,Van Nuys,34.200001,-118.480003,America/Los_Angeles,Van Nuys,Van Nuys
+US,KVOK,VOK,Camp Douglas,Volk Field,43.938999,-90.253402,America/Chicago, , 
+US,KVPS,VPS,Valparaiso,Destin-Ft Walton Beach,30.48333,-86.525299,America/Chicago,Destin Fort Walton Beach,Destin Fort Walton Beach
+US,KVQQ,VQQ,Jacksonville,Cecil,30.2187,-81.876701,America/New_York, , 
+US,KVRB,VRB,Vero Beach,Vero Beach Regional,27.65555,-80.4179,America/New_York,Vero Beach,Vero Beach Municipal
+US,KVYS,VYS,Peru,Illinois Valley Regional -Walter A Duncan Field,41.351898,-89.153099,America/Chicago, , 
+US,KWAL,WAL,Wallops Island,Wallops Flight Facility,37.9402,-75.4664,America/New_York, , 
+US,KWBW,WBW,Wilkes-Barre,Wilkes Barre Wyoming Valley,41.297199,-75.851196,America/New_York, , 
+US,KWDR,WDR,Winder,Barrow County,33.982898,-83.667396,America/New_York, , 
+US,KWHP,WHP,洛杉矶,Whiteman,34.2593,-118.413002,America/Los_Angeles, , 
+US,KWLD,WLD,Winfield,Strother Field,37.168598,-97.037597,America/Chicago, , 
+US,KWRB,WRB,Macon,Robins Air Force Base,32.640098,-83.591903,America/New_York, , 
+US,KWRI,WRI,Wrightstown,Mc Guire Air Force Base,40.015598,-74.591697,America/New_York, , 
+US,KWRL,WRL,Worland,Worland Municipal,43.965698,-107.950996,America/Denver, , 
+US,KWSD,WSD,White Sands,Condron Army Air Field,32.341499,-106.402999,America/Denver, , 
+US,KWST,WST,Washington County,Westerly State,41.349601,-71.803398,America/New_York, , 
+US,KWWD,WWD,Wildwood,Cape May County,39.008499,-74.908302,America/New_York, , 
+US,KWYS,WYS,West Yellowstone,Yellowstone,44.6884,-111.117996,America/Denver, , 
+US,KXNA,XNA,Bentonville,Northwest Arkansas Regional,36.28186,-94.306801,America/Chicago,Bentonville,Bentonville Northwest Arkansas Regional
+US,KXWA,XWA,Williston,Williston Basin,48.251793,-103.74942, ,Williston,Williston Basin
+US,KYIP,YIP,Detroit,Willow Run,42.23772,-83.529999,America/New_York,Detroit,Detroit Willow Run
+US,KYKM,YKM,Yakima,Yakima Air Terminal McAllister Field,46.560001,-120.540001,America/Los_Angeles,Yakima,Yakima
+US,KYKN,YKN,Yankton,Chan Gurney Municipal,42.916698,-97.385902,America/Chicago, , 
+US,KYNG,YNG,Youngstown,Youngstown Warren Regional,41.2607,-80.6791,America/New_York, , 
+US,KYUM,YUM,Yuma,Yuma MCAS/Yuma,32.656582,-114.605003,America/Phoenix,Yuma,Yuma
+US,KZPH,ZPH,Zephyrhills,Zephyrhills Municipal,28.2282,-82.155899,America/New_York, ,
+US,LHTA,TZR,Columbus,Taszár Air Base,46.3931,17.917499,Europe/Budapest, , 
+US,PAAK,AKB,Atka,Atka,52.220298,-174.205993,America/Adak, , 
+US,PAAL,PML,Cold Bay,Port Moller,56.006,-160.561004,America/Anchorage, , 
+US,PAAQ,PAQ,Palmer,"Warren ""Bud"" Woods Palmer Municipal",61.594898,-149.08901,America/Anchorage, , 
+US,PABA,BTI,Barter Island,Barter Island LRRS,70.134002,-143.582,America/Anchorage, , 
+US,PABE,BET,Bethel,Bethel,60.77977,-161.837997,America/Anchorage,Bethel,Bethel
+US,PABI,BIG,Delta Junction,Allen Army Airfield,63.994499,-145.722,America/Anchorage, , 
+US,PABL,BKC,Buckland,Buckland,65.981597,-161.149002,America/Anchorage, , 
+US,PABM,BMX,Big Mountain,Big Mountain,59.361198,-155.259002,America/Anchorage, , 
+US,PABR,BRW,Barrow,Wiley Post Will Rogers Memorial,71.285439,-156.766006,America/Anchorage,Barrow,Barrow
+US,PABT,BTT,Bettles,Bettles,66.913902,-151.529007,America/Anchorage, , 
+US,PACD,CDB,Cold Bay,Cold Bay,55.206059,-162.725006,America/Anchorage,Cold Bay,Cold Bay
+US,PACE,CEM,Central,Central,65.573799,-144.783004,America/Anchorage, , 
+US,PACI,CIK,Chalkyitsik,Chalkyitsik,66.644996,-143.740005,America/Anchorage, , 
+US,PACK,CYF,Chefornak,Chefornak,60.1492,-164.285995,America/Anchorage, , 
+US,PACM,SCM,Scammon Bay,Scammon Bay,61.845298,-165.570999,America/Anchorage, , 
+US,PACR,IRC,Circle,Circle City /New/,65.830498,-144.076008,America/Anchorage, , 
+US,PACV,CDV,Cordova,Merle K (Mudhole) Smith,60.491772,-145.477005,America/Anchorage,Cordova,Cordova Mudhole Smith
+US,PACY,CYT,Yakataga,Yakataga,60.080974,-142.494541,America/Anchorage, , 
+US,PACZ,CZF,Cape Romanzof,Cape Romanzof LRRS,61.7803,-166.039001,America/Anchorage, , 
+US,PADE,DRG,Deering,Deering,66.069602,-162.766006,America/Anchorage, , 
+US,PADK,ADK,Adak Island,Adak,51.87796,-176.645996,America/Adak,Adak Island,Adak
+US,PADL,DLG,Dillingham,Dillingham,59.044659,-158.505005,America/Anchorage,Dillingham,Dillingham
+US,PADM,MLL,Marshall,Marshall Don Hunter Sr,61.864299,-162.026,America/Anchorage, , 
+US,PADQ,ADQ,Kodiak,Kodiak,57.749962,-152.492996,America/Anchorage,Kodiak,Kodiak
+US,PADU,DUT,Unalaska,Unalaska,53.900131,-166.542999,America/Anchorage,Unalaska,Unalaska
+US,PADY,KKH,Kongiganak,Kongiganak,59.9608,-162.880996,America/Anchorage, , 
+US,PAED,EDF,安克雷奇,Elmendorf Air Force Base,61.250999,-149.807006,America/Anchorage, , 
+US,PAEE,EEK,Eek,Eek,60.213672,-162.043884,America/Anchorage, , 
+US,PAEG,EAA,Eagle,Eagle,64.776397,-141.151001,America/Anchorage, , 
+US,PAEH,EHM,Cape Newenham,Cape Newenham LRRS,58.6464,-162.063003,America/Anchorage, , 
+US,PAEI,EIL,Fairbanks,Eielson Air Force Base,64.665702,-147.102005,America/Anchorage, , 
+US,PAEL,ELV,Elfin Cove,Elfin Cove Seaplane Base,58.195201,-136.347,America/Anchorage, , 
+US,PAEM,EMK,Emmonak,Emmonak,62.776943,-164.520828,America/Anchorage,Emmonak,Emmonak
+US,PAEN,ENA,Kenai,Kenai Municipal,60.573299,-151.244003,America/Anchorage,Kenai,Kenai Municipal
+US,PAFA,FAI,Fairbanks,Fairbanks,64.815109,-147.856003,America/Anchorage,Fairbanks,Fairbanks
+US,PAFB,FBK,Fort Wainwright,Ladd AAF Airfield,64.837501,-147.613998,America/Anchorage, , 
+US,PAFM,ABL,Ambler,Ambler,67.1063,-157.856989,America/Anchorage, , 
+US,PAFR,FRN,Fort Richardson,Bryant Army Heliport,61.266399,-149.652999,America/Anchorage, , 
+US,PAFS,NIB,Nikolai,Nikolai,63.0186,-154.358002,America/Anchorage, , 
+US,PAGA,GAL,Galena,Edward G. Pitka Sr,64.736198,-156.936996,America/Anchorage, , 
+US,PAGG,KWK,Kwigillingok,Kwigillingok,59.876499,-163.169005,America/Anchorage, , 
+US,PAGH,SHG,Shungnak,Shungnak,66.888099,-157.162002,America/Anchorage, , 
+US,PAGK,GKN,Gulkana,Gulkana,62.154899,-145.457,America/Anchorage, , 
+US,PAGL,GLV,Golovin,Golovin,64.550498,-163.007003,America/Anchorage, , 
+US,PAGM,GAM,Gambell,Gambell,63.766799,-171.733001,America/Anchorage, , 
+US,PAGN,AGN,Angoon,Angoon Seaplane Base,57.503601,-134.585007,America/Anchorage, , 
+US,PAGS,GST,Gustavus,Gustavus,58.4253,-135.707,America/Anchorage, , 
+US,PAGT,NME,Nightmute,Nightmute,60.471,-164.701004,America/Anchorage, , 
+US,PAGY,SGY,Skagway,Skagway,59.460098,-135.315994,America/Anchorage, , 
+US,PAHC,HCR,Holy Cross,Holy Cross,62.188301,-159.774993,America/Anchorage, , 
+US,PAHL,HSL,Huslia,Huslia,65.697898,-156.350997,America/Anchorage, , 
+US,PAHN,HNS,Haines,Haines,59.243801,-135.524002,America/Anchorage, , 
+US,PAHO,HOM,Homer,Homer,59.64555,-151.475998,America/Anchorage,Homer,Homer
+US,PAHP,HPB,Hooper Bay,Hooper Bay,61.523899,-166.147003,America/Anchorage, , 
+US,PAHU,HUS,Hughes,Hughes,66.041099,-154.263,America/Anchorage, , 
+US,PAHX,SHX,Shageluk,Shageluk,62.692298,-159.569,America/Anchorage, , 
+US,PAHY,HYG,Hydaburg,Hydaburg Seaplane Base,55.206298,-132.828002,America/Anchorage, , 
+US,PAIG,IGG,Igiugig,Igiugig,59.324001,-155.901992,America/Anchorage, , 
+US,PAII,EGX,Egegik,Egegik,58.185501,-157.375,America/Anchorage, , 
+US,PAIK,IAN,Kiana,Bob Baker Memorial,66.975997,-160.436996,America/Anchorage, , 
+US,PAIL,ILI,Iliamna,Iliamna,59.753799,-154.910004,America/Anchorage,Iliamna,Iliamna
+US,PAIM,UTO,Indian Mountains,Indian Mountain LRRS,65.992797,-153.703994,America/Anchorage, , 
+US,PAIN,MCL,McKinley Park,McKinley National Park,63.732601,-148.910995,America/Anchorage, , 
+US,PAIW,WAA,Wales,Wales,65.622593,-168.095,America/Anchorage, , 
+US,PAJN,JNU,Juneau,Juneau,58.354969,-134.576004,America/Anchorage,Juneau,Juneau
+US,PAJZ,KGK,Koliganek,Koliganek,59.7266,-157.259002,America/Anchorage, , 
+US,PAKA,TEK,Tatitlek,Tatitlek,60.87191,-146.688232, ,Tatitlek,Tatitlek
+US,PAKF,KFP,False Pass,False Pass,54.8474,-163.410003,America/Anchorage, , 
+US,PAKH,AKK,Akhiok,Akhiok,56.938701,-154.182998,America/Anchorage, , 
+US,PAKI,KPN,Kipnuk,Kipnuk,59.932998,-164.031005,America/Anchorage, , 
+US,PAKK,KKA,Koyuk,Koyuk Alfred Adams,64.939498,-161.154006,America/Anchorage, , 
+US,PAKN,AKN,King Salmon,King Salmon,58.676769,-156.649002,America/Anchorage,King Salmon,King Salmon
+US,PAKO,IKO,Nikolski,Nikolski Air Station,52.9416,-168.848999,America/Anchorage, , 
+US,PAKP,AKP,Anaktuvuk Pass,Anaktuvuk Pass,68.133598,-151.742996,America/Anchorage, , 
+US,PAKT,KTN,Ketchikan,Ketchikan,55.354069,-131.710999,America/Anchorage,Ketchikan,Ketchikan
+US,PAKU,UUK,Kuparuk,Ugnu-Kuparuk,70.330802,-149.598007,America/Anchorage, , 
+US,PAKV,KAL,Kaltag,Kaltag,64.319099,-158.740997,America/Anchorage, , 
+US,PAKW,KLW,Klawock,Klawock,55.5792,-133.076004,America/Anchorage, , 
+US,PAKY,KYK,Karluk,Karluk,57.5671,-154.449996,America/Anchorage, , 
+US,PALB,KLN,Larsen Bay,Larsen Bay,57.535099,-153.977996,America/Anchorage, , 
+US,PALG,KLG,Kalskag,Kalskag,61.5363,-160.341003,America/Anchorage, , 
+US,PALU,LUR,Cape Lisburne,Cape Lisburne LRRS,68.875099,-166.11,America/Anchorage, , 
+US,PAMB,KMO,Manokotak,Manokotak,58.9902,-159.050003,America/Anchorage, , 
+US,PAMC,MCG,Mcgrath,McGrath,62.952751,-155.604996,America/Anchorage,McGrath,McGrath
+US,PAMH,LMA,Lake Minchumina,Minchumina,63.886002,-152.302002,America/Anchorage, , 
+US,PAMK,SMK,St. Michael,St Michael,63.4901,-162.11,America/Anchorage, , 
+US,PAML,MLY,Manley Hot Springs,Manley Hot Springs,64.997596,-150.643997,America/Anchorage, , 
+US,PAMO,MOU,Mountain Village,Mountain Village,62.095401,-163.682006,America/Anchorage, , 
+US,PAMR,MRI,安克雷奇,Merrill Field,61.213539,-149.843994,America/Anchorage,Anchorage,Anchorage Merrill Field
+US,PAMY,MYU,Mekoryuk,Mekoryuk,60.371398,-166.270996,America/Anchorage, , 
+US,PANA,WNA,Napakiak,Napakiak,60.690299,-161.979003,America/Anchorage, , 
+US,PANC,ANC,安克雷奇,Ted Stevens Anchorage,61.174358,-149.996002,America/Anchorage,Anchorage,Anchorage Ted Stevens
+US,PANI,ANI,Aniak,Aniak,61.581669,-159.54306,America/Anchorage,Aniak,Aniak
+US,PANO,NNL,Nondalton,Nondalton,59.980201,-154.839004,America/Anchorage, , 
+US,PANR,FNR,Funter Bay,Funter Bay Seaplane Base,58.254398,-134.897994,America/Anchorage, , 
+US,PANT,ANN,Annette Island,Annette Island,55.0424,-131.572006,America/Anchorage, , 
+US,PANU,NUL,Nulato,Nulato,64.729301,-158.074005,America/Anchorage, , 
+US,PANV,ANV,Anvik,Anvik,62.646702,-160.190994,America/Anchorage, , 
+US,PANW,KNW,New Stuyahok,New Stuyahok,59.449901,-157.328002,America/Anchorage, , 
+US,PAOB,OBU,Kobuk,Kobuk,66.9123,-156.897003,America/Anchorage, , 
+US,PAOH,HNH,Hoonah,Hoonah,58.0961,-135.410111,America/Anchorage, , 
+US,PAOM,OME,Nome,Nome,64.512199,-165.445007,America/Anchorage,Nome,Nome
+US,PAOO,OOK,Toksook Bay,Toksook Bay,60.5414,-165.087005,America/Anchorage, , 
+US,PAOR,ORT,Northway,Northway,62.961299,-141.929,America/Anchorage, , 
+US,PAOT,OTZ,Kotzebue,Ralph Wien Memorial,66.884689,-162.598007,America/Anchorage,Kotzebue,Kotzebue Ralph Wien Memorial
+US,PAOU,NLG,Nelson Lagoon,Nelson Lagoon,56.007499,-161.160003,America/Anchorage, , 
+US,PAPB,STG,Point Barrow,St George,56.5783,-169.662002,America/Anchorage, , 
+US,PAPC,KPC,Port Clarence,Port Clarence Coast Guard Station,65.2537,-166.858993,America/Anchorage, , 
+US,PAPE,KPV,Perryville,Perryville,55.905998,-159.162993,America/Anchorage, , 
+US,PAPG,PSG,Petersburg,Petersburg James A Johnson,56.801666,-132.945267,America/Anchorage,Petersburg,Petersburg James A. Johnson
+US,PAPH,PTH,Port Heiden,Port Heiden,56.959098,-158.632995,America/Anchorage, , 
+US,PAPK,PKA,Napaskiak,Napaskiak,60.702899,-161.777999,America/Anchorage, , 
+US,PAPM,PTU,Port Moller,Platinum,59.011398,-161.820007,America/Anchorage, , 
+US,PAPN,PIP,Pilot Point,Pilot Point,57.580398,-157.572006,America/Anchorage, , 
+US,PAPR,PPC,Prospect Creek,Prospect Creek,66.814102,-150.643997,America/Anchorage, , 
+US,PAQH,KWN,Quinhagak,Quinhagak,59.7551,-161.845,America/Anchorage, , 
+US,PAQT,NUI,Nuiqsut,Nuiqsut,70.209999,-151.005996,America/Anchorage, , 
+US,PARC,ARC,Arctic Village,Arctic Village,68.1147,-145.578995,America/Anchorage, , 
+US,PARS,RSH,Russian Mission,Russian Mission,61.778884,-161.319458,America/Anchorage, , 
+US,PARY,RBY,Ruby,Ruby,64.727203,-155.470001,America/Anchorage, , 
+US,PASA,SVA,Savoonga,Savoonga,63.686401,-170.492996,America/Anchorage, , 
+US,PASC,SCC,Deadhorse,Deadhorse,70.194748,-148.464996,America/Anchorage,Deadhorse,Deadhorse
+US,PASD,SDP,Sand Point,Sand Point,55.31369,-160.520996,America/Anchorage,Sand Point,Sand Point
+US,PASH,SHH,Shishmaref,Shishmaref,66.249604,-166.089112,America/Anchorage, , 
+US,PASI,SIT,Sitka,Sitka Rocky Gutierrez,57.047131,-135.360992,America/Anchorage,Sitka,Sitka Rocky Gutierrez
+US,PASK,WLK,Selawik,Selawik,66.600097,-159.985992,America/Anchorage, , 
+US,PASL,SLQ,Sleetmute,Sleetmute,61.7005,-157.166,America/Anchorage, , 
+US,PASM,KSM,St Mary's,St Mary's,62.060001,-163.300003,America/Anchorage,St. Mary's,St. Mary's
+US,PASN,SNP,St. Paul Island,St Paul Island,57.167332,-170.220001,America/Anchorage,St. Paul Island,St. Paul Island
+US,PASV,SVW,Sparrevohn,Sparrevohn LRRS,61.0974,-155.574005,America/Anchorage, , 
+US,PASX,SXQ,Soldotna,Soldotna,60.4757,-151.033996,America/Anchorage, , 
+US,PASY,SYA,Shemya,Eareckson Air Station,52.712299,174.113998,America/Adak, , 
+US,PATC,TNC,Tin City,Tin City Long Range Radar Station,65.563102,-167.921997,America/Anchorage, , 
+US,PATE,TLA,Teller,Teller,65.240402,-166.339004,America/Anchorage, , 
+US,PATG,TOG,Togiak Village,Togiak,59.049999,-160.389999,America/Anchorage,Togiak Village,Togiak
+US,PATK,TKA,Talkeetna,Talkeetna,62.320499,-150.093994,America/Anchorage, , 
+US,PATL,TLJ,Tatalina,Tatalina LRRS,62.894401,-155.977005,America/Anchorage, , 
+US,PATQ,ATK,Atqasuk,Atqasuk Edward Burnell Sr Memorial,70.4673,-157.436004,America/Anchorage, , 
+US,PAUK,AUK,Alakanuk,Alakanuk,62.680042,-164.659927,America/Anchorage, , 
+US,PAUN,UNK,Unalakleet,Unalakleet,63.888351,-160.798004,America/Anchorage,Unalakleet,Unalakleet
+US,PAVA,VAK,Chevak,Chevak,61.5409,-165.6005,America/Anchorage, , 
+US,PAVC,KVC,King Cove,King Cove,55.116298,-162.266006,America/Anchorage, , 
+US,PAVD,VDZ,Valdez,Valdez Pioneer Field,61.133949,-146.248001,America/Anchorage,Valdez,Valdez
+US,PAVE,VEE,Venetie,Venetie,67.008697,-146.365997,America/Anchorage, , 
+US,PAVL,KVL,Kivalina,Kivalina,67.736198,-164.563003,America/Anchorage, , 
+US,PAWB,WBQ,Beaver,Beaver,66.362197,-147.406997,America/Anchorage, , 
+US,PAWD,SWD,Seward,Seward,60.126899,-149.419006,America/Anchorage, , 
+US,PAWG,WRG,Wrangell,Wrangell,56.484444,-132.36972,America/Anchorage,Wrangell,Wrangell
+US,PAWI,AIN,Wainwright,Wainwright,70.638,-159.994995,America/Anchorage, , 
+US,PAWM,WMO,White Mountain,White Mountain,64.689201,-163.412994,America/Anchorage, , 
+US,PAWN,WTK,Noatak,Noatak,67.566101,-162.975006,America/Anchorage, , 
+US,PAYA,YAK,Yakutat,Yakutat,59.5033,-139.660004,America/Anchorage,Yakutat,Yakutat
+US,PFAK,AKI,Akiak,Akiak,60.9029,-161.231002,America/Anchorage, , 
+US,PFAL,AET,Allakaket,Allakaket,66.551803,-152.621994,America/Anchorage, , 
+US,PFCB,NCN,Chenega,Chenega Bay,60.077301,-147.992004,America/Anchorage, , 
+US,PFEL,ELI,Elim,Elim,64.6147,-162.272003,America/Anchorage, , 
+US,PFKA,KUK,Kasigluk,Kasigluk,60.874401,-162.524002,America/Anchorage, , 
+US,PFKO,KOT,Kotlik,Kotlik,63.030601,-163.533004,America/Anchorage, , 
+US,PFKT,KTS,Brevig Mission,Brevig Mission,65.331298,-166.466003,America/Anchorage, , 
+US,PFKU,KYU,Koyukuk,Koyukuk,64.876098,-157.727005,America/Anchorage, , 
+US,PFKW,KWT,Kwethluk,Kwethluk,60.790298,-161.444,America/Anchorage, , 
+US,PFNO,ORV,Noorvik,Robert (Bob) Curtis Memorial,66.817901,-161.018997,America/Anchorage, , 
+US,PFSH,SKK,Shaktoolik,Shaktoolik,64.371101,-161.223999,America/Anchorage, , 
+US,PFTO,TKJ,Tok,Tok Junction,63.329498,-142.953994,America/Anchorage, , 
+US,PFWS,WSN,South Naknek,South Naknek Nr 2,58.703399,-157.007995,America/Anchorage, , 
+US,PFYU,FYU,Fort Yukon,Fort Yukon,66.571502,-145.25,America/Anchorage, , 
+US,PHBK,BKH,Barking Sands,Barking Sands,22.0228,-159.785003,Pacific/Honolulu, , 
+US,PHDH,HDH,Dillingham,Dillingham Airfield,21.5795,-158.197006,Pacific/Honolulu, , 
+US,PHHI,HHI,Wahiawa,Wheeler Army Airfield,21.483499,-158.039993,Pacific/Honolulu, , 
+US,PHHN,HNM,Hana,Hana,20.7956,-156.014007,Pacific/Honolulu, , 
+US,PHJH,JHM,Lahania-kapalua,Kapalua,20.962931,-156.673004,Pacific/Honolulu,Lahaina,Lahaina Kapalua
+US,PHJR,JRF,Kapolei,Kalaeloa,21.3074,-158.070009,Pacific/Honolulu, , 
+US,PHKO,KOA,科纳,Ellison Onizuka KonaAt Keahole,19.73876,-156.044998,Pacific/Honolulu,Kailua-Kona,Kona
+US,PHLI,LIH,Lihue,Lihue,21.975981,-159.337997,Pacific/Honolulu,Lihue,Lihue
+US,PHLU,LUP,Molokai,Kalaupapa,21.211111,-156.974442,Pacific/Honolulu,Kalaupapa,Kalaupapa
+US,PHMK,MKK,Molokai,Molokai,21.15288,-157.095993,Pacific/Honolulu,Kaunakakai,Kaunakakai Molokai
+US,PHMU,MUE,Kamuela,Waimea Kohala,20.0013,-155.667999,Pacific/Honolulu, , 
+US,PHNG,NGF,Kaneohe Bay,Kaneohe Bay MCAS (Marion E. Carl Field),21.4505,-157.768005,Pacific/Honolulu, , 
+US,PHNL,HNL,檀香山,丹尼尔·K·井上,21.31868,-157.921997,Pacific/Honolulu,Honolulu,Honolulu
+US,PHNY,LNY,Lanai,Lanai,20.78561,-156.951004,Pacific/Honolulu,Lanai,Lanai
+US,PHOG,OGG,Kahului,Kahului,20.898649,-156.429993,Pacific/Honolulu,Kahului,Kahului
+US,PHSF,BSF,Bradshaw Field,Bradshaw Army Airfield,19.760099,-155.554,Pacific/Honolulu, , 
+US,PHTO,ITO,Hilo,Hilo,19.720261,-155.048004,Pacific/Honolulu,Hilo,Hilo
+US,PHUP,UPP,Opolu,Upolu,20.2653,-155.86,Pacific/Honolulu, , 
+US,PPIZ,PIZ,Point Lay,Point Lay LRRS,69.732902,-163.005004,America/Anchorage, , 
+US,S31,LPS,Lopez,Lopez Island,48.483898,-122.938003,America/Los_Angeles, , 
+US,UT25,GMV,Monument Valley,Monument Valley,37.0167,-110.200996,America/Denver, , 
+US,YCWR,CWT,Chatsworth,Cowra,-33.844699,148.649002,Australia/Sydney, , 

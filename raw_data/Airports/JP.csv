@@ -1,0 +1,93 @@
+country,ICAO,IATA,city,city_en,name,name_en,latitude,longitude,timezone
+JP,RJAA,NRT,东京,Tokyo,成田,Narita,35.764721,140.386307,Asia/Tokyo
+JP,RJAF,MMJ,Matsumoto,Matsumoto,Matsumoto,Matsumoto,36.166752,137.922607,Asia/Tokyo
+JP,RJAH,IBR,Ibaraki,Omitama,Hyakuri,Omitama Ibaraki,36.181667,140.414719,Asia/Tokyo
+JP,RJAM,MUS,Minami Tori Shima,,Minami Torishima,,24.289699,153.979003,Asia/Tokyo
+JP,RJAW,IWO,Iwojima,,Iwo Jima,,24.784,141.322998,Asia/Tokyo
+JP,RJBB,KIX,大阪,Osaka,关西,Kansai,34.427299,135.244003,Asia/Tokyo
+JP,RJBD,SHM,南纪白滨,nullki Shirahama,nullki Shirahama,nullki Shirahama,33.66222,135.364395,Asia/Tokyo
+JP,RJBE,UKB,神户,Kobe,Kobe,Kobe,34.632771,135.223801,Asia/Tokyo
+JP,RJBH,HIW,广岛,,广岛nishi,,34.366901,132.414001,Asia/Tokyo
+JP,RJBT,TJH,Toyooka,,Tajima,,35.512798,134.787002,Asia/Tokyo
+JP,RJCB,OBO,带广,Obihiro,Tokachi-Obihiro,Obihiro Tokachi,42.73333,143.217194,Asia/Tokyo
+JP,RJCC,CTS,札幌,Sapporo,札幌新千岁,Sapporo New Chitose,42.7752,141.6922,Asia/Tokyo
+JP,RJCH,HKD,函馆,Hakodate,Hakodate,Hakodate,41.77,140.821899,Asia/Tokyo
+JP,RJCK,KUH,钏路,Kushiro,Kushiro,Kushiro,43.040958,144.192902,Asia/Tokyo
+JP,RJCM,MMB,女满别,Memanbetsu,Memanbetsu,Memanbetsu,43.8806,144.164001,Asia/Tokyo
+JP,RJCN,SHB,中标津,Nakashibetsu,Nakashibetsu,Nakashibetsu,43.577499,144.960007,Asia/Tokyo
+JP,RJCO,OKD,札幌,Sapporo,Okadama,Sapporo Okadama,43.1143,141.383102,Asia/Tokyo
+JP,RJCW,WKJ,稚内,Wakkanai,Wakkanai,Wakkanai,45.40416,141.800797,Asia/Tokyo
+JP,RJDA,AXJ,Amakusa,Amakusa,Amakusa,Amakusa,32.483261,130.15564,Asia/Tokyo
+JP,RJDB,IKI,Iki,Iki,Iki,Iki,33.74902,129.7854,Asia/Tokyo
+JP,RJDC,UBJ,山口,Ube,Yamaguchi Ube,Ube Yamaguchi,33.93,131.278595,Asia/Tokyo
+JP,RJDT,TSJ,Tsushima,Tsushima,Tsushima,Tsushima,34.284882,129.330505,Asia/Tokyo
+JP,RJEB,MBE,纹别,Monbetsu,Monbetsu,Monbetsu,44.303909,143.404007,Asia/Tokyo
+JP,RJEC,AKJ,旭川,Asahikawa,旭川,Asahikawa,43.67083,142.447495,Asia/Tokyo
+JP,RJEO,OIR,Okushiri,Okushiri,Okushiri,Okushiri,42.071659,139.432907,Asia/Tokyo
+JP,RJER,RIS,Rishiri Island,,Rishiri,,45.242,141.186004,Asia/Tokyo
+JP,RJFC,KUM,Yakushima,Yakushima,Yakushima,Yakushima,30.385559,130.658997,Asia/Tokyo
+JP,RJFE,FUJ,Fukue,Fukue,Fukue,Fukue,32.66626,128.832794,Asia/Tokyo
+JP,RJFF,FUK,福冈,Fukuoka,福冈,Fukuoka,33.585941,130.450607,Asia/Tokyo
+JP,RJFG,TNE,Tanegashima,Tanegashima,New Tanegashima,Tanegashima,30.605061,130.991196,Asia/Tokyo
+JP,RJFK,KOJ,鹿儿岛,Kagoshima,鹿儿岛,Kagoshima,31.803391,130.719406,Asia/Tokyo
+JP,RJFM,KMI,宫崎,Miyazaki,宫崎,Miyazaki,31.87722,131.448593,Asia/Tokyo
+JP,RJFO,OIT,大分,Oita,Oita,Oita,33.479439,131.737198,Asia/Tokyo
+JP,RJFR,KKJ,北九州,Kitakyushu,北九州,Kitakyushu,33.84594,131.034607,Asia/Tokyo
+JP,RJFS,HSG,佐贺,Saga,Saga,Saga,33.153828,130.30278,Asia/Tokyo
+JP,RJFT,KMJ,熊本,Kumamoto,熊本,Kumamoto,32.837311,130.854996,Asia/Tokyo
+JP,RJFU,NGS,长崎,Nagasaki,Nagasaki,Nagasaki,32.916939,129.913605,Asia/Tokyo
+JP,RJGG,NGO,名古屋,Nagoya,名古屋中部,Nagoya Chubu Centrair,34.85841,136.805405,Asia/Tokyo
+JP,RJKA,ASJ,奄美,Amami,奄美,Amami,28.43063,129.712494,Asia/Tokyo
+JP,RJKB,OKE,Okierabu,Okierabu,Okierabu,Okierabu,27.425501,128.701004,Asia/Tokyo
+JP,RJKI,KKX,Kikai,Kikai,Kikai,Kikai,28.321301,129.927994,Asia/Tokyo
+JP,RJKN,TKN,Tokunoshima,Tokunoshima,Tokunoshima,Tokunoshima,27.83638,128.881195,Asia/Tokyo
+JP,RJNA,NKM,名古屋,Nagoya,名古屋,Nagoya Komaki,35.25,136.919998,Asia/Tokyo
+JP,RJNF,FKJ,Fukui,,Fukui,,36.142799,136.223999,Asia/Tokyo
+JP,RJNG,QGU,Gifu,,Gifu,,35.3941,136.869995,Asia/Tokyo
+JP,RJNK,KMQ,小松,Komatsu,小松,Komatsu,36.394611,136.406494,Asia/Tokyo
+JP,RJNO,OKI,Oki Island,,Oki,,36.181098,133.324996,Asia/Tokyo
+JP,RJNS,FSZ,静冈,Shizuoka,静冈,Shizuoka,34.796108,138.189407,
+JP,RJNT,TOY,富山,Toyama,Toyama,Toyama,36.648331,137.1875,Asia/Tokyo
+JP,RJNW,NTQ,轮岛,Wajima,Noto,Wajima Noto,37.293098,136.961853,Asia/Tokyo
+JP,RJOA,HIJ,广岛,Hiroshima,广岛,Hiroshima,34.436111,132.919403,Asia/Tokyo
+JP,RJOB,OKJ,冈山,Okayama,冈山,Okayama,34.756939,133.855194,Asia/Tokyo
+JP,RJOC,IZO,出云,Izumo,Izumo,Izumo,35.413609,132.889893,Asia/Tokyo
+JP,RJOH,YGJ,米子,Yonago,Miho Yonago,Yonago Miho,35.492222,133.236298,Asia/Tokyo
+JP,RJOK,KCZ,高知,nullkoku,Kōchi Ryōma,Kochi,33.546108,133.669403,Asia/Tokyo
+JP,RJOM,MYJ,松山,Matsuyama,松山,Matsuyama,33.827221,132.699707,Asia/Tokyo
+JP,RJOO,ITM,大阪,Osaka,伊丹,Itami,34.785519,135.438202,Asia/Tokyo
+JP,RJOR,TTJ,鸟取,Tottori,Tottori,Tottori,35.53006,134.166504,Asia/Tokyo
+JP,RJOS,TKS,德岛,Tokushima,Tokushima /JMSDF Air Base,Tokushima,34.132801,134.606598,Asia/Tokyo
+JP,RJOT,TAK,高松,Takamatsu,高松,Takamatsu,34.214161,134.015503,Asia/Tokyo
+JP,RJOW,IWJ,石见,Masuda,Iwami,Masuda Hagi Iwami,34.676388,131.790283,Asia/Tokyo
+JP,RJSA,AOJ,青森,Aomori,青森,Aomori,40.734718,140.690796,Asia/Tokyo
+JP,RJSC,GAJ,山形,Yamagata,Yamagata,Yamagata,38.411888,140.371307,Asia/Tokyo
+JP,RJSD,SDS,Sado,,Sado,,38.060199,138.414001,Asia/Tokyo
+JP,RJSF,FKS,Fukushima,Sukagawa,Fukushima,Fukushima,37.227428,140.430603,Asia/Tokyo
+JP,RJSH,HHE,Hachinoe,,Hachinohe,,40.5564,141.466003,Asia/Tokyo
+JP,RJSI,HNA,花卷,Hanamaki,Hanamaki,Hanamaki,39.428612,141.135193,Asia/Tokyo
+JP,RJSK,AXT,秋田,Akita,秋田,Akita,39.61555,140.218597,Asia/Tokyo
+JP,RJSM,MSJ,三泽,Misawa,Misawa Air Base,Misawa,40.70322,141.368301,Asia/Tokyo
+JP,RJSN,KIJ,新潟,Niigata,新潟,Niigata,37.955891,139.120697,Asia/Tokyo
+JP,RJSR,ONJ,大馆能代,Kitaakita,Odate Noshiro,Kitaakita Odate Noshiro,40.196415,140.373825,Asia/Tokyo
+JP,RJSS,SDJ,仙台,Sendai,仙台,Sendai,38.139721,140.916901,Asia/Tokyo
+JP,RJSY,SYO,庄内,Sakata,Shonai,Sakata Shonai,38.809444,139.790558,Asia/Tokyo
+JP,RJTA,NJA,Atsugi,,Atsugi Naval Air Facility,,35.454601,139.449996,Asia/Tokyo
+JP,RJTH,HAC,八丈岛,Hachijojima,Hachijojima,Hachijojima,33.115002,139.785797,Asia/Tokyo
+JP,RJTO,OIM,Oshima,,Oshima,,34.782001,139.36,Asia/Tokyo
+JP,RJTQ,MYE,Miyakejima,,Miyakejima,,34.0736,139.559997,Asia/Tokyo
+JP,RJTT,HND,东京,Tokyo,羽田,Haneda,35.55225,139.779602,Asia/Tokyo
+JP,RJTY,OKO,Yokota,,Yokota Air Base,,35.7485,139.348007,Asia/Tokyo
+JP,ROAH,OKA,那霸,Naha,那霸,Naha,26.19581,127.645798,Asia/Tokyo
+JP,RODN,DNA,Kadena,,Kadena Air Base,,26.3556,127.767998,Asia/Tokyo
+JP,ROIG,ISG,石垣,Ishigaki,Ishigaki,Ishigaki New,24.396389,124.245003,Asia/Tokyo
+JP,ROKJ,UEO,Kumejima,Kumejima,Kumejima,Kumejima,26.363501,126.713799,Asia/Tokyo
+JP,ROKR,KJP,Kerama,,Kerama,,26.1683,127.292999,Asia/Tokyo
+JP,ROMD,MMD,Minami Daito,Minamidaito,Minami-Daito,Minami-daito,25.846531,131.263397,Asia/Tokyo
+JP,ROMY,MMY,宫古,Miyako,Miyako,Miyako,24.782829,125.295097,Asia/Tokyo
+JP,RORA,AGJ,Aguni,,Aguni,,26.5925,127.240997,Asia/Tokyo
+JP,RORK,KTD,Kitadaito,Kitadaito,Kitadaito,Kitadaito,25.944719,131.326904,Asia/Tokyo
+JP,RORS,SHI,Shimojishima,Shimojishima,Shimojishima,Shimojishima,24.82666,125.144699,Asia/Tokyo
+JP,RORT,TRA,Tarama,,Tarama,,24.6539,124.675003,Asia/Tokyo
+JP,RORY,RNJ,Yoron,Yoronjima,Yoron,Yoronjima Yoron,27.043961,128.401505,Asia/Tokyo
+JP,ROYN,OGN,Yonaguni Jima,Yonaguni,Yonaguni,Yonaguni,24.46694,122.977699,Asia/Tokyo

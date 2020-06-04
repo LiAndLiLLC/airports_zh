@@ -1,0 +1,1290 @@
+{
+  "AGJ": {
+    "IATA": "AGJ",
+    "ICAO": "RORA",
+    "city": "Aguni",
+    "city_en": "",
+    "country": "JP",
+    "name": "Aguni",
+    "name_en": "",
+    "position": [
+      26.5925,
+      127.240997
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "AKJ": {
+    "IATA": "AKJ",
+    "ICAO": "RJEC",
+    "city": "旭川",
+    "city_en": "Asahikawa",
+    "country": "JP",
+    "name": "旭川",
+    "name_en": "Asahikawa",
+    "position": [
+      43.67083,
+      142.447495
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "AOJ": {
+    "IATA": "AOJ",
+    "ICAO": "RJSA",
+    "city": "青森",
+    "city_en": "Aomori",
+    "country": "JP",
+    "name": "青森",
+    "name_en": "Aomori",
+    "position": [
+      40.734718,
+      140.690796
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "ASJ": {
+    "IATA": "ASJ",
+    "ICAO": "RJKA",
+    "city": "奄美",
+    "city_en": "Amami",
+    "country": "JP",
+    "name": "奄美",
+    "name_en": "Amami",
+    "position": [
+      28.43063,
+      129.712494
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "AXJ": {
+    "IATA": "AXJ",
+    "ICAO": "RJDA",
+    "city": "Amakusa",
+    "city_en": "Amakusa",
+    "country": "JP",
+    "name": "Amakusa",
+    "name_en": "Amakusa",
+    "position": [
+      32.483261,
+      130.15564
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "AXT": {
+    "IATA": "AXT",
+    "ICAO": "RJSK",
+    "city": "秋田",
+    "city_en": "Akita",
+    "country": "JP",
+    "name": "秋田",
+    "name_en": "Akita",
+    "position": [
+      39.61555,
+      140.218597
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "CTS": {
+    "IATA": "CTS",
+    "ICAO": "RJCC",
+    "city": "札幌",
+    "city_en": "Sapporo",
+    "country": "JP",
+    "name": "札幌新千岁",
+    "name_en": "Sapporo New Chitose",
+    "position": [
+      42.7752,
+      141.6922
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "DNA": {
+    "IATA": "DNA",
+    "ICAO": "RODN",
+    "city": "Kadena",
+    "city_en": "",
+    "country": "JP",
+    "name": "Kadena Air Base",
+    "name_en": "",
+    "position": [
+      26.3556,
+      127.767998
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "FKJ": {
+    "IATA": "FKJ",
+    "ICAO": "RJNF",
+    "city": "Fukui",
+    "city_en": "",
+    "country": "JP",
+    "name": "Fukui",
+    "name_en": "",
+    "position": [
+      36.142799,
+      136.223999
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "FKS": {
+    "IATA": "FKS",
+    "ICAO": "RJSF",
+    "city": "Fukushima",
+    "city_en": "Sukagawa",
+    "country": "JP",
+    "name": "Fukushima",
+    "name_en": "Fukushima",
+    "position": [
+      37.227428,
+      140.430603
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "FSZ": {
+    "IATA": "FSZ",
+    "ICAO": "RJNS",
+    "city": "静冈",
+    "city_en": "Shizuoka",
+    "country": "JP",
+    "name": "静冈",
+    "name_en": "Shizuoka",
+    "position": [
+      34.796108,
+      138.189407
+    ],
+    "timezone": ""
+  },
+  "FUJ": {
+    "IATA": "FUJ",
+    "ICAO": "RJFE",
+    "city": "Fukue",
+    "city_en": "Fukue",
+    "country": "JP",
+    "name": "Fukue",
+    "name_en": "Fukue",
+    "position": [
+      32.66626,
+      128.832794
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "FUK": {
+    "IATA": "FUK",
+    "ICAO": "RJFF",
+    "city": "福冈",
+    "city_en": "Fukuoka",
+    "country": "JP",
+    "name": "福冈",
+    "name_en": "Fukuoka",
+    "position": [
+      33.585941,
+      130.450607
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "GAJ": {
+    "IATA": "GAJ",
+    "ICAO": "RJSC",
+    "city": "山形",
+    "city_en": "Yamagata",
+    "country": "JP",
+    "name": "Yamagata",
+    "name_en": "Yamagata",
+    "position": [
+      38.411888,
+      140.371307
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "HAC": {
+    "IATA": "HAC",
+    "ICAO": "RJTH",
+    "city": "八丈岛",
+    "city_en": "Hachijojima",
+    "country": "JP",
+    "name": "Hachijojima",
+    "name_en": "Hachijojima",
+    "position": [
+      33.115002,
+      139.785797
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "HHE": {
+    "IATA": "HHE",
+    "ICAO": "RJSH",
+    "city": "Hachinoe",
+    "city_en": "",
+    "country": "JP",
+    "name": "Hachinohe",
+    "name_en": "",
+    "position": [
+      40.5564,
+      141.466003
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "HIJ": {
+    "IATA": "HIJ",
+    "ICAO": "RJOA",
+    "city": "广岛",
+    "city_en": "Hiroshima",
+    "country": "JP",
+    "name": "广岛",
+    "name_en": "Hiroshima",
+    "position": [
+      34.436111,
+      132.919403
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "HIW": {
+    "IATA": "HIW",
+    "ICAO": "RJBH",
+    "city": "广岛",
+    "city_en": "",
+    "country": "JP",
+    "name": "广岛nishi",
+    "name_en": "",
+    "position": [
+      34.366901,
+      132.414001
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "HKD": {
+    "IATA": "HKD",
+    "ICAO": "RJCH",
+    "city": "函馆",
+    "city_en": "Hakodate",
+    "country": "JP",
+    "name": "Hakodate",
+    "name_en": "Hakodate",
+    "position": [
+      41.77,
+      140.821899
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "HNA": {
+    "IATA": "HNA",
+    "ICAO": "RJSI",
+    "city": "花卷",
+    "city_en": "Hanamaki",
+    "country": "JP",
+    "name": "Hanamaki",
+    "name_en": "Hanamaki",
+    "position": [
+      39.428612,
+      141.135193
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "HND": {
+    "IATA": "HND",
+    "ICAO": "RJTT",
+    "city": "东京",
+    "city_en": "Tokyo",
+    "country": "JP",
+    "name": "羽田",
+    "name_en": "Haneda",
+    "position": [
+      35.55225,
+      139.779602
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "HSG": {
+    "IATA": "HSG",
+    "ICAO": "RJFS",
+    "city": "佐贺",
+    "city_en": "Saga",
+    "country": "JP",
+    "name": "Saga",
+    "name_en": "Saga",
+    "position": [
+      33.153828,
+      130.30278
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "IBR": {
+    "IATA": "IBR",
+    "ICAO": "RJAH",
+    "city": "Ibaraki",
+    "city_en": "Omitama",
+    "country": "JP",
+    "name": "Hyakuri",
+    "name_en": "Omitama Ibaraki",
+    "position": [
+      36.181667,
+      140.414719
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "IKI": {
+    "IATA": "IKI",
+    "ICAO": "RJDB",
+    "city": "Iki",
+    "city_en": "Iki",
+    "country": "JP",
+    "name": "Iki",
+    "name_en": "Iki",
+    "position": [
+      33.74902,
+      129.7854
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "ISG": {
+    "IATA": "ISG",
+    "ICAO": "ROIG",
+    "city": "石垣",
+    "city_en": "Ishigaki",
+    "country": "JP",
+    "name": "Ishigaki",
+    "name_en": "Ishigaki New",
+    "position": [
+      24.396389,
+      124.245003
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "ITM": {
+    "IATA": "ITM",
+    "ICAO": "RJOO",
+    "city": "大阪",
+    "city_en": "Osaka",
+    "country": "JP",
+    "name": "伊丹",
+    "name_en": "Itami",
+    "position": [
+      34.785519,
+      135.438202
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "IWJ": {
+    "IATA": "IWJ",
+    "ICAO": "RJOW",
+    "city": "石见",
+    "city_en": "Masuda",
+    "country": "JP",
+    "name": "Iwami",
+    "name_en": "Masuda Hagi Iwami",
+    "position": [
+      34.676388,
+      131.790283
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "IWO": {
+    "IATA": "IWO",
+    "ICAO": "RJAW",
+    "city": "Iwojima",
+    "city_en": "",
+    "country": "JP",
+    "name": "Iwo Jima",
+    "name_en": "",
+    "position": [
+      24.784,
+      141.322998
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "IZO": {
+    "IATA": "IZO",
+    "ICAO": "RJOC",
+    "city": "出云",
+    "city_en": "Izumo",
+    "country": "JP",
+    "name": "Izumo",
+    "name_en": "Izumo",
+    "position": [
+      35.413609,
+      132.889893
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KCZ": {
+    "IATA": "KCZ",
+    "ICAO": "RJOK",
+    "city": "高知",
+    "city_en": "nullkoku",
+    "country": "JP",
+    "name": "Kōchi Ryōma",
+    "name_en": "Kochi",
+    "position": [
+      33.546108,
+      133.669403
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KIJ": {
+    "IATA": "KIJ",
+    "ICAO": "RJSN",
+    "city": "新潟",
+    "city_en": "Niigata",
+    "country": "JP",
+    "name": "新潟",
+    "name_en": "Niigata",
+    "position": [
+      37.955891,
+      139.120697
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KIX": {
+    "IATA": "KIX",
+    "ICAO": "RJBB",
+    "city": "大阪",
+    "city_en": "Osaka",
+    "country": "JP",
+    "name": "关西",
+    "name_en": "Kansai",
+    "position": [
+      34.427299,
+      135.244003
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KJP": {
+    "IATA": "KJP",
+    "ICAO": "ROKR",
+    "city": "Kerama",
+    "city_en": "",
+    "country": "JP",
+    "name": "Kerama",
+    "name_en": "",
+    "position": [
+      26.1683,
+      127.292999
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KKJ": {
+    "IATA": "KKJ",
+    "ICAO": "RJFR",
+    "city": "北九州",
+    "city_en": "Kitakyushu",
+    "country": "JP",
+    "name": "北九州",
+    "name_en": "Kitakyushu",
+    "position": [
+      33.84594,
+      131.034607
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KKX": {
+    "IATA": "KKX",
+    "ICAO": "RJKI",
+    "city": "Kikai",
+    "city_en": "Kikai",
+    "country": "JP",
+    "name": "Kikai",
+    "name_en": "Kikai",
+    "position": [
+      28.321301,
+      129.927994
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KMI": {
+    "IATA": "KMI",
+    "ICAO": "RJFM",
+    "city": "宫崎",
+    "city_en": "Miyazaki",
+    "country": "JP",
+    "name": "宫崎",
+    "name_en": "Miyazaki",
+    "position": [
+      31.87722,
+      131.448593
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KMJ": {
+    "IATA": "KMJ",
+    "ICAO": "RJFT",
+    "city": "熊本",
+    "city_en": "Kumamoto",
+    "country": "JP",
+    "name": "熊本",
+    "name_en": "Kumamoto",
+    "position": [
+      32.837311,
+      130.854996
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KMQ": {
+    "IATA": "KMQ",
+    "ICAO": "RJNK",
+    "city": "小松",
+    "city_en": "Komatsu",
+    "country": "JP",
+    "name": "小松",
+    "name_en": "Komatsu",
+    "position": [
+      36.394611,
+      136.406494
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KOJ": {
+    "IATA": "KOJ",
+    "ICAO": "RJFK",
+    "city": "鹿儿岛",
+    "city_en": "Kagoshima",
+    "country": "JP",
+    "name": "鹿儿岛",
+    "name_en": "Kagoshima",
+    "position": [
+      31.803391,
+      130.719406
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KTD": {
+    "IATA": "KTD",
+    "ICAO": "RORK",
+    "city": "Kitadaito",
+    "city_en": "Kitadaito",
+    "country": "JP",
+    "name": "Kitadaito",
+    "name_en": "Kitadaito",
+    "position": [
+      25.944719,
+      131.326904
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KUH": {
+    "IATA": "KUH",
+    "ICAO": "RJCK",
+    "city": "钏路",
+    "city_en": "Kushiro",
+    "country": "JP",
+    "name": "Kushiro",
+    "name_en": "Kushiro",
+    "position": [
+      43.040958,
+      144.192902
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "KUM": {
+    "IATA": "KUM",
+    "ICAO": "RJFC",
+    "city": "Yakushima",
+    "city_en": "Yakushima",
+    "country": "JP",
+    "name": "Yakushima",
+    "name_en": "Yakushima",
+    "position": [
+      30.385559,
+      130.658997
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "MBE": {
+    "IATA": "MBE",
+    "ICAO": "RJEB",
+    "city": "纹别",
+    "city_en": "Monbetsu",
+    "country": "JP",
+    "name": "Monbetsu",
+    "name_en": "Monbetsu",
+    "position": [
+      44.303909,
+      143.404007
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "MMB": {
+    "IATA": "MMB",
+    "ICAO": "RJCM",
+    "city": "女满别",
+    "city_en": "Memanbetsu",
+    "country": "JP",
+    "name": "Memanbetsu",
+    "name_en": "Memanbetsu",
+    "position": [
+      43.8806,
+      144.164001
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "MMD": {
+    "IATA": "MMD",
+    "ICAO": "ROMD",
+    "city": "Minami Daito",
+    "city_en": "Minamidaito",
+    "country": "JP",
+    "name": "Minami-Daito",
+    "name_en": "Minami-daito",
+    "position": [
+      25.846531,
+      131.263397
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "MMJ": {
+    "IATA": "MMJ",
+    "ICAO": "RJAF",
+    "city": "Matsumoto",
+    "city_en": "Matsumoto",
+    "country": "JP",
+    "name": "Matsumoto",
+    "name_en": "Matsumoto",
+    "position": [
+      36.166752,
+      137.922607
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "MMY": {
+    "IATA": "MMY",
+    "ICAO": "ROMY",
+    "city": "宫古",
+    "city_en": "Miyako",
+    "country": "JP",
+    "name": "Miyako",
+    "name_en": "Miyako",
+    "position": [
+      24.782829,
+      125.295097
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "MSJ": {
+    "IATA": "MSJ",
+    "ICAO": "RJSM",
+    "city": "三泽",
+    "city_en": "Misawa",
+    "country": "JP",
+    "name": "Misawa Air Base",
+    "name_en": "Misawa",
+    "position": [
+      40.70322,
+      141.368301
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "MUS": {
+    "IATA": "MUS",
+    "ICAO": "RJAM",
+    "city": "Minami Tori Shima",
+    "city_en": "",
+    "country": "JP",
+    "name": "Minami Torishima",
+    "name_en": "",
+    "position": [
+      24.289699,
+      153.979003
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "MYE": {
+    "IATA": "MYE",
+    "ICAO": "RJTQ",
+    "city": "Miyakejima",
+    "city_en": "",
+    "country": "JP",
+    "name": "Miyakejima",
+    "name_en": "",
+    "position": [
+      34.0736,
+      139.559997
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "MYJ": {
+    "IATA": "MYJ",
+    "ICAO": "RJOM",
+    "city": "松山",
+    "city_en": "Matsuyama",
+    "country": "JP",
+    "name": "松山",
+    "name_en": "Matsuyama",
+    "position": [
+      33.827221,
+      132.699707
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "NGO": {
+    "IATA": "NGO",
+    "ICAO": "RJGG",
+    "city": "名古屋",
+    "city_en": "Nagoya",
+    "country": "JP",
+    "name": "名古屋中部",
+    "name_en": "Nagoya Chubu Centrair",
+    "position": [
+      34.85841,
+      136.805405
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "NGS": {
+    "IATA": "NGS",
+    "ICAO": "RJFU",
+    "city": "长崎",
+    "city_en": "Nagasaki",
+    "country": "JP",
+    "name": "Nagasaki",
+    "name_en": "Nagasaki",
+    "position": [
+      32.916939,
+      129.913605
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "NJA": {
+    "IATA": "NJA",
+    "ICAO": "RJTA",
+    "city": "Atsugi",
+    "city_en": "",
+    "country": "JP",
+    "name": "Atsugi Naval Air Facility",
+    "name_en": "",
+    "position": [
+      35.454601,
+      139.449996
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "NKM": {
+    "IATA": "NKM",
+    "ICAO": "RJNA",
+    "city": "名古屋",
+    "city_en": "Nagoya",
+    "country": "JP",
+    "name": "名古屋",
+    "name_en": "Nagoya Komaki",
+    "position": [
+      35.25,
+      136.919998
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "NRT": {
+    "IATA": "NRT",
+    "ICAO": "RJAA",
+    "city": "东京",
+    "city_en": "Tokyo",
+    "country": "JP",
+    "name": "成田",
+    "name_en": "Narita",
+    "position": [
+      35.764721,
+      140.386307
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "NTQ": {
+    "IATA": "NTQ",
+    "ICAO": "RJNW",
+    "city": "轮岛",
+    "city_en": "Wajima",
+    "country": "JP",
+    "name": "Noto",
+    "name_en": "Wajima Noto",
+    "position": [
+      37.293098,
+      136.961853
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "OBO": {
+    "IATA": "OBO",
+    "ICAO": "RJCB",
+    "city": "带广",
+    "city_en": "Obihiro",
+    "country": "JP",
+    "name": "Tokachi-Obihiro",
+    "name_en": "Obihiro Tokachi",
+    "position": [
+      42.73333,
+      143.217194
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "OGN": {
+    "IATA": "OGN",
+    "ICAO": "ROYN",
+    "city": "Yonaguni Jima",
+    "city_en": "Yonaguni",
+    "country": "JP",
+    "name": "Yonaguni",
+    "name_en": "Yonaguni",
+    "position": [
+      24.46694,
+      122.977699
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "OIM": {
+    "IATA": "OIM",
+    "ICAO": "RJTO",
+    "city": "Oshima",
+    "city_en": "",
+    "country": "JP",
+    "name": "Oshima",
+    "name_en": "",
+    "position": [
+      34.782001,
+      139.36
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "OIR": {
+    "IATA": "OIR",
+    "ICAO": "RJEO",
+    "city": "Okushiri",
+    "city_en": "Okushiri",
+    "country": "JP",
+    "name": "Okushiri",
+    "name_en": "Okushiri",
+    "position": [
+      42.071659,
+      139.432907
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "OIT": {
+    "IATA": "OIT",
+    "ICAO": "RJFO",
+    "city": "大分",
+    "city_en": "Oita",
+    "country": "JP",
+    "name": "Oita",
+    "name_en": "Oita",
+    "position": [
+      33.479439,
+      131.737198
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "OKA": {
+    "IATA": "OKA",
+    "ICAO": "ROAH",
+    "city": "那霸",
+    "city_en": "Naha",
+    "country": "JP",
+    "name": "那霸",
+    "name_en": "Naha",
+    "position": [
+      26.19581,
+      127.645798
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "OKD": {
+    "IATA": "OKD",
+    "ICAO": "RJCO",
+    "city": "札幌",
+    "city_en": "Sapporo",
+    "country": "JP",
+    "name": "Okadama",
+    "name_en": "Sapporo Okadama",
+    "position": [
+      43.1143,
+      141.383102
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "OKE": {
+    "IATA": "OKE",
+    "ICAO": "RJKB",
+    "city": "Okierabu",
+    "city_en": "Okierabu",
+    "country": "JP",
+    "name": "Okierabu",
+    "name_en": "Okierabu",
+    "position": [
+      27.425501,
+      128.701004
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "OKI": {
+    "IATA": "OKI",
+    "ICAO": "RJNO",
+    "city": "Oki Island",
+    "city_en": "",
+    "country": "JP",
+    "name": "Oki",
+    "name_en": "",
+    "position": [
+      36.181098,
+      133.324996
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "OKJ": {
+    "IATA": "OKJ",
+    "ICAO": "RJOB",
+    "city": "冈山",
+    "city_en": "Okayama",
+    "country": "JP",
+    "name": "冈山",
+    "name_en": "Okayama",
+    "position": [
+      34.756939,
+      133.855194
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "OKO": {
+    "IATA": "OKO",
+    "ICAO": "RJTY",
+    "city": "Yokota",
+    "city_en": "",
+    "country": "JP",
+    "name": "Yokota Air Base",
+    "name_en": "",
+    "position": [
+      35.7485,
+      139.348007
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "ONJ": {
+    "IATA": "ONJ",
+    "ICAO": "RJSR",
+    "city": "大馆能代",
+    "city_en": "Kitaakita",
+    "country": "JP",
+    "name": "Odate Noshiro",
+    "name_en": "Kitaakita Odate Noshiro",
+    "position": [
+      40.196415,
+      140.373825
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "QGU": {
+    "IATA": "QGU",
+    "ICAO": "RJNG",
+    "city": "Gifu",
+    "city_en": "",
+    "country": "JP",
+    "name": "Gifu",
+    "name_en": "",
+    "position": [
+      35.3941,
+      136.869995
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "RIS": {
+    "IATA": "RIS",
+    "ICAO": "RJER",
+    "city": "Rishiri Island",
+    "city_en": "",
+    "country": "JP",
+    "name": "Rishiri",
+    "name_en": "",
+    "position": [
+      45.242,
+      141.186004
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "RNJ": {
+    "IATA": "RNJ",
+    "ICAO": "RORY",
+    "city": "Yoron",
+    "city_en": "Yoronjima",
+    "country": "JP",
+    "name": "Yoron",
+    "name_en": "Yoronjima Yoron",
+    "position": [
+      27.043961,
+      128.401505
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "SDJ": {
+    "IATA": "SDJ",
+    "ICAO": "RJSS",
+    "city": "仙台",
+    "city_en": "Sendai",
+    "country": "JP",
+    "name": "仙台",
+    "name_en": "Sendai",
+    "position": [
+      38.139721,
+      140.916901
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "SDS": {
+    "IATA": "SDS",
+    "ICAO": "RJSD",
+    "city": "Sado",
+    "city_en": "",
+    "country": "JP",
+    "name": "Sado",
+    "name_en": "",
+    "position": [
+      38.060199,
+      138.414001
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "SHB": {
+    "IATA": "SHB",
+    "ICAO": "RJCN",
+    "city": "中标津",
+    "city_en": "Nakashibetsu",
+    "country": "JP",
+    "name": "Nakashibetsu",
+    "name_en": "Nakashibetsu",
+    "position": [
+      43.577499,
+      144.960007
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "SHI": {
+    "IATA": "SHI",
+    "ICAO": "RORS",
+    "city": "Shimojishima",
+    "city_en": "Shimojishima",
+    "country": "JP",
+    "name": "Shimojishima",
+    "name_en": "Shimojishima",
+    "position": [
+      24.82666,
+      125.144699
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "SHM": {
+    "IATA": "SHM",
+    "ICAO": "RJBD",
+    "city": "南纪白滨",
+    "city_en": "nullki Shirahama",
+    "country": "JP",
+    "name": "nullki Shirahama",
+    "name_en": "nullki Shirahama",
+    "position": [
+      33.66222,
+      135.364395
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "SYO": {
+    "IATA": "SYO",
+    "ICAO": "RJSY",
+    "city": "庄内",
+    "city_en": "Sakata",
+    "country": "JP",
+    "name": "Shonai",
+    "name_en": "Sakata Shonai",
+    "position": [
+      38.809444,
+      139.790558
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "TAK": {
+    "IATA": "TAK",
+    "ICAO": "RJOT",
+    "city": "高松",
+    "city_en": "Takamatsu",
+    "country": "JP",
+    "name": "高松",
+    "name_en": "Takamatsu",
+    "position": [
+      34.214161,
+      134.015503
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "TJH": {
+    "IATA": "TJH",
+    "ICAO": "RJBT",
+    "city": "Toyooka",
+    "city_en": "",
+    "country": "JP",
+    "name": "Tajima",
+    "name_en": "",
+    "position": [
+      35.512798,
+      134.787002
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "TKN": {
+    "IATA": "TKN",
+    "ICAO": "RJKN",
+    "city": "Tokunoshima",
+    "city_en": "Tokunoshima",
+    "country": "JP",
+    "name": "Tokunoshima",
+    "name_en": "Tokunoshima",
+    "position": [
+      27.83638,
+      128.881195
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "TKS": {
+    "IATA": "TKS",
+    "ICAO": "RJOS",
+    "city": "德岛",
+    "city_en": "Tokushima",
+    "country": "JP",
+    "name": "Tokushima /JMSDF Air Base",
+    "name_en": "Tokushima",
+    "position": [
+      34.132801,
+      134.606598
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "TNE": {
+    "IATA": "TNE",
+    "ICAO": "RJFG",
+    "city": "Tanegashima",
+    "city_en": "Tanegashima",
+    "country": "JP",
+    "name": "New Tanegashima",
+    "name_en": "Tanegashima",
+    "position": [
+      30.605061,
+      130.991196
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "TOY": {
+    "IATA": "TOY",
+    "ICAO": "RJNT",
+    "city": "富山",
+    "city_en": "Toyama",
+    "country": "JP",
+    "name": "Toyama",
+    "name_en": "Toyama",
+    "position": [
+      36.648331,
+      137.1875
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "TRA": {
+    "IATA": "TRA",
+    "ICAO": "RORT",
+    "city": "Tarama",
+    "city_en": "",
+    "country": "JP",
+    "name": "Tarama",
+    "name_en": "",
+    "position": [
+      24.6539,
+      124.675003
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "TSJ": {
+    "IATA": "TSJ",
+    "ICAO": "RJDT",
+    "city": "Tsushima",
+    "city_en": "Tsushima",
+    "country": "JP",
+    "name": "Tsushima",
+    "name_en": "Tsushima",
+    "position": [
+      34.284882,
+      129.330505
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "TTJ": {
+    "IATA": "TTJ",
+    "ICAO": "RJOR",
+    "city": "鸟取",
+    "city_en": "Tottori",
+    "country": "JP",
+    "name": "Tottori",
+    "name_en": "Tottori",
+    "position": [
+      35.53006,
+      134.166504
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "UBJ": {
+    "IATA": "UBJ",
+    "ICAO": "RJDC",
+    "city": "山口",
+    "city_en": "Ube",
+    "country": "JP",
+    "name": "Yamaguchi Ube",
+    "name_en": "Ube Yamaguchi",
+    "position": [
+      33.93,
+      131.278595
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "UEO": {
+    "IATA": "UEO",
+    "ICAO": "ROKJ",
+    "city": "Kumejima",
+    "city_en": "Kumejima",
+    "country": "JP",
+    "name": "Kumejima",
+    "name_en": "Kumejima",
+    "position": [
+      26.363501,
+      126.713799
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "UKB": {
+    "IATA": "UKB",
+    "ICAO": "RJBE",
+    "city": "神户",
+    "city_en": "Kobe",
+    "country": "JP",
+    "name": "Kobe",
+    "name_en": "Kobe",
+    "position": [
+      34.632771,
+      135.223801
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "WKJ": {
+    "IATA": "WKJ",
+    "ICAO": "RJCW",
+    "city": "稚内",
+    "city_en": "Wakkanai",
+    "country": "JP",
+    "name": "Wakkanai",
+    "name_en": "Wakkanai",
+    "position": [
+      45.40416,
+      141.800797
+    ],
+    "timezone": "Asia/Tokyo"
+  },
+  "YGJ": {
+    "IATA": "YGJ",
+    "ICAO": "RJOH",
+    "city": "米子",
+    "city_en": "Yonago",
+    "country": "JP",
+    "name": "Miho Yonago",
+    "name_en": "Yonago Miho",
+    "position": [
+      35.492222,
+      133.236298
+    ],
+    "timezone": "Asia/Tokyo"
+  }
+}
