@@ -21,9 +21,8 @@ def msp(li, filename="airports.json"):
             "timezone":  a['timezone']
         }
 
-    with open(filename, "w", encoding="utf-8") as w:
-        json.dump(v, w, sort_keys=True, indent=2, ensure_ascii=False)
-    return v
+    with open(filename, "w") as w:
+        json.dump(v, w, separators=(',', ':'))
 
 
 if __name__ == "__main__":
