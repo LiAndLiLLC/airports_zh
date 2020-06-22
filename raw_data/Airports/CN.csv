@@ -1,5 +1,6 @@
 country,ICAO,IATA,city,city_en,name,name_en,latitude,longitude,timezone
 CN,,BFU,Bengbu,,,,32.847733,117.320244,Asia/Shanghai
+CN,,HBQ,海北,Haibei,海北祁连机场,Haibei Qilian Airport,38.012,100.644,Asia/Shanghai
 CN,,JIU,Jiujiang,,,,29.476944,115.801111,Asia/Shanghai
 CN,,RUG,Rugao,,,,32.257884,120.501655,Asia/Shanghai
 CN,,SHP,,,,,39.968102,119.731003,Asia/Shanghai
