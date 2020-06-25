@@ -284,8 +284,8 @@
   "CN": {
     "code": "CN",
     "flag": "🇨🇳",
-    "name_en": "China (Mainland)",
-    "name_zh": "中国（内地 / 大陆）"
+    "name_en": "China",
+    "name_zh": "中国"
   },
   "CO": {
     "code": "CO",
@@ -585,8 +585,8 @@
   "HK": {
     "code": "HK",
     "flag": "🇨🇳🇭🇰",
-    "name_en": "China (Hong Kong SAR)",
-    "name_zh": "中国（香港特别行政区）"
+    "name_en": "China",
+    "name_zh": "中国"
   },
   "HM": {
     "code": "HM",
@@ -904,8 +904,8 @@
   "MO": {
     "code": "MO",
     "flag": "🇨🇳🇲🇴",
-    "name_en": "China (Macao SAR)",
-    "name_zh": "中国（澳门特别行政区）"
+    "name_en": "China",
+    "name_zh": "中国"
   },
   "MP": {
     "code": "MP",
@@ -1383,8 +1383,8 @@
   "TW": {
     "code": "TW",
     "flag": "🇨🇳",
-    "name_en": "China (Taiwan)",
-    "name_zh": "中国（台湾）"
+    "name_en": "China",
+    "name_zh": "中国"
   },
   "TZ": {
     "code": "TZ",
