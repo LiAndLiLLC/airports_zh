@@ -1,0 +1,63 @@
+country,ICAO,IATA,city_en,name_en,latitude,longitude,timezone,city,name
+TH,VTBS,BKK,Bangkok,Bangkok Suvarnabhumi Airport,13.6811,100.7472,Asia/Bangkok,曼谷,曼谷素万那普国际机场
+TH,VTCC,CNX,Chiang Mai,Chiang Mai International Airport,18.76684,98.962639,Asia/Bangkok,清迈,清迈国际机场
+TH,VTCT,CEI,Chiang Rai,Chiang Rai International Airport,19.952339,99.882919,Asia/Bangkok,清莱,清莱国际机场
+TH,VTSS,HDY,Hat Yai,Hat Yai International Airport,6.933206,100.392899,Asia/Bangkok,合艾,合艾国际机场
+TH,VTUK,KKC,Khon Kaen,Khon Kaen Airport,16.466619,102.7836,Asia/Bangkok,,
+TH,VTSM,USM,Koh Samui,Koh Samui Airport,9.547794,100.062202,Asia/Bangkok,苏梅,苏梅国际机场
+TH,VTSG,KBV,Krabi,Krabi Airport,8.095969,98.988762,Asia/Bangkok,喀比,喀比国际机场
+TH,VTCL,LPT,Lampang,Lampang Airport,18.270929,99.504158,Asia/Bangkok,,
+TH,VTSC,NAW,Narathiwat,Narathiwat Airport,6.519922,101.743401,Asia/Bangkok,,
+TH,VTSP,HKT,Phuket,Phuket International Airport,8.1132,98.316872,Asia/Bangkok,普吉,普吉国际机场
+TH,VTPO,THS,Sukhothai,Sukhothai Airport,17.223057,99.82222,Asia/Bangkok,,
+TH,VTSB,URT,Surat Thani,Surat Thani Airport,9.132603,99.135582,Asia/Bangkok,素叻他尼,素叻他尼机场
+TH,VTUU,UBP,Ubon Ratchathani,Ubon Ratchathani Airport,15.25127,104.870201,Asia/Bangkok,乌汶,乌汶机场
+TH,VTUD,UTH,Udon Thani,Udon Thani International Airport,17.386431,102.7882,Asia/Bangkok,乌隆他尼,乌隆他尼国际机场
+TH,VTBD,DMK,Bangkok,Bangkok Don Mueang International Airport,13.9125,100.606697,Asia/Bangkok,曼谷,曼谷廊曼国际机场
+TH,VTUO,BFV,Buriram,Buriram Airport,15.2295,103.252998,Asia/Bangkok,,
+TH,VTSE,CJM,Chumphon,Chumphon Airport,10.71,99.360001,Asia/Bangkok,,
+TH,VTUL,LOE,Loei,Loei Airport,17.439131,101.722,Asia/Bangkok,,
+TH,VTPM,MAQ,Mae Sot,Mae Sot Airport,16.700369,98.544533,Asia/Bangkok,,
+TH,VTUP,KOP,Nakhon Phanom,Nakhon Phanom Airport,17.383789,104.642998,Asia/Bangkok,,
+TH,VTSF,NST,Nakhon Si Thammarat,Nakhon Si Thammarat Airport,8.539444,99.944725,Asia/Bangkok,,
+TH,VTCN,NNT,Nan,Nan Airport,18.799999,100.783333,Asia/Bangkok,楠府,楠府机场
+TH,VTPP,PHS,Phitsanulok,Phitsanulok Airport,16.78293,100.279099,Asia/Bangkok,彭世洛,彭世洛机场
+TH,VTCP,PRH,Phrae,Phrae Airport,18.13216,100.164597,Asia/Bangkok,,
+TH,VTSR,UNN,Ranong,Ranong Airport,9.7775,98.585281,Asia/Bangkok,,
+TH,VTUV,ROI,Roi Et,Roi Et Airport,16.1168,103.774002,Asia/Bangkok,,
+TH,VTUI,SNO,Sakon Nakhon,Sakon Nakhon Airport,17.195141,104.118599,Asia/Bangkok,,
+TH,VTST,TST,Trang,Trang Airport,7.508744,99.61657,Asia/Bangkok,,
+TH,VTBU,UTP,Rayong,Rayong Pattaya U-Tapao International Airport,12.67994,101.004997,Asia/Bangkok,,
+MY,WMKK,KUL,Kuala Lumpur,Kuala Lumpur International Airport,2.745578,101.7099,Asia/Kuala_Lumpur,吉隆坡,吉隆坡国际机场
+MY,WMSA,SZB,Kuala Lumpur,Kuala Lumpur Subang Airport,3.130583,101.549301,Asia/Kuala_Lumpur,,
+MY,WMKP,PEN,Penang,Penang International Airport,5.297139,100.276802,Asia/Kuala_Lumpur,槟城,槟城国际机场
+MY,WMKA,AOR,Alor Setar,Alor Setar Sultan Abdul Halim Airport,6.189667,100.398102,Asia/Kuala_Lumpur,,
+MY,WMKJ,JHB,Johor Bahru,Johor Bahru Senai International Airport,1.641308,103.669601,Asia/Kuala_Lumpur,,
+MY,WMKC,KBR,Kota Bharu,Kota Bharu Sultan Ismail Petra Airport,6.16685,102.292999,Asia/Kuala_Lumpur,,
+MY,WBKK,BKI,Kota Kinabalu,Kota Kinabalu International Airport,5.937208,116.051102,Asia/Kuala_Lumpur,亚庇,亚庇国际机场
+MY,WMKN,TGG,Kuala Terengganu,Kuala Terengganu Sultan Mahmud Airport,5.382639,103.103302,Asia/Kuala_Lumpur,苏丹马慕,苏丹马慕国际机场
+MY,WBKL,LBU,Labuan,Labuan Airport,5.300683,115.250099,Asia/Kuala_Lumpur,纳闽,纳闽机场
+MY,WMKL,LGK,Langkawi,Langkawi International Airport,6.329728,99.728661,Asia/Kuala_Lumpur,浮罗交怡,浮罗交怡国际机场
+MY,WMPR,RDN,Redang,LTS Pulau Redang Airport,5.76528,103.007004,Asia/Kuala_Lumpur,,
+MY,WBGB,BTU,Bintulu,Bintulu Airport,3.12385,113.020401,Asia/Kuala_Lumpur,民都鲁,民都鲁机场
+MY,WMKD,KUA,Kuantan,Kuantan Sultan Haji Ahmad Shah Airport,3.775389,103.209,Asia/Kuala_Lumpur,,
+MY,WBGG,KCH,Kuching,Kuching International Airport,1.484697,110.346901,Asia/Kuala_Lumpur,古晋,古晋国际机场
+MY,WBGR,MYY,Miri,Miri Airport,4.322014,113.986801,Asia/Kuala_Lumpur,美里,美里机场
+MY,WBKS,SDK,Sandakan,Sandakan Airport,5.900897,118.059402,Asia/Kuala_Lumpur,山打根,山打根机场
+MY,WBGS,SBW,Sibu,Sibu Airport,2.261603,111.985298,Asia/Kuala_Lumpur,诗巫,诗巫机场
+MY,WBKW,TWU,Tawau,Tawau Airport,4.313369,118.121902,Asia/Kuala_Lumpur,斗湖,斗湖机场
+MY,WBGK,MKM,Mukah,Mukah Airport,2.906944,112.074997,Asia/Kuala_Lumpur,,
+MY,WBKT,KUD,Kudat,Kudat Airport,6.924167,116.830803,Asia/Kuala_Lumpur,古达,古达机场
+MY,WBKD,LDU,Lahad Datu,Lahad Datu Airport,5.032247,118.323997,Asia/Kuala_Lumpur,拿笃,拿笃机场
+MY,WBGW,LWY,Lawas,Lawas Airport,4.849167,115.402702,Asia/Kuala_Lumpur,,
+MY,WBGJ,LMN,Limbang,Limbang Airport,4.808303,115.010399,Asia/Kuala_Lumpur,,
+MY,WBMU,MZV,Mulu,Mulu Airport,4.05,114.800003,Asia/Kuala_Lumpur,,
+MY,WBGO,BKM,Bakelalan,Bakelalan Airport,3.988611,115.618797,Asia/Kuala_Lumpur,,
+MY,WBGZ,BBN,Bario,Bario Airport,3.736944,115.469398,Asia/Kuala_Lumpur,,
+MY,WMKI,IPH,Ipoh,Ipoh Sultan Azlan Shah Airport,4.567972,101.092102,Asia/Kuala_Lumpur,,
+MY,WBGF,LGL,Long Datih,Long Lellang Airport,3.421,115.153999,Asia/Kuala_Lumpur,,
+MY,WBGI,ODN,Long Seridan,Long Seridan Airport,3.976111,115.063301,Asia/Kuala_Lumpur,,
+MY,WBGM,MUR,Marudi,Marudi Airport,4.1775,114.321899,Asia/Kuala_Lumpur,,
+MY,WBTM,TGC,Tanjung Manis,Tanjung Manis Airport,2.177778,111.201942,Asia/Kuala_Lumpur,,
+MY,WBGL,LKH,Long Akah,Long Akah Airport,3.3,114.782997,Asia/Kuala_Lumpur,,
+MY,,LBP,Long Banga,Long Banga Airfield,3.2,115.400002,Asia/Kuala_Lumpur,,

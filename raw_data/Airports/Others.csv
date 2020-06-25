@@ -2309,44 +2309,6 @@ MX,ZCL,MMZC,Zacatecas,General Leobardo C. Ruiz,22.89711,-102.685997,America/Mexi
 MX,ZIH,MMZH,Zihuatanejo,Ixtapa Zihuatanejo,17.601561,-101.459999,America/Mexico_City,Zihuatanejo,Zihuatanejo Ixtapa
 MX,ZLO,MMZO,Manzanillo,Playa De Oro,19.14477,-104.557999,America/Mexico_City,Manzanillo,Manzanillo Playa de Oro
 MX,ZMM,MMZM,Zamora,Zamora,20.045,-102.276001,America/Mexico_City,,
-MY,AOR,WMKA,Alor Setar,Sultan Abdul Halim,6.18967,100.398002,Asia/Kuala_Lumpur,,
-MY,BBN,WBGZ,Bario,Bario,3.73389,115.478996,Asia/Kuala_Lumpur,,
-MY,BKI,WBKK,亚庇,Kota Kinabalu,5.937208,116.051102,Asia/Kuching,Kota Kinabalu,Kota Kinabalu
-MY,BKM,WBGQ,Bakalalan,Bakalalan,3.973999,115.617996,Asia/Kuala_Lumpur,,
-MY,BLG,WBGC,Belaga,Belaga,2.65,113.766998,Asia/Kuala_Lumpur,,
-MY,BTU,WBGB,Bintulu,Bintulu,3.12385,113.019996,Asia/Kuala_Lumpur,,
-MY,BWH,WMKB,Butterworth,Butterworth,5.465919,100.390998,Asia/Kuala_Lumpur,,
-MY,IPH,WMKI,Ipoh,Sultan Azlan Shah,4.567969,101.092002,Asia/Kuala_Lumpur,,
-MY,JHB,WMKJ,柔佛,Senai,1.641308,103.669601,Asia/Kuala_Lumpur,Johor Bahru,Johor Bahru Senai
-MY,KBR,WMKC,Kota Bahru,Sultan Ismail Petra,6.16685,102.292999,Asia/Kuala_Lumpur,,
-MY,KCH,WBGG,古晋,古晋,1.484699,110.347,Asia/Kuala_Lumpur,,
-MY,KTE,WMKE,Kerteh,Kerteh,4.53722,103.427001,Asia/Kuala_Lumpur,,
-MY,KUA,WMKD,Kuantan,Kuantan,3.775389,103.208999,Asia/Kuala_Lumpur,,
-MY,KUD,WBKT,Kudat,Kudat,6.9225,116.835998,Asia/Kuala_Lumpur,,
-MY,KUL,WMKK,吉隆坡,Kuala Lumpur,2.745578,101.7099,Asia/Kuala_Lumpur,Kuala Lumpur,Kuala Lumpur
-MY,LBU,WBKL,Labuan,Labuan,5.30068,115.25,Asia/Kuala_Lumpur,,
-MY,LDU,WBKD,Lahad Datu,Lahad Datu,5.032249,118.323997,Asia/Kuala_Lumpur,,
-MY,LGK,WMKL,兰卡威,Langkawi,6.329728,99.728661,Asia/Kuala_Lumpur,Langkawi,Langkawi
-MY,LGL,WBGF,Long Datih,Long Lellang,3.421,115.153999,Asia/Kuala_Lumpur,,
-MY,LKH,WBGL,Long Akah,Long Akah,3.299999,114.782997,Asia/Kuala_Lumpur,,
-MY,LMN,WBGJ,Limbang,Limbang,4.8083,115.010002,Asia/Kuala_Lumpur,,
-MY,LWY,WBGW,Lawas,Lawas,4.84917,115.407997,Asia/Kuala_Lumpur,,
-MY,MKM,WBGK,Mukah,Mukah,2.90639,112.080002,Asia/Kuala_Lumpur,,
-MY,MKZ,WMKM,Malacca,Malacca,2.26336,102.251998,Asia/Kuala_Lumpur,,
-MY,MUR,WBGM,Marudi,Marudi,4.178979,114.329002,Asia/Kuala_Lumpur,,
-MY,MYY,WBGR,Miri,Miri,4.32201,113.986999,Asia/Kuala_Lumpur,,
-MY,MZV,WBMU,Mulu,Mulu,4.048329,114.805,Asia/Kuala_Lumpur,,
-MY,ODN,WBGI,Long Seridan,Long Seridan,3.967,115.050003,Asia/Kuala_Lumpur,,
-MY,PEN,WMKP,槟城,Penullg,5.297139,100.276802,Asia/Kuala_Lumpur,Penullg,Penullg
-MY,PKG,WMPA,Pangkor Island,Pulau Pangkor,4.244719,100.553001,Asia/Kuala_Lumpur,,
-MY,RDN,WMPR,Redang,LTS Pulau Redang,5.765279,103.007003,Asia/Kuala_Lumpur,,
-MY,SBW,WBGS,Sibu,Sibu,2.2616,111.985,Asia/Kuala_Lumpur,,
-MY,SDK,WBKS,Sandakan,Sandakan,5.900899,118.058998,Asia/Kuala_Lumpur,,
-MY,SZB,WMSA,吉隆坡,Sultan Abdul Aziz Shah,3.130583,101.549301,Asia/Kuala_Lumpur,Kuala Lumpur,Kuala Lumpur Subang
-MY,TGG,WMKN,Kuala Terengganu,Sultan Mahmud,5.382639,103.102996,Asia/Kuala_Lumpur,,
-MY,TMG,WBKM,Tomanggong,Tomanggong,5.40257,118.65763,Asia/Kuala_Lumpur,,
-MY,TOD,WMBT,Tioman,Pulau Tioman,2.81818,104.160003,Asia/Kuala_Lumpur,,
-MY,TWU,WBKW,Tawau,Tawau,4.320159,118.127998,Asia/Kuala_Lumpur,,
 MZ,APL,FQNP,Nampula,Nampula,-15.1056,39.281799,Africa/Maputo,,
 MZ,BEW,FQBR,Beira,Beira,-19.7964,34.9076,Africa/Maputo,,
 MZ,FXO,FQCB,Cuamba,Cuamba,-14.815,36.529999,Africa/Maputo,,
@@ -3194,47 +3156,6 @@ TD,NDJ,FTTJ,N'djamena,N'Djamena,12.13368,15.03401,Africa/Ndjamena,N'Djamena,N'Dj
 TD,SRH,FTTA,Sarh,Sarh,9.14444,18.374399,Africa/Ndjamena,,
 TG,LFW,DXXX,Lome,Lomé-Tokoin,6.165611,1.254511,Africa/Lome,Lome,Lome Tokoin
 TG,LRL,DXNG,Niatougou,Niamtougou,9.76733,1.091249,Africa/Lome,,
-TH,BFV,VTUO,Buri Ram,Buri Ram,15.229499,103.252998,Asia/Bangkok,,
-TH,BKK,VTBS,曼谷,Suvarnabhumi,13.6811,100.7472,Asia/Bangkok,Bangkok,Bangkok Suvarnabhumi
-TH,CEI,VTCT,Chiang Rai,Chiang Rai,19.952339,99.882919,Asia/Bangkok,Chiang Rai,Chiang Rai
-TH,CJM,VTSE,Chumphon,Chumphon,10.711199,99.361701,Asia/Bangkok,,
-TH,CNX,VTCC,清迈,清迈,18.76684,98.962639,Asia/Bangkok,Chiang Mai,Chiang Mai
-TH,DMK,VTBD,曼谷,Don Mueang,13.9125,100.606697,Asia/Bangkok,Bangkok,Bangkok Don Mueang
-TH,HDY,VTSS,合艾,合艾,6.933209,100.392997,Asia/Bangkok,,
-TH,HGN,VTCH,Mae Hong Son,Mae Hong Son,19.3013,97.975799,Asia/Bangkok,,
-TH,HHQ,VTPH,Prachuap Khiri Khan,Hua Hin,12.636199,99.951499,Asia/Bangkok,,
-TH,HKT,VTSP,普吉岛,Phuket,8.1132,98.316872,Asia/Bangkok,Phuket,Phuket
-TH,KBV,VTSG,Krabi,Krabi,8.095969,98.988762,Asia/Bangkok,Krabi,Krabi
-TH,KDT,VTBK,Nakhon Pathom,Kamphaeng Saen,14.102,99.917198,Asia/Bangkok,,
-TH,KKC,VTUK,Khon Kaen,Khon Kaen,16.4666,102.783996,Asia/Bangkok,,
-TH,KOP,VTUW,Nakhon Phanom,Nakhon Phanom,17.3838,104.642997,Asia/Bangkok,,
-TH,LOE,VTUL,Loei,Loei,17.4391,101.722,Asia/Bangkok,,
-TH,LPT,VTCL,Lampang,Lampang,18.2709,99.504203,Asia/Bangkok,,
-TH,MAQ,VTPM,Tak,Mae Sot,16.699899,98.545097,Asia/Bangkok,,
-TH,NAK,VTUQ,Nakhon Ratchasima,Nakhon Ratchasima,14.9495,102.313003,Asia/Bangkok,,
-TH,NAW,VTSC,Narathiwat,Narathiwat,6.519919,101.742996,Asia/Bangkok,,
-TH,NNT,VTCN,null,null,18.807899,100.782997,Asia/Bangkok,,
-TH,NST,VTSF,Nakhon Si Thammarat,Nakhon Si Thammarat,8.53962,99.944702,Asia/Bangkok,,
-TH,PAN,VTSK,Pattani,Pattani,6.785459,101.153999,Asia/Bangkok,,
-TH,PHS,VTPP,Phitsanulok,Phitsanulok,16.782899,100.278999,Asia/Bangkok,,
-TH,PHY,VTPB,Phetchabun,Phetchabun,16.676,101.194999,Asia/Bangkok,,
-TH,PRH,VTCP,Phrae,Phrae,18.1322,100.165,Asia/Bangkok,,
-TH,PXR,VTUJ,Surin,Surin,14.8683,103.498001,Asia/Bangkok,,
-TH,PYY,VTCI,Pai,Mae Hong Son,19.371999,98.436996,Asia/Bangkok,,
-TH,ROI,VTUV,Roi Et,Roi Et,16.1168,103.774002,Asia/Bangkok,,
-TH,SGZ,VTSH,Songkhla,Songkhla,7.18656,100.608001,Asia/Bangkok,,
-TH,SNO,VTUI,Sakon Nakhon,Sakon Nakhon,17.1951,104.119003,Asia/Bangkok,,
-TH,TDX,VTBO,Trat,Trat,12.2746,102.319,Asia/Bangkok,,
-TH,THS,VTPO,Sukhothai,Sukhothai,17.238,99.818199,Asia/Bangkok,,
-TH,TKH,VTPI,Nakhon Sawan,Takhli,15.277299,100.295997,Asia/Bangkok,,
-TH,TKT,VTPT,Tak,Tak,16.895999,99.253303,Asia/Bangkok,,
-TH,TST,VTST,Trang,Trang,7.508739,99.6166,Asia/Bangkok,,
-TH,UBP,VTUU,Ubon Ratchathani,Ubon Ratchathani,15.251299,104.870002,Asia/Bangkok,,
-TH,UNN,VTSR,Ranong,Ranong,9.77762,98.585502,Asia/Bangkok,,
-TH,URT,VTSB,Surat Thani,Surat Thani,9.132603,99.135582,Asia/Bangkok,Surat Thani,Surat Thani
-TH,USM,VTSM,Ko Samui,Samui,9.547794,100.062202,Asia/Bangkok,Koh Samui,Koh Samui
-TH,UTH,VTUD,Udon Thani,Udon Thani,17.3864,102.788002,Asia/Bangkok,,
-TH,UTP,VTBU,Pattaya,U-Tapao,12.67994,101.004997,Asia/Bangkok,Rayong,Rayong Pattaya U-Tapao
 TJ,DYU,UTDD,Dushanbe,Dushanbe,38.543331,68.824997,Asia/Dushanbe,Dushanbe,Dushanbe
 TJ,KQT,UTDT,Kurgan Tyube,Qurghonteppa,37.866401,68.8647,Asia/Dushanbe,,
 TJ,LBD,UTDL,Khudzhand,Khudzhand,40.2154,69.694702,Asia/Dushanbe,,
