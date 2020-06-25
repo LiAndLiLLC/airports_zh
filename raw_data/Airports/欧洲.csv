@@ -1,0 +1,192 @@
+country,ICAO,IATA,city_en,name_en,latitude,longitude,timezone,city,name
+CH,LSGG,GVA,Geneva,Geneva International Airport,46.23806,6.10895,Europe/Zurich,日内瓦,日内瓦国际机场
+CH,LSZH,ZRH,Zurich,Zurich Airport,47.464722,8.549167,Europe/Zurich,苏黎世,苏黎世机场
+DE,EDAH,HDF,Heringsdorf,Heringsdorf Airport,53.87825,14.138242,Europe/Berlin
+DE,EDDB,SXF,Berlin,Berlin Schonefeld Airport,52.380001,13.5225,Europe/Berlin,柏林,柏林-舍讷费尔德机场
+DE,EDDC,DRS,Dresden,Dresden Airport,51.132759,13.76716,Europe/Berlin,德累斯顿,德累斯顿机场
+DE,EDDF,FRA,Frankfurt,Frankfurt Airport,50.037796,8.555783,Europe/Berlin,法兰克福,法兰克福机场
+DE,EDDG,FMO,Munster,Munster Osnabruck International  Airport,52.13464,7.684831,Europe/Berlin,明斯特,明斯特奥斯纳布吕克国际机场
+DE,EDDH,HAM,Hamburg,Hamburg Airport,53.630379,9.988228,Europe/Berlin,汉堡,汉堡机场
+DE,EDDK,CGN,Cologne,Cologne Bonn Airport,50.866001,7.143,Europe/Berlin,科隆/波恩,科隆/波恩机场
+DE,EDDL,DUS,Dusseldorf,Dusseldorf International Airport,51.289452,6.766775,Europe/Berlin,杜塞尔多夫,杜塞尔多夫机场
+DE,EDDM,MUC,Munich,Munich Airport,48.353779,11.78608,Europe/Berlin,慕尼黑,慕尼黑机场
+DE,EDDN,NUE,Nurnberg,Nuremberg Airport,49.498699,11.06689,Europe/Berlin,纽伦堡,纽伦堡机场
+DE,EDDR,SCN,Saarbrucken,Saarbrucken Airport,49.21455,7.109508,Europe/Berlin,萨尔布吕肯,萨尔布吕肯机场
+DE,EDDS,STR,Stuttgart,Stuttgart Airport,48.689869,9.221964,Europe/Berlin,斯图加特,斯图加特机场
+DE,EDDT,TXL,Berlin,Berlin Tegel Airport,52.560001,13.288,Europe/Berlin,柏林,柏林-泰格尔奥托·利林塔尔机场
+DE,EDDV,HAJ,Hannover,Hannover Langenhagen Airport,52.461048,9.685078,Europe/Berlin,汉诺威,汉诺威-朗根哈根机场
+DE,EDDW,BRE,Bremen,Bremen Airport,53.047501,8.786667,Europe/Berlin,不来梅,不来梅机场
+DE,EDFM,MHG,Mannheim,Mannheim City Airport,49.472698,8.514264,Europe/Berlin
+DE,EDLP,PAD,Paderborn,Paderborn Lippstadt Airport,51.614079,8.616317,Europe/Berlin,帕德博恩/利普施塔特,帕德博恩/利普施塔特机场
+DE,EDLW,DTM,Dortmund,Dortmund Airport,51.518311,7.612242,Europe/Berlin,多特蒙德,多特蒙德机场
+DE,EDNY,FDH,Friedrichshafen,Friedrichshafen Airport,47.67131,9.511486,Europe/Berlin,腓特烈港,腓特烈港机场
+DE,EDVK,KSF,Kassel,Kassel Calden Airport,51.420834,9.392222,Europe/Berlin
+DE,EDXW,GWT,Sylt,Sylt Airport,54.91325,8.340472,Europe/Berlin
+DE,ETNL,RLG,Rostock,Rostock Laage Airport,53.917999,12.278,Europe/Berlin,罗斯托克,罗斯托克－拉格机场
+ES,GCFV,FUE,Fuerteventura,Fuerteventura Airport,28.452709,-13.8637,Atlantic/Canary,富埃特文图拉,富埃特文图拉机场
+ES,GCGM,GMZ,La Gomera,La Gomera Airport,28.029722,-17.214722,Atlantic/Canary,戈梅拉,戈梅拉机场
+ES,GCHI,VDE,El Hierro,El Hierro Airport,27.81484,-17.886999,Atlantic/Canary,耶罗,耶罗机场
+ES,GCLA,SPC,La Palma,La Palma Airport,28.626471,-17.7556,Atlantic/Canary,拉帕尔马,拉帕尔马机场
+ES,GCLP,LPA,Gran Canaria,Gran Canaria Airport,27.931881,-15.3865,Atlantic/Canary,大加那利,大加那利机场
+ES,GCRR,ACE,Lanzarote,Lanzarote Airport,28.945459,-13.6052,Atlantic/Canary,兰萨罗特,兰萨罗特机场
+ES,GCTS,TFS,Tenerife,Tenerife South Airport,28.04447,-16.572399,Atlantic/Canary,特内里费,特内里费南部机场
+ES,GCXO,TFN,Tenerife,Tenerife North Airport,28.482651,-16.341499,Atlantic/Canary,特内里费,特内里费北部机场
+ES,GEML,MLN,Melilla,Melilla Airport,35.279812,-2.95625,Europe/Madrid,梅利利亚,梅利利亚机场
+ES,LEAL,ALC,Alicante,Alicante Airport,38.282162,-0.55815,Europe/Madrid,阿利坎特,阿利坎特-埃尔切机场
+ES,LEAM,LEI,Almeria,Almeria Airport,36.843929,-2.37009,Europe/Madrid,阿尔梅里亚,阿尔梅里亚机场
+ES,LEAS,OVD,Asturias,Asturias Airport,43.56356,-6.03462,Europe/Madrid,阿斯图里亚斯,阿斯图里亚斯机场
+ES,LEBB,BIO,Bilbao,Bilbao Airport,43.30109,-2.9106,Europe/Madrid,毕尔巴鄂,毕尔巴鄂机场
+ES,LEBL,BCN,Barcelona,Barcelona El Prat Airport,41.29707,2.078463,Europe/Madrid,巴塞罗那,何塞普·塔拉德利亚斯巴塞罗那-埃尔普拉特机场
+ES,LEBZ,BJZ,Badajoz,Badajoz Airport,38.891251,-6.82133,Europe/Madrid,巴达霍斯,巴达霍斯机场
+ES,LECO,LCG,A Coruna,A Coruna Airport,43.302059,-8.37725,Europe/Madrid,拉科鲁尼亚,拉科鲁尼亚机场
+ES,LEDA,ILD,Lleida,Lleida Alguaire Airport,41.726925,0.539164,Europe/Madrid,莱里达,莱里达-阿尔瓜伊雷机场
+ES,LEGE,GRO,Girona,Girona Costa Brava Airport,41.900959,2.760547,Europe/Madrid,赫罗纳,赫罗纳－布拉瓦海岸机场
+ES,LEGR,GRX,Granada,Granada Federico Garcia Lorca Airport,37.188728,-3.77735,Europe/Madrid
+ES,LEHC,HSK,Huesca,Huesca Pirineos Airport,42.080833,-0.323333,Europe/Madrid
+ES,LEIB,IBZ,Ibiza,Ibiza Airport,38.872849,1.373117,Europe/Madrid,伊维萨,伊维萨机场
+ES,LEJR,XRY,Jerez,Jerez Airport,36.744621,-6.06011,Europe/Madrid,赫雷斯,赫雷斯机场
+ES,LELN,LEN,Leon,Leon Airport,42.58889,-5.655556,Europe/Madrid
+ES,LEMD,MAD,Madrid,Madrid Barajas Airport,40.488701,-3.57,Europe/Madrid,马德里,阿道弗·苏亚雷斯马德里-巴拉哈斯机场
+ES,LEMG,AGP,Malaga,Malaga Costa Del Sol Airport,36.6749,-4.4991,Europe/Madrid,马拉加,马拉加-太阳海岸机场
+ES,LEMH,MAH,Mahon,Mahon Menorca Airport,39.862591,4.218647,Europe/Madrid
+ES,LEMI,RMU,Murcia,Murcia Corvera International Airport,37.80405,-1.141831,Europe/Madrid
+ES,LEPA,PMI,Palma de Mallorca,Palma de Mallorca Airport,39.55167,2.738808,Europe/Madrid,马略卡岛,马略卡岛帕尔马机场
+ES,LEPP,PNA,Pamplona,Pamplona Airport,42.770031,-1.64633,Europe/Madrid,潘普洛纳,潘普洛纳机场
+ES,LESO,EAS,San Sebastian,San Sebastian Airport,43.35651,-1.79061,Europe/Madrid,圣塞瓦斯蒂安,圣塞瓦斯蒂安机场
+ES,LEST,SCQ,Santiago,Santiago de Compostela Airport,42.896332,-8.41514,Europe/Madrid,圣地亚哥,圣地亚哥-德孔波斯特拉机场
+ES,LEVC,VLC,Valencia,Valencia Airport,39.489311,-0.48162,Europe/Madrid,瓦伦西亚,瓦伦西亚机场
+ES,LEVD,VLL,Valladolid,Valladolid Airport,41.706108,-4.85194,Europe/Madrid,巴利亚多利德,巴利亚多利德机场
+ES,LEVT,VIT,Vitoria,Vitoria Airport,42.882832,-2.72446,Europe/Madrid,维多利亚,维多利亚机场
+ES,LEVX,VGO,Vigo,Vigo-Peinador Airport,42.2318,-8.62677,Europe/Madrid,维戈,维戈机场
+ES,LEXJ,SDR,Santander,Santander Airport,43.427059,-3.82,Europe/Madrid,桑坦德,桑坦德机场
+ES,LEZG,ZAZ,Zaragoza,Zaragoza Airport,41.666241,-1.04155,Europe/Madrid,萨拉戈萨,萨拉戈萨机场
+ES,LEZL,SVQ,Seville,Seville San Pablo Airport,37.417999,-5.8931,Europe/Madrid,塞维利亚,塞维利亚机场
+FR,LFBA,AGF,Agen,Agen La Garenne Airport,44.174709,0.590619,Europe/Paris
+FR,LFBD,BOD,Bordeaux,Bordeaux Merignac Airport,44.828609,-0.71527,Europe/Paris
+FR,LFBH,LRH,La Rochelle,La Rochelle Ile de Re Airport,46.179211,-1.19523,Europe/Paris
+FR,LFBI,PIS,Poitiers,Poitiers–Biard Airport,46.587502,0.306667,Europe/Paris
+FR,LFBL,LIG,Limoges,Limoges Bellegarde Airport,45.860828,1.180278,Europe/Paris
+FR,LFBO,TLS,Toulouse,Toulouse Blagnac Airport,43.634998,1.367778,Europe/Paris,图卢兹-布拉尼亚克机场,图卢兹
+FR,LFBP,PUF,Pau,Pau Pyrenees Airport,43.380001,-0.41861,Europe/Paris
+FR,LFBT,LDE,Tarbes,Tarbes-Lourdes-Pyrenees Airport,43.185551,-0.00277,Europe/Paris
+FR,LFBZ,BIQ,Biarritz,Biarritz Pays Basque Airport,43.46833,-1.53111,Europe/Paris
+FR,LFCK,DCM,Castres,Castres Mazamet Airport,43.554958,2.290592,Europe/Paris
+FR,LFCR,RDZ,Rodez,Rodez Marcillac Airport,44.407501,2.483333,Europe/Paris
+FR,LFGJ,DLE,Dole,Dole Jura Airport,47.04277,5.435,Europe/Paris
+FR,LFJL,ETZ,Metz-Nancy,Metz-Nancy-Lorraine Airport,48.978329,6.246667,Europe/Paris
+FR,LFKB,BIA,Bastia,Bastia Poretta Airport,42.549999,9.484722,Europe/Paris
+FR,LFKC,CLY,Calvi,Calvi Sainte-Catherine Airport,42.520359,8.793028,Europe/Paris
+FR,LFKF,FSC,Figari,Figari Sud-Corse Airport,41.50222,9.096667,Europe/Paris
+FR,LFKJ,AJA,Ajaccio,Ajaccio Napoleon Bonaparte Airport,41.923882,8.8025,Europe/Paris
+FR,LFLC,CFE,Clermont-Ferrand,Clermont-Ferrand Auvergne Airport,45.785831,3.1625,Europe/Paris
+FR,LFLL,LYS,Lyon,Lyon Saint Exupery Airport,45.719643,5.089108,Europe/Paris,里昂圣埃克絮佩里机场,里昂
+FR,LFLW,AUR,Aurillac,Aurillac Tronquieres Airport,44.897579,2.416719,Europe/Paris
+FR,LFML,MRS,Marseille,Marseille Provence Airport,43.436661,5.215,Europe/Paris,马赛普罗旺斯机场,马赛
+FR,LFMN,NCE,Nice,Nice Cote d'Azur Airport,43.665272,7.215,Europe/Paris,尼斯蓝色海岸机场,尼斯
+FR,LFMP,PGF,Perpignan,Perpignan Rivesaltes Airport,42.740829,2.869722,Europe/Paris
+FR,LFMT,MPL,Montpellier,Montpellier Mediterranee Airport,43.583328,3.961389,Europe/Paris,蒙佩利埃地中海国际机场,蒙佩利埃
+FR,LFOB,BVA,Paris,Paris Beauvais-Tille Airport,49.454441,2.112778,Europe/Paris,博韋-蒂耶機場,巴黎
+FR,LFPG,CDG,Paris,Paris Charles de Gaulle Airport,49.012516,2.555752,Europe/Paris,巴黎夏尔·戴高乐机场,巴黎
+FR,LFPO,ORY,Paris,Paris Orly Airport,48.723331,2.379444,Europe/Paris,巴黎-奥利机场,巴黎
+FR,LFQQ,LIL,Lille,Lille Airport,50.563332,3.086944,Europe/Paris,里尔机场,里尔
+FR,LFRB,BES,Brest,Brest Bretagne Airport,48.44722,-4.42166,Europe/Paris,布雷斯特-布列塔尼機場,布雷斯特
+FR,LFRH,LRT,Lorient,Lorient South Brittany Airport,47.760529,-3.43995,Europe/Paris
+FR,LFRK,CFR,Caen,Caen Carpiquet Airport,49.173279,-0.44987,Europe/Paris
+FR,LFRN,RNS,Rennes,Rennes Saint-Jacques Airport,48.071941,-1.73222,Europe/Paris
+FR,LFRQ,UIP,Quimper,Quimper Cornouaille Airport,47.974998,-4.16777,Europe/Paris
+FR,LFRS,NTE,Nantes,Nantes Atlantique Airport,47.15694,-1.60777,Europe/Paris
+FR,LFRZ,SNR,Saint Nazaire,Saint Nazaire Montoir Airport,47.310551,-2.15666,Europe/Paris
+FR,LFSB,BSL,Basel,Basel Mulhouse-Freiburg EuroAirport,47.5989,7.5283,Europe/Paris
+FR,LFSL,BVE,Brive,Brive Souillac Airport,45.040031,1.487762,Europe/Paris
+FR,LFST,SXB,Strasbourg,Strasbourg Airport,48.54361,7.637222,Europe/Paris,斯特拉斯堡国际机场,斯特拉斯堡
+FR,LFTH,TLN,Toulon,Toulon-Hyeres Airport,43.09734,6.146031,Europe/Paris
+GB,EGAA,BFS,Belfast,Belfast International Airport,54.657501,-6.21583,Europe/London,贝尔法斯特,贝尔法斯特国际机场
+GB,EGAC,BHD,Belfast,Belfast City George Best  Airport,54.61805,-5.8725,Europe/London
+GB,EGAE,LDY,Londonderry,City of Derry Airport,55.04277,-7.16111,Europe/London
+GB,EGBB,BHX,Birmingham,Birmingham Airport,52.45385,-1.74802,Europe/London,伯明翰,伯明翰机场
+GB,EGBJ,GLO,Gloucester,Gloucester Gloucestershire Airport,51.894161,-2.16722,Europe/London
+GB,EGCC,MAN,Manchester,Manchester Airport,53.353741,-2.27495,Europe/London,曼彻斯特,曼彻斯特机场
+GB,EGEC,CAL,Campbeltown,Campbeltown Airport,55.43,-5.68,Europe/London
+GB,EGEL,COL,Coll Island,Coll Airport,56.601898,-6.61778,Europe/London
+GB,EGEN,NRL,North Ronaldsay,North Ronaldsay Airport,59.3675,-2.434444,Europe/London
+GB,EGEO,OBN,North Connel,North Connel Oban Airport,56.463501,-5.39967,Europe/London
+GB,EGEP,PPW,Papa Westray,Papa Westray Airport,59.351265,-2.898974,Europe/London,帕帕韦斯特雷,帕帕韦斯特雷机场
+GB,EGER,SOY,Stronsay,Stronsay Airport,59.154053,-2.640495,Europe/London
+GB,EGES,NDY,Sanday,Sanday Airport,59.250278,-2.576667,Europe/London
+GB,EGEW,WRY,Westray,Westray Airport,59.349998,-2.95,Europe/London,韦斯特雷,韦斯特雷机场
+GB,EGEY,CSA,Colonsay,Colonsay Airstrip,56.057499,-6.24306,Europe/London
+GB,EGFF,CWL,Cardiff,Cardiff Airport,51.396469,-3.33753,Europe/London,卡迪夫,卡迪夫机场
+GB,EGGD,BRS,Bristol,Bristol Airport,51.38266,-2.71908,Europe/London,布里斯托,布里斯托机场
+GB,EGGP,LPL,Liverpool,Liverpool John Lennon Airport,53.333611,-2.84972,Europe/London,利物浦,利物浦约翰·列侬机场
+GB,EGGW,LTN,London,London Luton Airport,51.874722,-0.36833,Europe/London,伦敦,伦敦卢顿机场
+GB,EGHC,LEQ,Lands End,Lands End Airport,50.102791,-5.670205,Europe/London
+GB,EGHE,ISC,Isles Of Scilly,Isles of Scilly St Mary's Airport,49.91333,-6.29166,Europe/London
+GB,EGHI,SOU,Southampton,Southampton Airport,50.95026,-1.3568,Europe/London,南安普敦,南安普敦机场
+GB,EGHQ,NQY,Newquay,Newquay Cornwall Airport,50.440552,-4.9954,Europe/London
+GB,EGJA,ACI,Alderney,Alderney Airport,49.706108,-2.21472,Europe/London
+GB,EGJB,GCI,Guernsey,Guernsey Airport,49.434952,-2.60196,Europe/London
+GB,EGJJ,JER,Jersey,Jersey Airport,49.207939,-2.1955,Europe/London
+GB,EGKB,BQH,London,London Biggin Hill Airport,51.33083,0.0325,Europe/London
+GB,EGKK,LGW,London,London Gatwick Airport,51.148048,-0.19027,Europe/London,伦敦,伦敦盖特维克机场
+GB,EGLC,LCY,London,London City Airport,51.505268,0.055278,Europe/London,伦敦,伦敦城市机场
+GB,EGLL,LHR,London,London Heathrow Airport,51.471626,-0.467081,Europe/London,伦敦,伦敦希思罗机场
+GB,EGMC,SEN,Southend,London Southend Airport,51.571381,0.695556,Europe/London,伦敦,伦敦绍森德机场
+GB,EGNJ,HUY,Humberside,Humberside Airport,53.57444,-0.35083,Europe/London
+GB,EGNM,LBA,Leeds,Leeds Bradford Airport,53.865891,-1.66056,Europe/London,利兹布拉福,利兹布拉福机场
+GB,EGNS,IOM,Isle of Man,Isle of Man Airport,54.083328,-4.62388,Europe/London
+GB,EGNT,NCL,Newcastle,Newcastle Airport,55.037498,-1.69166,Europe/London
+GB,EGNV,MME,Darlington,Teesside International Airport,54.509178,-1.4294,Europe/London
+GB,EGNX,EMA,East Midlands,East Midlands Airport,52.831108,-1.32805,Europe/London,东米德兰兹,东米德兰兹机场
+GB,EGPA,KOI,Kirkwall,Kirkwall Airport,58.957771,-2.905,Europe/London,柯克沃尔,柯克沃尔机场
+GB,EGPB,LSI,Sumburgh,Sumburgh Airport,59.87888,-1.29555,Europe/London
+GB,EGPD,ABZ,Aberdeen,Aberdeen International Airport,57.201939,-2.19777,Europe/London,阿伯丁,阿伯丁机场
+GB,EGPE,INV,Inverness,Inverness Airport,57.5425,-4.0475,Europe/London
+GB,EGPF,GLA,Glasgow,Glasgow International Airport,55.871941,-4.43305,Europe/London,格拉斯哥,格拉斯哥机场
+GB,EGPH,EDI,Edinburgh,Edinburgh Airport,55.950001,-3.3725,Europe/London,愛丁堡,愛丁堡机场
+GB,EGPI,ILY,Islay,Islay Airport,55.681938,-6.25666,Europe/London
+GB,EGPL,BEB,Benbecula,Benbecula Airport,57.48111,-7.36277,Europe/London
+GB,EGPN,DND,Dundee,Dundee Airport,56.452492,-3.02583,Europe/London,丹地,丹地机场
+GB,EGPO,SYY,Stornoway,Stornoway Airport,58.215549,-6.33111,Europe/London
+GB,EGPR,BRR,Barra,Barra Airport,57.016998,-7.433,Europe/London,巴拉,巴拉机场
+GB,EGPU,TRE,Tiree,Tiree Airport,56.499161,-6.86916,Europe/London
+GB,EGSC,CBG,Cambridge,Cambridge Airport,52.205002,0.175,Europe/London
+GB,EGSH,NWI,Norwich,Norwich International Airport,52.675831,1.282778,Europe/London
+GB,EGSS,STN,London,London Stansted Airport,51.884998,0.235,Europe/London,伦敦,伦敦斯坦斯特德机场
+GB,EGTE,EXT,Exeter,Exeter Airport,50.73444,-3.41388,Europe/London,埃克塞特,埃克塞特国际机场
+IT,LIBC,CRV,Crotone,Crotone Airport,38.997219,17.08016,Europe/Rome
+IT,LIBD,BRI,Bari,Bari Karol Wojtyla Airport,41.138851,16.76059,Europe/Rome
+IT,LIBP,PSR,Pescara,Pescara Abruzzo International Airport,42.431648,14.18106,Europe/Rome
+IT,LIBR,BDS,Brindisi,Brindisi Airport,40.657631,17.947029,Europe/Rome
+IT,LICA,SUF,Lamezia Terme,Lamezia Terme Airport,38.905392,16.24226,Europe/Rome
+IT,LICB,CIY,Comiso,Comiso Airport,36.990002,14.6,Europe/Rome
+IT,LICC,CTA,Catania,Catania Fontanarossa Airport,37.466782,15.0664,Europe/Rome,卡塔尼亚,卡塔尼亚-丰塔纳罗沙机场
+IT,LICD,LMP,Lampedusa,Lampedusa Airport,35.49791,12.61808,Europe/Rome,兰佩杜萨,兰佩杜萨机场
+IT,LICG,PNL,Pantelleria,Pantelleria Airport,36.816509,11.96886,Europe/Rome
+IT,LICJ,PMO,Palermo,Palermo Falcone-Borsellino Airport,38.175949,13.09101,Europe/Rome
+IT,LICR,REG,Reggio Calabria,Reggio Calabria Airport,38.071201,15.65155,Europe/Rome
+IT,LICT,TPS,Trapani,Trapani Birgi Airport,37.9114,12.48796,Europe/Rome
+IT,LIEA,AHO,Alghero,Alghero Fertilia Airport,40.63213,8.290772,Europe/Rome
+IT,LIEE,CAG,Cagliari,Cagliari Elmas Airport,39.251461,9.054283,Europe/Rome
+IT,LIEO,OLB,Olbia,Olbia Costa Smeralda Airport,40.898659,9.517628,Europe/Rome
+IT,LIMC,MXP,Milan,Milan Malpensa Airport,45.6306,8.728111,Europe/Rome,米兰,米兰-马尔彭萨机场
+IT,LIME,BGY,Milan,Milan Bergamo Il Caravaggio International Airport,45.673882,9.704166,Europe/Rome
+IT,LIMF,TRN,Turin,Turin Caselle Airport,45.20076,7.649631,Europe/Rome,都灵,都灵机场
+IT,LIMG,ALL,Albenga,Albenga Clemente Panero International Airport,44.050598,8.127428,Europe/Rome
+IT,LIMJ,GOA,Genoa,Genoa Cristoforo Colombo Airport,44.41333,8.8375,Europe/Rome,热那亚,热那亚机场
+IT,LIML,LIN,Milan,Milan Linate Airport,45.445099,9.276739,Europe/Rome,米兰,米兰-利纳特机场
+IT,LIMP,PMF,Parma,Parma Airport,44.824478,10.29636,Europe/Rome,帕尔马,帕尔马机场
+IT,LIMZ,CUF,Cuneo,Cuneo Levaldigi Airport,44.547009,7.623217,Europe/Rome
+IT,LIPE,BLQ,Bologna,Bologna Guglielmo Marconi Airport,44.535439,11.28866,Europe/Rome,博洛尼亚,博洛尼亚机场
+IT,LIPH,TSF,Treviso,Treviso Airport,45.648399,12.19442,Europe/Rome
+IT,LIPO,VBS,Brescia,Brescia Airport,45.428879,10.33055,Europe/Rome
+IT,LIPQ,TRS,Trieste,Trieste Friuli Venezia Giulia Airport,45.827499,13.47222,Europe/Rome
+IT,LIPX,VRN,Verona,Verona Airport,45.395699,10.88853,Europe/Rome,维罗纳,维罗纳维拉弗兰卡机场
+IT,LIPY,AOI,Ancona,Ancona Airport,43.616341,13.36231,Europe/Rome,马尔凯,马尔凯机场
+IT,LIPZ,VCE,Venice,Venice Marco Polo Airport,45.505268,12.35194,Europe/Rome,威尼斯,威尼斯-马可·波罗机场
+IT,LIRA,CIA,Rome,Rome Ciampino Airport,41.799358,12.59493,Europe/Rome,罗马,罗马-钱皮诺机场
+IT,LIRF,FCO,Rome,Rome Leonardo da Vinci Fiumicino Airport,41.80447,12.25079,Europe/Rome,罗马,罗马-菲乌米奇诺机场
+IT,LIRJ,EBA,Elba,Elba Marina di Campo Airport,42.760269,10.23944,Europe/Rome
+IT,LIRN,NAP,Naples,Naples Airport,40.886028,14.29078,Europe/Rome,那不勒斯,那不勒斯国际机场
+IT,LIRP,PSA,Pisa,Pisa Galileo Galilei Airport,43.68391,10.39275,Europe/Rome,比萨,比萨-圣朱斯托机场
+IT,LIRQ,FLR,Florence,Florence Peretola Airport,43.809952,11.2051,Europe/Rome,佛罗伦萨,佛罗伦萨-佩雷托拉机场
+IT,LIRZ,PEG,Perugia,Perugia Umbria International Airport,43.095901,12.51322,Europe/Rome

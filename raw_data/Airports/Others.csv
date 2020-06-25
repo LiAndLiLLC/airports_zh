@@ -1033,20 +1033,6 @@ CF,BGF,FEFF,Bangui,Bangui M'Poko,4.398475,18.51878,Africa/Bangui,Bangui,Bangui
 CG,BZV,FCBB,Brazzaville,Maya-Maya,-4.251699,15.253,Africa/Brazzaville,,
 CG,DIS,FCPL,Loubomo,Ngot Nzoungou,-4.20635,12.6599,Africa/Brazzaville,,
 CG,PNR,FCPP,Pointe-noire,Pointe Noire,-4.81602,11.88659,Africa/Brazzaville,Pointe Noire,Pointe Noire
-CH,ACH,LSZR,Altenrhein,St Gallen Altenrhein,47.485,9.56077,Europe/Zurich,,
-CH,BRN,LSZB,Bern,Bern Belp,46.9141,7.497149,Europe/Zurich,,
-CH,BXO,LSZC,Buochs,Buochs,46.974444,8.396944,Europe/Zurich,,
-CH,EML,LSME,Emmen,Emmen Air Base,47.092444,8.305184,Europe/Zurich,,
-CH,GVA,LSGG,日内瓦,Geneva Cointrin,46.23806,6.10895,Europe/Paris,Geneva,Geneva
-CH,LUG,LSZA,Lugano,Lugano,46.004299,8.910579,Europe/Zurich,,
-CH,QLS,LSGL,Lausanne,Lausanne-Blécherette,46.545299,6.61667,Europe/Zurich,,
-CH,QNC,LSGN,Neuchatel,Neuchatel,46.9575,6.864719,Europe/Zurich,,
-CH,SIR,LSGS,Sion,Sion,46.2196,7.326759,Europe/Zurich,,
-CH,SMV,LSZS,Samedan,Samedan,46.534099,9.88411,Europe/Zurich,,
-CH,ZHI,LSZG,Grenchen,Grenchen,47.181599,7.41719,Europe/Zurich,,
-CH,ZIN,LSMI,Interlaken,Interlaken Air Base,46.676601,7.879079,Europe/Zurich,,
-CH,ZJI,LSZL,Locarno,Locarno,46.1608,8.878609,Europe/Zurich,,
-CH,ZRH,LSZH,苏黎世,Zürich,47.464722,8.549167,Europe/Zurich,Zurich,Zurich
 CI,ABJ,DIAP,Abidjan,Port Bouet,5.261386,-3.92629,Africa/Abidjan,Abidjan,Abidjan Port Bouet
 CI,ASK,DIYO,Yamoussoukro,Yamoussoukro,6.90317,-5.36558,Africa/Abidjan,,
 CI,BYK,DIBK,Bouake,Bouaké,7.7388,-5.073669,Africa/Abidjan,,
@@ -1224,7 +1210,6 @@ CW,EUX,TNCE,Oranjestad,F. D. Roosevelt,17.4965,-62.9794,America/Curacao,,
 CW,SAB,TNCS,Saba,Juancho E. Yrausquin,17.645,-63.220001,America/Curacao,,
 CW,SXM,TNCM,Philipsburg,Princess Juliana,18.040951,-63.108898,America/Curacao,Sint Maarten,Sint Maarten Princess Juliana
 CX,XCH,YPXM,Christmas Island,Christmas Island,-10.450599,105.690002,Indian/Christmas,,
-CY,AKT,LCRA,Akrotiri,RAF Akrotiri,34.590401,32.9879,Europe/London,,
 CY,ECN,LCEN,Nicosia,Ercan,35.154701,33.496101,Asia/Nicosia,,
 CY,LCA,LCLK,Larnaca,Larnaca,34.875111,33.624851,Asia/Nicosia,Larnaca,Larnaca
 CY,PFO,LCPH,Paphos,Paphos,34.718029,32.485729,Asia/Nicosia,Pafos,Paphos
@@ -1236,99 +1221,6 @@ CZ,PRG,LKPR,布拉格,Václav Havel Prague,50.10083,14.26,Europe/Prague,Prague,P
 CZ,PRV,LKPO,Prerov,Přerov Air Base,49.4258,17.404699,Europe/Prague,,
 CZ,UHE,LKKU,Kunovice,Kunovice,49.029399,17.439699,Europe/Prague,,
 CZ,VOD,LKVO,Vodochody,Vodochody,50.216599,14.3958,Europe/Prague,,
-DE,AAH,EDKA,Aachen,Aachen-Merzbrück,50.823055,6.186388,Europe/Berlin,,
-DE,AGB,EDMA,Augsburg,Augsburg,48.425278,10.931667,Europe/Berlin,,
-DE,AGE,EDWG,Wangerooge,Wangerooge,53.782779,7.913888,Europe/Berlin,,
-DE,AOC,EDAC,Altenburg,Altenburg-Nobitz,50.981945,12.506389,Europe/Berlin,,
-DE,BBH,EDBH,Barth,Barth,54.338253,12.710515,Europe/Berlin,,
-DE,BBJ,EDRB,Birburg,Bitburg,49.945278,6.565,Europe/Berlin,,
-DE,BFE,EDLI,Bielefeld,Bielefeld,51.964722,8.544444,Europe/Berlin,,
-DE,BMK,EDWR,Borkum,Borkum,53.59639,6.709167,Europe/Berlin,,
-DE,BRE,EDDW,Bremen,Bremen,53.047501,8.786667,Europe/Berlin,Bremen,Bremen
-DE,BRV,EDWB,Bremerhaven,Bremerhaven,53.506943,8.572778,Europe/Berlin,,
-DE,BWE,EDVE,Braunschweig,Braunschweig-Wolfsburg,52.319199,10.5561,Europe/Berlin,,
-DE,BYU,EDQD,Bayreuth,Bayreuth,49.985001,11.64,Europe/Berlin,,
-DE,CBU,EDCD,Cottbus,Cottbus-Drewitz,51.889442,14.531944,Europe/Berlin,,
-DE,CGN,EDDK,Cologne,Cologne Bonn,50.866001,7.143,Europe/Berlin,Cologne,Cologne Bonn
-DE,CSO,EDBC,Cochstedt,Cochstedt,51.856399,11.420299,Europe/Berlin,,
-DE,DRS,EDDC,Dresden,Dresden,51.132759,13.76716,Europe/Berlin,Dresden,Dresden
-DE,DTM,EDLW,Dortmund,Dortmund,51.518311,7.612242,Europe/Berlin,Dortmund,Dortmund
-DE,DUS,EDDL,杜塞尔多夫,Düsseldorf,51.289452,6.766775,Europe/Berlin,Dusseldorf,Dusseldorf
-DE,EIB,EDGE,Eisenach,Eisenach-Kindel,50.991604,10.47973,Europe/Berlin,,
-DE,EME,EDWE,Emden,Emden,53.391109,7.2275,Europe/Berlin,,
-DE,EMP,KEMP,Kempten,Emporia Municipal,38.332099,-96.1912,America/Chicago,,
-DE,ERF,EDDE,Erfurt,Erfurt,50.979801,10.9581,Europe/Berlin,,
-DE,ESS,EDLE,Essen,Essen Mulheim,51.402301,6.937329,Europe/Berlin,,
-DE,EUM,EDHN,Neumuenster,Neumünster,54.079444,9.941389,Europe/Berlin,,
-DE,FCN,ETMN,Nordholz,Nordholz Naval Airbase,53.7677,8.658499,Europe/Berlin,,
-DE,FDH,EDNY,Friedrichshafen,Friedrichshafen,47.67131,9.511486,Europe/Berlin,Friedrichshafen,Friedrichshafen
-DE,FEL,ETSF,Fuerstenfeldbruck,Fürstenfeldbruck Air Base,48.205555,11.266944,Europe/Berlin,,
-DE,FKB,EDSB,Karlsruhe/Baden-Baden,Karlsruhe Baden-Baden,48.77935,8.0805,Europe/Berlin,Karlsruhe/Baden-Baden,Karlsruhe/Baden-Baden
-DE,FLF,EDXF,Flensburg,Flensburg-Schäferhaus,54.773334,9.378889,Europe/Berlin,,
-DE,FMM,EDJA,Memmingen,Memmingen Allgau,47.988609,10.239444,Europe/Berlin,Memmingen,Memmingen
-DE,FMO,EDDG,Munster,Münster Osnabrück,52.13464,7.684831,Europe/Berlin,Munster,Munster Osnabruck
-DE,FRA,EDDF,法兰克福,Frankfurt am Main,50.037796,8.555783,Europe/Berlin,Frankfurt,Frankfurt
-DE,FRZ,ETHF,Fritzlar,Fritzlar,51.1146,9.286,Europe/Berlin,,
-DE,GHF,ETEU,Giebelstadt,[Duplicate] Giebelstadt Army Air Field,49.648101,9.966489,Europe/Berlin,,
-DE,GKE,ETNG,Geilenkirchen,Geilenkirchen Air Base,50.9608,6.04242,Europe/Berlin,,
-DE,GTI,EDCG,Ruegen,Rügen,54.383331,13.325555,Europe/Berlin,,
-DE,GUT,ETUO,Guetersloh,Gütersloh Air Base,51.922798,8.30633,Europe/Berlin,,
-DE,GWT,EDXW,Westerland,Westerland Sylt,54.91325,8.340472,Europe/Berlin,Sylt,Sylt
-DE,HAJ,EDDV,Hannover,Hannover,52.461048,9.685078,Europe/Berlin,Hannover,Hannover Langenhagen
-DE,HAM,EDDH,Hamburg,Hamburg,53.630379,9.988228,Europe/Berlin,Hamburg,Hamburg
-DE,HDF,EDAH,Heringsdorf,Heringsdorf,53.8787,14.152299,Europe/Berlin,,
-DE,HEI,EDXB,Büsum,Heide-Büsum,54.153331,8.901666,Europe/Berlin,,
-DE,HGL,EDXH,Helgoland,Helgoland-Düne,54.185279,7.915832,Europe/Berlin,,
-DE,HHN,EDFH,Hahn,Frankfurt-Hahn,49.948669,7.263892,Europe/Berlin,Frankfurt,Frankfurt Hahn
-DE,HOQ,EDQM,Hof,Hof-Plauen,50.288612,11.856389,Europe/Berlin,,
-DE,IES,EDAU,Riesa,Riesa-Göhlis,51.293609,13.35611,Europe/Berlin,,
-DE,IGS,ETSI,Ingolstadt,Ingolstadt Manching,48.715698,11.534,Europe/Berlin,,
-DE,JUI,EDWJ,Juist,Juist,53.68111,7.055832,Europe/Berlin,,
-DE,KEL,EDHK,Kiel,Kiel-Holtenau,54.379444,10.145277,Europe/Berlin,,
-DE,KOQ,EDCK,Koethen,Köthen,51.721111,11.952777,Europe/Berlin,,
-DE,KSF,EDVK,Kassel,Kassel-Calden,51.417273,9.384967,Europe/Berlin,,
-DE,KZG,ETIN,Kitzingen,Flugplatz Kitzingen,49.743099,10.2006,Europe/Berlin,,
-DE,LBC,EDHL,Luebeck,Lübeck Blankensee,53.8054,10.7192,Europe/Berlin,,
-DE,LEJ,EDDP,Leipzig,Leipzig/Halle,51.432442,12.24163,Europe/Berlin,Leipzig,Leipzig Halle
-DE,LGO,EDWL,Langeoog,Langeoog,53.7425,7.497777,Europe/Berlin,,
-DE,LHA,EDTL,Lahr,Lahr,48.3693,7.82772,Europe/Berlin,,
-DE,LND,KLND,Lindau,Hunt Field,42.8152,-108.730003,America/Denver,,
-DE,MGL,EDLN,Moenchengladbach,Mönchengladbach,51.230278,6.504444,Europe/Berlin,,
-DE,MHG,EDFM,Mannheim,Mannheim-City,49.472698,8.514264,Europe/Berlin,Mannheim,Mannheim City
-DE,MHJ,,Mannheim,Mannheim Hbf Railway Station,49.479721,8.46972,,Mannheim,Mannheim Hbf Railway Station
-DE,MUC,EDDM,慕尼黑,Munich,48.353779,11.78608,Europe/Berlin,Munich,Munich
-DE,NOD,EDWS,Norden,Norden-Norddeich,53.633056,7.190278,Europe/Berlin,,
-DE,NRD,EDWY,Norderney,Norderney,53.706943,7.23,Europe/Berlin,,
-DE,NRN,EDLV,Weeze,Weeze,51.602401,6.142169,Europe/Berlin,,
-DE,NUE,EDDN,Nuernberg,Nuremberg,49.498699,11.06689,Europe/Berlin,Nurnberg,Nuremberg
-DE,OBF,EDMO,Oberpfaffenhofen,Oberpfaffenhofen,48.081402,11.2831,Europe/Berlin,,
-DE,PAD,EDLP,Paderborn,Paderborn Lippstadt,51.614079,8.616317,Europe/Berlin,Paderborn,Paderborn Lippstadt
-DE,PEF,EDCP,Peenemunde,Peenemünde,54.157779,13.774443,Europe/Berlin,,
-DE,PSH,EDXO,Sankt Peter-Ording,St. Peter-Ording,54.308887,8.686944,Europe/Berlin,,
-DE,QEF,EDFE,Egelsbach,Frankfurt-Egelsbach,49.959999,8.645833,Europe/Berlin,,
-DE,QXH,EDAZ,Schoenhagen,Schönhagen,52.203609,13.156389,Europe/Berlin,,
-DE,RBM,EDMS,Straubing,Straubing,48.900833,12.516667,Europe/Berlin,,
-DE,REB,EDAX,Rechlin-laerz,Rechlin-Lärz,53.306388,12.752222,Europe/Berlin,,
-DE,RLG,ETNL,Laage,Rostock-Laage,53.917999,12.278,Europe/Berlin,Rostock,Rostock Laage
-DE,RMS,ETAR,Ramstein,Ramstein Air Base,49.436901,7.600279,Europe/Berlin,,
-DE,SCN,EDDR,Saarbruecken,Saarbrücken,49.21455,7.109508,Europe/Berlin,Saarbrucken,Saarbrucken
-DE,SGE,EDGS,Siegerland,Siegerland,50.707698,8.082969,Europe/Berlin,,
-DE,SPM,ETAD,Spangdahlem,Spangdahlem Air Base,49.972698,6.6925,Europe/Berlin,,
-DE,STR,EDDS,Stuttgart,Stuttgart,48.689869,9.221964,Europe/Berlin,Stuttgart,Stuttgart
-DE,SXF,EDDB,Berlin,Berlin-Schönefeld,52.380001,13.5225,Europe/Berlin,Berlin,Berlin Schonefeld
-DE,SZW,EDOP,Parchim,Schwerin Parchim,53.426998,11.7834,Europe/Berlin,,
-DE,THF,EDDI,Berlin,Berlin-Tempelhof,52.472999,13.4039,Europe/Berlin,,
-DE,TXL,EDDT,Berlin,Berlin-Tegel,52.560001,13.288,Europe/Berlin,Berlin,Berlin Tegel
-DE,URD,EDQE,Burg Feuerstein,Burg Feuerstein,49.794166,11.13361,Europe/Berlin,,
-DE,WBG,ETNS,Schleswig,Schleswig Air Base,54.4593,9.51633,Europe/Berlin,,
-DE,WIE,ETOU,Wiesbaden,Wiesbaden Army Airfield,50.0498,8.3254,Europe/Berlin,,
-DE,WVN,EDWI,Wilhelmshaven,Wilhelmshaven-Mariensiel,53.50222,8.052222,Europe/Berlin,,
-DE,XFW,EDHI,Hamburg,Hamburg-Finkenwerder,53.535278,9.835556,Europe/Berlin,,
-DE,ZCN,ETHC,Celle,Celle,52.591201,10.0221,Europe/Berlin,,
-DE,ZMG,EDBM,Magdeburg,Magdeburg City,52.073612,11.626389,Europe/Berlin,,
-DE,ZNF,ETID,Hanau,Hanau Army Air Field,50.169201,8.96159,Europe/Berlin,,
-DE,ZQL,EDTD,Donaueschingen,Donaueschingen-Villingen,47.973331,8.522221,Europe/Berlin,,
-DE,ZQW,EDRZ,Zweibruecken,Zweibrücken,49.2094,7.40056,Europe/Berlin,,
 DJ,JIB,HDAM,Djibouti,Djibouti-Ambouli,11.54733,43.159481,Africa/Djibouti,Djibouti,Djibouti Ambouli
 DJ,OBC,HDOB,Obock,Obock,11.967,43.266998,Africa/Djibouti,,
 DJ,TDJ,HDTJ,Tadjoura,Tadjoura,11.782999,42.916999,Africa/Djibouti,,
@@ -1454,57 +1346,6 @@ EH,VIL,GMMH,Dakhla,Dakhla,23.7183,-15.932,Africa/El_Aaiun,,
 ER,ASA,HHSB,Assab,Assab,13.0718,42.645,Africa/Asmera,,
 ER,ASM,HHAS,Asmara,Asmara,15.291899,38.910701,Africa/Asmera,,
 ER,MSW,HHMS,Massawa,Massawa,15.67,39.370098,Africa/Asmera,,
-ES,ABC,LEAB,Albacete,Albacete-Los Llanos,38.948501,-1.86352,Europe/Madrid,,
-ES,ACE,GCRR,Arrecife,Lanzarote,28.945459,-13.6052,Atlantic/Canary,Lanzarote,Lanzarote
-ES,AGP,LEMG,Malaga,Málaga,36.6749,-4.4991,Europe/Madrid,Malaga,Malaga Costa Del Sol
-ES,ALC,LEAL,Alicante,Alicante,38.282162,-0.55815,Europe/Madrid,Alicante,Alicante
-ES,BCN,LEBL,巴塞罗那,巴塞罗那,41.29707,2.078463,Europe/Madrid,Barcelona,Barcelona El Prat
-ES,BIO,LEBB,Bilbao,Bilbao,43.30109,-2.9106,Europe/Madrid,Bilbao,Bilbao
-ES,BJZ,LEBZ,Badajoz,Badajoz,38.8913,-6.82133,Europe/Madrid,,
-ES,CQM,LERL,Ciudad Real,Ciudad Real Central,38.856388,-3.969999,Europe/Madrid,,
-ES,EAS,LESO,San Sebastian,San Sebastian,43.356498,-1.790609,Europe/Madrid,,
-ES,FUE,GCFV,Fuerteventura,Fuerteventura,28.452709,-13.8637,Atlantic/Canary,Fuerteventura,Fuerteventura
-ES,GMZ,GCGM,La Gomera,La Gomera,28.0296,-17.214599,Atlantic/Canary,,
-ES,GRO,LEGE,Gerona,Girona,41.901,2.76055,Europe/Madrid,,
-ES,GRX,LEGR,Granada,Federico Garcia Lorca,37.188728,-3.77735,Europe/Madrid,Granada,Granada Federico Garcia Lorca
-ES,HSK,LEHC,Huesca,Huesca/Pirineos,42.076099,-0.316666,Europe/Madrid,,
-ES,IBZ,LEIB,Ibiza,Ibiza,38.872849,1.373117,Europe/Madrid,Ibiza,Ibiza
-ES,ILD,LEDA,Lleida,Lleida-Alguaire,41.728185,0.535023,Europe/Madrid,,
-ES,LCG,LECO,La Coruna,A Coruña,43.302059,-8.37725,Europe/Madrid,A Coruna,A Coruna
-ES,LEI,LEAM,Almeria,Almería,36.843929,-2.37009,Europe/Madrid,Almeria,Almeria
-ES,LEN,LELN,Leon,Leon,42.589,-5.65556,Europe/Madrid,,
-ES,LEU,LESU,Seo De Urgel,Pirineus - la Seu d'Urgel,42.3386,1.40917,Europe/Madrid,,
-ES,LPA,GCLP,Gran Canaria,Gran Canaria,27.931881,-15.3865,Atlantic/Canary,Gran Canaria,Gran Canaria
-ES,MAD,LEMD,马德里,Adolfo Suárez Madrid-Barajas,40.493549,-3.56676,Europe/Madrid,Madrid,Madrid Barajas
-ES,MAH,LEMH,Menorca,Menorca,39.862591,4.218647,Europe/Madrid,Mahon,Mahon Menorca
-ES,MJV,LELC,Murcia,San Javier,37.775001,-0.812389,Europe/Madrid,,
-ES,MLN,GEML,Melilla,Melilla,35.2798,-2.956259,Europe/Madrid,,
-ES,ODB,LEBA,Cordoba,Córdoba,37.841999,-4.848879,Europe/Madrid,,
-ES,OVD,LEAS,Aviles,Asturias,43.56356,-6.03462,Europe/Madrid,Asturias,Asturias
-ES,OZP,LEMO,Sevilla,Moron Air Base,37.1749,-5.61594,Europe/Madrid,,
-ES,PMI,LEPA,Palma de Mallorca,Palma De Mallorca,39.55167,2.738808,Europe/Madrid,Palma de Mallorca,Palma de Mallorca
-ES,PNA,LEPP,Pamplona,Pamplona,42.770031,-1.64633,Europe/Madrid,Pamplona,Pamplona
-ES,QSA,LELL,Sabadell,Sabadell,41.5209,2.105079,Europe/Madrid,,
-ES,REU,LERS,Reus,Reus Air Base,41.147388,1.167171,Europe/Madrid,Reus,Reus
-ES,RGS,LEBG,Burgos,Burgos,42.357601,-3.620759,Europe/Madrid,,
-ES,RJL,LELO,Logroño-Agoncillo,Logroño-Agoncillo,42.460953,-2.322235,Europe/Madrid,,
-ES,RMU,LEMI,Murcia,Murcia Corvera,37.80405,-1.141831,,Murcia,Murcia Corvera
-ES,ROZ,LERT,Rota,Rota Naval Station,36.645198,-6.34946,Europe/Madrid,,
-ES,SCQ,LEST,Santiago,Santiago de Compostela,42.896332,-8.41514,Europe/Madrid,Santiago,Santiago de Compostela
-ES,SDR,LEXJ,Santander,Santander,43.427059,-3.82,Europe/Madrid,Santander,Santander
-ES,SLM,LESA,Salamanca,Salamanca,40.952098,-5.501989,Europe/Madrid,,
-ES,SPC,GCLA,Santa Cruz De La Palma,La Palma,28.626471,-17.7556,Atlantic/Canary,La Palma,La Palma
-ES,SVQ,LEZL,Sevilla,Sevilla,37.417999,-5.8931,Europe/Madrid,Seville,Seville San Pablo
-ES,TFN,GCXO,Tenerife,Tenerife Norte,28.4827,-16.341499,Atlantic/Canary,,
-ES,TFS,GCTS,Tenerife,Tenerife South,28.04447,-16.572399,Atlantic/Canary,Tenerife,Tenerife South
-ES,TOJ,LETO,马德里,Torrejón,40.4967,-3.445869,Europe/Madrid,,
-ES,VDE,GCHI,Hierro,Hierro,27.8148,-17.8871,Atlantic/Canary,,
-ES,VGO,LEVX,Vigo,Vigo,42.2318,-8.62677,Europe/Madrid,,
-ES,VIT,LEVT,Vitoria,Vitoria/Foronda,42.882801,-2.724469,Europe/Madrid,,
-ES,VLC,LEVC,Valencia,Valencia,39.489311,-0.48162,Europe/Madrid,Valencia,Valencia
-ES,VLL,LEVD,Valladolid,Valladolid,41.7061,-4.85194,Europe/Madrid,,
-ES,XRY,LEJR,Jerez,Jerez,36.744621,-6.06011,Europe/Madrid,Jerez,Jerez
-ES,ZAZ,LEZG,Zaragoza,Zaragoza Air Base,41.666241,-1.04155,Europe/Madrid,Zaragoza,Zaragoza
 ET,ABK,HAKD,Kabri Dehar,Kabri Dehar,6.734,44.252998,Africa/Addis_Ababa,,
 ET,ADD,HAAB,亚的斯亚贝巴,Addis Ababa Bole,8.977889,38.799309,Africa/Addis_Ababa,Addis Ababa,Addis Ababa Bole
 ET,AMH,HAAM,Arba Minch,Arba Minch,6.03939,37.590499,Africa/Addis_Ababa,,
@@ -1589,129 +1430,6 @@ FM,PNI,PTPN,Pohnpei,Pohnpei,6.985099,158.208999,Pacific/Ponape,,
 FM,TKK,PTKK,Chuuk,Chuuk,7.46187,151.843002,Pacific/Truk,,
 FM,YAP,PTYA,Yap,Yap,9.49891,138.082993,Pacific/Truk,,
 FO,FAE,EKVG,Vagar,Vagar,62.063622,-7.27721,Atlantic/Faeroe,Vagar,Vagar
-FR,AGF,LFBA,Agen,Agen-La Garenne,44.174701,0.590556,Europe/Paris,,
-FR,AJA,LFKJ,Ajaccio,Ajaccio-Napoléon Bonaparte,41.923599,8.80292,Europe/Paris,,
-FR,ANE,LFJR,Angers/Marcé,Angers-Loire,47.560299,-0.312222,Europe/Paris,,
-FR,ANG,LFBU,Angouleme,Angoulême-Brie-Champniers,45.729198,0.221456,Europe/Paris,,
-FR,AUF,LFLA,Auxerre,Auxerre-Branches,47.8502,3.497109,Europe/Paris,,
-FR,AUR,LFLW,Aurillac,Aurillac,44.891399,2.42194,Europe/Paris,,
-FR,AVN,LFMV,Avignon,Avignon-Caumont,43.907299,4.90183,Europe/Paris,,
-FR,BES,LFRB,Brest,Brest Bretagne,48.44722,-4.42166,Europe/Paris,Brest,Brest Bretagne
-FR,BIA,LFKB,Bastia,Bastia-Poretta,42.5527,9.48373,Europe/Paris,,
-FR,BIQ,LFBZ,Biarritz-bayonne,Biarritz-Anglet-Bayonne,43.46833,-1.53111,Europe/Paris,Biarritz,Biarritz Pays Basque
-FR,BOD,LFBD,Bordeaux,Bordeaux-Mérignac,44.828609,-0.71527,Europe/Paris,Bordeaux,Bordeaux Merignac
-FR,BOR,LFSQ,Belfort,Fontaine,47.655601,7.010829,Europe/Paris,,
-FR,BOU,LFLD,Bourges,Bourges,47.058101,2.37028,Europe/Paris,,
-FR,BSL,LFSB,Mulhouse,Euro Basel-Mulhouse-Freiburg,47.5989,7.5283,Europe/Paris,Basel,Basel Mulhouse-Freiburg Euro
-FR,BVA,LFOB,Beauvais,Paris Beauvais Tillé,49.454399,2.11278,Europe/Paris,,
-FR,BVE,LFSL,Brive,Toul Rosières Air Base,48.780001,5.980003,Europe/Paris,,
-FR,BYF,LFAQ,Albert,Albert-Bray,49.9715,2.697659,Europe/Paris,,
-FR,BZR,LFMU,Beziers,Béziers-Vias,43.323501,3.353899,Europe/Paris,,
-FR,CCF,LFMK,Carcassonne,Carcassonne,43.215809,2.308544,Europe/Paris,Carcassonne,Carcassonne
-FR,CDG,LFPG,巴黎,Charles de Gaulle,49.012516,2.555752,Europe/Paris,Paris,Paris Charles de Gaulle
-FR,CEQ,LFMD,Cannes,Cannes-Mandelieu,43.542,6.95348,Europe/Paris,,
-FR,CER,LFRC,Cherbourg,Cherbourg-Maupertus,49.6501,-1.47028,Europe/Paris,,
-FR,CET,LFOU,Cholet,Cholet Le Pontreau,47.082099,-0.877063,Europe/Paris,,
-FR,CFE,LFLC,Clermont-Ferrand,Clermont-Ferrand Auvergne,45.785831,3.1625,Europe/Paris,Clermont-Ferrand,Clermont-Ferrand Auvergne
-FR,CFR,LFRK,Caen,Caen-Carpiquet,49.173301,-0.449999,Europe/Paris,,
-FR,CHR,LFLX,Chateauroux,"Châteauroux-Déols ""Marcel Dassault""",46.860277,1.721111,Europe/Paris,,
-FR,CLY,LFKC,Calvi,Calvi-Sainte-Catherine,42.524444,8.793055,Europe/Paris,,
-FR,CMF,LFLB,Chambery,Chambéry-Savoie,45.638099,5.880229,Europe/Paris,,
-FR,CMR,LFGA,Colmar,Colmar-Houssen,48.109901,7.35901,Europe/Paris,,
-FR,CNG,LFBG,Cognac,Cognac-Châteaubernard (BA 709) Air Base,45.658298,-0.317499,Europe/Paris,,
-FR,CQF,LFAC,Calais,Calais-Dunkerque,50.9621,1.954759,Europe/Paris,,
-FR,CSF,LFPC,Creil,Creil Air Base,49.253501,2.51914,Europe/Paris,,
-FR,CTT,LFMQ,Le Castellet,Le Castellet,43.252498,5.78519,Europe/Paris,,
-FR,CVF,LFLJ,Courcheval,Courchevel,45.396701,6.634719,Europe/Paris,,
-FR,DCM,LFCK,Castres,Castres-Mazamet,43.556301,2.28918,Europe/Paris,,
-FR,DIJ,LFSD,Dijon,Dijon-Bourgogne,47.268902,5.09,Europe/Paris,,
-FR,DLE,LFGJ,Dole,Dole-Tavaux,47.042686,5.435061,Europe/Paris,,
-FR,DNR,LFRD,Dinard,Dinard-Pleurtuit-Saint-Malo,48.587769,-2.08,Europe/Paris,Dinard,Dinard Pleurtuit Saint-Malo
-FR,DOL,LFRG,Deauville,Deauville-Saint-Gatien,49.365299,0.154305,Europe/Paris,,
-FR,EBU,LFMH,St-Etienne,Saint-Étienne-Bouthéon,45.540599,4.29639,Europe/Paris,,
-FR,EDM,LFRI,La Roche-sur-yon,La Roche-sur-Yon,46.7019,-1.37863,Europe/Paris,,
-FR,EGC,LFBE,Bergerac,Bergerac-Roumanière,44.824429,0.520525,Europe/Paris,Bergerac,Bergerac Dordogne Perigord
-FR,ENC,LFSN,nullcy,nullcy-Essey,48.6921,6.23046,Europe/Paris,,
-FR,EPL,LFSG,Epinal,Épinal-Mirecourt,48.325001,6.06998,Europe/Paris,,
-FR,ETZ,LFJL,Metz,Metz-nullcy-Lorraine,48.982101,6.251319,Europe/Paris,,
-FR,EVX,LFOE,Evreux,Évreux-Fauville (BA 105) Air Base,49.028701,1.219859,Europe/Paris,,
-FR,FNI,LFTW,Nimes,Nîmes-Arles-Camargue,43.7574,4.416349,Europe/Paris,,
-FR,FRJ,LFTU,Frejus,Fréjus,43.4175,6.7357,Europe/Paris,,
-FR,FSC,LFKF,Figari,Figari Sud-Corse,41.500598,9.09778,Europe/Paris,,
-FR,GFR,LFRF,Granville,Granville,48.883098,-1.56417,Europe/Paris,,
-FR,GNB,LFLS,Grenoble,Grenoble-Isère,45.362899,5.32937,Europe/Paris,,
-FR,HZB,LFQT,Merville,Merville-Calonne,50.6184,2.64224,Europe/Paris,,
-FR,IDY,LFEY,Île d'Yeu,Île d'Yeu,46.718601,-2.391109,Europe/Paris,,
-FR,LAI,LFRO,Lannion,Lannion-Côte de Granit,48.754398,-3.47166,Europe/Paris,,
-FR,LBG,LFPB,巴黎,Paris-Le Bourget,48.969398,2.44139,Europe/Paris,,
-FR,LBI,LFCI,Albi,Albi-Le Séquestre,43.913898,2.113059,Europe/Paris,,
-FR,LBY,LFRE,La Baule,La Baule-Escoublac,47.289398,-2.34639,Europe/Paris,,
-FR,LDE,LFBT,Tarbes,Tarbes-Lourdes-Pyrénées,43.185551,-0.00277,Europe/Paris,Tarbes,Tarbes-Lourdes-Pyrenees
-FR,LDV,LFRJ,Landivisiau,Landivisiau Air Base,48.5303,-4.151639,Europe/Paris,,
-FR,LEH,LFOH,Le Havre,Le Havre Octeville,49.533901,0.088055,Europe/Paris,,
-FR,LIG,LFBL,Limoges,Limoges,45.860828,1.180278,Europe/Paris,Limoges,Limoges Bellegarde
-FR,LIL,LFQQ,Lille,Lille-Lesquin,50.563332,3.086886,Europe/Paris,,
-FR,LME,LFRM,Le Mans,Le Mans-Arnage,47.9486,0.201666,Europe/Paris,,
-FR,LPY,LFHP,Le Puy,Le Puy-Loudes,45.080699,3.76289,Europe/Paris,,
-FR,LRH,LFBH,La Rochelle,La Rochelle-Île de Ré,46.179211,-1.19523,Europe/Paris,La Rochelle,La Rochelle Ile de Re
-FR,LRT,LFRH,Lorient,Lorient South Brittany (Bretagne Sud),47.760529,-3.43995,Europe/Paris,Lorient,Lorient South Brittany
-FR,LTQ,LFAT,Le Tourquet,Le Touquet-Côte d'Opale,50.517398,1.620589,Europe/Paris,,
-FR,LTT,LFTZ,La Môle,La Môle,43.205399,6.482,Europe/Paris,,
-FR,LVA,LFOV,Laval,Laval-Entrammes,48.031398,-0.742986,Europe/Paris,,
-FR,LYN,LFLY,Lyon,Lyon-Bron,45.727199,4.94427,Europe/Paris,,
-FR,LYS,LFLL,Lyon,Lyon Saint-Exupéry,45.719643,5.089108,Europe/Paris,Lyon,Lyon Saint Exupery
-FR,MCU,LFBK,Montlucon-gueret,Montluçon-Guéret,46.222599,2.36396,Europe/Paris,,
-FR,MEN,LFNB,Mende,Mende-Brenoux,44.502101,3.532819,Europe/Paris,,
-FR,MFX,LFKX,Ajaccio,Méribel Altiport,45.407003,6.577942,Europe/Paris,,
-FR,MPL,LFMT,Montpellier,Montpellier-Méditerranée,43.583328,3.961389,Europe/Paris,Montpellier,Montpellier Mediterranee
-FR,MRS,LFML,Marseille,Marseille Provence,43.436661,5.215,Europe/Paris,Marseille,Marseille Provence
-FR,MVV,LFHM,Verdun,Megève,45.8208,6.652219,Europe/Paris,,
-FR,MXN,LFRU,Morlaix,Morlaix-Ploujean,48.603199,-3.815779,Europe/Paris,,
-FR,MZM,LFSF,Metz,Metz-Frescaty (BA 128) Air Base,49.071701,6.131669,Europe/Paris,,
-FR,NCE,LFMN,尼斯,Nice-Côte d'Azur,43.665272,7.215,Europe/Paris,Nice,Nice Cote d'Azur
-FR,NCY,LFLP,Annecy,Annecy-Haute-Savoie-Mont Blanc,45.930833,6.106388,Europe/Paris,,
-FR,NIT,LFBN,Niort,Niort-Souché,46.313477,-0.394528,Europe/Paris,,
-FR,NTE,LFRS,nulltes,nulltes Atlantique,47.15694,-1.60777,Europe/Paris,nulltes,nulltes Atlantique
-FR,NVS,LFQG,Nevers,Nevers-Fourchambault,47.002601,3.113329,Europe/Paris,,
-FR,OBS,LFHO,Aubenas-vals-lanas,Aubenas-Ardèche Méridional,44.544203,4.372192,Europe/Paris,,
-FR,ORE,LFOJ,Orleans,Orléans-Bricy (BA 123) Air Base,47.9878,1.76056,Europe/Paris,,
-FR,ORY,LFPO,巴黎,Paris-Orly,48.723331,2.379444,Europe/Paris,Paris,Paris Orly
-FR,PGF,LFMP,Perpignull,Perpignull-Rivesaltes (Llabanère),42.740398,2.87067,Europe/Paris,,
-FR,PGX,LFBX,Perigueux,Périgueux-Bassillac,45.198101,0.815555,Europe/Paris,,
-FR,PIS,LFBI,Poitiers,Poitiers-Biard,46.587502,0.306666,Europe/Paris,Poitiers,Poitiers - Biard
-FR,POX,LFPT,Pontoise,Pontoise - Cormeilles-en-Vexin,49.096667,2.040833,Europe/Paris,,
-FR,PRP,LFKO,Propriano,Propriano,41.660598,8.889749,Europe/Paris,,
-FR,PUF,LFBP,Pau,Pau Pyrénées,43.380001,-0.41861,Europe/Paris,Pau,Pau Pyrenees
-FR,QNJ,LFLI,Annemasse,Annemasse,46.192001,6.26839,Europe/Paris,,
-FR,RCO,LFDN,Rochefort,Rochefort-Saint-Agnullt (BA 721),45.887798,-0.983056,Europe/Paris,,
-FR,RDZ,LFCR,Rodez,Rodez-Marcillac,44.407901,2.48267,Europe/Paris,,
-FR,RHE,LFSR,Reims,Reims-Champagne (BA 112) Air Base,49.310001,4.05,Europe/Paris,,
-FR,RNE,LFLO,Roanne,Roanne-Renaison,46.0583,4.001389,Europe/Paris,,
-FR,RNS,LFRN,Rennes,Rennes-Saint-Jacques,48.071941,-1.73222,Europe/Paris,Rennes,Rennes Saint-Jacques
-FR,RYN,LFCY,Royan,Royan-Médis,45.628101,-0.9725,Europe/Paris,,
-FR,SBK,LFRT,St.-brieuc Armor,Saint-Brieuc-Armor,48.5378,-2.85444,Europe/Paris,,
-FR,SNR,LFRZ,St.-nazaire,Saint-Nazaire-Montoir,47.310555,-2.156666,Europe/Paris,,
-FR,SOZ,LFKS,Solenzara,Solenzara (BA 126) Air Base,41.9244,9.406,Europe/Paris,,
-FR,SXB,LFST,Strasbourg,Strasbourg,48.54361,7.637221,Europe/Paris,Strasbourg,Strasbourg
-FR,SYT,LFLN,St.-yan,Saint-Yan,46.412498,4.013259,Europe/Paris,,
-FR,TLN,LFTH,Hyeres,Toulon-Hyères,43.097301,6.146029,Europe/Paris,,
-FR,TLS,LFBO,Toulouse,Toulouse-Blagnac,43.634998,1.367778,Europe/Paris,Toulouse,Toulouse Blagnac
-FR,TNF,LFPN,Toussous-le-noble,Toussus-le-Noble,48.751899,2.106189,Europe/Paris,,
-FR,TUF,LFOT,Tours,Tours-Val-de-Loire,47.431938,0.723055,Europe/Paris,Tours,Tours Val de Loire
-FR,UIP,LFRQ,Quimper,Quimper-Cornouaille,47.974998,-4.167789,Europe/Paris,,
-FR,URO,LFOP,Rouen,Rouen,49.384201,1.1748,Europe/Paris,,
-FR,VAF,LFLU,Valence,Valence-Chabeuil,44.9216,4.9699,Europe/Paris,,
-FR,VHY,LFLV,Vichy,Vichy-Charmeil,46.1697,3.403739,Europe/Paris,,
-FR,VIY,LFPV,Villacoublay,Villacoublay-Vélizy (BA 107) Air Base,48.774166,2.191666,Europe/Paris,,
-FR,VNE,LFRV,Vannes,Vannes-Meucon,47.7233,-2.718559,Europe/Paris,,
-FR,XAB,LFOI,Abbeville,Abbeville,50.143501,1.831891,Europe/Paris,,
-FR,XCR,LFOK,Chalons,Châlons-Vatry,48.773333,4.206111,Europe/Paris,,
-FR,XCZ,LFQV,Charleville,Charleville-Mézières,49.783901,4.647079,Europe/Paris,,
-FR,XME,LFQJ,Maubeuge,Maubeuge-Élesmes,50.310501,4.03312,Europe/Paris,,
-FR,XMW,LFDB,Montauban,Montauban,44.025699,1.378039,Europe/Paris,,
-FR,XOG,LFMO,Orange,Orange-Caritat (BA 115) Air Base,44.140499,4.86672,Europe/Paris,,
-FR,XVS,LFAV,Valenciennes,Valenciennes-Denain,50.325801,3.46126,Europe/Paris,,
-FR,ZAO,LFCC,Cahors,Cahors-Lalbenque,44.351398,1.47528,Europe/Paris,,
 GA,BMM,FOOB,Bitam,Bitam,2.075639,11.4932,Africa/Libreville,,
 GA,KOU,FOGK,Koulamoutou,Koulamoutou Mabimbi,-1.18461,12.4413,Africa/Libreville,,
 GA,LBQ,FOGR,Lambarene,Lambarene,-0.704388,10.245699,Africa/Libreville,,
@@ -1725,110 +1443,6 @@ GA,OMB,FOOH,Omboue Hospial,Omboue Hopital,-1.57473,9.262689,Africa/Libreville,,
 GA,OYE,FOGO,Oyem,Oyem,1.54311,11.581399,Africa/Libreville,,
 GA,POG,FOOG,Port Gentil,Port Gentil,-0.711739,8.75438,Africa/Libreville,,
 GA,TCH,FOOT,Tchibanga,Tchibanga,-2.849999,11.017,Africa/Libreville,,
-GB,ABZ,EGPD,Aberdeen,Aberdeen Dyce,57.201939,-2.19777,Europe/London,Aberdeen,Aberdeen
-GB,ADX,EGQL,Leuchars,RAF Leuchars,56.372898,-2.868439,Europe/London,,
-GB,BBP,EGHJ,Bembridge,Bembridge,50.6781,-1.109439,Europe/London,,
-GB,BBS,EGLK,Blackbushe,Blackbushe,51.323898,-0.8475,Europe/London,,
-GB,BEB,EGPL,Benbecula,Benbecula,57.48111,-7.36277,Europe/London,Benbecula,Benbecula
-GB,BEQ,EGXH,Honington,RAF Honington,52.342601,0.772939,Europe/London,,
-GB,BEX,EGUB,Benson,RAF Benson,51.616401,-1.095829,Europe/London,,
-GB,BFS,EGAA,Belfast,Belfast,54.657501,-6.21583,Europe/London,Belfast,Belfast
-GB,BHD,EGAC,Belfast,George Best Belfast City,54.61805,-5.8725,Europe/London,Belfast,Belfast City George Best
-GB,BHX,EGBB,Birmingham,Birmingham,52.45385,-1.74802,Europe/London,Birmingham,Birmingham
-GB,BLK,EGNH,Blackpool,Blackpool,53.771701,-3.028609,Europe/London,,
-GB,BOH,EGHH,Bournemouth,Bournemouth,50.779998,-1.842499,Europe/London,,
-GB,BQH,EGKB,Biggin Hill,London Biggin Hill,51.330799,0.032499,Europe/London,,
-GB,BRR,EGPR,Barra,Barra,57.016998,-7.433,Europe/London,Barra,Barra
-GB,BRS,EGGD,Bristol,Bristol,51.38266,-2.71908,Europe/London,Bristol,Bristol
-GB,BWF,EGNL,Barrow Island,Barrow Walney Island,54.128611,-3.2675,Europe/London,,
-GB,BZZ,EGVN,Brize Norton,RAF Brize Norton,51.75,-1.58362,Europe/London,,
-GB,CAL,EGEC,Campbeltown,Campbeltown,55.43,-5.68,Europe/London,Campbeltown,Campbeltown
-GB,CAX,EGNC,Carlisle,Carlisle,54.9375,-2.80917,Europe/London,,
-GB,CBG,EGSC,Cambridge,Cambridge,52.205002,0.175,Europe/London,Cambridge,Cambridge
-GB,CEG,EGNR,Hawarden,Hawarden,53.1781,-2.97778,Europe/London,,
-GB,CSA,EGEY,Colonsay,Colonsay Airstrip,56.057498,-6.24306,Europe/London,,
-GB,CVT,EGBE,Coventry,Coventry,52.369701,-1.479719,Europe/London,,
-GB,CWL,EGFF,Cardiff,Cardiff,51.396469,-3.33753,Europe/London,Cardiff,Cardiff
-GB,DND,EGPN,Dundee,Dundee,56.452492,-3.02583,Europe/London,Dundee,Dundee
-GB,DSA,EGCN,"Doncaster, Sheffield",Robin Hood Doncaster Sheffield,53.480537,-1.010656,Europe/London,,
-GB,EDI,EGPH,Edinburgh,Edinburgh,55.950001,-3.3725,Europe/London,Edinburgh,Edinburgh
-GB,EMA,EGNX,East Midlands,East Midlands,52.831108,-1.32805,Europe/London,East Midlands,East Midlands
-GB,ENK,EGAB,Enniskillen,St Angelo,54.398899,-7.651669,Europe/London,,
-GB,EOI,EGED,Eday,Eday,59.190601,-2.772219,Europe/London,,
-GB,ESH,EGKA,Shoreham By Sea,Shoreham,50.835602,-0.297222,Europe/London,,
-GB,EXT,EGTE,Exeter,Exeter,50.73444,-3.41388,Europe/London,Exeter,Exeter
-GB,FAB,EGLF,Farnborough,Farnborough,51.275829,-0.77633,Europe/London,Farnborough,Farnborough
-GB,FFD,EGVA,Fairford,RAF Fairford,51.682201,-1.79003,Europe/London,,
-GB,FIE,EGEF,Fair Isle,Fair Isle,59.5358,-1.628059,Europe/London,,
-GB,FZO,EGTG,Bristol,Bristol Filton,51.519401,-2.59083,Europe/London,,
-GB,GBA,EGBP,Pailton,Cotswold,51.668095,-2.05694,Europe/London,,
-GB,GLA,EGPF,Glasgow,Glasgow,55.871941,-4.43305,Europe/London,Glasgow,Glasgow
-GB,GLO,EGBJ,Golouchestershire,Gloucestershire,51.894199,-2.16722,Europe/London,,
-GB,HAW,EGFE,Haverfordwest,Haverfordwest,51.833099,-4.96111,Europe/London,,
-GB,HRT,EGXU,Linton-on-ouse,RAF Linton-On-Ouse,54.0489,-1.25275,Europe/London,,
-GB,HUY,EGNJ,Humberside,Humberside,53.57444,-0.35083,Europe/London,Humberside,Humberside
-GB,HYC,EGTB,Wycombe,Wycombe Air Park,51.611698,-0.808332,Europe/London,,
-GB,ILY,EGPI,Islay,Islay,55.681938,-6.25666,Europe/London,Islay,Islay
-GB,INV,EGPE,Inverness,Inverness,57.5425,-4.0475,Europe/London,Inverness,Inverness
-GB,ISC,EGHE,ST MARY\'S,St. Mary's,49.913299,-6.291669,Europe/London,,
-GB,KNF,EGYM,Marham,RAF Marham,52.648395,0.550692,Europe/London,,
-GB,KOI,EGPA,Kirkwall,Kirkwall,58.957771,-2.905,Europe/London,Kirkwall,Kirkwall
-GB,KRH,EGKR,Redhill,Redhill Aerodrome,51.2136,-0.138611,Europe/London,,
-GB,LBA,EGNM,Leeds,Leeds Bradford,53.865891,-1.66056,Europe/London,Leeds,Leeds Bradford
-GB,LCY,EGLC,伦敦,London City,51.505268,0.055278,Europe/London,London,London City
-GB,LDY,EGAE,Londonderry,City of Derry,55.04277,-7.16111,Europe/London,Londonderry,City of Derry
-GB,LEQ,EGHC,Land's End,Land's End,50.102798,-5.67056,Europe/London,,
-GB,LGW,EGKK,伦敦,盖特维克,51.148048,-0.19027,Europe/London,London,London Gatwick
-GB,LHR,EGLL,伦敦,London Heathrow,51.471626,-0.46708,Europe/London,London,London Heathrow
-GB,LKZ,EGUL,Lakenheath,RAF Lakenheath,52.409301,0.560999,Europe/London,,
-GB,LMO,EGQS,Lossiemouth,RAF Lossiemouth,57.7052,-3.339169,Europe/London,,
-GB,LPL,EGGP,Liverpool,Liverpool John Lennon,53.333611,-2.84972,Europe/London,Liverpool,Liverpool John Lennon
-GB,LSI,EGPB,Sumburgh,Sumburgh,59.87888,-1.29555,Europe/London,Sumburgh,Sumburgh
-GB,LTN,EGGW,伦敦,London Luton,51.874722,-0.36833,Europe/London,London,London Luton
-GB,LWK,EGET,Lerwick,Lerwick / Tingwall,60.192199,-1.24361,Europe/London,,
-GB,LYE,EGDL,Lyneham,RAF Lyneham,51.5051,-1.99343,Europe/London,,
-GB,LYM,EGMK,Lympne,Lympne,51.08,1.013,Europe/London,,
-GB,LYX,EGMD,Lydd,Lydd,50.9561,0.939167,Europe/London,,
-GB,MAN,EGCC,曼彻斯特,Manchester,53.353741,-2.27495,Europe/London,Manchester,Manchester
-GB,MHZ,EGUN,Mildenhall,RAF Mildenhall,52.3619,0.486405,Europe/London,,
-GB,MME,EGNV,Teesside,Durham Tees Valley,54.509178,-1.4294,Europe/London,Darlington,Teesside
-GB,MSE,EGMH,Manston,Kent,51.342201,1.34611,Europe/London,,
-GB,NCL,EGNT,Newcastle,Newcastle,55.037498,-1.69166,Europe/London,Newcastle,Newcastle
-GB,NDY,EGES,Sanday,Sanday,59.250301,-2.576669,Europe/London,,
-GB,NHT,EGWU,Northolt,RAF Northolt,51.553001,-0.418166,Europe/London,,
-GB,NQT,EGBN,Nottingham,Nottingham,52.919998,-1.079169,Europe/London,,
-GB,NQY,EGHQ,Newquai,Newquay Cornwall,50.440552,-4.9954,Europe/London,Newquay,Newquay Cornwall
-GB,NRL,EGEN,North Ronaldsay,North Ronaldsay,59.3675,-2.434439,Europe/London,,
-GB,NWI,EGSH,Norwich,Norwich,52.675831,1.282778,Europe/London,Norwich,Norwich
-GB,OBN,EGEO,North Connel,Oban,56.4635,-5.39967,Europe/London,,
-GB,ODH,EGVO,Odiham,RAF Odiham,51.2341,-0.942825,Europe/London,,
-GB,OXF,EGTK,Oxford,Oxford (Kidlington),51.836898,-1.32,Europe/London,,
-GB,PIK,EGPK,Prestwick,Glasgow Prestwick,55.509441,-4.58666,Europe/London,Prestwick,Glasgow Prestwick
-GB,PLH,EGHD,Plymouth,Plymouth City,50.422798,-4.10583,Europe/London,,
-GB,PPW,EGEP,Papa Westray,Papa Westray,59.351699,-2.900279,Europe/London,,
-GB,PSL,EGPT,Perth,Perth/Scone,56.439201,-3.37222,Europe/London,,
-GB,PZE,EGHK,Penzance,Penzance Heliport,50.128101,-5.51845,Europe/London,,
-GB,QCY,EGXC,Coningsby,RAF Coningsby,53.092998,-0.166014,Europe/London,,
-GB,QFO,EGSU,Duxford,Duxford Aerodrome,52.090801,0.131944,Europe/London,,
-GB,QLA,EGHL,Lasham,Lasham,51.187198,-1.033499,Europe/London,,
-GB,QUY,EGUY,Wyton,RAF Wyton,52.3572,-0.107832,Europe/London,,
-GB,RCS,EGTO,Rochester,Rochester,51.351898,0.503332,Europe/London,,
-GB,SCS,EGPM,Scatsta,Scatsta,60.4328,-1.29611,Europe/London,,
-GB,SEN,EGMC,Southend,Southend,51.571381,0.695556,Europe/London,Southend,London Southend
-GB,SOU,EGHI,Southampton,Southampton,50.95026,-1.3568,Europe/London,Southampton,Southampton
-GB,SOY,EGER,Stronsay,Stronsay,59.1553,-2.64139,Europe/London,,
-GB,SQZ,EGXP,Scampton,RAF Scampton,53.3078,-0.550832,Europe/London,,
-GB,STN,EGSS,伦敦,London Stansted,51.884998,0.235,Europe/London,London,London Stansted
-GB,SWS,EGFH,Swansea,Swansea,51.6053,-4.06783,Europe/London,,
-GB,SYY,EGPO,Stornoway,Stornoway,58.215549,-6.33111,Europe/London,Stornoway,Stornoway
-GB,TRE,EGPU,Tiree,Tiree,56.499161,-6.86916,Europe/London,Tiree,Tiree
-GB,UNT,EGPW,Unst,Unst,60.7472,-0.85385,Europe/London,,
-GB,VLY,EGOV,Angelsey,Anglesey,53.2481,-4.535339,Europe/London,,
-GB,WIC,EGPC,Wick,Wick,58.458881,-3.09305,Europe/London,Wick,Wick
-GB,WRT,EGNO,Warton,Warton,53.745098,-2.88306,Europe/London,,
-GB,WRY,EGEW,Westray,Westray,59.350299,-2.95,Europe/London,,
-GB,WTN,EGXW,Waddington,RAF Waddington,53.166198,-0.52381,Europe/London,,
-GB,YEO,EGDY,Yeovilton,RNAS Yeovilton,51.009399,-2.638819,Europe/London,,
 GD,GND,TGPY,Point Salines,Point Salines,12.00424,-61.786098,America/Grenada,Point Salines,Grenada Maurice Bishop
 GE,BUS,UGSB,Batumi,Batumi,41.610298,41.5997,Asia/Tbilisi,,
 GE,KUT,UGKO,Kutaisi,Kopitnari,42.1767,42.482601,Asia/Tbilisi,,
@@ -2315,61 +1929,6 @@ IS,SIJ,BISI,Siglufjordur,Siglufjörður,66.133301,-18.9167,Atlantic/Reykjavik,,
 IS,THO,BITN,Thorshofn,Thorshofn,66.218498,-15.335599,Atlantic/Reykjavik,,
 IS,VEY,BIVM,Vestmannaeyjar,Vestmannaeyjar,63.424301,-20.2789,Atlantic/Reykjavik,,
 IS,VPN,BIVO,Vopnafjörður,Vopnafjörður,65.720596,-14.8506,Atlantic/Reykjavik,,
-IT,AHO,LIEA,Alghero,Alghero-Fertilia,40.632099,8.29077,Europe/Rome,,
-IT,ALL,LIMG,Albenga,Villanova D'Albenga,44.050598,8.12743,Europe/Rome,,
-IT,AOI,LIPY,Ancona,Ancona Falconara,43.616341,13.36231,Europe/Rome,Ancona,Ancona
-IT,AOT,LIMW,Aosta,Aosta,45.738499,7.36872,Europe/Rome,,
-IT,AVB,LIPA,Aviano,Aviano Air Base,46.031898,12.596503,Europe/Rome,,
-IT,BDS,LIBR,Brindisi,Brindisi - Salento,40.657631,17.947029,Europe/Rome,Brindisi,Brindisi
-IT,BGY,LIME,Bergamo,Il Caravaggio,45.673882,9.704166,Europe/Rome,Milan,Milan Bergamo Il Caravaggio
-IT,BLQ,LIPE,Bologna,Bologna Guglielmo Marconi,44.535439,11.28866,Europe/Rome,Bologna,Bologna Guglielmo Marconi
-IT,BRI,LIBD,Bari,Bari Karol Wojtyła,41.138851,16.76059,Europe/Rome,Bari,Bari Karol Wojtyla
-IT,BZO,LIPB,Bolzano,Bolzano,46.460201,11.3264,Europe/Rome,,
-IT,CAG,LIEE,Cagliari,Cagliari Elmas,39.251461,9.054283,Europe/Rome,Cagliari,Cagliari Elmas
-IT,CIA,LIRA,罗马,Ciampino-G. B. Pastine,41.799358,12.59493,Europe/Rome,Rome,Rome Ciampino
-IT,CIY,LICB,Comiso,Comiso,36.990002,14.6,Europe/Rome,Comiso,Comiso
-IT,CRV,LIBC,Crotone,Crotone,38.9972,17.0802,Europe/Rome,,
-IT,CTA,LICC,Catania,Catania-Fontanarossa,37.466782,15.0664,Europe/Rome,Catania,Catania Fontanarossa
-IT,CUF,LIMZ,Cuneo,Cuneo,44.547001,7.62322,Europe/Rome,,
-IT,DCI,LIED,Decimomannu,Decimomannu Air Base,39.354198,8.97248,Europe/Rome,,
-IT,EBA,LIRJ,Marina Di Campo,Marina Di Campo,42.7603,10.2394,Europe/Rome,,
-IT,FCO,LIRF,罗马,Leonardo da Vinci-Fiumicino,41.80447,12.25079,Europe/Rome,Rome,Rome Leonardo da Vinci Fiumicino
-IT,FLR,LIRQ,Florence,Peretola,43.809952,11.2051,Europe/Rome,Florence,Florence Peretola
-IT,FNU,LIER,Oristano,Oristano-Fenosu,39.895308,8.642661,Europe/Rome,,
-IT,FOG,LIBF,Foggia,"Foggia ""Gino Lisa""",41.432899,15.535,Europe/Rome,,
-IT,FRL,LIPK,Forli,Forlì,44.194801,12.0701,Europe/Rome,,
-IT,GOA,LIMJ,Genoa,Genoa Cristoforo Colombo,44.41333,8.8375,Europe/Rome,Genoa,Genoa Cristoforo Colombo
-IT,GRS,LIRS,Grosseto,Grosseto Air Base,42.759701,11.0719,Europe/Rome,,
-IT,LCC,LIBN,Lecce,Lecce Galatina Air Base,40.239201,18.133301,Europe/Rome,,
-IT,LIN,LIML,Milan,Milano Linate,45.445099,9.276739,Europe/Rome,Milan,Milan Linate
-IT,LMP,LICD,Lampedusa,Lampedusa,35.497898,12.6181,Europe/Rome,,
-IT,MXP,LIMC,米兰,Malpensa,45.6306,8.728111,Europe/Rome,Milan,Milan Malpensa
-IT,NAP,LIRN,Naples,Naples,40.886028,14.29078,Europe/Rome,Naples,Naples
-IT,NSY,LICZ,Sigonella,Sigonella Navy Air Base,37.401699,14.9224,Europe/Rome,,
-IT,OLB,LIEO,Olbia,Olbia Costa Smeralda,40.898659,9.517628,Europe/Rome,Olbia,Olbia Costa Smeralda
-IT,PEG,LIRZ,Perugia,Perugia San 法国sco d'Assisi - Umbria,43.095901,12.51322,Europe/Rome,Perugia,Perugia Umbria
-IT,PMF,LIMP,Parma,Parma,44.824501,10.2964,Europe/Rome,,
-IT,PMO,LICJ,Palermo,Falcone-Borsellino,38.175949,13.09101,Europe/Rome,Palermo,Palermo Falcone-Borsellino
-IT,PNL,LICG,Pantelleria,Pantelleria,36.816502,11.9689,Europe/Rome,,
-IT,PSA,LIRP,Pisa,Pisa,43.68391,10.39275,Europe/Rome,Pisa,Pisa Galileo Galilei
-IT,PSR,LIBP,Pescara,Pescara,42.431648,14.18106,Europe/Rome,Pescara,Pescara Abruzzo
-IT,QLT,LIRL,Latina,Latina Air Base,41.5424,12.909,Europe/Rome,,
-IT,QPA,LIPU,Padova,Padova,45.395802,11.8479,Europe/Rome,,
-IT,QSR,LIRI,Salerno,Salerno Costa d'Amalfi,40.620399,14.9113,Europe/Rome,,
-IT,REG,LICR,Reggio Calabria,Reggio Calabria,38.071201,15.6516,Europe/Rome,,
-IT,RMI,LIPR,Rimini,Federico Fellini,44.020302,12.6117,Europe/Rome,,
-IT,SAY,LIQS,Siena,Siena-Ampugnullo,43.256302,11.255,Europe/Rome,,
-IT,SUF,LICA,Lamezia,Lamezia Terme,38.905392,16.24226,Europe/Rome,Lamezia Terme,Lamezia Terme
-IT,TAR,LIBG,Grottaglie,"Taranto-Grottaglie ""Marcello Arlotta""",40.517502,17.4032,Europe/Rome,,
-IT,TPS,LICT,Trapani,Vincenzo Florio  Trapani-Birgi,37.9114,12.488,Europe/Rome,,
-IT,TRN,LIMF,Torino,Turin,45.20076,7.649631,Europe/Rome,Turin,Turin Caselle
-IT,TRS,LIPQ,Ronchi De Legionari,Trieste-Friuli Venezia Giulia,45.827499,13.47222,Europe/Rome,Trieste,Trieste Friuli Venezia Giulia
-IT,TSF,LIPH,Treviso,Treviso-Sant'Angelo,45.648399,12.19442,Europe/Rome,Treviso,Treviso
-IT,TTB,LIET,Tortoli,Tortolì,39.9188,9.68298,Europe/Rome,,
-IT,VBS,LIPO,Brescia,Brescia,45.428902,10.3306,Europe/Rome,,
-IT,VCE,LIPZ,Venice,Venice Marco Polo,45.505268,12.35194,Europe/Rome,Venice,Venice Marco Polo
-IT,VIC,LIPT,Vicenza,Vicenza,45.573399,11.5295,Europe/Rome,,
-IT,VRN,LIPX,Villafranca,Verona Villafranca,45.395699,10.88853,Europe/Rome,Verona,Verona
 JE,JER,EGJJ,Jersey,Jersey,49.207939,-2.1955,Europe/Jersey,Jersey,Jersey
 JM,KIN,MKJP,Kingston,Norman Manley,17.935659,-76.787498,America/Jamaica,Kingston,Kingston Norman Manley
 JM,KTP,MKTP,Kingston,Tinson Pen,17.988599,-76.823799,America/Jamaica,,
@@ -2437,30 +1996,6 @@ KN,NEV,TKPN,Charlestown,Vance W. Amory,17.205699,-62.5899,America/St_Kitts,,
 KN,SKB,TKPK,Basse Terre,Robert L. Bradshaw,17.31119,-62.718601,America/St_Kitts,Basseterre,Basseterre Robert L. Bradshaw
 KP,DSO,ZKSD,Hamhung,Sondok,39.745201,127.473999,Asia/Pyongyang,,
 KP,FNJ,ZKPY,平壤,平壤 Sunull,39.22406,125.670097,Asia/Pyongyang,Pyongyang,Pyongyang Sunull
-KR,CHF,RKPE,Chinhae,Jinhae Airbase/ (G-813/K-10),35.140248,128.696229,Asia/Seoul,,
-KR,CHN,RKJU,Jhunju,Jeon Ju  (G-703),35.87808,127.119112,Asia/Seoul,,
-KR,CJJ,RKTU,清州,,36.716599,127.4991,Asia/Seoul,Cheongju,
-KR,CJU,RKPC,济州,济州,33.511299,126.492996,Asia/Seoul,Jeju,Jeju
-KR,GMP,RKSS,首尔,首尔金浦,37.558311,126.790497,Asia/Seoul,Seoul,Seoul Gimpo
-KR,HIN,RKPS,Sacheon,Sacheon Air Base/,35.092628,128.086761,Asia/Seoul,Jinju,Jinju Sacheon
-KR,ICN,RKSI,首尔,首尔仁川,37.46907,126.4505,Asia/Seoul,Seoul,Seoul Incheon
-KR,JDG,RKPD,Seogwipo,Jeongseok,33.3996,126.711997,Asia/Seoul,,
-KR,KAG,RKNN,Kangnung,Gangneung  (K-18),37.753601,128.943915,Asia/Seoul,,
-KR,KPO,RKTH,Pohang,Pohang  (G-815/K-3),35.98785,129.420395,Asia/Seoul,Pohang,Pohang
-KR,KUV,RKJK,Kunsan,Kunsan Air Base,35.983334,126.75,Asia/Seoul,Gunsan,Gunsan
-KR,KWJ,RKJJ,Kwangju,Gwangju,35.126381,126.8088,Asia/Seoul,Gwangju,Gwangju
-KR,MPK,RKJM,Mokpo,Mokpo Heliport,34.758899,126.379997,Asia/Seoul,,
-KR,MWX,RKJB,务安,Muan,34.991379,126.382698,Asia/Seoul,Muan,Muan
-KR,OSN,RKSO,Osan,Osan Air Base,37.090599,127.029999,Asia/Seoul,,
-KR,PUS,RKPK,釜山,金海,35.17952,128.938202,Asia/Seoul,Busan,Gimhae
-KR,RSU,RKJY,Yeosu,Yeosu,34.842319,127.616798,Asia/Seoul,Yeosu,Yeosu
-KR,SSN,RKSM,Seoul East,Seoul Air Base (K-16),37.444744,127.112718,Asia/Seoul,,
-KR,SWU,RKSW,Suwon,Suwon,37.239398,127.007003,Asia/Seoul,,
-KR,TAE,RKTN,大邱,大邱,35.8941,128.658798,Asia/Seoul,Daegu,Daegu
-KR,USN,RKPU,Ulsan,Ulsan,35.593491,129.3517,Asia/Seoul,Ulsan,Ulsan
-KR,WJU,RKNW,Wonju,Wonju/Hoengseong Air Base (K-38/K-46),37.43,127.959999,Asia/Seoul,Wonju,Wonju
-KR,YEC,RKTY,Yechon,Yecheon Airbase,36.630373,128.34971,Asia/Seoul,,
-KR,YNY,RKNY,襄阳,襄阳,38.06131,128.669098,Asia/Seoul,Yangyang,Yangyang
 KW,KWI,OKBK,科威特城,科威特城,29.226561,47.968922,Asia/Kuwait,Kuwait City,Kuwait
 KY,CYB,MWCB,Cayman Brac,Gerrard Smith,19.686979,-79.882698,America/Cayman,Cayman Brac,Cayman Brac Charles Kirkconnell
 KY,GCM,MWCR,Georgetown,Owen Roberts,19.29277,-81.357697,America/Cayman,George Town,George Town Owen Roberts
@@ -2618,7 +2153,6 @@ ML,MZI,GAMB,Mopti,Mopti,14.5128,-4.079559,Africa/Bamako,,
 ML,TOM,GATB,Tombouctou,Timbuktu,16.730499,-3.00758,Africa/Bamako,,
 MM,AKY,VYSW,Sittwe,Sittwe,20.132699,92.872596,Asia/Rangoon,,
 MM,BMO,VYBM,Banmaw,Banmaw,24.268999,97.2462,Asia/Rangoon,,
-MM,BPE,ZBDH,秦皇岛,秦皇岛北戴河,39.666389,119.058891,Asia/Shanghai,Qinhuangdao,Qinhuangdao Beidaihe
 MM,BSX,VYPN,Pathein,Pathein,16.815201,94.7799,Asia/Rangoon,,
 MM,HEH,VYHH,Heho,Heho,20.746999,96.791999,Asia/Rangoon,,
 MM,HOX,VYHL,Hommalin,Hommalinn,24.899599,94.914001,Asia/Rangoon,,
