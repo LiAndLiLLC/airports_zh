@@ -1,1 +1,870 @@
-{"BKK":{"IATA":"BKK","ICAO":"VTBS","city":"\u66fc\u8c37","city_en":"Bangkok","country":"TH","name":"\u66fc\u8c37\u7d20\u4e07\u90a3\u666e\u56fd\u9645\u673a\u573a","name_en":"Bangkok Suvarnabhumi Airport","position":[13.6811,100.7472],"timezone":"Asia/Bangkok"},"CNX":{"IATA":"CNX","ICAO":"VTCC","city":"\u6e05\u8fc8","city_en":"Chiang Mai","country":"TH","name":"\u6e05\u8fc8\u56fd\u9645\u673a\u573a","name_en":"Chiang Mai International Airport","position":[18.76684,98.962639],"timezone":"Asia/Bangkok"},"CEI":{"IATA":"CEI","ICAO":"VTCT","city":"\u6e05\u83b1","city_en":"Chiang Rai","country":"TH","name":"\u6e05\u83b1\u56fd\u9645\u673a\u573a","name_en":"Chiang Rai International Airport","position":[19.952339,99.882919],"timezone":"Asia/Bangkok"},"HDY":{"IATA":"HDY","ICAO":"VTSS","city":"\u5408\u827e","city_en":"Hat Yai","country":"TH","name":"\u5408\u827e\u56fd\u9645\u673a\u573a","name_en":"Hat Yai International Airport","position":[6.933206,100.392899],"timezone":"Asia/Bangkok"},"KKC":{"IATA":"KKC","ICAO":"VTUK","city":"Khon Kaen","city_en":"Khon Kaen","country":"TH","name":"Khon Kaen Airport","name_en":"Khon Kaen Airport","position":[16.466619,102.7836],"timezone":"Asia/Bangkok"},"USM":{"IATA":"USM","ICAO":"VTSM","city":"\u82cf\u6885","city_en":"Koh Samui","country":"TH","name":"\u82cf\u6885\u56fd\u9645\u673a\u573a","name_en":"Koh Samui Airport","position":[9.547794,100.062202],"timezone":"Asia/Bangkok"},"KBV":{"IATA":"KBV","ICAO":"VTSG","city":"\u5580\u6bd4","city_en":"Krabi","country":"TH","name":"\u5580\u6bd4\u56fd\u9645\u673a\u573a","name_en":"Krabi Airport","position":[8.095969,98.988762],"timezone":"Asia/Bangkok"},"LPT":{"IATA":"LPT","ICAO":"VTCL","city":"Lampang","city_en":"Lampang","country":"TH","name":"Lampang Airport","name_en":"Lampang Airport","position":[18.270929,99.504158],"timezone":"Asia/Bangkok"},"NAW":{"IATA":"NAW","ICAO":"VTSC","city":"Narathiwat","city_en":"Narathiwat","country":"TH","name":"Narathiwat Airport","name_en":"Narathiwat Airport","position":[6.519922,101.743401],"timezone":"Asia/Bangkok"},"HKT":{"IATA":"HKT","ICAO":"VTSP","city":"\u666e\u5409","city_en":"Phuket","country":"TH","name":"\u666e\u5409\u56fd\u9645\u673a\u573a","name_en":"Phuket International Airport","position":[8.1132,98.316872],"timezone":"Asia/Bangkok"},"THS":{"IATA":"THS","ICAO":"VTPO","city":"Sukhothai","city_en":"Sukhothai","country":"TH","name":"Sukhothai Airport","name_en":"Sukhothai Airport","position":[17.223057,99.82222],"timezone":"Asia/Bangkok"},"URT":{"IATA":"URT","ICAO":"VTSB","city":"\u7d20\u53fb\u4ed6\u5c3c","city_en":"Surat Thani","country":"TH","name":"\u7d20\u53fb\u4ed6\u5c3c\u673a\u573a","name_en":"Surat Thani Airport","position":[9.132603,99.135582],"timezone":"Asia/Bangkok"},"UBP":{"IATA":"UBP","ICAO":"VTUU","city":"\u4e4c\u6c76","city_en":"Ubon Ratchathani","country":"TH","name":"\u4e4c\u6c76\u673a\u573a","name_en":"Ubon Ratchathani Airport","position":[15.25127,104.870201],"timezone":"Asia/Bangkok"},"UTH":{"IATA":"UTH","ICAO":"VTUD","city":"\u4e4c\u9686\u4ed6\u5c3c","city_en":"Udon Thani","country":"TH","name":"\u4e4c\u9686\u4ed6\u5c3c\u56fd\u9645\u673a\u573a","name_en":"Udon Thani International Airport","position":[17.386431,102.7882],"timezone":"Asia/Bangkok"},"DMK":{"IATA":"DMK","ICAO":"VTBD","city":"\u66fc\u8c37","city_en":"Bangkok","country":"TH","name":"\u66fc\u8c37\u5eca\u66fc\u56fd\u9645\u673a\u573a","name_en":"Bangkok Don Mueang International Airport","position":[13.9125,100.606697],"timezone":"Asia/Bangkok"},"BFV":{"IATA":"BFV","ICAO":"VTUO","city":"Buriram","city_en":"Buriram","country":"TH","name":"Buriram Airport","name_en":"Buriram Airport","position":[15.2295,103.252998],"timezone":"Asia/Bangkok"},"CJM":{"IATA":"CJM","ICAO":"VTSE","city":"Chumphon","city_en":"Chumphon","country":"TH","name":"Chumphon Airport","name_en":"Chumphon Airport","position":[10.71,99.360001],"timezone":"Asia/Bangkok"},"LOE":{"IATA":"LOE","ICAO":"VTUL","city":"Loei","city_en":"Loei","country":"TH","name":"Loei Airport","name_en":"Loei Airport","position":[17.439131,101.722],"timezone":"Asia/Bangkok"},"MAQ":{"IATA":"MAQ","ICAO":"VTPM","city":"Mae Sot","city_en":"Mae Sot","country":"TH","name":"Mae Sot Airport","name_en":"Mae Sot Airport","position":[16.700369,98.544533],"timezone":"Asia/Bangkok"},"KOP":{"IATA":"KOP","ICAO":"VTUP","city":"Nakhon Phanom","city_en":"Nakhon Phanom","country":"TH","name":"Nakhon Phanom Airport","name_en":"Nakhon Phanom Airport","position":[17.383789,104.642998],"timezone":"Asia/Bangkok"},"NST":{"IATA":"NST","ICAO":"VTSF","city":"Nakhon Si Thammarat","city_en":"Nakhon Si Thammarat","country":"TH","name":"Nakhon Si Thammarat Airport","name_en":"Nakhon Si Thammarat Airport","position":[8.539444,99.944725],"timezone":"Asia/Bangkok"},"NNT":{"IATA":"NNT","ICAO":"VTCN","city":"\u6960\u5e9c","city_en":"Nan","country":"TH","name":"\u6960\u5e9c\u673a\u573a","name_en":"Nan Airport","position":[18.799999,100.783333],"timezone":"Asia/Bangkok"},"PHS":{"IATA":"PHS","ICAO":"VTPP","city":"\u5f6d\u4e16\u6d1b","city_en":"Phitsanulok","country":"TH","name":"\u5f6d\u4e16\u6d1b\u673a\u573a","name_en":"Phitsanulok Airport","position":[16.78293,100.279099],"timezone":"Asia/Bangkok"},"PRH":{"IATA":"PRH","ICAO":"VTCP","city":"Phrae","city_en":"Phrae","country":"TH","name":"Phrae Airport","name_en":"Phrae Airport","position":[18.13216,100.164597],"timezone":"Asia/Bangkok"},"UNN":{"IATA":"UNN","ICAO":"VTSR","city":"Ranong","city_en":"Ranong","country":"TH","name":"Ranong Airport","name_en":"Ranong Airport","position":[9.7775,98.585281],"timezone":"Asia/Bangkok"},"ROI":{"IATA":"ROI","ICAO":"VTUV","city":"Roi Et","city_en":"Roi Et","country":"TH","name":"Roi Et Airport","name_en":"Roi Et Airport","position":[16.1168,103.774002],"timezone":"Asia/Bangkok"},"SNO":{"IATA":"SNO","ICAO":"VTUI","city":"Sakon Nakhon","city_en":"Sakon Nakhon","country":"TH","name":"Sakon Nakhon Airport","name_en":"Sakon Nakhon Airport","position":[17.195141,104.118599],"timezone":"Asia/Bangkok"},"TST":{"IATA":"TST","ICAO":"VTST","city":"Trang","city_en":"Trang","country":"TH","name":"Trang Airport","name_en":"Trang Airport","position":[7.508744,99.61657],"timezone":"Asia/Bangkok"},"UTP":{"IATA":"UTP","ICAO":"VTBU","city":"Rayong","city_en":"Rayong","country":"TH","name":"Rayong Pattaya U-Tapao International Airport","name_en":"Rayong Pattaya U-Tapao International Airport","position":[12.67994,101.004997],"timezone":"Asia/Bangkok"},"KUL":{"IATA":"KUL","ICAO":"WMKK","city":"\u5409\u9686\u5761","city_en":"Kuala Lumpur","country":"MY","name":"\u5409\u9686\u5761\u56fd\u9645\u673a\u573a","name_en":"Kuala Lumpur International Airport","position":[2.745578,101.7099],"timezone":"Asia/Kuala_Lumpur"},"SZB":{"IATA":"SZB","ICAO":"WMSA","city":"Kuala Lumpur","city_en":"Kuala Lumpur","country":"MY","name":"Kuala Lumpur Subang Airport","name_en":"Kuala Lumpur Subang Airport","position":[3.130583,101.549301],"timezone":"Asia/Kuala_Lumpur"},"PEN":{"IATA":"PEN","ICAO":"WMKP","city":"\u69df\u57ce","city_en":"Penang","country":"MY","name":"\u69df\u57ce\u56fd\u9645\u673a\u573a","name_en":"Penang International Airport","position":[5.297139,100.276802],"timezone":"Asia/Kuala_Lumpur"},"AOR":{"IATA":"AOR","ICAO":"WMKA","city":"Alor Setar","city_en":"Alor Setar","country":"MY","name":"Alor Setar Sultan Abdul Halim Airport","name_en":"Alor Setar Sultan Abdul Halim Airport","position":[6.189667,100.398102],"timezone":"Asia/Kuala_Lumpur"},"JHB":{"IATA":"JHB","ICAO":"WMKJ","city":"Johor Bahru","city_en":"Johor Bahru","country":"MY","name":"Johor Bahru Senai International Airport","name_en":"Johor Bahru Senai International Airport","position":[1.641308,103.669601],"timezone":"Asia/Kuala_Lumpur"},"KBR":{"IATA":"KBR","ICAO":"WMKC","city":"Kota Bharu","city_en":"Kota Bharu","country":"MY","name":"Kota Bharu Sultan Ismail Petra Airport","name_en":"Kota Bharu Sultan Ismail Petra Airport","position":[6.16685,102.292999],"timezone":"Asia/Kuala_Lumpur"},"BKI":{"IATA":"BKI","ICAO":"WBKK","city":"\u4e9a\u5e87","city_en":"Kota Kinabalu","country":"MY","name":"\u4e9a\u5e87\u56fd\u9645\u673a\u573a","name_en":"Kota Kinabalu International Airport","position":[5.937208,116.051102],"timezone":"Asia/Kuala_Lumpur"},"TGG":{"IATA":"TGG","ICAO":"WMKN","city":"\u82cf\u4e39\u9a6c\u6155","city_en":"Kuala Terengganu","country":"MY","name":"\u82cf\u4e39\u9a6c\u6155\u56fd\u9645\u673a\u573a","name_en":"Kuala Terengganu Sultan Mahmud Airport","position":[5.382639,103.103302],"timezone":"Asia/Kuala_Lumpur"},"LBU":{"IATA":"LBU","ICAO":"WBKL","city":"\u7eb3\u95fd","city_en":"Labuan","country":"MY","name":"\u7eb3\u95fd\u673a\u573a","name_en":"Labuan Airport","position":[5.300683,115.250099],"timezone":"Asia/Kuala_Lumpur"},"LGK":{"IATA":"LGK","ICAO":"WMKL","city":"\u6d6e\u7f57\u4ea4\u6021","city_en":"Langkawi","country":"MY","name":"\u6d6e\u7f57\u4ea4\u6021\u56fd\u9645\u673a\u573a","name_en":"Langkawi International Airport","position":[6.329728,99.728661],"timezone":"Asia/Kuala_Lumpur"},"RDN":{"IATA":"RDN","ICAO":"WMPR","city":"Redang","city_en":"Redang","country":"MY","name":"LTS Pulau Redang Airport","name_en":"LTS Pulau Redang Airport","position":[5.76528,103.007004],"timezone":"Asia/Kuala_Lumpur"},"BTU":{"IATA":"BTU","ICAO":"WBGB","city":"\u6c11\u90fd\u9c81","city_en":"Bintulu","country":"MY","name":"\u6c11\u90fd\u9c81\u673a\u573a","name_en":"Bintulu Airport","position":[3.12385,113.020401],"timezone":"Asia/Kuala_Lumpur"},"KUA":{"IATA":"KUA","ICAO":"WMKD","city":"Kuantan","city_en":"Kuantan","country":"MY","name":"Kuantan Sultan Haji Ahmad Shah Airport","name_en":"Kuantan Sultan Haji Ahmad Shah Airport","position":[3.775389,103.209],"timezone":"Asia/Kuala_Lumpur"},"KCH":{"IATA":"KCH","ICAO":"WBGG","city":"\u53e4\u664b","city_en":"Kuching","country":"MY","name":"\u53e4\u664b\u56fd\u9645\u673a\u573a","name_en":"Kuching International Airport","position":[1.484697,110.346901],"timezone":"Asia/Kuala_Lumpur"},"MYY":{"IATA":"MYY","ICAO":"WBGR","city":"\u7f8e\u91cc","city_en":"Miri","country":"MY","name":"\u7f8e\u91cc\u673a\u573a","name_en":"Miri Airport","position":[4.322014,113.986801],"timezone":"Asia/Kuala_Lumpur"},"SDK":{"IATA":"SDK","ICAO":"WBKS","city":"\u5c71\u6253\u6839","city_en":"Sandakan","country":"MY","name":"\u5c71\u6253\u6839\u673a\u573a","name_en":"Sandakan Airport","position":[5.900897,118.059402],"timezone":"Asia/Kuala_Lumpur"},"SBW":{"IATA":"SBW","ICAO":"WBGS","city":"\u8bd7\u5deb","city_en":"Sibu","country":"MY","name":"\u8bd7\u5deb\u673a\u573a","name_en":"Sibu Airport","position":[2.261603,111.985298],"timezone":"Asia/Kuala_Lumpur"},"TWU":{"IATA":"TWU","ICAO":"WBKW","city":"\u6597\u6e56","city_en":"Tawau","country":"MY","name":"\u6597\u6e56\u673a\u573a","name_en":"Tawau Airport","position":[4.313369,118.121902],"timezone":"Asia/Kuala_Lumpur"},"MKM":{"IATA":"MKM","ICAO":"WBGK","city":"Mukah","city_en":"Mukah","country":"MY","name":"Mukah Airport","name_en":"Mukah Airport","position":[2.906944,112.074997],"timezone":"Asia/Kuala_Lumpur"},"KUD":{"IATA":"KUD","ICAO":"WBKT","city":"\u53e4\u8fbe","city_en":"Kudat","country":"MY","name":"\u53e4\u8fbe\u673a\u573a","name_en":"Kudat Airport","position":[6.924167,116.830803],"timezone":"Asia/Kuala_Lumpur"},"LDU":{"IATA":"LDU","ICAO":"WBKD","city":"\u62ff\u7b03","city_en":"Lahad Datu","country":"MY","name":"\u62ff\u7b03\u673a\u573a","name_en":"Lahad Datu Airport","position":[5.032247,118.323997],"timezone":"Asia/Kuala_Lumpur"},"LWY":{"IATA":"LWY","ICAO":"WBGW","city":"Lawas","city_en":"Lawas","country":"MY","name":"Lawas Airport","name_en":"Lawas Airport","position":[4.849167,115.402702],"timezone":"Asia/Kuala_Lumpur"},"LMN":{"IATA":"LMN","ICAO":"WBGJ","city":"Limbang","city_en":"Limbang","country":"MY","name":"Limbang Airport","name_en":"Limbang Airport","position":[4.808303,115.010399],"timezone":"Asia/Kuala_Lumpur"},"MZV":{"IATA":"MZV","ICAO":"WBMU","city":"Mulu","city_en":"Mulu","country":"MY","name":"Mulu Airport","name_en":"Mulu Airport","position":[4.05,114.800003],"timezone":"Asia/Kuala_Lumpur"},"BKM":{"IATA":"BKM","ICAO":"WBGO","city":"Bakelalan","city_en":"Bakelalan","country":"MY","name":"Bakelalan Airport","name_en":"Bakelalan Airport","position":[3.988611,115.618797],"timezone":"Asia/Kuala_Lumpur"},"BBN":{"IATA":"BBN","ICAO":"WBGZ","city":"Bario","city_en":"Bario","country":"MY","name":"Bario Airport","name_en":"Bario Airport","position":[3.736944,115.469398],"timezone":"Asia/Kuala_Lumpur"},"IPH":{"IATA":"IPH","ICAO":"WMKI","city":"Ipoh","city_en":"Ipoh","country":"MY","name":"Ipoh Sultan Azlan Shah Airport","name_en":"Ipoh Sultan Azlan Shah Airport","position":[4.567972,101.092102],"timezone":"Asia/Kuala_Lumpur"},"LGL":{"IATA":"LGL","ICAO":"WBGF","city":"Long Datih","city_en":"Long Datih","country":"MY","name":"Long Lellang Airport","name_en":"Long Lellang Airport","position":[3.421,115.153999],"timezone":"Asia/Kuala_Lumpur"},"ODN":{"IATA":"ODN","ICAO":"WBGI","city":"Long Seridan","city_en":"Long Seridan","country":"MY","name":"Long Seridan Airport","name_en":"Long Seridan Airport","position":[3.976111,115.063301],"timezone":"Asia/Kuala_Lumpur"},"MUR":{"IATA":"MUR","ICAO":"WBGM","city":"Marudi","city_en":"Marudi","country":"MY","name":"Marudi Airport","name_en":"Marudi Airport","position":[4.1775,114.321899],"timezone":"Asia/Kuala_Lumpur"},"TGC":{"IATA":"TGC","ICAO":"WBTM","city":"Tanjung Manis","city_en":"Tanjung Manis","country":"MY","name":"Tanjung Manis Airport","name_en":"Tanjung Manis Airport","position":[2.177778,111.201942],"timezone":"Asia/Kuala_Lumpur"},"LKH":{"IATA":"LKH","ICAO":"WBGL","city":"Long Akah","city_en":"Long Akah","country":"MY","name":"Long Akah Airport","name_en":"Long Akah Airport","position":[3.3,114.782997],"timezone":"Asia/Kuala_Lumpur"},"LBP":{"IATA":"LBP","ICAO":"","city":"Long Banga","city_en":"Long Banga","country":"MY","name":"Long Banga Airfield","name_en":"Long Banga Airfield","position":[3.2,115.400002],"timezone":"Asia/Kuala_Lumpur"}}
+{
+    "AOR": {
+        "IATA": "AOR",
+        "ICAO": "WMKA",
+        "city": "Alor Setar",
+        "city_en": "Alor Setar",
+        "country": "MY",
+        "name": "Alor Setar Sultan Abdul Halim Airport",
+        "name_en": "Alor Setar Sultan Abdul Halim Airport",
+        "position": [
+            6.189667,
+            100.398102
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "BBN": {
+        "IATA": "BBN",
+        "ICAO": "WBGZ",
+        "city": "Bario",
+        "city_en": "Bario",
+        "country": "MY",
+        "name": "Bario Airport",
+        "name_en": "Bario Airport",
+        "position": [
+            3.736944,
+            115.469398
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "BFV": {
+        "IATA": "BFV",
+        "ICAO": "VTUO",
+        "city": "Buriram",
+        "city_en": "Buriram",
+        "country": "TH",
+        "name": "Buriram Airport",
+        "name_en": "Buriram Airport",
+        "position": [
+            15.2295,
+            103.252998
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "BKI": {
+        "IATA": "BKI",
+        "ICAO": "WBKK",
+        "city": "\u4e9a\u5e87",
+        "city_en": "Kota Kinabalu",
+        "country": "MY",
+        "name": "\u4e9a\u5e87\u56fd\u9645\u673a\u573a",
+        "name_en": "Kota Kinabalu International Airport",
+        "position": [
+            5.937208,
+            116.051102
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "BKK": {
+        "IATA": "BKK",
+        "ICAO": "VTBS",
+        "city": "\u66fc\u8c37",
+        "city_en": "Bangkok",
+        "country": "TH",
+        "name": "\u66fc\u8c37\u7d20\u4e07\u90a3\u666e\u56fd\u9645\u673a\u573a",
+        "name_en": "Bangkok Suvarnabhumi Airport",
+        "position": [
+            13.6811,
+            100.7472
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "BKM": {
+        "IATA": "BKM",
+        "ICAO": "WBGO",
+        "city": "Bakelalan",
+        "city_en": "Bakelalan",
+        "country": "MY",
+        "name": "Bakelalan Airport",
+        "name_en": "Bakelalan Airport",
+        "position": [
+            3.988611,
+            115.618797
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "BTU": {
+        "IATA": "BTU",
+        "ICAO": "WBGB",
+        "city": "\u6c11\u90fd\u9c81",
+        "city_en": "Bintulu",
+        "country": "MY",
+        "name": "\u6c11\u90fd\u9c81\u673a\u573a",
+        "name_en": "Bintulu Airport",
+        "position": [
+            3.12385,
+            113.020401
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "CEI": {
+        "IATA": "CEI",
+        "ICAO": "VTCT",
+        "city": "\u6e05\u83b1",
+        "city_en": "Chiang Rai",
+        "country": "TH",
+        "name": "\u6e05\u83b1\u56fd\u9645\u673a\u573a",
+        "name_en": "Chiang Rai International Airport",
+        "position": [
+            19.952339,
+            99.882919
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "CJM": {
+        "IATA": "CJM",
+        "ICAO": "VTSE",
+        "city": "Chumphon",
+        "city_en": "Chumphon",
+        "country": "TH",
+        "name": "Chumphon Airport",
+        "name_en": "Chumphon Airport",
+        "position": [
+            10.71,
+            99.360001
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "CNX": {
+        "IATA": "CNX",
+        "ICAO": "VTCC",
+        "city": "\u6e05\u8fc8",
+        "city_en": "Chiang Mai",
+        "country": "TH",
+        "name": "\u6e05\u8fc8\u56fd\u9645\u673a\u573a",
+        "name_en": "Chiang Mai International Airport",
+        "position": [
+            18.76684,
+            98.962639
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "DMK": {
+        "IATA": "DMK",
+        "ICAO": "VTBD",
+        "city": "\u66fc\u8c37",
+        "city_en": "Bangkok",
+        "country": "TH",
+        "name": "\u66fc\u8c37\u5eca\u66fc\u56fd\u9645\u673a\u573a",
+        "name_en": "Bangkok Don Mueang International Airport",
+        "position": [
+            13.9125,
+            100.606697
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "HDY": {
+        "IATA": "HDY",
+        "ICAO": "VTSS",
+        "city": "\u5408\u827e",
+        "city_en": "Hat Yai",
+        "country": "TH",
+        "name": "\u5408\u827e\u56fd\u9645\u673a\u573a",
+        "name_en": "Hat Yai International Airport",
+        "position": [
+            6.933206,
+            100.392899
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "HKT": {
+        "IATA": "HKT",
+        "ICAO": "VTSP",
+        "city": "\u666e\u5409",
+        "city_en": "Phuket",
+        "country": "TH",
+        "name": "\u666e\u5409\u56fd\u9645\u673a\u573a",
+        "name_en": "Phuket International Airport",
+        "position": [
+            8.1132,
+            98.316872
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "IPH": {
+        "IATA": "IPH",
+        "ICAO": "WMKI",
+        "city": "Ipoh",
+        "city_en": "Ipoh",
+        "country": "MY",
+        "name": "Ipoh Sultan Azlan Shah Airport",
+        "name_en": "Ipoh Sultan Azlan Shah Airport",
+        "position": [
+            4.567972,
+            101.092102
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "JHB": {
+        "IATA": "JHB",
+        "ICAO": "WMKJ",
+        "city": "Johor Bahru",
+        "city_en": "Johor Bahru",
+        "country": "MY",
+        "name": "Johor Bahru Senai International Airport",
+        "name_en": "Johor Bahru Senai International Airport",
+        "position": [
+            1.641308,
+            103.669601
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "KBR": {
+        "IATA": "KBR",
+        "ICAO": "WMKC",
+        "city": "Kota Bharu",
+        "city_en": "Kota Bharu",
+        "country": "MY",
+        "name": "Kota Bharu Sultan Ismail Petra Airport",
+        "name_en": "Kota Bharu Sultan Ismail Petra Airport",
+        "position": [
+            6.16685,
+            102.292999
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "KBV": {
+        "IATA": "KBV",
+        "ICAO": "VTSG",
+        "city": "\u5580\u6bd4",
+        "city_en": "Krabi",
+        "country": "TH",
+        "name": "\u5580\u6bd4\u56fd\u9645\u673a\u573a",
+        "name_en": "Krabi Airport",
+        "position": [
+            8.095969,
+            98.988762
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "KCH": {
+        "IATA": "KCH",
+        "ICAO": "WBGG",
+        "city": "\u53e4\u664b",
+        "city_en": "Kuching",
+        "country": "MY",
+        "name": "\u53e4\u664b\u56fd\u9645\u673a\u573a",
+        "name_en": "Kuching International Airport",
+        "position": [
+            1.484697,
+            110.346901
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "KKC": {
+        "IATA": "KKC",
+        "ICAO": "VTUK",
+        "city": "Khon Kaen",
+        "city_en": "Khon Kaen",
+        "country": "TH",
+        "name": "Khon Kaen Airport",
+        "name_en": "Khon Kaen Airport",
+        "position": [
+            16.466619,
+            102.7836
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "KOP": {
+        "IATA": "KOP",
+        "ICAO": "VTUP",
+        "city": "Nakhon Phanom",
+        "city_en": "Nakhon Phanom",
+        "country": "TH",
+        "name": "Nakhon Phanom Airport",
+        "name_en": "Nakhon Phanom Airport",
+        "position": [
+            17.383789,
+            104.642998
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "KUA": {
+        "IATA": "KUA",
+        "ICAO": "WMKD",
+        "city": "Kuantan",
+        "city_en": "Kuantan",
+        "country": "MY",
+        "name": "Kuantan Sultan Haji Ahmad Shah Airport",
+        "name_en": "Kuantan Sultan Haji Ahmad Shah Airport",
+        "position": [
+            3.775389,
+            103.209
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "KUD": {
+        "IATA": "KUD",
+        "ICAO": "WBKT",
+        "city": "\u53e4\u8fbe",
+        "city_en": "Kudat",
+        "country": "MY",
+        "name": "\u53e4\u8fbe\u673a\u573a",
+        "name_en": "Kudat Airport",
+        "position": [
+            6.924167,
+            116.830803
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "KUL": {
+        "IATA": "KUL",
+        "ICAO": "WMKK",
+        "city": "\u5409\u9686\u5761",
+        "city_en": "Kuala Lumpur",
+        "country": "MY",
+        "name": "\u5409\u9686\u5761\u56fd\u9645\u673a\u573a",
+        "name_en": "Kuala Lumpur International Airport",
+        "position": [
+            2.745578,
+            101.7099
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "LBP": {
+        "IATA": "LBP",
+        "ICAO": "null",
+        "city": "Long Banga",
+        "city_en": "Long Banga",
+        "country": "MY",
+        "name": "Long Banga Airfield",
+        "name_en": "Long Banga Airfield",
+        "position": [
+            3.2,
+            115.400002
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "LBU": {
+        "IATA": "LBU",
+        "ICAO": "WBKL",
+        "city": "\u7eb3\u95fd",
+        "city_en": "Labuan",
+        "country": "MY",
+        "name": "\u7eb3\u95fd\u673a\u573a",
+        "name_en": "Labuan Airport",
+        "position": [
+            5.300683,
+            115.250099
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "LDU": {
+        "IATA": "LDU",
+        "ICAO": "WBKD",
+        "city": "\u62ff\u7b03",
+        "city_en": "Lahad Datu",
+        "country": "MY",
+        "name": "\u62ff\u7b03\u673a\u573a",
+        "name_en": "Lahad Datu Airport",
+        "position": [
+            5.032247,
+            118.323997
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "LGK": {
+        "IATA": "LGK",
+        "ICAO": "WMKL",
+        "city": "\u6d6e\u7f57\u4ea4\u6021",
+        "city_en": "Langkawi",
+        "country": "MY",
+        "name": "\u6d6e\u7f57\u4ea4\u6021\u56fd\u9645\u673a\u573a",
+        "name_en": "Langkawi International Airport",
+        "position": [
+            6.329728,
+            99.728661
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "LGL": {
+        "IATA": "LGL",
+        "ICAO": "WBGF",
+        "city": "Long Datih",
+        "city_en": "Long Datih",
+        "country": "MY",
+        "name": "Long Lellang Airport",
+        "name_en": "Long Lellang Airport",
+        "position": [
+            3.421,
+            115.153999
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "LKH": {
+        "IATA": "LKH",
+        "ICAO": "WBGL",
+        "city": "Long Akah",
+        "city_en": "Long Akah",
+        "country": "MY",
+        "name": "Long Akah Airport",
+        "name_en": "Long Akah Airport",
+        "position": [
+            3.3,
+            114.782997
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "LMN": {
+        "IATA": "LMN",
+        "ICAO": "WBGJ",
+        "city": "Limbang",
+        "city_en": "Limbang",
+        "country": "MY",
+        "name": "Limbang Airport",
+        "name_en": "Limbang Airport",
+        "position": [
+            4.808303,
+            115.010399
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "LOE": {
+        "IATA": "LOE",
+        "ICAO": "VTUL",
+        "city": "Loei",
+        "city_en": "Loei",
+        "country": "TH",
+        "name": "Loei Airport",
+        "name_en": "Loei Airport",
+        "position": [
+            17.439131,
+            101.722
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "LPT": {
+        "IATA": "LPT",
+        "ICAO": "VTCL",
+        "city": "Lampang",
+        "city_en": "Lampang",
+        "country": "TH",
+        "name": "Lampang Airport",
+        "name_en": "Lampang Airport",
+        "position": [
+            18.270929,
+            99.504158
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "LWY": {
+        "IATA": "LWY",
+        "ICAO": "WBGW",
+        "city": "Lawas",
+        "city_en": "Lawas",
+        "country": "MY",
+        "name": "Lawas Airport",
+        "name_en": "Lawas Airport",
+        "position": [
+            4.849167,
+            115.402702
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "MAQ": {
+        "IATA": "MAQ",
+        "ICAO": "VTPM",
+        "city": "Mae Sot",
+        "city_en": "Mae Sot",
+        "country": "TH",
+        "name": "Mae Sot Airport",
+        "name_en": "Mae Sot Airport",
+        "position": [
+            16.700369,
+            98.544533
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "MKM": {
+        "IATA": "MKM",
+        "ICAO": "WBGK",
+        "city": "Mukah",
+        "city_en": "Mukah",
+        "country": "MY",
+        "name": "Mukah Airport",
+        "name_en": "Mukah Airport",
+        "position": [
+            2.906944,
+            112.074997
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "MUR": {
+        "IATA": "MUR",
+        "ICAO": "WBGM",
+        "city": "Marudi",
+        "city_en": "Marudi",
+        "country": "MY",
+        "name": "Marudi Airport",
+        "name_en": "Marudi Airport",
+        "position": [
+            4.1775,
+            114.321899
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "MYY": {
+        "IATA": "MYY",
+        "ICAO": "WBGR",
+        "city": "\u7f8e\u91cc",
+        "city_en": "Miri",
+        "country": "MY",
+        "name": "\u7f8e\u91cc\u673a\u573a",
+        "name_en": "Miri Airport",
+        "position": [
+            4.322014,
+            113.986801
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "MZV": {
+        "IATA": "MZV",
+        "ICAO": "WBMU",
+        "city": "Mulu",
+        "city_en": "Mulu",
+        "country": "MY",
+        "name": "Mulu Airport",
+        "name_en": "Mulu Airport",
+        "position": [
+            4.05,
+            114.800003
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "NAW": {
+        "IATA": "NAW",
+        "ICAO": "VTSC",
+        "city": "Narathiwat",
+        "city_en": "Narathiwat",
+        "country": "TH",
+        "name": "Narathiwat Airport",
+        "name_en": "Narathiwat Airport",
+        "position": [
+            6.519922,
+            101.743401
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "NNT": {
+        "IATA": "NNT",
+        "ICAO": "VTCN",
+        "city": "\u6960\u5e9c",
+        "city_en": "Nan",
+        "country": "TH",
+        "name": "\u6960\u5e9c\u673a\u573a",
+        "name_en": "Nan Airport",
+        "position": [
+            18.799999,
+            100.783333
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "NST": {
+        "IATA": "NST",
+        "ICAO": "VTSF",
+        "city": "Nakhon Si Thammarat",
+        "city_en": "Nakhon Si Thammarat",
+        "country": "TH",
+        "name": "Nakhon Si Thammarat Airport",
+        "name_en": "Nakhon Si Thammarat Airport",
+        "position": [
+            8.539444,
+            99.944725
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "ODN": {
+        "IATA": "ODN",
+        "ICAO": "WBGI",
+        "city": "Long Seridan",
+        "city_en": "Long Seridan",
+        "country": "MY",
+        "name": "Long Seridan Airport",
+        "name_en": "Long Seridan Airport",
+        "position": [
+            3.976111,
+            115.063301
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "PEN": {
+        "IATA": "PEN",
+        "ICAO": "WMKP",
+        "city": "\u69df\u57ce",
+        "city_en": "Penang",
+        "country": "MY",
+        "name": "\u69df\u57ce\u56fd\u9645\u673a\u573a",
+        "name_en": "Penang International Airport",
+        "position": [
+            5.297139,
+            100.276802
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "PHS": {
+        "IATA": "PHS",
+        "ICAO": "VTPP",
+        "city": "\u5f6d\u4e16\u6d1b",
+        "city_en": "Phitsanulok",
+        "country": "TH",
+        "name": "\u5f6d\u4e16\u6d1b\u673a\u573a",
+        "name_en": "Phitsanulok Airport",
+        "position": [
+            16.78293,
+            100.279099
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "PRH": {
+        "IATA": "PRH",
+        "ICAO": "VTCP",
+        "city": "Phrae",
+        "city_en": "Phrae",
+        "country": "TH",
+        "name": "Phrae Airport",
+        "name_en": "Phrae Airport",
+        "position": [
+            18.13216,
+            100.164597
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "RDN": {
+        "IATA": "RDN",
+        "ICAO": "WMPR",
+        "city": "Redang",
+        "city_en": "Redang",
+        "country": "MY",
+        "name": "LTS Pulau Redang Airport",
+        "name_en": "LTS Pulau Redang Airport",
+        "position": [
+            5.76528,
+            103.007004
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "ROI": {
+        "IATA": "ROI",
+        "ICAO": "VTUV",
+        "city": "Roi Et",
+        "city_en": "Roi Et",
+        "country": "TH",
+        "name": "Roi Et Airport",
+        "name_en": "Roi Et Airport",
+        "position": [
+            16.1168,
+            103.774002
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "SBW": {
+        "IATA": "SBW",
+        "ICAO": "WBGS",
+        "city": "\u8bd7\u5deb",
+        "city_en": "Sibu",
+        "country": "MY",
+        "name": "\u8bd7\u5deb\u673a\u573a",
+        "name_en": "Sibu Airport",
+        "position": [
+            2.261603,
+            111.985298
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "SDK": {
+        "IATA": "SDK",
+        "ICAO": "WBKS",
+        "city": "\u5c71\u6253\u6839",
+        "city_en": "Sandakan",
+        "country": "MY",
+        "name": "\u5c71\u6253\u6839\u673a\u573a",
+        "name_en": "Sandakan Airport",
+        "position": [
+            5.900897,
+            118.059402
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "SNO": {
+        "IATA": "SNO",
+        "ICAO": "VTUI",
+        "city": "Sakon Nakhon",
+        "city_en": "Sakon Nakhon",
+        "country": "TH",
+        "name": "Sakon Nakhon Airport",
+        "name_en": "Sakon Nakhon Airport",
+        "position": [
+            17.195141,
+            104.118599
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "SZB": {
+        "IATA": "SZB",
+        "ICAO": "WMSA",
+        "city": "Kuala Lumpur",
+        "city_en": "Kuala Lumpur",
+        "country": "MY",
+        "name": "Kuala Lumpur Subang Airport",
+        "name_en": "Kuala Lumpur Subang Airport",
+        "position": [
+            3.130583,
+            101.549301
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "TGC": {
+        "IATA": "TGC",
+        "ICAO": "WBTM",
+        "city": "Tanjung Manis",
+        "city_en": "Tanjung Manis",
+        "country": "MY",
+        "name": "Tanjung Manis Airport",
+        "name_en": "Tanjung Manis Airport",
+        "position": [
+            2.177778,
+            111.201942
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "TGG": {
+        "IATA": "TGG",
+        "ICAO": "WMKN",
+        "city": "\u82cf\u4e39\u9a6c\u6155",
+        "city_en": "Kuala Terengganu",
+        "country": "MY",
+        "name": "\u82cf\u4e39\u9a6c\u6155\u56fd\u9645\u673a\u573a",
+        "name_en": "Kuala Terengganu Sultan Mahmud Airport",
+        "position": [
+            5.382639,
+            103.103302
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "THS": {
+        "IATA": "THS",
+        "ICAO": "VTPO",
+        "city": "Sukhothai",
+        "city_en": "Sukhothai",
+        "country": "TH",
+        "name": "Sukhothai Airport",
+        "name_en": "Sukhothai Airport",
+        "position": [
+            17.223057,
+            99.82222
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "TST": {
+        "IATA": "TST",
+        "ICAO": "VTST",
+        "city": "Trang",
+        "city_en": "Trang",
+        "country": "TH",
+        "name": "Trang Airport",
+        "name_en": "Trang Airport",
+        "position": [
+            7.508744,
+            99.61657
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "TWU": {
+        "IATA": "TWU",
+        "ICAO": "WBKW",
+        "city": "\u6597\u6e56",
+        "city_en": "Tawau",
+        "country": "MY",
+        "name": "\u6597\u6e56\u673a\u573a",
+        "name_en": "Tawau Airport",
+        "position": [
+            4.313369,
+            118.121902
+        ],
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "UBP": {
+        "IATA": "UBP",
+        "ICAO": "VTUU",
+        "city": "\u4e4c\u6c76",
+        "city_en": "Ubon Ratchathani",
+        "country": "TH",
+        "name": "\u4e4c\u6c76\u673a\u573a",
+        "name_en": "Ubon Ratchathani Airport",
+        "position": [
+            15.25127,
+            104.870201
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "UNN": {
+        "IATA": "UNN",
+        "ICAO": "VTSR",
+        "city": "Ranong",
+        "city_en": "Ranong",
+        "country": "TH",
+        "name": "Ranong Airport",
+        "name_en": "Ranong Airport",
+        "position": [
+            9.7775,
+            98.585281
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "URT": {
+        "IATA": "URT",
+        "ICAO": "VTSB",
+        "city": "\u7d20\u53fb\u4ed6\u5c3c",
+        "city_en": "Surat Thani",
+        "country": "TH",
+        "name": "\u7d20\u53fb\u4ed6\u5c3c\u673a\u573a",
+        "name_en": "Surat Thani Airport",
+        "position": [
+            9.132603,
+            99.135582
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "USM": {
+        "IATA": "USM",
+        "ICAO": "VTSM",
+        "city": "\u82cf\u6885",
+        "city_en": "Koh Samui",
+        "country": "TH",
+        "name": "\u82cf\u6885\u56fd\u9645\u673a\u573a",
+        "name_en": "Koh Samui Airport",
+        "position": [
+            9.547794,
+            100.062202
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "UTH": {
+        "IATA": "UTH",
+        "ICAO": "VTUD",
+        "city": "\u4e4c\u9686\u4ed6\u5c3c",
+        "city_en": "Udon Thani",
+        "country": "TH",
+        "name": "\u4e4c\u9686\u4ed6\u5c3c\u56fd\u9645\u673a\u573a",
+        "name_en": "Udon Thani International Airport",
+        "position": [
+            17.386431,
+            102.7882
+        ],
+        "timezone": "Asia/Bangkok"
+    },
+    "UTP": {
+        "IATA": "UTP",
+        "ICAO": "VTBU",
+        "city": "Rayong",
+        "city_en": "Rayong",
+        "country": "TH",
+        "name": "Rayong Pattaya U-Tapao International Airport",
+        "name_en": "Rayong Pattaya U-Tapao International Airport",
+        "position": [
+            12.67994,
+            101.004997
+        ],
+        "timezone": "Asia/Bangkok"
+    }
+}

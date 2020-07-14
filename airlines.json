@@ -98,6 +98,15 @@
       "zh-Hans": "因瑟尔航空"
     }
   },
+  "8L": {
+    "IATA": "8L",
+    "ICAO": "LKE",
+    "country": "CN",
+    "name": {
+      "en": "Lucky Air",
+      "zh-Hans": "祥鹏航空"
+    }
+  },
   "8Q": {
     "IATA": "8Q",
     "ICAO": "OHY",
@@ -114,6 +123,22 @@
     "name": {
       "en": "Afriqiyah Airways",
       "zh-Hans": "泛非航空"
+    }
+  },
+  "9C": {
+    "IATA": "9C",
+    "ICAO": "CQH",
+    "name": {
+      "en": "Spring Airlines",
+      "zh-Hans": "春秋航空"
+    }
+  },
+  "9H": {
+    "IATA": "9H",
+    "ICAO": "CGN",
+    "name": {
+      "en": "Air Chang'an",
+      "zh-Hans": "长安航空"
     }
   },
   "9U": {
@@ -246,6 +271,14 @@
     "name": {
       "en": "Air One",
       "zh-Hans": "一航空"
+    }
+  },
+  "AQ": {
+    "IATA": "AQ",
+    "ICAO": "JYH",
+    "name": {
+      "en": "9 Air",
+      "zh-Hans": "九元航空"
     }
   },
   "AR": {
@@ -390,6 +423,14 @@
     "name": {
       "en": "Nouvelair",
       "zh-Hans": "努维尔航空"
+    }
+  },
+  "BK": {
+    "IATA": "BK",
+    "ICAO": "OKA",
+    "name": {
+      "en": "Okay Airways",
+      "zh-Hans": "奥凯航空"
     }
   },
   "BP": {
@@ -590,6 +631,14 @@
       "zh-Hans": "达美航空"
     }
   },
+  "DR": {
+    "IATA": "DR",
+    "ICAO": "RLH",
+    "name": {
+      "en": "Ruili Airlines",
+      "zh-Hans": "瑞丽航空"
+    }
+  },
   "DT": {
     "IATA": "DT",
     "ICAO": "DTA",
@@ -597,6 +646,14 @@
     "name": {
       "en": "TAAG Angola Airlines",
       "zh-Hans": "TAAG安哥拉航空"
+    }
+  },
+  "DZ": {
+    "IATA": "DZ",
+    "ICAO": "EPA",
+    "name": {
+      "en": "Donghai Airlines",
+      "zh-Hans": "东海航空"
     }
   },
   "EI": {
@@ -645,6 +702,14 @@
     "name": {
       "en": "Ethiopian Airlines",
       "zh-Hans": "埃塞俄比亚航空"
+    }
+  },
+  "EU": {
+    "IATA": "EU",
+    "ICAO": "UEA",
+    "name": {
+      "en": "Chengdu Airlines",
+      "zh-Hans": "成都航空"
     }
   },
   "EW": {
@@ -722,6 +787,14 @@
       "zh-Hans": "上海航空"
     }
   },
+  "FU": {
+    "IATA": "FU",
+    "ICAO": "FZA",
+    "name": {
+      "en": "Fuzhou Airlines",
+      "zh-Hans": "福州航空"
+    }
+  },
   "FV": {
     "IATA": "FV",
     "ICAO": "4DM",
@@ -776,6 +849,14 @@
       "zh-Hans": "海湾航空"
     }
   },
+  "GJ": {
+    "IATA": "GJ",
+    "ICAO": "CDC",
+    "name": {
+      "en": "Loong Air",
+      "zh-Hans": "长龙航空"
+    }
+  },
   "GL": {
     "IATA": "GL",
     "ICAO": "GRL",
@@ -792,6 +873,22 @@
     "name": {
       "en": "Tianjin Airlines",
       "zh-Hans": "天津航空"
+    }
+  },
+  "GT": {
+    "IATA": "GT",
+    "ICAO": "CGH",
+    "name": {
+      "en": "Air Guilin",
+      "zh-Hans": "桂林航空"
+    }
+  },
+  "GX": {
+    "IATA": "GX",
+    "ICAO": "CBG",
+    "name": {
+      "en": "Beibu Gulf Airlines",
+      "zh-Hans": "北部湾航空"
     }
   },
   "HA": {
@@ -938,6 +1035,14 @@
       "zh-Hans": "波赫航空"
     }
   },
+  "JD": {
+    "IATA": "JD",
+    "ICAO": "CBJ",
+    "name": {
+      "en": "Capital Airline",
+      "zh-Hans": "首都航空"
+    }
+  },
   "JJ": {
     "IATA": "JJ",
     "ICAO": "TAM",
@@ -966,6 +1071,14 @@
     "name": {
       "en": "Adria Airways",
       "zh-Hans": "亚德里亚航空"
+    }
+  },
+  "JR": {
+    "IATA": "JR",
+    "ICAO": "JOY",
+    "name": {
+      "en": "Joy Air",
+      "zh-Hans": "幸福航空"
     }
   },
   "JS": {
@@ -1068,6 +1181,14 @@
     "name": {
       "en": "Kuwait Airways",
       "zh-Hans": "科威特航空"
+    }
+  },
+  "KY": {
+    "IATA": "KY",
+    "ICAO": "KNA",
+    "name": {
+      "en": "Kunming Airlines",
+      "zh-Hans": "昆明航空"
     }
   },
   "KZ": {
@@ -1292,6 +1413,14 @@
       "zh-Hans": "全日本空输"
     }
   },
+  "NS": {
+    "IATA": "NS",
+    "ICAO": "HBH",
+    "name": {
+      "en": "Hebei Airlines",
+      "zh-Hans": "河北航空"
+    }
+  },
   "NT": {
     "IATA": "NT",
     "ICAO": "IBB",
@@ -1422,6 +1551,14 @@
     "name": {
       "en": "Pakistan International Airlines",
       "zh-Hans": "巴基斯坦国际航空"
+    }
+  },
+  "PN": {
+    "IATA": "PN",
+    "ICAO": "CHB",
+    "name": {
+      "en": "China West Air",
+      "zh-Hans": "中國西部航空"
     }
   },
   "PR": {
@@ -1575,6 +1712,14 @@
     "name": {
       "en": "TAROM Romanian Air Transport",
       "zh-Hans": "罗马尼亚航空"
+    }
+  },
+  "RY": {
+    "IATA": "RY",
+    "ICAO": "CJX",
+    "name": {
+      "en": "Jiangxi Air",
+      "zh-Hans": "江西航空"
     }
   },
   "S4": {
@@ -1808,6 +1953,14 @@
       "zh-Hans": "突尼斯航空"
     }
   },
+  "TV": {
+    "IATA": "TV",
+    "ICAO": "TBA",
+    "name": {
+      "en": "Tibet Airlines",
+      "zh-Hans": "西藏航空"
+    }
+  },
   "TX": {
     "IATA": "TX",
     "ICAO": "FWI",
@@ -1875,6 +2028,14 @@
     "name": {
       "en": "HK Express",
       "zh-Hans": "香港快运航空"
+    }
+  },
+  "UQ": {
+    "IATA": "UQ",
+    "ICAO": "CUH",
+    "name": {
+      "en": "Urumqi Air",
+      "zh-Hans": "乌鲁木齐航空"
     }
   },
   "UT": {
