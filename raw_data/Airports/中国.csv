@@ -1,13 +1,5 @@
 country,ICAO,IATA,city_en,name_en,latitude,longitude,timezone,city,name,2019旅客,2018旅客,2019货物,2018货物,2019起降,2018起降
-CN,null,BFU,,,32.847733,117.320244,Asia/Shanghai,Bengbu,,,,,,,
 CN,null,HBQ,Qilian,Haibei Airport,38.008331,100.640831,Asia/Shanghai,海北,海北祁连机场,31566,13137,141.7,,536,236
-CN,null,JIU,,,29.476944,115.801111,Asia/Shanghai,Jiujiang,,,,,,,
-CN,null,nan,Sansha,Sansha Yongxing Airport,nan,nan,Asia/Shanghai,三沙,三沙永兴机场,71391,58271,351.2,65.0,754,728
-CN,null,NJJ,Heihe,Nenjian Melgen Airport,49.238689,125.329735,Asia/Shanghai,,,,,,,,
-CN,null,RUG,,,32.257884,120.501655,Asia/Shanghai,Rugao,,,,,,,
-CN,null,SHP,,,39.968102,119.731003,Asia/Shanghai,,,,,,,,
-CN,null,SIA,,,34.376701,109.120003,Asia/Shanghai,西安,,,,,,,
-CN,null,SXJ,,,42.911701,90.247497,Asia/Shanghai,Shanshan,,,,,,,
 CN,ZBAA,PEK,Beijing,Beijing Capital International Airport,40.084152,116.592735,Asia/Shanghai,北京,北京首都国际机场,100013642,100983290,1955286.0,2074005.4,594329,614022
 CN,ZBAD,PKX,Beijing,Beijing Daxing International Airport,39.509167,116.410553,Asia/Shanghai,北京,北京大兴国际机场,3135074,,7362.3,,21048,
 CN,ZBAL,AXF,Alxa Left Banner,Alxa Left Banner Airport,38.823318,105.630966,Asia/Shanghai,阿拉善左旗,阿拉善左旗巴彦浩特机场,156042,165858,0.9,1.4,4830,6164
@@ -80,6 +72,7 @@ CN,ZHYC,YIH,Yichang,Yichang Sanxia Airport,30.556473,111.479942,Asia/Shanghai,
 CN,ZJHK,HAK,Haikou,Haikou Meilan International Airport,19.934851,110.4589,Asia/Shanghai,海口,海口美兰国际机场,24216552,24123582,175566.5,168622.2,164786,165186
 CN,ZJQH,BAR,Qionghai,Qionghai Bo'ao Airport,19.13969,110.455772,Asia/Shanghai,琼海,琼海博鳌机场,558674,550527,533.6,485.5,17460,18998
 CN,ZJSY,SYX,Sanya,Sanya Phoenix International Airport,18.302891,109.412201,Asia/Shanghai,三亚,三亚凤凰国际机场,20163655,20039035,99821.0,95132.9,124813,123507
+CN,ZJYX,XYI,Sansha,Sansha Yongxing Airport,16.83278,112.34444,Asia/Shanghai,三沙,三沙永兴机场,71391,58271,351.2,65.0,754,728
 CN,ZLAK,AKA,,,32.708099,108.931,Asia/Shanghai,安康,安康五里铺机场,,,,,109351,81767
 CN,ZLDH,DNH,Dunhuang,Dunhuang Airport,40.16111,94.809158,Asia/Shanghai,敦煌,敦煌机场,901960,757672,606.8,422.4,8201,7661
 CN,ZLDL,HXD,Delingha,Delingha Airport,37.125,97.268608,Asia/Shanghai,海西,海西德令哈机场,107563,107354,1201.5,723.0,1889,1324

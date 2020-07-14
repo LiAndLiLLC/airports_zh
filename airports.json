@@ -5571,20 +5571,6 @@
         ],
         "timezone": "America/New_York"
     },
-    "BFU": {
-        "IATA": "BFU",
-        "ICAO": "null",
-        "city": "Bengbu",
-        "city_en": "",
-        "country": "CN",
-        "name": "",
-        "name_en": "",
-        "position": [
-            32.847733,
-            117.320244
-        ],
-        "timezone": "Asia/Shanghai"
-    },
     "BFV": {
         "IATA": "BFV",
         "ICAO": "VTUO",
@@ -28251,20 +28237,6 @@
         ],
         "timezone": "Asia/Shanghai"
     },
-    "JIU": {
-        "IATA": "JIU",
-        "ICAO": "null",
-        "city": "Jiujiang",
-        "city_en": "",
-        "country": "CN",
-        "name": "",
-        "name_en": "",
-        "position": [
-            29.476944,
-            115.801111
-        ],
-        "timezone": "Asia/Shanghai"
-    },
     "JIW": {
         "IATA": "JIW",
         "ICAO": "OPJI",
@@ -42783,20 +42755,6 @@
         ],
         "timezone": "Asia/Baghdad"
     },
-    "NJJ": {
-        "IATA": "NJJ",
-        "ICAO": "null",
-        "city": "Heihe",
-        "city_en": "Heihe",
-        "country": "CN",
-        "name": "Nenjian\u00a0Melgen\u00a0Airport",
-        "name_en": "Nenjian\u00a0Melgen\u00a0Airport",
-        "position": [
-            49.238689,
-            125.329735
-        ],
-        "timezone": "Asia/Shanghai"
-    },
     "NJK": {
         "IATA": "NJK",
         "ICAO": "KNJK",
@@ -53101,20 +53059,6 @@
         ],
         "timezone": "Asia/Tehran"
     },
-    "RUG": {
-        "IATA": "RUG",
-        "ICAO": "null",
-        "city": "Rugao",
-        "city_en": "",
-        "country": "CN",
-        "name": "",
-        "name_en": "",
-        "position": [
-            32.257884,
-            120.501655
-        ],
-        "timezone": "Asia/Shanghai"
-    },
     "RUH": {
         "IATA": "RUH",
         "ICAO": "OERK",
@@ -55103,20 +55047,6 @@
         ],
         "timezone": "America/Los_Angeles"
     },
-    "SHP": {
-        "IATA": "SHP",
-        "ICAO": "null",
-        "city": "",
-        "city_en": "",
-        "country": "CN",
-        "name": "",
-        "name_en": "",
-        "position": [
-            39.968102,
-            119.731003
-        ],
-        "timezone": "Asia/Shanghai"
-    },
     "SHR": {
         "IATA": "SHR",
         "ICAO": "KSHR",
@@ -55200,20 +55130,6 @@
             33.5035
         ],
         "timezone": "Africa/Dar_es_Salaam"
-    },
-    "SIA": {
-        "IATA": "SIA",
-        "ICAO": "null",
-        "city": "\u897f\u5b89",
-        "city_en": "",
-        "country": "CN",
-        "name": "",
-        "name_en": "",
-        "position": [
-            34.376701,
-            109.120003
-        ],
-        "timezone": "Asia/Shanghai"
     },
     "SID": {
         "IATA": "SID",
@@ -58196,20 +58112,6 @@
             54.539398
         ],
         "timezone": "Asia/Tehran"
-    },
-    "SXJ": {
-        "IATA": "SXJ",
-        "ICAO": "null",
-        "city": "Shanshan",
-        "city_en": "",
-        "country": "CN",
-        "name": "",
-        "name_en": "",
-        "position": [
-            42.911701,
-            90.247497
-        ],
-        "timezone": "Asia/Shanghai"
     },
     "SXL": {
         "IATA": "SXL",
@@ -68081,6 +67983,20 @@
         ],
         "timezone": "Asia/Rangoon"
     },
+    "XYI": {
+        "IATA": "XYI",
+        "ICAO": "ZJYX",
+        "city": "\u4e09\u6c99",
+        "city_en": "Sansha",
+        "country": "CN",
+        "name": "\u4e09\u6c99\u6c38\u5174\u673a\u573a",
+        "name_en": "Sansha Yongxing Airport",
+        "position": [
+            16.83278,
+            112.34444
+        ],
+        "timezone": "Asia/Shanghai"
+    },
     "YAA": {
         "IATA": "YAA",
         "ICAO": "CAJ4",
@@ -73680,20 +73596,6 @@
             34.011798
         ],
         "timezone": "Africa/Blantyre"
-    },
-    "nan": {
-        "IATA": "nan",
-        "ICAO": "null",
-        "city": "\u4e09\u6c99",
-        "city_en": "Sansha",
-        "country": "CN",
-        "name": "\u4e09\u6c99\u6c38\u5174\u673a\u573a",
-        "name_en": "Sansha Yongxing Airport",
-        "position": [
-            NaN,
-            NaN
-        ],
-        "timezone": "Asia/Shanghai"
     },
     "null": {
         "IATA": "null",
