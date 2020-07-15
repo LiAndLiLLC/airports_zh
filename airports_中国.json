@@ -11,6 +11,8 @@
             47.750362,
             88.084442
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "ACX": {
@@ -25,6 +27,8 @@
             25.08639,
             104.959442
         ],
+        "province": "\u8d35\u5dde",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "AEB": {
@@ -39,6 +43,8 @@
             23.719469,
             106.967773
         ],
+        "province": "\u5e7f\u897f",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "AHJ": {
@@ -53,6 +59,8 @@
             32.527401,
             102.357399
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "AKA": {
@@ -67,6 +75,8 @@
             32.708099,
             108.931
         ],
+        "province": "\u9655\u897f",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "AKU": {
@@ -81,6 +91,8 @@
             41.262501,
             80.291664
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "AOG": {
@@ -95,6 +107,8 @@
             41.103523,
             122.855835
         ],
+        "province": "\u8fbd\u5b81",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "AQG": {
@@ -109,6 +123,8 @@
             30.582222,
             117.050278
         ],
+        "province": "\u5b89\u5fbd",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "AVA": {
@@ -123,6 +139,8 @@
             26.260555,
             105.873337
         ],
+        "province": "\u8d35\u5dde",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "AXF": {
@@ -137,6 +155,8 @@
             38.823318,
             105.630966
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "BAR": {
@@ -151,6 +171,8 @@
             19.13969,
             110.455772
         ],
+        "province": "\u6d77\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "BAV": {
@@ -165,6 +187,8 @@
             40.55999,
             109.996902
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "BFJ": {
@@ -179,6 +203,8 @@
             27.300278,
             105.301392
         ],
+        "province": "\u8d35\u5dde",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "BHY": {
@@ -193,6 +219,8 @@
             21.53944,
             109.2938
         ],
+        "province": "\u5e7f\u897f",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "BPE": {
@@ -207,6 +235,8 @@
             39.666389,
             119.058891
         ],
+        "province": "\u6cb3\u5317",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "BPL": {
@@ -221,6 +251,8 @@
             44.895,
             82.299721
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "BPX": {
@@ -235,6 +267,8 @@
             30.55361,
             97.10833
         ],
+        "province": "\u897f\u85cf",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "BSD": {
@@ -249,6 +283,8 @@
             25.055182,
             99.16143
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "BZX": {
@@ -263,6 +299,8 @@
             31.738056,
             106.64389
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "CAN": {
@@ -277,6 +315,8 @@
             23.392429,
             113.298698
         ],
+        "province": "\u5e7f\u4e1c",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "CDE": {
@@ -291,6 +331,8 @@
             41.122501,
             118.073891
         ],
+        "province": "\u6cb3\u5317",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "CGD": {
@@ -305,6 +347,8 @@
             28.91888,
             111.640198
         ],
+        "province": "\u6e56\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "CGO": {
@@ -319,6 +363,8 @@
             34.519669,
             113.840797
         ],
+        "province": "\u6cb3\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "CGQ": {
@@ -333,6 +379,8 @@
             43.996208,
             125.685303
         ],
+        "province": "\u5409\u6797",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "CHG": {
@@ -347,6 +395,8 @@
             41.538101,
             120.434998
         ],
+        "province": "\u8fbd\u5b81",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "CIF": {
@@ -361,6 +411,8 @@
             42.235001,
             118.908302
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "CIH": {
@@ -375,6 +427,8 @@
             36.247501,
             113.125801
         ],
+        "province": "\u5c71\u897f",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "CKG": {
@@ -389,6 +443,8 @@
             29.71921,
             106.641602
         ],
+        "province": "\u91cd\u5e86",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "CNI": {
@@ -403,6 +459,8 @@
             39.268055,
             122.670277
         ],
+        "province": "\u8fbd\u5b81",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "CSX": {
@@ -417,6 +475,8 @@
             28.196667,
             113.220833
         ],
+        "province": "\u6e56\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "CTU": {
@@ -431,6 +491,8 @@
             30.57852,
             103.946999
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "CWJ": {
@@ -445,6 +507,8 @@
             23.273478,
             99.369987
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "CYI": {
@@ -459,6 +523,8 @@
             23.461769,
             120.392799
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "CZX": {
@@ -473,6 +539,8 @@
             31.91972,
             119.778603
         ],
+        "province": "\u6c5f\u82cf",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "DAT": {
@@ -487,6 +555,8 @@
             40.055538,
             113.481361
         ],
+        "province": "\u5c71\u897f",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "DAX": {
@@ -501,6 +571,8 @@
             31.135012,
             107.426888
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "DBC": {
@@ -515,6 +587,8 @@
             45.50528,
             123.019722
         ],
+        "province": "\u5409\u6797",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "DCY": {
@@ -529,6 +603,8 @@
             29.323055,
             100.053329
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "DDG": {
@@ -543,6 +619,8 @@
             40.025551,
             124.286598
         ],
+        "province": "\u8fbd\u5b81",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "DIG": {
@@ -557,6 +635,8 @@
             27.793333,
             99.67733
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "DLC": {
@@ -571,6 +651,8 @@
             38.96566,
             121.538597
         ],
+        "province": "\u8fbd\u5b81",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "DLU": {
@@ -585,6 +667,8 @@
             25.649401,
             100.319
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "DNH": {
@@ -599,6 +683,8 @@
             40.16111,
             94.809158
         ],
+        "province": "\u7518\u8083",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "DOY": {
@@ -613,6 +699,8 @@
             37.510277,
             118.784447
         ],
+        "province": "\u5c71\u4e1c",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "DQA": {
@@ -627,6 +715,8 @@
             46.748684,
             125.139725
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "DSN": {
@@ -641,6 +731,8 @@
             39.493889,
             109.862221
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "DTU": {
@@ -655,6 +747,8 @@
             48.440556,
             126.127777
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "DYG": {
@@ -669,6 +763,8 @@
             29.107121,
             110.445686
         ],
+        "province": "\u6e56\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "EJN": {
@@ -683,6 +779,8 @@
             42.015556,
             101.000557
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "ENH": {
@@ -697,6 +795,8 @@
             30.320278,
             109.485001
         ],
+        "province": "\u6e56\u5317",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "ENY": {
@@ -711,6 +811,8 @@
             36.636902,
             109.554001
         ],
+        "province": "\u9655\u897f",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "ERL": {
@@ -725,6 +827,8 @@
             43.422501,
             112.096664
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "FOC": {
@@ -739,6 +843,8 @@
             25.935061,
             119.6632
         ],
+        "province": "\u798f\u5efa",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "FUG": {
@@ -753,6 +859,8 @@
             32.882156,
             115.734367
         ],
+        "province": "\u5b89\u5fbd",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "FUO": {
@@ -767,6 +875,8 @@
             23.0825,
             113.070831
         ],
+        "province": "\u5e7f\u4e1c",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "FYJ": {
@@ -781,6 +891,8 @@
             48.199493,
             134.36644
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "FYN": {
@@ -795,6 +907,8 @@
             46.801109,
             89.53833
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "GMQ": {
@@ -809,6 +923,8 @@
             34.415833,
             100.311111
         ],
+        "province": "\u9752\u6d77",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "GNI": {
@@ -823,6 +939,8 @@
             22.6739,
             121.466003
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "GOQ": {
@@ -837,6 +955,8 @@
             36.4006,
             94.786102
         ],
+        "province": "\u9752\u6d77",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "GXH": {
@@ -851,6 +971,8 @@
             34.810555,
             102.644722
         ],
+        "province": "\u7518\u8083",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "GYS": {
@@ -865,6 +987,8 @@
             32.389999,
             105.693336
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "GYU": {
@@ -879,6 +1003,8 @@
             36.07,
             106.209999
         ],
+        "province": "\u5b81\u590f",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "GZG": {
@@ -893,6 +1019,8 @@
             31.755,
             99.55361
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "HAK": {
@@ -907,6 +1035,8 @@
             19.934851,
             110.4589
         ],
+        "province": "\u6d77\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "HBQ": {
@@ -921,6 +1051,8 @@
             38.008331,
             100.640831
         ],
+        "province": "\u9752\u6d77",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HCJ": {
@@ -935,6 +1067,8 @@
             24.78389,
             107.699722
         ],
+        "province": "\u5e7f\u897f",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "HDG": {
@@ -949,6 +1083,8 @@
             36.523888,
             114.43
         ],
+        "province": "\u6cb3\u5317",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HEK": {
@@ -963,6 +1099,8 @@
             50.171619,
             127.308884
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HET": {
@@ -977,6 +1115,8 @@
             40.851421,
             111.824097
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HFE": {
@@ -991,6 +1131,8 @@
             31.986345,
             116.970474
         ],
+        "province": "\u5b89\u5fbd",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "HGH": {
@@ -1005,6 +1147,8 @@
             30.2295,
             120.434402
         ],
+        "province": "\u6d59\u6c5f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "HHP": {
@@ -1019,6 +1163,8 @@
             22.289371,
             114.152153
         ],
+        "province": "\u9999\u6e2f",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Hong_Kong"
     },
     "HIA": {
@@ -1033,6 +1179,8 @@
             33.777222,
             119.147781
         ],
+        "province": "\u6c5f\u82cf",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "HJJ": {
@@ -1047,6 +1195,8 @@
             27.441389,
             109.699722
         ],
+        "province": "\u6e56\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "HKG": {
@@ -1061,6 +1211,8 @@
             22.309616,
             113.916237
         ],
+        "province": "\u9999\u6e2f",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Hong_Kong"
     },
     "HLD": {
@@ -1075,6 +1227,8 @@
             49.20499,
             119.824997
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HLH": {
@@ -1089,6 +1243,8 @@
             46.194439,
             122.008598
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HMI": {
@@ -1103,6 +1259,8 @@
             42.842499,
             93.669441
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HNY": {
@@ -1117,6 +1275,8 @@
             26.721945,
             112.618057
         ],
+        "province": "\u6e56\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "HPG": {
@@ -1131,6 +1291,8 @@
             31.633612,
             110.338058
         ],
+        "province": "\u6e56\u5317",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "HRB": {
@@ -1145,6 +1307,8 @@
             45.623402,
             126.250298
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HSN": {
@@ -1159,6 +1323,8 @@
             29.9342,
             122.362
         ],
+        "province": "\u6d59\u6c5f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "HTN": {
@@ -1173,6 +1339,8 @@
             37.038521,
             79.864929
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HTT": {
@@ -1187,6 +1355,8 @@
             38.256275,
             90.830353
         ],
+        "province": "\u9752\u6d77",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HTW": {
@@ -1201,6 +1371,8 @@
             22.041099,
             120.730003
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "HUN": {
@@ -1215,6 +1387,8 @@
             24.02372,
             121.616898
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "HUO": {
@@ -1229,6 +1403,8 @@
             47.316666,
             123.916664
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HUZ": {
@@ -1243,6 +1419,8 @@
             23.050419,
             114.596863
         ],
+        "province": "\u5e7f\u4e1c",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "HXD": {
@@ -1257,6 +1435,8 @@
             37.125,
             97.268608
         ],
+        "province": "\u9752\u6d77",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HYN": {
@@ -1271,6 +1451,8 @@
             28.56222,
             121.428596
         ],
+        "province": "\u6d59\u6c5f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "HZG": {
@@ -1285,6 +1467,8 @@
             33.063599,
             107.008003
         ],
+        "province": "\u9655\u897f",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "HZH": {
@@ -1299,6 +1483,8 @@
             26.320213,
             109.153809
         ],
+        "province": "\u8d35\u5dde",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "INC": {
@@ -1313,6 +1499,8 @@
             38.322769,
             106.393303
         ],
+        "province": "\u5b81\u590f",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "IQM": {
@@ -1327,6 +1515,8 @@
             38.149399,
             85.532799
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "IQN": {
@@ -1341,6 +1531,8 @@
             35.799702,
             107.602997
         ],
+        "province": "\u7518\u8083",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "JDZ": {
@@ -1355,6 +1547,8 @@
             29.33861,
             117.175797
         ],
+        "province": "\u6c5f\u897f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "JGD": {
@@ -1369,6 +1563,8 @@
             50.371387,
             124.1175
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "JGN": {
@@ -1383,11 +1579,13 @@
             39.830002,
             98.410004
         ],
+        "province": "\u7518\u8083",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "JGS": {
         "IATA": "JGS",
-        "ICAO": "ZSJA",
+        "ICAO": "ZSGS",
         "city": "\u5409\u5b89",
         "city_en": "Ji'an",
         "country": "CN",
@@ -1397,6 +1595,8 @@
             26.899721,
             114.737503
         ],
+        "province": "\u6c5f\u897f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "JHG": {
@@ -1411,6 +1611,8 @@
             21.973421,
             100.766457
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "JIC": {
@@ -1425,6 +1627,8 @@
             38.541943,
             102.347778
         ],
+        "province": "\u7518\u8083",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "JIQ": {
@@ -1439,6 +1643,8 @@
             29.5175,
             108.82917
         ],
+        "province": "\u91cd\u5e86",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "JJN": {
@@ -1453,6 +1659,8 @@
             24.802809,
             118.587296
         ],
+        "province": "\u798f\u5efa",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "JMJ": {
@@ -1467,6 +1675,8 @@
             22.415833,
             99.786392
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "JMU": {
@@ -1481,6 +1691,8 @@
             46.845394,
             130.455414
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "JNG": {
@@ -1495,6 +1707,8 @@
             35.290001,
             116.339996
         ],
+        "province": "\u5c71\u4e1c",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "JNZ": {
@@ -1509,6 +1723,8 @@
             40.936111,
             121.276947
         ],
+        "province": "\u8fbd\u5b81",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "JSJ": {
@@ -1523,6 +1739,8 @@
             47.108055,
             132.656387
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "JUH": {
@@ -1537,6 +1755,8 @@
             30.740278,
             117.686668
         ],
+        "province": "\u5b89\u5fbd",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "JUZ": {
@@ -1551,6 +1771,8 @@
             28.965799,
             118.899002
         ],
+        "province": "\u6d59\u6c5f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "JXA": {
@@ -1565,6 +1787,8 @@
             45.306084,
             130.99675
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "JZH": {
@@ -1579,6 +1803,8 @@
             32.856667,
             103.68306
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "KCA": {
@@ -1593,6 +1819,8 @@
             41.718056,
             82.986946
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "KGT": {
@@ -1607,6 +1835,8 @@
             30.13176,
             101.747536
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "KHG": {
@@ -1621,6 +1851,8 @@
             39.542919,
             76.019951
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "KHH": {
@@ -1635,6 +1867,8 @@
             22.577089,
             120.349998
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "KHN": {
@@ -1649,6 +1883,8 @@
             28.865,
             115.900002
         ],
+        "province": "\u6c5f\u897f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "KJH": {
@@ -1663,6 +1899,8 @@
             26.974167,
             107.980553
         ],
+        "province": "\u8d35\u5dde",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "KJI": {
@@ -1677,6 +1915,8 @@
             48.221111,
             86.998055
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "KMG": {
@@ -1691,6 +1931,8 @@
             25.101944,
             102.929169
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "KNH": {
@@ -1705,6 +1947,8 @@
             24.427891,
             118.3591
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "KOW": {
@@ -1719,6 +1963,8 @@
             25.851667,
             114.776665
         ],
+        "province": "\u6c5f\u897f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "KRL": {
@@ -1733,6 +1979,8 @@
             41.689999,
             86.120003
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "KRY": {
@@ -1747,6 +1995,8 @@
             45.466389,
             84.952499
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "KWE": {
@@ -1761,6 +2011,8 @@
             26.538521,
             106.800697
         ],
+        "province": "\u8d35\u5dde",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "KWL": {
@@ -1775,6 +2027,8 @@
             25.2181,
             110.039101
         ],
+        "province": "\u5e7f\u897f",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "KYD": {
@@ -1789,6 +2043,8 @@
             22.027,
             121.535003
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "LCX": {
@@ -1803,6 +2059,8 @@
             25.6747,
             116.747002
         ],
+        "province": "\u798f\u5efa",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "LDS": {
@@ -1817,6 +2075,8 @@
             47.751827,
             129.01799
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "LFQ": {
@@ -1831,6 +2091,8 @@
             36.131668,
             111.658058
         ],
+        "province": "\u5c71\u897f",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "LHW": {
@@ -1845,6 +2107,8 @@
             36.51524,
             103.620697
         ],
+        "province": "\u7518\u8083",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "LJG": {
@@ -1859,6 +2123,8 @@
             26.683332,
             100.25
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "LLB": {
@@ -1873,6 +2139,8 @@
             25.452499,
             107.96167
         ],
+        "province": "\u8d35\u5dde",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "LLF": {
@@ -1887,6 +2155,8 @@
             26.341111,
             111.617777
         ],
+        "province": "\u6e56\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "LLV": {
@@ -1901,6 +2171,8 @@
             37.683334,
             111.142776
         ],
+        "province": "\u5c71\u897f",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "LNJ": {
@@ -1915,6 +2187,8 @@
             23.738333,
             100.025002
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "LNL": {
@@ -1929,6 +2203,8 @@
             33.787998,
             105.796997
         ],
+        "province": "\u7518\u8083",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "LPF": {
@@ -1943,6 +2219,8 @@
             26.609417,
             104.978996
         ],
+        "province": "\u8d35\u5dde",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "LUM": {
@@ -1957,6 +2235,8 @@
             24.405279,
             98.531898
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "LXA": {
@@ -1971,6 +2251,8 @@
             29.29777,
             90.911942
         ],
+        "province": "\u897f\u85cf",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "LYA": {
@@ -1985,6 +2267,8 @@
             34.741112,
             112.388298
         ],
+        "province": "\u6cb3\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "LYG": {
@@ -1999,6 +2283,8 @@
             34.571659,
             118.873596
         ],
+        "province": "\u6c5f\u82cf",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "LYI": {
@@ -2013,6 +2299,8 @@
             35.046112,
             118.411667
         ],
+        "province": "\u5c71\u4e1c",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "LZH": {
@@ -2027,6 +2315,8 @@
             24.2075,
             109.391098
         ],
+        "province": "\u5e7f\u897f",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "LZN": {
@@ -2041,6 +2331,8 @@
             26.1597,
             119.958397
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "LZO": {
@@ -2055,6 +2347,8 @@
             29.030001,
             105.470001
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "LZY": {
@@ -2069,6 +2363,8 @@
             29.309076,
             94.335884
         ],
+        "province": "\u897f\u85cf",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "MDG": {
@@ -2083,6 +2379,8 @@
             44.52,
             129.559998
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "MFK": {
@@ -2097,6 +2395,8 @@
             26.223888,
             120.002502
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "MFM": {
@@ -2111,6 +2411,8 @@
             22.149549,
             113.591499
         ],
+        "province": "\u6fb3\u95e8",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Macau"
     },
     "MIG": {
@@ -2125,6 +2427,8 @@
             31.43111,
             104.738052
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "MXZ": {
@@ -2139,6 +2443,8 @@
             24.268999,
             116.103996
         ],
+        "province": "\u5e7f\u4e1c",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "MZG": {
@@ -2153,6 +2459,8 @@
             23.568661,
             119.628304
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "NAO": {
@@ -2167,6 +2475,8 @@
             30.793888,
             106.159721
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "NAY": {
@@ -2181,6 +2491,8 @@
             39.781111,
             116.386666
         ],
+        "province": "\u5317\u4eac",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "NBS": {
@@ -2195,6 +2507,8 @@
             42.088055,
             127.548889
         ],
+        "province": "\u5409\u6797",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "NDG": {
@@ -2209,6 +2523,8 @@
             47.316666,
             123.916664
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "NGB": {
@@ -2223,6 +2539,8 @@
             29.826679,
             121.461899
         ],
+        "province": "\u6d59\u6c5f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "NGQ": {
@@ -2237,6 +2555,8 @@
             32.103817,
             80.054276
         ],
+        "province": "\u897f\u85cf",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "NKG": {
@@ -2251,6 +2571,8 @@
             31.742041,
             118.862
         ],
+        "province": "\u6c5f\u82cf",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "NLH": {
@@ -2265,6 +2587,8 @@
             27.542559,
             100.759323
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "NLT": {
@@ -2279,6 +2603,8 @@
             43.43222,
             83.382225
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "NNG": {
@@ -2293,6 +2619,8 @@
             22.608259,
             108.172401
         ],
+        "province": "\u5e7f\u897f",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "NNY": {
@@ -2307,6 +2635,8 @@
             32.98,
             112.610001
         ],
+        "province": "\u6cb3\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "NTG": {
@@ -2321,6 +2651,8 @@
             32.072922,
             120.975601
         ],
+        "province": "\u6c5f\u82cf",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "NZH": {
@@ -2335,6 +2667,8 @@
             49.560001,
             117.32
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "NZL": {
@@ -2349,6 +2683,8 @@
             47.869061,
             122.76841
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "OHE": {
@@ -2363,6 +2699,8 @@
             52.921131,
             122.420593
         ],
+        "province": "\u9ed1\u9f99\u6c5f",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "PEK": {
@@ -2377,6 +2715,8 @@
             40.084152,
             116.592735
         ],
+        "province": "\u5317\u4eac",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "PIF": {
@@ -2391,6 +2731,8 @@
             22.700199,
             120.482002
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "PKX": {
@@ -2405,6 +2747,8 @@
             39.509167,
             116.410553
         ],
+        "province": "\u5317\u4eac",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "PVG": {
@@ -2419,6 +2763,8 @@
             31.14337,
             121.805199
         ],
+        "province": "\u4e0a\u6d77",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "PZI": {
@@ -2433,6 +2779,8 @@
             26.542315,
             101.798515
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "QSZ": {
@@ -2447,6 +2795,8 @@
             38.244999,
             77.059998
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "RHT": {
@@ -2461,6 +2811,8 @@
             39.213387,
             101.644318
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "RIZ": {
@@ -2475,6 +2827,8 @@
             35.399723,
             119.316666
         ],
+        "province": "\u5c71\u4e1c",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "RKZ": {
@@ -2489,6 +2843,8 @@
             29.351944,
             89.309998
         ],
+        "province": "\u897f\u85cf",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "RLK": {
@@ -2503,6 +2859,8 @@
             40.926388,
             107.738892
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "RMQ": {
@@ -2517,6 +2875,8 @@
             24.26466,
             120.620499
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "RQA": {
@@ -2531,6 +2891,8 @@
             38.974724,
             88.008331
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "SHA": {
@@ -2545,6 +2907,8 @@
             31.19787,
             121.336304
         ],
+        "province": "\u4e0a\u6d77",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "SHE": {
@@ -2559,6 +2923,8 @@
             41.639839,
             123.483398
         ],
+        "province": "\u8fbd\u5b81",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "SHF": {
@@ -2573,6 +2939,8 @@
             44.241669,
             85.891113
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "SJW": {
@@ -2587,6 +2955,8 @@
             38.274376,
             114.694427
         ],
+        "province": "\u6cb3\u5317",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "SQD": {
@@ -2601,6 +2971,8 @@
             28.39212,
             117.961327
         ],
+        "province": "\u6c5f\u897f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "SQJ": {
@@ -2615,6 +2987,8 @@
             26.428211,
             117.836914
         ],
+        "province": "\u798f\u5efa",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "SWA": {
@@ -2629,6 +3003,8 @@
             23.5525,
             116.505836
         ],
+        "province": "\u5e7f\u4e1c",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "SYM": {
@@ -2643,6 +3019,8 @@
             22.79657,
             100.962219
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "SYX": {
@@ -2657,6 +3035,8 @@
             18.302891,
             109.412201
         ],
+        "province": "\u6d77\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "SZX": {
@@ -2671,6 +3051,8 @@
             22.63925,
             113.8106
         ],
+        "province": "\u5e7f\u4e1c",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "TAO": {
@@ -2685,6 +3067,8 @@
             36.266102,
             120.374397
         ],
+        "province": "\u5c71\u4e1c",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "TCG": {
@@ -2699,6 +3083,8 @@
             46.666668,
             83.333336
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "TCZ": {
@@ -2713,6 +3099,8 @@
             24.939379,
             98.482025
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "TEN": {
@@ -2727,6 +3115,8 @@
             27.883333,
             109.308891
         ],
+        "province": "\u8d35\u5dde",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "TGO": {
@@ -2741,6 +3131,8 @@
             43.55666,
             122.199699
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "THQ": {
@@ -2755,6 +3147,8 @@
             34.558334,
             105.861115
         ],
+        "province": "\u7518\u8083",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "TLQ": {
@@ -2769,6 +3163,8 @@
             43.019962,
             89.074547
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "TNA": {
@@ -2783,6 +3179,8 @@
             36.857208,
             117.215897
         ],
+        "province": "\u5c71\u4e1c",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "TNH": {
@@ -2797,6 +3195,8 @@
             42.253887,
             125.703331
         ],
+        "province": "\u5409\u6797",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "TNN": {
@@ -2811,6 +3211,8 @@
             22.950359,
             120.205704
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "TPE": {
@@ -2825,6 +3227,8 @@
             25.07773,
             121.232803
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "TSA": {
@@ -2839,6 +3243,8 @@
             25.069719,
             121.552498
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "TSN": {
@@ -2853,6 +3259,8 @@
             39.124352,
             117.3461
         ],
+        "province": "\u5929\u6d25",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "TTT": {
@@ -2867,6 +3275,8 @@
             22.75498,
             121.101601
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "TVS": {
@@ -2881,6 +3291,8 @@
             39.718784,
             117.99791
         ],
+        "province": "\u6cb3\u5317",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "TWC": {
@@ -2895,6 +3307,8 @@
             39.888332,
             79.234451
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "TXN": {
@@ -2909,6 +3323,8 @@
             29.73333,
             118.255798
         ],
+        "province": "\u5b89\u5fbd",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "TYN": {
@@ -2923,6 +3339,8 @@
             37.746891,
             112.628403
         ],
+        "province": "\u5c71\u897f",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "UCB": {
@@ -2937,6 +3355,8 @@
             41.129723,
             113.108055
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "URC": {
@@ -2951,6 +3371,8 @@
             43.907101,
             87.474243
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "UYN": {
@@ -2965,6 +3387,8 @@
             38.274166,
             109.730278
         ],
+        "province": "\u9655\u897f",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "WDS": {
@@ -2979,6 +3403,8 @@
             32.591667,
             110.907776
         ],
+        "province": "\u6e56\u5317",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "WEF": {
@@ -2993,6 +3419,8 @@
             36.646702,
             119.119003
         ],
+        "province": "\u5c71\u4e1c",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "WEH": {
@@ -3007,6 +3435,8 @@
             37.188141,
             122.236069
         ],
+        "province": "\u5c71\u4e1c",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "WGN": {
@@ -3021,6 +3451,8 @@
             26.802,
             110.641998
         ],
+        "province": "\u6e56\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "WMT": {
@@ -3035,6 +3467,8 @@
             27.81638,
             106.33268
         ],
+        "province": "\u8d35\u5dde",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "WNH": {
@@ -3049,6 +3483,8 @@
             23.374907,
             104.242561
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "WNZ": {
@@ -3063,6 +3499,8 @@
             27.91222,
             120.851898
         ],
+        "province": "\u6d59\u6c5f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "WOT": {
@@ -3077,6 +3515,8 @@
             23.367372,
             119.502777
         ],
+        "province": "\u53f0\u6e7e",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Taipei"
     },
     "WSK": {
@@ -3091,6 +3531,8 @@
             31.06889,
             109.709167
         ],
+        "province": "\u91cd\u5e86",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "WUA": {
@@ -3105,6 +3547,8 @@
             39.791943,
             106.803329
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "WUH": {
@@ -3119,6 +3563,8 @@
             30.783751,
             114.208099
         ],
+        "province": "\u6e56\u5317",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "WUS": {
@@ -3133,6 +3579,8 @@
             27.716667,
             117.966667
         ],
+        "province": "\u798f\u5efa",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "WUT": {
@@ -3147,6 +3595,8 @@
             38.599167,
             112.967781
         ],
+        "province": "\u5c71\u897f",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "WUX": {
@@ -3161,6 +3611,8 @@
             31.492889,
             120.424377
         ],
+        "province": "\u6c5f\u82cf",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "WUZ": {
@@ -3175,6 +3627,8 @@
             23.40356,
             111.099651
         ],
+        "province": "\u5e7f\u897f",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "WXN": {
@@ -3189,6 +3643,8 @@
             30.799679,
             108.426949
         ],
+        "province": "\u91cd\u5e86",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "XAI": {
@@ -3203,6 +3659,8 @@
             32.541389,
             114.077782
         ],
+        "province": "\u6cb3\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "XFN": {
@@ -3217,6 +3675,8 @@
             32.150551,
             112.290802
         ],
+        "province": "\u6e56\u5317",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "XIC": {
@@ -3231,6 +3691,8 @@
             27.98908,
             102.184303
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "XIL": {
@@ -3245,6 +3707,8 @@
             43.91555,
             115.963799
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "XIY": {
@@ -3259,6 +3723,8 @@
             34.447109,
             108.751503
         ],
+        "province": "\u9655\u897f",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "XMN": {
@@ -3273,6 +3739,8 @@
             24.544029,
             118.127701
         ],
+        "province": "\u798f\u5efa",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "XNN": {
@@ -3287,6 +3755,8 @@
             36.525322,
             102.037537
         ],
+        "province": "\u9752\u6d77",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "XUZ": {
@@ -3301,6 +3771,8 @@
             34.052925,
             117.554077
         ],
+        "province": "\u6c5f\u82cf",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "XYI": {
@@ -3315,6 +3787,8 @@
             16.83278,
             112.34444
         ],
+        "province": "\u6d77\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "YBP": {
@@ -3329,6 +3803,8 @@
             28.797659,
             104.543953
         ],
+        "province": "\u56db\u5ddd",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "YCU": {
@@ -3343,6 +3819,8 @@
             35.116669,
             111.039719
         ],
+        "province": "\u5c71\u897f",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "YIC": {
@@ -3357,6 +3835,8 @@
             27.803333,
             114.30806
         ],
+        "province": "\u6c5f\u897f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "YIE": {
@@ -3371,6 +3851,8 @@
             47.310555,
             119.911942
         ],
+        "province": "\u5185\u8499\u53e4",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "YIH": {
@@ -3385,6 +3867,8 @@
             30.556473,
             111.479942
         ],
+        "province": "\u6e56\u5317",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "YIN": {
@@ -3399,6 +3883,8 @@
             43.955833,
             81.330276
         ],
+        "province": "\u65b0\u7586",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "YIW": {
@@ -3413,6 +3899,8 @@
             29.344563,
             120.028809
         ],
+        "province": "\u6d59\u6c5f",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "YKH": {
@@ -3427,6 +3915,8 @@
             40.540833,
             122.35833
         ],
+        "province": "\u8fbd\u5b81",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "YNJ": {
@@ -3441,6 +3931,8 @@
             42.885662,
             129.439362
         ],
+        "province": "\u5409\u6797",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "YNT": {
@@ -3455,6 +3947,8 @@
             37.657223,
             120.987221
         ],
+        "province": "\u5c71\u4e1c",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "YNZ": {
@@ -3469,6 +3963,8 @@
             33.385555,
             120.125275
         ],
+        "province": "\u6c5f\u82cf",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "YSQ": {
@@ -3483,6 +3979,8 @@
             44.930561,
             124.550827
         ],
+        "province": "\u5409\u6797",
+        "region": "\u4e1c\u5317",
         "timezone": "Asia/Shanghai"
     },
     "YTY": {
@@ -3497,6 +3995,8 @@
             32.563057,
             119.718887
         ],
+        "province": "\u6c5f\u82cf",
+        "region": "\u534e\u4e1c",
         "timezone": "Asia/Shanghai"
     },
     "YUS": {
@@ -3511,6 +4011,8 @@
             32.839466,
             97.037788
         ],
+        "province": "\u9752\u6d77",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "YYA": {
@@ -3525,6 +4027,8 @@
             29.312778,
             113.28167
         ],
+        "province": "\u6e56\u5357",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "YZY": {
@@ -3539,6 +4043,8 @@
             38.801945,
             100.675003
         ],
+        "province": "\u7518\u8083",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "ZAT": {
@@ -3553,6 +4059,8 @@
             27.316668,
             103.800003
         ],
+        "province": "\u4e91\u5357",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     },
     "ZHA": {
@@ -3567,6 +4075,8 @@
             21.214439,
             110.358299
         ],
+        "province": "\u5e7f\u4e1c",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "ZHY": {
@@ -3581,6 +4091,8 @@
             37.568935,
             105.152527
         ],
+        "province": "\u5b81\u590f",
+        "region": "\u897f\u5317",
         "timezone": "Asia/Shanghai"
     },
     "ZQZ": {
@@ -3595,6 +4107,8 @@
             40.739227,
             114.931458
         ],
+        "province": "\u6cb3\u5317",
+        "region": "\u534e\u5317",
         "timezone": "Asia/Shanghai"
     },
     "ZUH": {
@@ -3609,6 +4123,8 @@
             22.00666,
             113.376297
         ],
+        "province": "\u5e7f\u4e1c",
+        "region": "\u4e2d\u5357",
         "timezone": "Asia/Shanghai"
     },
     "ZYI": {
@@ -3623,6 +4139,8 @@
             27.59,
             106.999725
         ],
+        "province": "\u8d35\u5dde",
+        "region": "\u897f\u5357",
         "timezone": "Asia/Shanghai"
     }
 }

@@ -20,6 +20,10 @@ def msp(li, filename="../airports.json"):
             ],
             "timezone":  a['timezone']
         }
+        if 'province' in a:
+            v[a['IATA']]['province'] = a['province']
+        if 'region' in a:
+            v[a['IATA']]['region'] = a['region']
 
     with open(filename, "w", encoding="utf-8") as w:
         json.dump(
