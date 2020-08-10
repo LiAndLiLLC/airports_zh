@@ -66,7 +66,7 @@ FR,LFBD,BOD,Bordeaux,Bordeaux Merignac Airport,44.828609,-0.71527,Europe/Paris
 FR,LFBH,LRH,La Rochelle,La Rochelle Ile de Re Airport,46.179211,-1.19523,Europe/Paris
 FR,LFBI,PIS,Poitiers,Poitiers–Biard Airport,46.587502,0.306667,Europe/Paris
 FR,LFBL,LIG,Limoges,Limoges Bellegarde Airport,45.860828,1.180278,Europe/Paris
-FR,LFBO,TLS,Toulouse,Toulouse Blagnac Airport,43.634998,1.367778,Europe/Paris,图卢兹-布拉尼亚克机场,图卢兹
+FR,LFBO,TLS,Toulouse,Toulouse Blagnac Airport,43.634998,1.367778,Europe/Paris,图卢兹,图卢兹-布拉尼亚克机场
 FR,LFBP,PUF,Pau,Pau Pyrenees Airport,43.380001,-0.41861,Europe/Paris
 FR,LFBT,LDE,Tarbes,Tarbes-Lourdes-Pyrenees Airport,43.185551,-0.00277,Europe/Paris
 FR,LFBZ,BIQ,Biarritz,Biarritz Pays Basque Airport,43.46833,-1.53111,Europe/Paris
@@ -79,17 +79,17 @@ FR,LFKC,CLY,Calvi,Calvi Sainte-Catherine Airport,42.520359,8.793028,Europe/Paris
 FR,LFKF,FSC,Figari,Figari Sud-Corse Airport,41.50222,9.096667,Europe/Paris
 FR,LFKJ,AJA,Ajaccio,Ajaccio Napoleon Bonaparte Airport,41.923882,8.8025,Europe/Paris
 FR,LFLC,CFE,Clermont-Ferrand,Clermont-Ferrand Auvergne Airport,45.785831,3.1625,Europe/Paris
-FR,LFLL,LYS,Lyon,Lyon Saint Exupery Airport,45.719643,5.089108,Europe/Paris,里昂圣埃克絮佩里机场,里昂
+FR,LFLL,LYS,Lyon,Lyon Saint Exupery Airport,45.719643,5.089108,Europe/Paris,里昂,里昂圣埃克絮佩里机场
 FR,LFLW,AUR,Aurillac,Aurillac Tronquieres Airport,44.897579,2.416719,Europe/Paris
-FR,LFML,MRS,Marseille,Marseille Provence Airport,43.436661,5.215,Europe/Paris,马赛普罗旺斯机场,马赛
-FR,LFMN,NCE,Nice,Nice Cote d'Azur Airport,43.665272,7.215,Europe/Paris,尼斯蓝色海岸机场,尼斯
+FR,LFML,MRS,Marseille,Marseille Provence Airport,43.436661,5.215,Europe/Paris,马赛,马赛普罗旺斯机场
+FR,LFMN,NCE,Nice,Nice Cote d'Azur Airport,43.665272,7.215,Europe/Paris,尼斯,尼斯蓝色海岸机场
 FR,LFMP,PGF,Perpignan,Perpignan Rivesaltes Airport,42.740829,2.869722,Europe/Paris
-FR,LFMT,MPL,Montpellier,Montpellier Mediterranee Airport,43.583328,3.961389,Europe/Paris,蒙佩利埃地中海国际机场,蒙佩利埃
-FR,LFOB,BVA,Paris,Paris Beauvais-Tille Airport,49.454441,2.112778,Europe/Paris,博韋-蒂耶機場,巴黎
-FR,LFPG,CDG,Paris,Paris Charles de Gaulle Airport,49.012516,2.555752,Europe/Paris,巴黎夏尔·戴高乐机场,巴黎
-FR,LFPO,ORY,Paris,Paris Orly Airport,48.723331,2.379444,Europe/Paris,巴黎-奥利机场,巴黎
-FR,LFQQ,LIL,Lille,Lille Airport,50.563332,3.086944,Europe/Paris,里尔机场,里尔
-FR,LFRB,BES,Brest,Brest Bretagne Airport,48.44722,-4.42166,Europe/Paris,布雷斯特-布列塔尼機場,布雷斯特
+FR,LFMT,MPL,Montpellier,Montpellier Mediterranee Airport,43.583328,3.961389,Europe/Paris,蒙佩利埃,蒙佩利埃地中海国际机场
+FR,LFOB,BVA,Paris,Paris Beauvais-Tille Airport,49.454441,2.112778,Europe/Paris,巴黎,博韋-蒂耶機場
+FR,LFPG,CDG,Paris,Paris Charles de Gaulle Airport,49.012516,2.555752,Europe/Paris,巴黎,巴黎夏尔·戴高乐机场
+FR,LFPO,ORY,Paris,Paris Orly Airport,48.723331,2.379444,Europe/Paris,巴黎,巴黎-奥利机场
+FR,LFQQ,LIL,Lille,Lille Airport,50.563332,3.086944,Europe/Paris,里尔,里尔机场
+FR,LFRB,BES,Brest,Brest Bretagne Airport,48.44722,-4.42166,Europe/Paris,布雷斯特,布雷斯特-布列塔尼機場
 FR,LFRH,LRT,Lorient,Lorient South Brittany Airport,47.760529,-3.43995,Europe/Paris
 FR,LFRK,CFR,Caen,Caen Carpiquet Airport,49.173279,-0.44987,Europe/Paris
 FR,LFRN,RNS,Rennes,Rennes Saint-Jacques Airport,48.071941,-1.73222,Europe/Paris
@@ -98,7 +98,7 @@ FR,LFRS,NTE,Nantes,Nantes Atlantique Airport,47.15694,-1.60777,Europe/Paris
 FR,LFRZ,SNR,Saint Nazaire,Saint Nazaire Montoir Airport,47.310551,-2.15666,Europe/Paris
 FR,LFSB,BSL,Basel,Basel Mulhouse-Freiburg EuroAirport,47.5989,7.5283,Europe/Paris
 FR,LFSL,BVE,Brive,Brive Souillac Airport,45.040031,1.487762,Europe/Paris
-FR,LFST,SXB,Strasbourg,Strasbourg Airport,48.54361,7.637222,Europe/Paris,斯特拉斯堡国际机场,斯特拉斯堡
+FR,LFST,SXB,Strasbourg,Strasbourg Airport,48.54361,7.637222,Europe/Paris,斯特拉斯堡,斯特拉斯堡国际机场
 FR,LFTH,TLN,Toulon,Toulon-Hyeres Airport,43.09734,6.146031,Europe/Paris
 GB,EGAA,BFS,Belfast,Belfast International Airport,54.657501,-6.21583,Europe/London,贝尔法斯特,贝尔法斯特国际机场
 GB,EGAC,BHD,Belfast,Belfast City George Best  Airport,54.61805,-5.8725,Europe/London

@@ -28,9 +28,7 @@ def msp(li, filename="../airports.json"):
     with open(filename, "w", encoding="utf-8") as w:
         json.dump(
             v, w,
-            # separators=(',', ':'),
-            indent=4,
-            sort_keys=True,
+            separators=(',', ':'),
             # ensure_ascii=False
         )
 
