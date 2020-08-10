@@ -3,2324 +3,1703 @@
     "IATA": "3L",
     "ICAO": "ISK",
     "country": "AT",
-    "name": {
-      "en": "InterSky",
-      "zh-Hans": "InterSky航空"
-    }
+    "name": "InterSky航空",
+    "name_en": "InterSky"
   },
   "3U": {
     "IATA": "3U",
     "ICAO": "CSC",
     "country": "CN",
-    "name": {
-      "en": "Sichuan Airlines",
-      "zh-Hans": "四川航空"
-    }
+    "name": "四川航空",
+    "name_en": "Sichuan Airlines"
   },
   "3V": {
     "IATA": "3V",
     "ICAO": "TAY",
     "country": "BE",
-    "name": {
-      "en": "TNT Airways",
-      "zh-Hans": "TNT航空"
-    }
+    "name": "TNT航空",
+    "name_en": "TNT Airways"
   },
   "4D": {
     "IATA": "4D",
     "ICAO": "DSM",
     "country": "AR",
-    "name": {
-      "en": "LAN Argentina",
-      "zh-Hans": "LAN阿根廷航空"
-    }
+    "name": "LAN阿根廷航空",
+    "name_en": "LAN Argentina"
   },
   "4Z": {
     "IATA": "4Z",
     "ICAO": "LNK",
     "country": "ZA",
-    "name": {
-      "en": "Airlink",
-      "zh-Hans": "南非航空连结"
-    }
+    "name": "南非航空连结",
+    "name_en": "Airlink"
   },
   "5C": {
     "IATA": "5C",
     "ICAO": "ICL",
     "country": "IL",
-    "name": {
-      "en": "CAL Cargo Air Lines",
-      "zh-Hans": "CAL货运航空"
-    }
+    "name": "CAL货运航空",
+    "name_en": "CAL Cargo Air Lines"
   },
   "5N": {
     "IATA": "5N",
     "ICAO": "AUL",
     "country": "RU",
-    "name": {
-      "en": "Nordavia",
-      "zh-Hans": "北方航空"
-    }
+    "name": "北方航空",
+    "name_en": "Nordavia"
   },
   "5X": {
     "IATA": "5X",
     "ICAO": "UPS",
     "country": "US",
-    "name": {
-      "en": "UPS Airlines",
-      "zh-Hans": "UPS航空"
-    }
+    "name": "UPS航空",
+    "name_en": "UPS Airlines"
   },
   "5Y": {
     "IATA": "5Y",
     "ICAO": "GTI",
     "country": "US",
-    "name": {
-      "en": "Atlas Air",
-      "zh-Hans": "亚特拉斯航空"
-    }
+    "name": "亚特拉斯航空",
+    "name_en": "Atlas Air"
   },
   "6H": {
     "IATA": "6H",
     "ICAO": "ISR",
     "country": "IL",
-    "name": {
-      "en": "Israir",
-      "zh-Hans": "以斯雷航空"
-    }
+    "name": "以斯雷航空",
+    "name_en": "Israir"
   },
   "7I": {
     "IATA": "7I",
     "ICAO": "INC",
     "country": "荷属加勒比",
-    "name": {
-      "en": "Insel Air",
-      "zh-Hans": "因瑟尔航空"
-    }
+    "name": "因瑟尔航空",
+    "name_en": "Insel Air"
   },
   "8L": {
     "IATA": "8L",
     "ICAO": "LKE",
     "country": "CN",
-    "name": {
-      "en": "Lucky Air",
-      "zh-Hans": "祥鹏航空"
-    }
+    "name": "祥鹏航空",
+    "name_en": "Lucky Air"
   },
   "8Q": {
     "IATA": "8Q",
     "ICAO": "OHY",
     "country": "TR",
-    "name": {
-      "en": "Onur Air",
-      "zh-Hans": "荣誉航空"
-    }
+    "name": "荣誉航空",
+    "name_en": "Onur Air"
   },
   "8U": {
     "IATA": "8U",
     "ICAO": "AAW",
     "country": "LY",
-    "name": {
-      "en": "Afriqiyah Airways",
-      "zh-Hans": "泛非航空"
-    }
+    "name": "泛非航空",
+    "name_en": "Afriqiyah Airways"
   },
   "9C": {
     "IATA": "9C",
     "ICAO": "CQH",
-    "name": {
-      "en": "Spring Airlines",
-      "zh-Hans": "春秋航空"
-    }
+    "name": "春秋航空",
+    "name_en": "Spring Airlines"
   },
   "9H": {
     "IATA": "9H",
     "ICAO": "CGN",
-    "name": {
-      "en": "Air Chang'an",
-      "zh-Hans": "长安航空"
-    }
+    "name": "长安航空",
+    "name_en": "Air Chang'an"
   },
   "9U": {
     "IATA": "9U",
     "ICAO": "MLD",
     "country": "摩尔多瓦 摩尔多瓦",
-    "name": {
-      "en": "Air Moldova",
-      "zh-Hans": "摩尔多瓦航空"
-    }
+    "name": "摩尔多瓦航空",
+    "name_en": "Air Moldova"
   },
   "9W": {
     "IATA": "9W",
     "ICAO": "JAI",
     "country": "IN",
-    "name": {
-      "en": "Jet Airways",
-      "zh-Hans": "捷特航空"
-    }
+    "name": "捷特航空",
+    "name_en": "Jet Airways"
   },
   "A3": {
     "IATA": "A3",
     "ICAO": "AEE",
     "country": "GR",
-    "name": {
-      "en": "Aegean Airlines",
-      "zh-Hans": "爱琴海航空"
-    }
+    "name": "爱琴海航空",
+    "name_en": "Aegean Airlines"
   },
   "A9": {
     "IATA": "A9",
     "ICAO": "TGZ",
     "country": "GE",
-    "name": {
-      "en": "Georgian Airways",
-      "zh-Hans": "乔治亚航空"
-    }
+    "name": "乔治亚航空",
+    "name_en": "Georgian Airways"
   },
   "AA": {
     "IATA": "AA",
     "ICAO": "AAL",
-    "aka": {
-      "en": "American"
-    },
     "country": "US",
-    "name": {
-      "en": "American Airlines",
-      "zh-Hans": "美国航空"
-    }
+    "name": "美国航空",
+    "name_en": "American Airlines"
   },
   "AB": {
     "IATA": "AB",
     "ICAO": "BER",
     "country": "DE",
-    "name": {
-      "en": "airberlin",
-      "zh-Hans": "柏林航空"
-    }
+    "name": "柏林航空",
+    "name_en": "airberlin"
   },
   "AC": {
     "IATA": "AC",
     "ICAO": "ACA",
     "country": "CA",
-    "name": {
-      "en": "Air Canada",
-      "zh-Hans": "加拿大航空"
-    }
+    "name": "加拿大航空",
+    "name_en": "Air Canada"
   },
   "AD": {
     "IATA": "AD",
     "ICAO": "AZU",
     "country": "BR",
-    "name": {
-      "en": "AZUL Airlines",
-      "zh-Hans": "蓝色巴西航空"
-    }
+    "name": "蓝色巴西航空",
+    "name_en": "AZUL Airlines"
   },
   "AE": {
     "IATA": "AE",
     "ICAO": "MDA",
-    "aka": {
-      "en": "Mandarin"
-    },
     "country": "CN",
-    "name": {
-      "en": "Mandarin Airlines",
-      "zh-Hans": "华信航空"
-    }
+    "name": "华信航空",
+    "name_en": "Mandarin Airlines"
   },
   "AF": {
     "IATA": "AF",
     "ICAO": "AFR",
     "country": "FR",
-    "name": {
-      "en": "Air France",
-      "zh-Hans": "法国航空"
-    }
+    "name": "法国航空",
+    "name_en": "Air France"
   },
   "AH": {
     "IATA": "AH",
     "ICAO": "DAH",
     "country": "DZ",
-    "name": {
-      "en": "Air Algérie",
-      "zh-Hans": "阿尔及利亚航空"
-    }
+    "name": "阿尔及利亚航空",
+    "name_en": "Air Algérie"
   },
   "AI": {
     "IATA": "AI",
     "ICAO": "AIC",
     "country": "IN",
-    "name": {
-      "en": "Air India",
-      "zh-Hans": "印度航空"
-    }
+    "name": "印度航空",
+    "name_en": "Air India"
   },
   "AM": {
     "IATA": "AM",
     "ICAO": "AMA",
     "country": "MX",
-    "name": {
-      "en": "AeroMéxico",
-      "zh-Hans": "墨西哥国际航空"
-    }
+    "name": "墨西哥国际航空",
+    "name_en": "AeroMéxico"
   },
   "AP": {
     "IATA": "AP",
     "ICAO": "ADH",
     "country": "IT",
-    "name": {
-      "en": "Air One",
-      "zh-Hans": "一航空"
-    }
+    "name": "一航空",
+    "name_en": "Air One"
   },
   "AQ": {
     "IATA": "AQ",
     "ICAO": "JYH",
-    "name": {
-      "en": "9 Air",
-      "zh-Hans": "九元航空"
-    }
+    "name": "九元航空",
+    "name_en": "9 Air"
   },
   "AR": {
     "IATA": "AR",
     "ICAO": "ARG",
     "country": "AR",
-    "name": {
-      "en": "Aerolíneas Argentinas",
-      "zh-Hans": "阿根廷航空"
-    }
+    "name": "阿根廷航空",
+    "name_en": "Aerolíneas Argentinas"
   },
   "AS": {
     "IATA": "AS",
     "ICAO": "ASA",
-    "aka": {
-      "en": "Alaska"
-    },
     "country": "US",
-    "name": {
-      "en": "Alaska Airlines",
-      "zh-Hans": "阿拉斯加航空"
-    }
+    "name": "阿拉斯加航空",
+    "name_en": "Alaska Airlines"
   },
   "AT": {
     "IATA": "AT",
     "ICAO": "RAM",
     "country": "MA",
-    "name": {
-      "en": "Royal Air Maroc",
-      "zh-Hans": "摩洛哥皇家航空"
-    }
+    "name": "摩洛哥皇家航空",
+    "name_en": "Royal Air Maroc"
   },
   "AU": {
     "IATA": "AU",
     "ICAO": "AUT",
     "country": "AR",
-    "name": {
-      "en": "Austral Líneas Aéreas",
-      "zh-Hans": "阿根廷南方航空"
-    }
+    "name": "阿根廷南方航空",
+    "name_en": "Austral Líneas Aéreas"
   },
   "AV": {
     "IATA": "AV",
     "ICAO": "AVA",
     "country": "CO",
-    "name": {
-      "en": "Avianca",
-      "zh-Hans": "哥伦比亚航空"
-    }
+    "name": "哥伦比亚航空",
+    "name_en": "Avianca"
   },
   "AY": {
     "IATA": "AY",
     "ICAO": "FIN",
     "country": "FI",
-    "name": {
-      "en": "Finnair",
-      "zh-Hans": "芬兰航空"
-    }
+    "name": "芬兰航空",
+    "name_en": "Finnair"
   },
   "AZ": {
     "IATA": "AZ",
     "ICAO": "AZA",
     "country": "IT",
-    "name": {
-      "en": "Alitalia",
-      "zh-Hans": "意大利航空"
-    }
+    "name": "意大利航空",
+    "name_en": "Alitalia"
   },
   "B2": {
     "IATA": "B2",
     "ICAO": "BRU",
     "country": "BY",
-    "name": {
-      "en": "Belavia Belarusian Airlines",
-      "zh-Hans": "白俄罗斯航空"
-    }
+    "name": "白俄罗斯航空",
+    "name_en": "Belavia Belarusian Airlines"
   },
   "B6": {
     "IATA": "B6",
     "ICAO": "JBU",
-    "aka": {
-      "en": "JetBlue"
-    },
     "country": "US",
-    "name": {
-      "en": "JetBlue Airways",
-      "zh-Hans": "捷蓝航空"
-    }
+    "name": "捷蓝航空",
+    "name_en": "JetBlue Airways"
   },
   "BA": {
     "IATA": "BA",
     "ICAO": "BAW",
     "country": "GB",
-    "name": {
-      "en": "British Airways",
-      "zh-Hans": "英国航空"
-    }
+    "name": "英国航空",
+    "name_en": "British Airways"
   },
   "BD": {
     "IATA": "BD",
     "ICAO": "BMA",
     "country": "GB",
-    "name": {
-      "en": "BMI (British Midland International)",
-      "zh-Hans": "英伦航空"
-    }
+    "name": "英伦航空",
+    "name_en": "BMI (British Midland International)"
   },
   "BE": {
     "IATA": "BE",
     "ICAO": "BEE",
     "country": "GB",
-    "name": {
-      "en": "Flybe",
-      "zh-Hans": "弗莱比航空"
-    }
+    "name": "弗莱比航空",
+    "name_en": "Flybe"
   },
   "BG": {
     "IATA": "BG",
     "ICAO": "BBC",
     "country": "孟加拉国 孟加拉国",
-    "name": {
-      "en": "Biman Bangladesh Airlines",
-      "zh-Hans": "孟加拉航空"
-    }
+    "name": "孟加拉航空",
+    "name_en": "Biman Bangladesh Airlines"
   },
   "BI": {
     "IATA": "BI",
     "ICAO": "RBA",
-    "aka": {
-      "en": "Royal Brunei"
-    },
     "country": "BN",
-    "name": {
-      "en": "Royal Brunei Airlines",
-      "zh-Hans": "文莱皇家航空"
-    }
+    "name": "文莱皇家航空",
+    "name_en": "Royal Brunei Airlines"
   },
   "BJ": {
     "IATA": "BJ",
     "ICAO": "LBT",
     "country": "TN",
-    "name": {
-      "en": "Nouvelair",
-      "zh-Hans": "努维尔航空"
-    }
+    "name": "努维尔航空",
+    "name_en": "Nouvelair"
   },
   "BK": {
     "IATA": "BK",
     "ICAO": "OKA",
-    "name": {
-      "en": "Okay Airways",
-      "zh-Hans": "奥凯航空"
-    }
+    "name": "奥凯航空",
+    "name_en": "Okay Airways"
   },
   "BP": {
     "IATA": "BP",
     "ICAO": "BOT",
     "country": "BW",
-    "name": {
-      "en": "Air Botswana",
-      "zh-Hans": "博茨瓦纳航空"
-    }
+    "name": "博茨瓦纳航空",
+    "name_en": "Air Botswana"
   },
   "BR": {
     "IATA": "BR",
     "ICAO": "EVA",
-    "aka": {
-      "en": "EVA Air"
-    },
     "country": "CN",
-    "name": {
-      "en": "EVA Airways",
-      "zh-Hans": "长荣航空"
-    }
+    "name": "长荣航空",
+    "name_en": "EVA Airways"
   },
   "BT": {
     "IATA": "BT",
     "ICAO": "BTI",
     "country": "LV",
-    "name": {
-      "en": "airBaltic",
-      "zh-Hans": "波罗的海航空"
-    }
+    "name": "波罗的海航空",
+    "name_en": "airBaltic"
   },
   "BV": {
     "IATA": "BV",
     "ICAO": "BPA",
     "country": "IT",
-    "name": {
-      "en": "Blue Panorama Airlines",
-      "zh-Hans": "蓝景航空"
-    }
+    "name": "蓝景航空",
+    "name_en": "Blue Panorama Airlines"
   },
   "CA": {
     "IATA": "CA",
     "ICAO": "CCA",
     "country": "CN",
-    "name": {
-      "en": "Air China",
-      "zh-Hans": "中国国际航空"
-    }
+    "name": "中国国际航空",
+    "name_en": "Air China"
   },
   "CI": {
     "IATA": "CI",
     "ICAO": "CAL",
     "country": "CN",
-    "name": {
-      "en": "China Airlines",
-      "zh-Hans": "中华航空"
-    }
+    "name": "中华航空",
+    "name_en": "China Airlines"
   },
   "CK": {
     "IATA": "CK",
     "ICAO": "CKK",
     "country": "CN",
-    "name": {
-      "en": "China Cargo Airlines",
-      "zh-Hans": "中国货运航空"
-    }
+    "name": "中国货运航空",
+    "name_en": "China Cargo Airlines"
   },
   "CL": {
     "IATA": "CL",
     "ICAO": "CLH",
-    "aka": {
-      "en": "Lufthansa"
-    },
     "country": "DE",
-    "name": {
-      "en": "Lufthansa CityLine",
-      "zh-Hans": "汉莎城际航空"
-    }
+    "name": "汉莎城际航空",
+    "name_en": "Lufthansa CityLine"
   },
   "CM": {
     "IATA": "CM",
     "ICAO": "CMP",
     "country": "PA",
-    "name": {
-      "en": "Copa Airlines",
-      "zh-Hans": "巴拿马航空"
-    }
+    "name": "巴拿马航空",
+    "name_en": "Copa Airlines"
   },
   "CS": {
     "IATA": "CS",
     "ICAO": "CMI",
     "country": "GU",
-    "name": {
-      "en": "Continental Micronesia",
-      "zh-Hans": "密克罗尼西亚大陆航空"
-    }
+    "name": "密克罗尼西亚大陆航空",
+    "name_en": "Continental Micronesia"
   },
   "CU": {
     "IATA": "CU",
     "ICAO": "CUB",
     "country": "CU",
-    "name": {
-      "en": "Cubana de Aviación",
-      "zh-Hans": "古巴航空"
-    }
+    "name": "古巴航空",
+    "name_en": "Cubana de Aviación"
   },
   "CV": {
     "IATA": "CV",
     "ICAO": "CLX",
     "country": "LU",
-    "name": {
-      "en": "Cargolux Airlines International",
-      "zh-Hans": "卢森堡货运航空"
-    }
+    "name": "卢森堡货运航空",
+    "name_en": "Cargolux Airlines International"
   },
   "CX": {
     "IATA": "CX",
     "ICAO": "CPA",
-    "aka": {
-      "en": "Cathay Pacific"
-    },
     "country": "香港",
-    "name": {
-      "en": "Cathay Pacific Airways",
-      "zh-Hans": "国泰航空"
-    }
+    "name": "国泰航空",
+    "name_en": "Cathay Pacific"
   },
   "CY": {
     "IATA": "CY",
     "ICAO": "CYP",
     "country": "CY",
-    "name": {
-      "en": "Cyprus Airways",
-      "zh-Hans": "塞浦路斯航空"
-    }
+    "name": "塞浦路斯航空",
+    "name_en": "Cyprus Airways"
   },
   "CZ": {
     "IATA": "CZ",
     "ICAO": "CSN",
-    "aka": {
-      "en": "China Southern"
-    },
     "country": "CN",
-    "name": {
-      "en": "China Southern Airlines",
-      "zh-Hans": "中国南方航空"
-    }
+    "name": "中国南方航空",
+    "name_en": "China Southern Airlines"
   },
   "D0": {
     "IATA": "D0",
     "ICAO": "DHK",
     "country": "GB",
-    "name": {
-      "en": "DHL Air UK",
-      "zh-Hans": "DHL英国航空"
-    }
+    "name": "DHL英国航空",
+    "name_en": "DHL Air UK"
   },
   "D6": {
     "IATA": "D6",
     "ICAO": "ILN",
     "country": "ZA",
-    "name": {
-      "en": "Interair South Africa",
-      "zh-Hans": "国际空运南非"
-    }
+    "name": "国际空运南非",
+    "name_en": "Interair South Africa"
   },
   "D9": {
     "IATA": "D9",
     "ICAO": "DNV",
     "country": "RU",
-    "name": {
-      "en": "Donavia",
-      "zh-Hans": "多纳航空"
-    }
+    "name": "多纳航空",
+    "name_en": "Donavia"
   },
   "DE": {
     "IATA": "DE",
     "ICAO": "CFG",
-    "aka": {
-      "en": "Condor"
-    },
     "country": "DE",
-    "name": {
-      "en": "Condor Flugdienst",
-      "zh-Hans": "神鹰航空"
-    }
+    "name": "神鹰航空",
+    "name_en": "Condor"
   },
   "DL": {
     "IATA": "DL",
     "ICAO": "DAL",
-    "aka": {
-      "en": "Delta"
-    },
     "country": "US",
-    "name": {
-      "en": "Delt Air Lines",
-      "zh-Hans": "达美航空"
-    }
+    "name": "达美航空",
+    "name_en": "Delta Air Lines"
   },
   "DR": {
     "IATA": "DR",
     "ICAO": "RLH",
-    "name": {
-      "en": "Ruili Airlines",
-      "zh-Hans": "瑞丽航空"
-    }
+    "name": "瑞丽航空",
+    "name_en": "Ruili Airlines"
   },
   "DT": {
     "IATA": "DT",
     "ICAO": "DTA",
     "country": "AO",
-    "name": {
-      "en": "TAAG Angola Airlines",
-      "zh-Hans": "TAAG安哥拉航空"
-    }
+    "name": "TAAG安哥拉航空",
+    "name_en": "TAAG Angola Airlines"
   },
   "DZ": {
     "IATA": "DZ",
     "ICAO": "EPA",
-    "name": {
-      "en": "Donghai Airlines",
-      "zh-Hans": "东海航空"
-    }
+    "name": "东海航空",
+    "name_en": "Donghai Airlines"
   },
   "EI": {
     "IATA": "EI",
     "ICAO": "EIN",
     "country": "IE",
-    "name": {
-      "en": "Aer Lingus",
-      "zh-Hans": "爱尔兰航空"
-    }
+    "name": "爱尔兰航空",
+    "name_en": "Aer Lingus"
   },
   "EK": {
     "IATA": "EK",
     "ICAO": "UAE",
     "country": "AE",
-    "name": {
-      "en": "Emirates",
-      "zh-Hans": "阿联酋航空"
-    }
+    "name": "阿联酋航空",
+    "name_en": "Emirates"
   },
   "EP": {
     "IATA": "EP",
     "ICAO": "IRP",
     "country": "IR",
-    "name": {
-      "en": "Iran Aseman Airlines",
-      "zh-Hans": "伊朗奥赛玛航空"
-    }
+    "name": "伊朗奥赛玛航空",
+    "name_en": "Iran Aseman Airlines"
   },
   "EQ": {
     "IATA": "EQ",
     "ICAO": "TAE",
     "country": "EC",
-    "name": {
-      "en": "TAME",
-      "zh-Hans": "厄瓜多尔航空"
-    }
+    "name": "厄瓜多尔航空",
+    "name_en": "TAME"
   },
   "ET": {
     "IATA": "ET",
     "ICAO": "ETH",
-    "aka": {
-      "en": "Ethiopian"
-    },
     "country": "ET",
-    "name": {
-      "en": "Ethiopian Airlines",
-      "zh-Hans": "埃塞俄比亚航空"
-    }
+    "name": "埃塞俄比亚航空",
+    "name_en": "Ethiopian Airlines"
   },
   "EU": {
     "IATA": "EU",
     "ICAO": "UEA",
-    "name": {
-      "en": "Chengdu Airlines",
-      "zh-Hans": "成都航空"
-    }
+    "name": "成都航空",
+    "name_en": "Chengdu Airlines"
   },
   "EW": {
     "IATA": "EW",
     "ICAO": "EWG",
     "country": "DE",
-    "name": {
-      "en": "Eurowings",
-      "zh-Hans": "欧洲之翼"
-    }
+    "name": "欧洲之翼",
+    "name_en": "Eurowings"
   },
   "EY": {
     "IATA": "EY",
     "ICAO": "ETD",
-    "aka": {
-      "en": "Etihad"
-    },
     "country": "AE",
-    "name": {
-      "en": "Etihad Airways",
-      "zh-Hans": "阿提哈德航空"
-    }
+    "name": "阿提哈德航空",
+    "name_en": "Etihad Airways"
   },
   "FA": {
     "IATA": "FA",
     "ICAO": "SFR",
     "country": "ZA",
-    "name": {
-      "en": "Safair",
-      "zh-Hans": "萨法航空"
-    }
+    "name": "萨法航空",
+    "name_en": "Safair"
   },
   "FB": {
     "IATA": "FB",
     "ICAO": "LZB",
     "country": "BG",
-    "name": {
-      "en": "Bulgaria Air",
-      "zh-Hans": "保加利亚航空"
-    }
+    "name": "保加利亚航空",
+    "name_en": "Bulgaria Air"
   },
   "FH": {
     "IATA": "FH",
     "ICAO": "FHY",
     "country": "TR",
-    "name": {
-      "en": "Freebird Airlines",
-      "zh-Hans": "自由鸟航空"
-    }
+    "name": "自由鸟航空",
+    "name_en": "Freebird Airlines"
   },
   "FI": {
     "IATA": "FI",
     "ICAO": "ICE",
     "country": "IS",
-    "name": {
-      "en": "Icelandair",
-      "zh-Hans": "冰岛航空"
-    }
+    "name": "冰岛航空",
+    "name_en": "Icelandair"
   },
   "FJ": {
     "IATA": "FJ",
     "ICAO": "FJI",
     "country": "FJ",
-    "name": {
-      "en": "Fiji Airways",
-      "zh-Hans": "斐济航空"
-    }
+    "name": "斐济航空",
+    "name_en": "Fiji Airways"
   },
   "FM": {
     "IATA": "FM",
     "ICAO": "CSH",
     "country": "CN",
-    "name": {
-      "en": "Shanghai Airlines",
-      "zh-Hans": "上海航空"
-    }
+    "name": "上海航空",
+    "name_en": "Shanghai Airlines"
   },
   "FU": {
     "IATA": "FU",
     "ICAO": "FZA",
-    "name": {
-      "en": "Fuzhou Airlines",
-      "zh-Hans": "福州航空"
-    }
+    "name": "福州航空",
+    "name_en": "Fuzhou Airlines"
   },
   "FV": {
     "IATA": "FV",
     "ICAO": "4DM",
     "country": "RU",
-    "name": {
-      "en": "Rossiya Airlines",
-      "zh-Hans": "露西亚航空"
-    }
+    "name": "露西亚航空",
+    "name_en": "Rossiya Airlines"
   },
   "FX": {
     "IATA": "FX",
     "ICAO": "FDX",
     "country": "US",
-    "name": {
-      "en": "Fedex Express",
-      "zh-Hans": "联邦快递"
-    }
+    "name": "联邦快递",
+    "name_en": "Fedex Express"
   },
   "G3": {
     "IATA": "G3",
     "ICAO": "GLO",
     "country": "BR",
-    "name": {
-      "en": "Gol Transportes Aéreos",
-      "zh-Hans": "高尔航空"
-    }
+    "name": "高尔航空",
+    "name_en": "Gol Transportes Aéreos"
   },
   "G5": {
     "IATA": "G5",
     "ICAO": "HXA",
     "country": "CN",
-    "name": {
-      "en": "Huaxia Airlines",
-      "zh-Hans": "华夏航空"
-    }
+    "name": "华夏航空",
+    "name_en": "Huaxia Airlines"
   },
   "GA": {
     "IATA": "GA",
     "ICAO": "GIA",
     "country": "ID",
-    "name": {
-      "en": "Garuda Indonesia",
-      "zh-Hans": "加鲁达印尼航空"
-    }
+    "name": "加鲁达印尼航空",
+    "name_en": "Garuda Indonesia"
   },
   "GF": {
     "IATA": "GF",
     "ICAO": "GFA",
     "country": "巴林 巴林",
-    "name": {
-      "en": "Gulf Air",
-      "zh-Hans": "海湾航空"
-    }
+    "name": "海湾航空",
+    "name_en": "Gulf Air"
   },
   "GJ": {
     "IATA": "GJ",
     "ICAO": "CDC",
-    "name": {
-      "en": "Loong Air",
-      "zh-Hans": "长龙航空"
-    }
+    "name": "长龙航空",
+    "name_en": "Loong Air"
   },
   "GL": {
     "IATA": "GL",
     "ICAO": "GRL",
     "country": "GL",
-    "name": {
-      "en": "Air Greenland",
-      "zh-Hans": "格陵兰航空"
-    }
+    "name": "格陵兰航空",
+    "name_en": "Air Greenland"
   },
   "GS": {
     "IATA": "GS",
     "ICAO": "GCR",
     "country": "CN",
-    "name": {
-      "en": "Tianjin Airlines",
-      "zh-Hans": "天津航空"
-    }
+    "name": "天津航空",
+    "name_en": "Tianjin Airlines"
   },
   "GT": {
     "IATA": "GT",
     "ICAO": "CGH",
-    "name": {
-      "en": "Air Guilin",
-      "zh-Hans": "桂林航空"
-    }
+    "name": "桂林航空",
+    "name_en": "Air Guilin"
   },
   "GX": {
     "IATA": "GX",
     "ICAO": "CBG",
-    "name": {
-      "en": "Beibu Gulf Airlines",
-      "zh-Hans": "北部湾航空"
-    }
+    "name": "北部湾航空",
+    "name_en": "Beibu Gulf Airlines"
   },
   "HA": {
     "IATA": "HA",
     "ICAO": "HAL",
-    "aka": {
-      "en": "Hawaiian"
-    },
     "country": "US",
-    "name": {
-      "en": "Hawaiian Airlines",
-      "zh-Hans": "夏威夷航空"
-    }
+    "name": "夏威夷航空",
+    "name_en": "Hawaiian Airlines"
   },
   "HM": {
     "IATA": "HM",
     "ICAO": "SEY",
     "country": "SC",
-    "name": {
-      "en": "Air Seychelles",
-      "zh-Hans": "塞舌尔航空"
-    }
+    "name": "塞舌尔航空",
+    "name_en": "Air Seychelles"
   },
   "HO": {
     "IATA": "HO",
     "ICAO": "DKH",
     "country": "CN",
-    "name": {
-      "en": "Juneyao Airlines",
-      "zh-Hans": "吉祥航空"
-    }
+    "name": "吉祥航空",
+    "name_en": "Juneyao Airlines"
   },
   "HR": {
     "IATA": "HR",
     "ICAO": "HHN",
     "country": "DE",
-    "name": {
-      "en": "Hahn Air Lines",
-      "zh-Hans": "哈恩航空"
-    }
+    "name": "哈恩航空",
+    "name_en": "Hahn Air Lines"
   },
   "HU": {
     "IATA": "HU",
     "ICAO": "CHH",
-    "aka": {
-      "en": "Hainan"
-    },
     "country": "CN",
-    "name": {
-      "en": "Hainan Airlines",
-      "zh-Hans": "海南航空"
-    }
+    "name": "海南航空",
+    "name_en": "Hainan Airlines"
   },
   "HX": {
     "IATA": "HX",
     "ICAO": "CRK",
     "country": "香港",
-    "name": {
-      "en": "Hong Kong Airlines",
-      "zh-Hans": "香港航空"
-    }
+    "name": "香港航空",
+    "name_en": "Hong Kong Airlines"
   },
   "IA": {
     "IATA": "IA",
     "ICAO": "IAW",
-    "aka": {
-      "en": "Iraqi"
-    },
     "country": "IQ",
-    "name": {
-      "en": "Iraqi Airways",
-      "zh-Hans": "伊拉克航空[来源请求]"
-    }
+    "name": "伊拉克航空",
+    "name_en": "Iraqi Airways"
   },
   "IB": {
     "IATA": "IB",
     "ICAO": "IBE",
     "country": "ES",
-    "name": {
-      "en": "Iberia",
-      "zh-Hans": "西班牙国家航空"
-    }
+    "name": "西班牙国家航空",
+    "name_en": "Iberia"
   },
   "IG": {
     "IATA": "IG",
     "ICAO": "ISS",
     "country": "IT",
-    "name": {
-      "en": "Meridiana",
-      "zh-Hans": "地中海飞行航空"
-    }
+    "name": "地中海飞行航空",
+    "name_en": "Meridiana"
   },
   "IR": {
     "IATA": "IR",
     "ICAO": "IRA",
     "country": "IR",
-    "name": {
-      "en": "Iran Air",
-      "zh-Hans": "伊朗航空"
-    }
+    "name": "伊朗航空",
+    "name_en": "Iran Air"
   },
   "IY": {
     "IATA": "IY",
     "ICAO": "IYE",
     "country": "YE",
-    "name": {
-      "en": "Yemenia",
-      "zh-Hans": "也门航空"
-    }
+    "name": "也门航空",
+    "name_en": "Yemenia"
   },
   "IZ": {
     "IATA": "IZ",
     "ICAO": "AIZ",
     "country": "IL",
-    "name": {
-      "en": "Arkia",
-      "zh-Hans": "阿基亚以色列航空"
-    }
+    "name": "阿基亚以色列航空",
+    "name_en": "Arkia"
   },
   "J2": {
     "IATA": "J2",
     "ICAO": "AHY",
     "country": "AZ",
-    "name": {
-      "en": "Azerbaijan Airlines",
-      "zh-Hans": "阿塞拜疆航空"
-    }
+    "name": "阿塞拜疆航空",
+    "name_en": "Azerbaijan Airlines"
   },
   "J9": {
     "IATA": "J9",
     "ICAO": "JZR",
     "country": "KW",
-    "name": {
-      "en": "Jazeera Airways",
-      "zh-Hans": "半岛航空"
-    }
+    "name": "半岛航空",
+    "name_en": "Jazeera Airways"
   },
   "JA": {
     "IATA": "JA",
     "ICAO": "BON",
     "country": "波斯尼亚和黑塞哥维那",
-    "name": {
-      "en": "B&H Airlines",
-      "zh-Hans": "波赫航空"
-    }
+    "name": "波赫航空",
+    "name_en": "B&H Airlines"
   },
   "JD": {
     "IATA": "JD",
     "ICAO": "CBJ",
-    "name": {
-      "en": "Capital Airline",
-      "zh-Hans": "首都航空"
-    }
+    "name": "首都航空",
+    "name_en": "Capital Airline"
   },
   "JJ": {
     "IATA": "JJ",
     "ICAO": "TAM",
     "country": "BR",
-    "name": {
-      "en": "TAM Airlines",
-      "zh-Hans": "巴西天马航空"
-    }
+    "name": "巴西天马航空",
+    "name_en": "TAM Airlines"
   },
   "JL": {
     "IATA": "JL",
     "ICAO": "JAL",
-    "aka": {
-      "en": "JAL"
-    },
     "country": "JP",
-    "name": {
-      "en": "Japan Airlines",
-      "zh-Hans": "日本航空"
-    }
+    "name": "日本航空",
+    "name_en": "Japan Airlines"
   },
   "JP": {
     "IATA": "JP",
     "ICAO": "ADR",
     "country": "SI",
-    "name": {
-      "en": "Adria Airways",
-      "zh-Hans": "亚德里亚航空"
-    }
+    "name": "亚德里亚航空",
+    "name_en": "Adria Airways"
   },
   "JR": {
     "IATA": "JR",
     "ICAO": "JOY",
-    "name": {
-      "en": "Joy Air",
-      "zh-Hans": "幸福航空"
-    }
+    "name": "幸福航空",
+    "name_en": "Joy Air"
   },
   "JS": {
     "IATA": "JS",
     "ICAO": "KOR",
     "country": "KP",
-    "name": {
-      "en": "Air Koryo",
-      "zh-Hans": "高丽航空"
-    }
+    "name": "高丽航空",
+    "name_en": "Air Koryo"
   },
   "JU": {
     "IATA": "JU",
     "ICAO": "ASL",
     "country": "RS",
-    "name": {
-      "en": "Air Serbia",
-      "zh-Hans": "塞尔维亚航空"
-    }
+    "name": "塞尔维亚航空",
+    "name_en": "Air Serbia"
   },
   "KA": {
     "IATA": "KA",
     "ICAO": "HDA",
     "country": "香港",
-    "name": {
-      "en": "Cathay Dragon",
-      "zh-Hans": "国泰港龙航空"
-    }
+    "name": "国泰港龙航空",
+    "name_en": "Cathay Dragon"
   },
   "KC": {
     "IATA": "KC",
     "ICAO": "KZR",
     "country": "KZ",
-    "name": {
-      "en": "Air Astana",
-      "zh-Hans": "阿斯塔纳航空"
-    }
+    "name": "阿斯塔纳航空",
+    "name_en": "Air Astana"
   },
   "KE": {
     "IATA": "KE",
     "ICAO": "KAL",
     "country": "KR",
-    "name": {
-      "en": "Korean Air",
-      "zh-Hans": "大韩航空"
-    }
+    "name": "大韩航空",
+    "name_en": "Korean Air"
   },
   "KF": {
     "IATA": "KF",
     "ICAO": "BLF",
     "country": "FI",
-    "name": {
-      "en": "Blue1",
-      "zh-Hans": "蓝天航空"
-    }
+    "name": "蓝天航空",
+    "name_en": "Blue1"
   },
   "KK": {
     "IATA": "KK",
     "ICAO": "KKK",
     "country": "TR",
-    "name": {
-      "en": "AtlasGlobal",
-      "zh-Hans": "阿特拉斯全球航空"
-    }
+    "name": "阿特拉斯全球航空",
+    "name_en": "AtlasGlobal"
   },
   "KL": {
     "IATA": "KL",
     "ICAO": "KLM",
-    "aka": {
-      "en": "KLM"
-    },
     "country": "NL",
-    "name": {
-      "en": "KLM Royal Dutch Airlines",
-      "zh-Hans": "荷兰皇家航空"
-    }
+    "name": "荷兰皇家航空",
+    "name_en": "KLM Royal Dutch Airlines"
   },
   "KM": {
     "IATA": "KM",
     "ICAO": "AMC",
     "country": "MT",
-    "name": {
-      "en": "Air Malta",
-      "zh-Hans": "马耳他航空"
-    }
+    "name": "马耳他航空",
+    "name_en": "Air Malta"
   },
   "KQ": {
     "IATA": "KQ",
     "ICAO": "KQA",
     "country": "KE",
-    "name": {
-      "en": "Kenya Airways",
-      "zh-Hans": "肯亚航空"
-    }
+    "name": "肯亚航空",
+    "name_en": "Kenya Airways"
   },
   "KU": {
     "IATA": "KU",
     "ICAO": "KAC",
     "country": "KW",
-    "name": {
-      "en": "Kuwait Airways",
-      "zh-Hans": "科威特航空"
-    }
+    "name": "科威特航空",
+    "name_en": "Kuwait Airways"
   },
   "KY": {
     "IATA": "KY",
     "ICAO": "KNA",
-    "name": {
-      "en": "Kunming Airlines",
-      "zh-Hans": "昆明航空"
-    }
+    "name": "昆明航空",
+    "name_en": "Kunming Airlines"
   },
   "KZ": {
     "IATA": "KZ",
     "ICAO": "NCA",
     "country": "JP",
-    "name": {
-      "en": "Nippon Cargo Airlines",
-      "zh-Hans": "日本货物航空"
-    }
+    "name": "日本货物航空",
+    "name_en": "Nippon Cargo Airlines"
   },
   "LA": {
     "IATA": "LA",
     "ICAO": "LAN",
     "country": "CL",
-    "name": {
-      "en": "LAN Airlines",
-      "zh-Hans": "智利国家航空"
-    }
+    "name": "智利国家航空",
+    "name_en": "LAN Airlines"
   },
   "LG": {
     "IATA": "LG",
     "ICAO": "LGL",
     "country": "LU",
-    "name": {
-      "en": "Luxair",
-      "zh-Hans": "卢森堡航空"
-    }
+    "name": "卢森堡航空",
+    "name_en": "Luxair"
   },
   "LH": {
     "IATA": "LH",
     "ICAO": "GEC",
     "country": "DE",
-    "name": {
-      "en": "Lufthansa Cargo",
-      "zh-Hans": "汉莎货运航空"
-    }
+    "name": "汉莎货运航空",
+    "name_en": "Lufthansa Cargo"
   },
   "LN": {
     "IATA": "LN",
     "ICAO": "LAA",
     "country": "LY",
-    "name": {
-      "en": "Libyan Airlines",
-      "zh-Hans": "利比亚航空"
-    }
+    "name": "利比亚航空",
+    "name_en": "Libyan Airlines"
   },
   "LO": {
     "IATA": "LO",
     "ICAO": "LOT",
-    "aka": {
-      "en": "LOT"
-    },
     "country": "PL",
-    "name": {
-      "en": "LOT Polish Airlines",
-      "zh-Hans": "LOT波兰航空"
-    }
+    "name": "LOT波兰航空",
+    "name_en": "LOT Polish Airlines"
   },
   "LP": {
     "IATA": "LP",
     "ICAO": "LPE",
     "country": "PE",
-    "name": {
-      "en": "LAN Perú",
-      "zh-Hans": "LAN秘鲁航空"
-    }
+    "name": "LAN秘鲁航空",
+    "name_en": "LAN Perú"
   },
   "LX": {
     "IATA": "LX",
     "ICAO": "SWR",
     "country": "CH",
-    "name": {
-      "en": "Swiss International Air Lines",
-      "zh-Hans": "瑞士国际航空"
-    }
+    "name": "瑞士国际航空",
+    "name_en": "Swiss International Air Lines"
   },
   "LY": {
     "IATA": "LY",
     "ICAO": "ELY",
     "country": "IL",
-    "name": {
-      "en": "El Al",
-      "zh-Hans": "以色列航空"
-    }
+    "name": "以色列航空",
+    "name_en": "El Al"
   },
   "M7": {
     "IATA": "M7",
     "ICAO": "MAA",
     "country": "MX",
-    "name": {
-      "en": "MasAir",
-      "zh-Hans": "马斯航空"
-    }
+    "name": "马斯航空",
+    "name_en": "MasAir"
   },
   "MA": {
     "IATA": "MA",
     "ICAO": "MAH",
     "country": "HU",
-    "name": {
-      "en": "Malév",
-      "zh-Hans": "匈牙利航空"
-    }
+    "name": "匈牙利航空",
+    "name_en": "Malév"
   },
   "MD": {
     "IATA": "MD",
     "ICAO": "MDG",
     "country": "MG",
-    "name": {
-      "en": "Air Madagascar",
-      "zh-Hans": "马达加斯加航空"
-    }
+    "name": "马达加斯加航空",
+    "name_en": "Air Madagascar"
   },
   "ME": {
     "IATA": "ME",
     "ICAO": "MEA",
     "country": "LB",
-    "name": {
-      "en": "Middle East Airlines",
-      "zh-Hans": "中东航空"
-    }
+    "name": "中东航空",
+    "name_en": "Middle East Airlines"
   },
   "MF": {
     "IATA": "MF",
     "ICAO": "CXA",
-    "aka": {
-      "en": "Xiamen"
-    },
     "country": "CN",
-    "name": {
-      "en": "Xiamen Airlines",
-      "zh-Hans": "厦门航空"
-    }
+    "name": "厦门航空",
+    "name_en": "Xiamen Airlines"
   },
   "MH": {
     "IATA": "MH",
     "ICAO": "MAS",
     "country": "MY",
-    "name": {
-      "en": "Malaysia Airlines",
-      "zh-Hans": "马来西亚国际航空"
-    }
+    "name": "马来西亚国际航空",
+    "name_en": "Malaysia Airlines"
   },
   "MI": {
     "IATA": "MI",
     "ICAO": "SLK",
     "country": "SG",
-    "name": {
-      "en": "Silk Air",
-      "zh-Hans": "胜安航空"
-    }
+    "name": "胜安航空",
+    "name_en": "Silk Air"
   },
   "MK": {
     "IATA": "MK",
     "ICAO": "MAU",
     "country": "MU",
-    "name": {
-      "en": "Air Mauritius",
-      "zh-Hans": "毛里求斯航空"
-    }
+    "name": "毛里求斯航空",
+    "name_en": "Air Mauritius"
   },
   "MN": {
     "IATA": "MN",
     "ICAO": "CAW",
     "country": "ZA",
-    "name": {
-      "en": "Comair",
-      "zh-Hans": "南非商务航空"
-    }
+    "name": "南非商务航空",
+    "name_en": "Comair"
   },
   "MS": {
     "IATA": "MS",
     "ICAO": "MSR",
-    "aka": {
-      "en": "EgyptAir"
-    },
     "country": "EG",
-    "name": {
-      "en": "Egyptair",
-      "zh-Hans": "埃及航空"
-    }
+    "name": "埃及航空",
+    "name_en": "Egyptair"
   },
   "MU": {
     "IATA": "MU",
     "ICAO": "CES",
-    "aka": {
-      "en": "China Eastern"
-    },
     "country": "CN",
-    "name": {
-      "en": "China Eastern Airlines",
-      "zh-Hans": "中国东方航空"
-    }
+    "name": "中国东方航空",
+    "name_en": "China Eastern Airlines"
   },
   "N4": {
     "IATA": "N4",
     "ICAO": "NWS",
     "country": "RU",
-    "name": {
-      "en": "Nordwind Airlines",
-      "zh-Hans": "北风航空"
-    }
+    "name": "北风航空",
+    "name_en": "Nordwind Airlines"
   },
   "NF": {
     "IATA": "NF",
     "ICAO": "AVN",
     "country": "VU",
-    "name": {
-      "en": "Air Vanuatu",
-      "zh-Hans": "瓦努阿图航空"
-    }
+    "name": "瓦努阿图航空",
+    "name_en": "Air Vanuatu"
   },
   "NH": {
     "IATA": "NH",
     "ICAO": "ANA",
-    "aka": {
-      "en": "ANA"
-    },
     "country": "JP",
-    "name": {
-      "en": "All Nippon Airways",
-      "zh-Hans": "全日本空输"
-    }
+    "name": "全日本空输",
+    "name_en": "All Nippon Airways"
   },
   "NS": {
     "IATA": "NS",
     "ICAO": "HBH",
-    "name": {
-      "en": "Hebei Airlines",
-      "zh-Hans": "河北航空"
-    }
+    "name": "河北航空",
+    "name_en": "Hebei Airlines"
   },
   "NT": {
     "IATA": "NT",
     "ICAO": "IBB",
     "country": "ES",
-    "name": {
-      "en": "Binter Canarias",
-      "zh-Hans": "边佗加那利群岛航空"
-    }
+    "name": "边佗加那利群岛航空",
+    "name_en": "Binter Canarias"
   },
   "NX": {
     "IATA": "NX",
     "ICAO": "AMU",
     "country": "澳门",
-    "name": {
-      "en": "Air Macau",
-      "zh-Hans": "澳门航空"
-    }
+    "name": "澳门航空",
+    "name_en": "Air Macau"
   },
   "NZ": {
     "IATA": "NZ",
     "ICAO": "ANZ",
     "country": "NZ",
-    "name": {
-      "en": "Air New Zealand",
-      "zh-Hans": "新西兰航空"
-    }
+    "name": "新西兰航空",
+    "name_en": "Air New Zealand"
   },
   "O6": {
     "IATA": "O6",
     "ICAO": "ONE",
     "country": "BR",
-    "name": {
-      "en": "Avianca Brazil",
-      "zh-Hans": "巴西哥伦比亚航空"
-    }
+    "name": "巴西哥伦比亚航空",
+    "name_en": "Avianca Brazil"
   },
   "OA": {
     "IATA": "OA",
     "ICAO": "OAL",
     "country": "GR",
-    "name": {
-      "en": "Olympic Air",
-      "zh-Hans": "奥林匹克航空"
-    }
+    "name": "奥林匹克航空",
+    "name_en": "Olympic Air"
   },
   "OK": {
     "IATA": "OK",
     "ICAO": "CSA",
-    "aka": {
-      "en": "CSA"
-    },
     "country": "CZ",
-    "name": {
-      "en": "CSA Czech Airlines",
-      "zh-Hans": "捷克航空"
-    }
+    "name": "捷克航空",
+    "name_en": "CSA Czech Airlines"
   },
   "OM": {
     "IATA": "OM",
     "ICAO": "MGL",
-    "aka": {
-      "en": "MIAT"
-    },
     "country": "MN",
-    "name": {
-      "en": "MIAT Mongolian Airlines",
-      "zh-Hans": "蒙古民用航空"
-    }
+    "name": "蒙古民用航空",
+    "name_en": "MIAT Mongolian Airlines"
   },
   "OS": {
     "IATA": "OS",
     "ICAO": "AUA",
-    "aka": {
-      "en": "Austrian"
-    },
     "country": "AT",
-    "name": {
-      "en": "Austrian Airlines",
-      "zh-Hans": "奥地利航空"
-    }
+    "name": "奥地利航空",
+    "name_en": "Austrian Airlines"
   },
   "OU": {
     "IATA": "OU",
     "ICAO": "CTN",
     "country": "HR",
-    "name": {
-      "en": "Croatia airlines",
-      "zh-Hans": "克罗地亚航空"
-    }
+    "name": "克罗地亚航空",
+    "name_en": "Croatia airlines"
   },
   "OZ": {
     "IATA": "OZ",
     "ICAO": "AAR",
-    "aka": {
-      "en": "Asiana"
-    },
     "country": "KR",
-    "name": {
-      "en": "Asiana Airlines",
-      "zh-Hans": "韩亚航空"
-    }
+    "name": "韩亚航空",
+    "name_en": "Asiana Airlines"
   },
   "PC": {
     "IATA": "PC",
     "ICAO": "PGT",
     "country": "TR",
-    "name": {
-      "en": "Pegasus Airlines",
-      "zh-Hans": "飞马航空"
-    }
+    "name": "飞马航空",
+    "name_en": "Pegasus Airlines"
   },
   "PG": {
     "IATA": "PG",
     "ICAO": "BKP",
     "country": "TH",
-    "name": {
-      "en": "Bangkok Airways",
-      "zh-Hans": "曼谷航空"
-    }
+    "name": "曼谷航空",
+    "name_en": "Bangkok Airways"
   },
   "PK": {
     "IATA": "PK",
     "ICAO": "PIA",
-    "aka": {
-      "en": "Pakistan"
-    },
     "country": "PK",
-    "name": {
-      "en": "Pakistan International Airlines",
-      "zh-Hans": "巴基斯坦国际航空"
-    }
+    "name": "巴基斯坦国际航空",
+    "name_en": "Pakistan International Airlines"
   },
   "PN": {
     "IATA": "PN",
     "ICAO": "CHB",
-    "name": {
-      "en": "China West Air",
-      "zh-Hans": "中國西部航空"
-    }
+    "name": "中國西部航空",
+    "name_en": "China West Air"
   },
   "PR": {
     "IATA": "PR",
     "ICAO": "PAL",
     "country": "PH",
-    "name": {
-      "en": "Philippine Airlines",
-      "zh-Hans": "菲律宾航空"
-    }
+    "name": "菲律宾航空",
+    "name_en": "Philippine Airlines"
   },
   "PS": {
     "IATA": "PS",
     "ICAO": "AUL",
     "country": "UA",
-    "name": {
-      "en": "Ukraine International Airlines",
-      "zh-Hans": "乌克兰国际航空"
-    }
+    "name": "乌克兰国际航空",
+    "name_en": "Ukraine International Airlines"
   },
   "PT": {
     "IATA": "PT",
     "ICAO": "PTI",
     "country": "CH",
-    "name": {
-      "en": "PrivatAir",
-      "zh-Hans": "瑞士私人航空"
-    }
+    "name": "瑞士私人航空",
+    "name_en": "PrivatAir"
   },
   "PW": {
     "IATA": "PW",
     "ICAO": "PRF",
     "country": "TZ",
-    "name": {
-      "en": "Precision Air",
-      "zh-Hans": "精密航空"
-    }
+    "name": "精密航空",
+    "name_en": "Precision Air"
   },
   "PX": {
     "IATA": "PX",
     "ICAO": "ANG",
     "country": "PG",
-    "name": {
-      "en": "Air Niugini",
-      "zh-Hans": "新几内亚航空"
-    }
+    "name": "新几内亚航空",
+    "name_en": "Air Niugini"
   },
   "PY": {
     "IATA": "PY",
     "ICAO": "SLM",
     "country": "SR",
-    "name": {
-      "en": "Surinam Airways",
-      "zh-Hans": "苏里南航空"
-    }
+    "name": "苏里南航空",
+    "name_en": "Surinam Airways"
   },
   "PZ": {
     "IATA": "PZ",
     "ICAO": "LAP",
     "country": "PY",
-    "name": {
-      "en": "TAM Airlines (Paraguay)",
-      "zh-Hans": "巴拉圭天马航空"
-    }
+    "name": "巴拉圭天马航空",
+    "name_en": "TAM Airlines (Paraguay)"
   },
   "QC": {
     "IATA": "QC",
     "ICAO": "CRD",
     "country": "CM",
-    "name": {
-      "en": "Camair-Co",
-      "zh-Hans": "喀麦隆航空"
-    }
+    "name": "喀麦隆航空",
+    "name_en": "Camair-Co"
   },
   "QF": {
     "IATA": "QF",
     "ICAO": "QFA",
-    "aka": {
-      "en": "Qantas"
-    },
     "country": "AU",
-    "name": {
-      "en": "Qantas Airlines",
-      "zh-Hans": "澳洲航空"
-    }
+    "name": "澳洲航空",
+    "name_en": "Qantas Airlines"
   },
   "QM": {
     "IATA": "QM",
     "ICAO": "AML",
     "country": "MW",
-    "name": {
-      "en": "Air Malawi",
-      "zh-Hans": "马拉维航空"
-    }
+    "name": "马拉维航空",
+    "name_en": "Air Malawi"
   },
   "QR": {
     "IATA": "QR",
     "ICAO": "QTR",
     "country": "QA",
-    "name": {
-      "en": "Qatar Airways",
-      "zh-Hans": "卡达航空"
-    }
+    "name": "卡达航空",
+    "name_en": "Qatar Airways"
   },
   "R3": {
     "IATA": "R3",
     "ICAO": "SYL",
-    "aka": {
-      "en": "Yakutia"
-    },
     "country": "RU",
-    "name": {
-      "en": "Yakutia Airlines",
-      "zh-Hans": "雅库茨克航空"
-    }
+    "name": "雅库茨克航空",
+    "name_en": "Yakutia Airlines"
   },
   "R5": {
     "IATA": "R5",
     "ICAO": "JAV",
     "country": "JO",
-    "name": {
-      "en": "Jordan Aviation",
-      "zh-Hans": "约旦航空"
-    }
+    "name": "约旦航空",
+    "name_en": "Jordan Aviation"
   },
   "RB": {
     "IATA": "RB",
     "ICAO": "SYR",
     "country": "SY",
-    "name": {
-      "en": "Syrian Air",
-      "zh-Hans": "叙利亚航空"
-    }
+    "name": "叙利亚航空",
+    "name_en": "Syrian Air"
   },
   "RJ": {
     "IATA": "RJ",
     "ICAO": "RJA",
-    "aka": {
-      "en": "Royal Jordanian"
-    },
     "country": "JO",
-    "name": {
-      "en": "Royal Jordanian Airlines",
-      "zh-Hans": "皇家约旦航空"
-    }
+    "name": "皇家约旦航空",
+    "name_en": "Royal Jordanian Airlines"
   },
   "RO": {
     "IATA": "RO",
     "ICAO": "ROT",
     "country": "RO",
-    "name": {
-      "en": "TAROM Romanian Air Transport",
-      "zh-Hans": "罗马尼亚航空"
-    }
+    "name": "罗马尼亚航空",
+    "name_en": "TAROM Romanian Air Transport"
   },
   "RY": {
     "IATA": "RY",
     "ICAO": "CJX",
-    "name": {
-      "en": "Jiangxi Air",
-      "zh-Hans": "江西航空"
-    }
+    "name": "江西航空",
+    "name_en": "Jiangxi Air"
   },
   "S4": {
     "IATA": "S4",
     "ICAO": "RZO",
-    "aka": {
-      "en": "Azores Airlines"
-    },
     "country": "PT",
-    "name": {
-      "en": "Azores Airlines - SATA International",
-      "zh-Hans": "亚速航空"
-    }
+    "name": "亚速航空",
+    "name_en": "Azores Airlines - SATA International"
   },
   "S7": {
     "IATA": "S7",
     "ICAO": "SBI",
-    "aka": {
-      "en": "S7"
-    },
     "country": "RU",
-    "name": {
-      "en": "S7 Airlines",
-      "zh-Hans": "S7航空"
-    }
+    "name": "S7航空",
+    "name_en": "S7 Airlines"
   },
   "SA": {
     "IATA": "SA",
     "ICAO": "SAA",
     "country": "ZA",
-    "name": {
-      "en": "South African Airways",
-      "zh-Hans": "南非航空"
-    }
+    "name": "南非航空",
+    "name_en": "South African Airways"
   },
   "SB": {
     "IATA": "SB",
     "ICAO": "ACI",
     "country": "NC",
-    "name": {
-      "en": "Aircalin",
-      "zh-Hans": "喀里多尼亚航空"
-    }
+    "name": "喀里多尼亚航空",
+    "name_en": "Aircalin"
   },
   "SC": {
     "IATA": "SC",
     "ICAO": "CDG",
-    "aka": {
-      "en": "Shandong"
-    },
     "country": "CN",
-    "name": {
-      "en": "Shandong Airlines",
-      "zh-Hans": "山东航空"
-    }
+    "name": "山东航空",
+    "name_en": "Shandong Airlines"
   },
   "SD": {
     "IATA": "SD",
     "ICAO": "SUD",
     "country": "SD",
-    "name": {
-      "en": "Sudan Airways",
-      "zh-Hans": "苏丹航空"
-    }
+    "name": "苏丹航空",
+    "name_en": "Sudan Airways"
   },
   "SK": {
     "IATA": "SK",
     "ICAO": "SAS",
-    "aka": {
-      "en": "SAS"
-    },
     "country": "SE",
-    "name": {
-      "en": "SAS Scandinavian Airlines",
-      "zh-Hans": "北欧航空"
-    }
+    "name": "北欧航空",
+    "name_en": "SAS Scandinavian Airlines"
   },
   "SN": {
     "IATA": "SN",
     "ICAO": "BEL",
     "country": "BE",
-    "name": {
-      "en": "Brussels Airlines",
-      "zh-Hans": "布鲁塞尔航空"
-    }
+    "name": "布鲁塞尔航空",
+    "name_en": "Brussels Airlines"
   },
   "SQ": {
     "IATA": "SQ",
-    "ICAO": "SQC",
-    "aka": {
-      "en": "Singapore Airlines"
-    },
+    "ICAO": "SIA",
     "country": "SG",
-    "name": {
-      "en": "Singapore Airlines Cargo",
-      "zh-Hans": "新加坡航空货运"
-    }
+    "name": "新加坡航空",
+    "name_en": "Singapore Airlines"
   },
   "SS": {
     "IATA": "SS",
     "ICAO": "CRL",
-    "aka": {
-      "en": "Corsair"
-    },
     "country": "FR",
-    "name": {
-      "en": "Corsair International",
-      "zh-Hans": "科西嘉国际航空"
-    }
+    "name": "科西嘉国际航空",
+    "name_en": "Corsair International"
   },
   "SU": {
     "IATA": "SU",
     "ICAO": "AFL",
-    "aka": {
-      "en": "Aeroflot"
-    },
     "country": "RU",
-    "name": {
-      "en": "Aeroflot - Russian Airlines",
-      "zh-Hans": "俄罗斯航空"
-    }
+    "name": "俄罗斯航空",
+    "name_en": "Aeroflot - Russian Airlines"
   },
   "SV": {
     "IATA": "SV",
     "ICAO": "SVA",
     "country": "SA",
-    "name": {
-      "en": "Saudia",
-      "zh-Hans": "沙特阿拉伯航空"
-    }
+    "name": "沙特阿拉伯航空",
+    "name_en": "Saudia"
   },
   "SW": {
     "IATA": "SW",
     "ICAO": "NMB",
     "country": "NA",
-    "name": {
-      "en": "Air Namibia",
-      "zh-Hans": "纳米比亚航空"
-    }
+    "name": "纳米比亚航空",
+    "name_en": "Air Namibia"
   },
   "T0": {
     "IATA": "T0",
     "ICAO": "TPU",
     "country": "PE",
-    "name": {
-      "en": "Avianca Perú",
-      "zh-Hans": "秘鲁哥伦比亚航空"
-    }
+    "name": "秘鲁哥伦比亚航空",
+    "name_en": "Avianca Perú"
   },
   "TA": {
     "IATA": "TA",
     "ICAO": "TAI",
     "country": "SV",
-    "name": {
-      "en": "TACA Airlines",
-      "zh-Hans": "中美洲航空"
-    }
+    "name": "中美洲航空",
+    "name_en": "TACA Airlines"
   },
   "TF": {
     "IATA": "TF",
     "ICAO": "SCW",
     "country": "SE",
-    "name": {
-      "en": "Malmö Aviation",
-      "zh-Hans": "马尔默航空"
-    }
+    "name": "马尔默航空",
+    "name_en": "Malmö Aviation"
   },
   "TG": {
     "IATA": "TG",
     "ICAO": "THA",
-    "aka": {
-      "en": "THAI"
-    },
     "country": "TH",
-    "name": {
-      "en": "Thai Airways",
-      "zh-Hans": "泰国国际航空"
-    }
+    "name": "泰国国际航空",
+    "name_en": "Thai Airways"
   },
   "TK": {
     "IATA": "TK",
     "ICAO": "THY",
     "country": "TR",
-    "name": {
-      "en": "Turkish Airways",
-      "zh-Hans": "土耳其航空"
-    }
+    "name": "土耳其航空",
+    "name_en": "Turkish Airways"
   },
   "TM": {
     "IATA": "TM",
     "ICAO": "LAM",
     "country": "MZ",
-    "name": {
-      "en": "LAM Mozambique Airlines",
-      "zh-Hans": "LAM莫桑比克航空"
-    }
+    "name": "LAM莫桑比克航空",
+    "name_en": "LAM Mozambique Airlines"
   },
   "TN": {
     "IATA": "TN",
     "ICAO": "THT",
     "country": "PF",
-    "name": {
-      "en": "Air Tahiti Nui",
-      "zh-Hans": "大溪地航空"
-    }
+    "name": "大溪地航空",
+    "name_en": "Air Tahiti Nui"
   },
   "TP": {
     "IATA": "TP",
     "ICAO": "TAP",
     "country": "PT",
-    "name": {
-      "en": "TAP Portugal",
-      "zh-Hans": "TAP葡萄牙航空"
-    }
+    "name": "TAP葡萄牙航空",
+    "name_en": "TAP Portugal"
   },
   "TS": {
     "IATA": "TS",
     "ICAO": "TSC",
     "country": "CA",
-    "name": {
-      "en": "Air Transat",
-      "zh-Hans": "越洋航空"
-    }
+    "name": "越洋航空",
+    "name_en": "Air Transat"
   },
   "TU": {
     "IATA": "TU",
     "ICAO": "TAR",
     "country": "TN",
-    "name": {
-      "en": "Tunisair",
-      "zh-Hans": "突尼斯航空"
-    }
+    "name": "突尼斯航空",
+    "name_en": "Tunisair"
   },
   "TV": {
     "IATA": "TV",
     "ICAO": "TBA",
-    "name": {
-      "en": "Tibet Airlines",
-      "zh-Hans": "西藏航空"
-    }
+    "name": "西藏航空",
+    "name_en": "Tibet Airlines"
   },
   "TX": {
     "IATA": "TX",
     "ICAO": "FWI",
     "country": "GP",
-    "name": {
-      "en": "Air Caraïbes",
-      "zh-Hans": "加勒比海航空"
-    }
+    "name": "加勒比海航空",
+    "name_en": "Air Caraïbes"
   },
   "U8": {
     "IATA": "U8",
     "ICAO": "RNV",
     "country": "AM",
-    "name": {
-      "en": "Armavia",
-      "zh-Hans": "亚美尼航空"
-    }
+    "name": "亚美尼航空",
+    "name_en": "Armavia"
   },
   "UA": {
     "IATA": "UA",
     "ICAO": "UAL",
-    "aka": {
-      "en": "United"
-    },
     "country": "US",
-    "name": {
-      "en": "United Airlines",
-      "zh-Hans": "联合航空"
-    }
+    "name": "联合航空",
+    "name_en": "United Airlines"
   },
   "UC": {
     "IATA": "UC",
     "ICAO": "LCO",
     "country": "CL",
-    "name": {
-      "en": "LAN Cargo",
-      "zh-Hans": "智利国家航空货运"
-    }
+    "name": "智利国家航空货运",
+    "name_en": "LAN Cargo"
   },
   "UL": {
     "IATA": "UL",
     "ICAO": "ALK",
-    "aka": {
-      "en": "SriLankan"
-    },
     "country": "LK",
-    "name": {
-      "en": "SriLankan Airlines",
-      "zh-Hans": "斯里兰卡航空"
-    }
+    "name": "斯里兰卡航空",
+    "name_en": "SriLankan Airlines"
   },
   "UM": {
     "IATA": "UM",
     "ICAO": "AZW",
     "country": "ZW",
-    "name": {
-      "en": "Air Zimbabwe",
-      "zh-Hans": "津巴布韦航空"
-    }
+    "name": "津巴布韦航空",
+    "name_en": "Air Zimbabwe"
   },
   "UO": {
     "IATA": "UO",
     "ICAO": "HKE",
     "country": "香港",
-    "name": {
-      "en": "HK Express",
-      "zh-Hans": "香港快运航空"
-    }
+    "name": "香港快运航空",
+    "name_en": "HK Express"
   },
   "UQ": {
     "IATA": "UQ",
     "ICAO": "CUH",
-    "name": {
-      "en": "Urumqi Air",
-      "zh-Hans": "乌鲁木齐航空"
-    }
+    "name": "乌鲁木齐航空",
+    "name_en": "Urumqi Air"
   },
   "UT": {
     "IATA": "UT",
     "ICAO": "UTA",
     "country": "RU",
-    "name": {
-      "en": "UTair",
-      "zh-Hans": "乌塔航空"
-    }
+    "name": "乌塔航空",
+    "name_en": "UTair"
   },
   "UX": {
     "IATA": "UX",
     "ICAO": "AEA",
     "country": "ES",
-    "name": {
-      "en": "Air Europa",
-      "zh-Hans": "欧罗巴航空"
-    }
+    "name": "欧罗巴航空",
+    "name_en": "Air Europa"
   },
   "V3": {
     "IATA": "V3",
     "ICAO": "KRP",
     "country": "RO",
-    "name": {
-      "en": "Carpatair",
-      "zh-Hans": "卡帕特航空"
-    }
+    "name": "卡帕特航空",
+    "name_en": "Carpatair"
   },
   "VA": {
     "IATA": "VA",
     "ICAO": "VOZ",
     "country": "AU",
-    "name": {
-      "en": "Virgin Australia",
-      "zh-Hans": "维珍澳洲航空"
-    }
+    "name": "维珍澳洲航空",
+    "name_en": "Virgin Australia"
   },
   "VI": {
     "IATA": "VI",
     "ICAO": "VDA",
     "country": "RU",
-    "name": {
-      "en": "Volga-Dnepr Airlines",
-      "zh-Hans": "伏尔加-第聂伯航空"
-    }
+    "name": "伏尔加-第聂伯航空",
+    "name_en": "Volga-Dnepr Airlines"
   },
   "VN": {
     "IATA": "VN",
     "ICAO": "HVN",
     "country": "VN",
-    "name": {
-      "en": "Vietnam Airlines",
-      "zh-Hans": "越南国家航空"
-    }
+    "name": "越南国家航空",
+    "name_en": "Vietnam Airlines"
   },
   "VR": {
     "IATA": "VR",
     "ICAO": "TCV",
     "country": "CV",
-    "name": {
-      "en": "TACV Cabo Verde Airlines",
-      "zh-Hans": "佛得角航空"
-    }
+    "name": "佛得角航空",
+    "name_en": "TACV Cabo Verde Airlines"
   },
   "VS": {
     "IATA": "VS",
     "ICAO": "VIR",
-    "aka": {
-      "en": "Virgin Atlantic"
-    },
     "country": "GB",
-    "name": {
-      "en": "Virgin Atlantic Airways",
-      "zh-Hans": "维珍航空"
-    }
+    "name": "维珍航空",
+    "name_en": "Virgin Atlantic Airways"
   },
   "VT": {
     "IATA": "VT",
     "ICAO": "VTA",
     "country": "PF",
-    "name": {
-      "en": "Air Tahiti",
-      "zh-Hans": "塔希提航空"
-    }
+    "name": "塔希提航空",
+    "name_en": "Air Tahiti"
   },
   "VV": {
     "IATA": "VV",
     "ICAO": "AEW",
     "country": "UA",
-    "name": {
-      "en": "Aerosvit Airlines",
-      "zh-Hans": "空中世界航空"
-    }
+    "name": "空中世界航空",
+    "name_en": "Aerosvit Airlines"
   },
   "W3": {
     "IATA": "W3",
     "ICAO": "ARA",
     "country": "NG",
-    "name": {
-      "en": "Arik Air",
-      "zh-Hans": "阿瑞克航空"
-    }
+    "name": "阿瑞克航空",
+    "name_en": "Arik Air"
   },
   "W5": {
     "IATA": "W5",
     "ICAO": "IRM",
     "country": "IR",
-    "name": {
-      "en": "Mahan Air",
-      "zh-Hans": "马罕航空"
-    }
+    "name": "马罕航空",
+    "name_en": "Mahan Air"
   },
   "W8": {
     "IATA": "W8",
     "ICAO": "CJT",
     "country": "CA",
-    "name": {
-      "en": "Cargojet",
-      "zh-Hans": "喷射货运航空"
-    }
+    "name": "喷射货运航空",
+    "name_en": "Cargojet"
   },
   "WF": {
     "IATA": "WF",
     "ICAO": "WIF",
     "country": "NO",
-    "name": {
-      "en": "Widerøe",
-      "zh-Hans": "威德洛航空"
-    }
+    "name": "威德洛航空",
+    "name_en": "Widerøe"
   },
   "WI": {
     "IATA": "WI",
     "ICAO": "WHT",
     "country": "PT",
-    "name": {
-      "en": "White Airways",
-      "zh-Hans": "白色航空"
-    }
+    "name": "白色航空",
+    "name_en": "White Airways"
   },
   "WX": {
     "IATA": "WX",
     "ICAO": "BCY",
     "country": "IE",
-    "name": {
-      "en": "CityJet",
-      "zh-Hans": "城捷航空"
-    }
+    "name": "城捷航空",
+    "name_en": "CityJet"
   },
   "WY": {
     "IATA": "WY",
     "ICAO": "OMA",
     "country": "OM",
-    "name": {
-      "en": "Oman Air",
-      "zh-Hans": "阿曼航空"
-    }
+    "name": "阿曼航空",
+    "name_en": "Oman Air"
   },
   "X3": {
     "IATA": "X3",
     "ICAO": "TUI",
     "country": "DE",
-    "name": {
-      "en": "TUIfly",
-      "zh-Hans": "TUIfly"
-    }
+    "name": "TUIfly",
+    "name_en": "TUIfly"
   },
   "XC": {
     "IATA": "XC",
     "ICAO": "CAI",
     "country": "TR",
-    "name": {
-      "en": "Corendon Airlines",
-      "zh-Hans": "克伦顿航空"
-    }
+    "name": "克伦顿航空",
+    "name_en": "Corendon Airlines"
   },
   "XF": {
     "IATA": "XF",
     "ICAO": "VLK",
     "country": "RU",
-    "name": {
-      "en": "Vladivostok Air",
-      "zh-Hans": "海参崴航空"
-    }
+    "name": "海参崴航空",
+    "name_en": "Vladivostok Air"
   },
   "XK": {
     "IATA": "XK",
     "ICAO": "CCM",
     "country": "FR",
-    "name": {
-      "en": "Air Corsica",
-      "zh-Hans": "科西嘉航空"
-    }
+    "name": "科西嘉航空",
+    "name_en": "Air Corsica"
   },
   "XL": {
     "IATA": "XL",
     "ICAO": "LNE",
     "country": "EC",
-    "name": {
-      "en": "LAN Ecuador",
-      "zh-Hans": "LAN厄瓜多尔航空"
-    }
+    "name": "LAN厄瓜多尔航空",
+    "name_en": "LAN Ecuador"
   },
   "XQ": {
     "IATA": "XQ",
     "ICAO": "SXS",
     "country": "TR",
-    "name": {
-      "en": "SunExpress",
-      "zh-Hans": "太阳快运"
-    }
+    "name": "太阳快运",
+    "name_en": "SunExpress"
   },
   "Y4": {
     "IATA": "Y4",
     "ICAO": "VOI",
     "country": "MX",
-    "name": {
-      "en": "Volaris",
-      "zh-Hans": "瓦鲁拉斯航空"
-    }
+    "name": "瓦鲁拉斯航空",
+    "name_en": "Volaris"
   },
   "Y9": {
     "IATA": "Y9",
     "ICAO": "KIS",
     "country": "IR",
-    "name": {
-      "en": "Kish Airlines",
-      "zh-Hans": "基什航空"
-    }
+    "name": "基什航空",
+    "name_en": "Kish Airlines"
   },
   "YM": {
     "IATA": "YM",
     "ICAO": "MGX",
     "country": "ME",
-    "name": {
-      "en": "Montenegro Airlines",
-      "zh-Hans": "黑山航空"
-    }
+    "name": "黑山航空",
+    "name_en": "Montenegro Airlines"
   },
   "YU": {
     "IATA": "YU",
     "ICAO": "MMZ",
     "country": "PT",
-    "name": {
-      "en": "EuroAtlantic Airways",
-      "zh-Hans": "欧洲大西洋航空"
-    }
+    "name": "欧洲大西洋航空",
+    "name_en": "EuroAtlantic Airways"
   },
   "YW": {
     "IATA": "YW",
     "ICAO": "ANE",
     "country": "ES",
-    "name": {
-      "en": "Air Nostrum",
-      "zh-Hans": "诺斯特姆航空"
-    }
+    "name": "诺斯特姆航空",
+    "name_en": "Air Nostrum"
   },
   "ZH": {
     "IATA": "ZH",
     "ICAO": "CSZ",
-    "aka": {
-      "en": "Shenzhen"
-    },
     "country": "CN",
-    "name": {
-      "en": "Shenzhen Airlines",
-      "zh-Hans": "深圳航空"
-    }
+    "name": "深圳航空",
+    "name_en": "Shenzhen Airlines"
   },
   "ZI": {
     "IATA": "ZI",
     "ICAO": "AAF",
     "country": "FR",
-    "name": {
-      "en": "Aigle Azur",
-      "zh-Hans": "蓝鹰航空"
-    }
+    "name": "蓝鹰航空",
+    "name_en": "Aigle Azur"
   },
   "ZY": {
     "IATA": "ZY",
     "ICAO": "SHY",
     "country": "TR",
-    "name": {
-      "en": "Sky Airlines",
-      "zh-Hans": "天空航空"
-    }
+    "name": "天空航空",
+    "name_en": "Sky Airlines"
   }
 }
