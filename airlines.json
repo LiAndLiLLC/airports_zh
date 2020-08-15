@@ -168,7 +168,7 @@
   "AE": {
     "IATA": "AE",
     "ICAO": "MDA",
-    "country": "CN",
+    "country": "TW",
     "name": "华信航空",
     "name_en": "Mandarin Airlines"
   },
@@ -334,7 +334,7 @@
   "BR": {
     "IATA": "BR",
     "ICAO": "EVA",
-    "country": "CN",
+    "country": "TW",
     "name": "长荣航空",
     "name_en": "EVA Airways"
   },
@@ -362,7 +362,7 @@
   "CI": {
     "IATA": "CI",
     "ICAO": "CAL",
-    "country": "CN",
+    "country": "TW",
     "name": "中华航空",
     "name_en": "China Airlines"
   },
@@ -411,7 +411,7 @@
   "CX": {
     "IATA": "CX",
     "ICAO": "CPA",
-    "country": "香港",
+    "country": "HK",
     "name": "国泰航空",
     "name_en": "Cathay Pacific"
   },
@@ -698,7 +698,7 @@
   "HX": {
     "IATA": "HX",
     "ICAO": "CRK",
-    "country": "香港",
+    "country": "HK",
     "name": "香港航空",
     "name_en": "Hong Kong Airlines"
   },
@@ -815,7 +815,7 @@
   "KA": {
     "IATA": "KA",
     "ICAO": "HDA",
-    "country": "香港",
+    "country": "HK",
     "name": "国泰港龙航空",
     "name_en": "Cathay Dragon"
   },
@@ -1058,7 +1058,7 @@
   "NX": {
     "IATA": "NX",
     "ICAO": "AMU",
-    "country": "澳门",
+    "country": "MO",
     "name": "澳门航空",
     "name_en": "Air Macau"
   },
@@ -1475,7 +1475,7 @@
   "UO": {
     "IATA": "UO",
     "ICAO": "HKE",
-    "country": "香港",
+    "country": "HK",
     "name": "香港快运航空",
     "name_en": "HK Express"
   },
