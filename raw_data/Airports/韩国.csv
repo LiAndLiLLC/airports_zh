@@ -1,0 +1,11 @@
+country,ICAO,IATA,city_en,name_en,latitude,longitude,timezone,city,name
+KR,RKSI,ICN,Seoul,Seoul Incheon International Airport,37.46907,126.4505,Asia/Seoul,首尔,首尔仁川国际机场
+KR,RKPC,CJU,Jeju,Jeju International Airport,33.511299,126.492996,Asia/Seoul,济州,济州国际机场
+KR,RKSS,GMP,Seoul,Seoul Gimpo International Airport,37.558311,126.790497,Asia/Seoul,首尔,首尔金浦国际机场
+KR,RKPK,PUS,Busan,Busan Gimhae International Airport,35.17952,128.938202,Asia/Seoul,釜山,釜山金海国际机场
+KR,RKTU,CJJ,Cheongju,Cheongju International Airport,36.716599,127.4991,Asia/Seoul,清州,清州国际机场
+KR,RKJJ,KWJ,Gwangju,Gwangju Airport,35.126381,126.8088,Asia/Seoul,光州,光州机场
+KR,RKJY,RSU,Yeosu,Yeosu Airport,34.842319,127.616798,Asia/Seoul,丽水,丽水机场
+KR,RKPU,USN,Ulsan,Ulsan Airport,35.593491,129.3517,Asia/Seoul,蔚山,蔚山机场
+KR,RKNY,YNY,Yangyang,Yangyang International Airport,38.06131,128.669098,Asia/Seoul,襄阳,襄阳国际机场
+KR,RKTN,TAE,Daegu,Daegu International Airport,35.8941,128.658798,Asia/Seoul,大邱,大邱国际机场
