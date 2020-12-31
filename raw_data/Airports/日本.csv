@@ -1,80 +1,80 @@
 country,ICAO,IATA,city_en,name_en,latitude,longitude,timezone,city,name
-JP,RJTT,HND,Tokyo,Tokyo Haneda International Airport,35.55225,139.779602,Asia/Tokyo,东京,东京羽田国际机场
-JP,RJAA,NRT,Tokyo,Tokyo Narita International Airport,35.764721,140.386307,Asia/Tokyo,东京,东京成田国际机场
-JP,RJBB,KIX,Osaka,Osaka Kansai International Airport,34.427299,135.244003,Asia/Tokyo,大阪,关西国际机场
-JP,RJFF,FUK,Fukuoka,Fukuoka Airport,33.585941,130.450607,Asia/Tokyo,福冈,福冈机场
-JP,RJCC,CTS,Sapporo,Sapporo New Chitose Airport,42.7752,141.6922,Asia/Tokyo,札幌,札幌新千岁机场
-JP,ROAH,OKA,Naha,Naha Airport,26.19581,127.645798,Asia/Tokyo,那霸,那霸机场
-JP,RJOO,ITM,Osaka,Osaka International Airport,34.785519,135.438202,Asia/Tokyo,大阪,大阪伊丹机场
-JP,RJGG,NGO,Nagoya,Nagoya Chubu Centrair International Airport,34.85841,136.805405,Asia/Tokyo,名古屋,名古屋中部
-JP,RJFK,KOJ,Kagoshima,Kagoshima Airport,31.803391,130.719406,Asia/Tokyo,鹿儿岛,鹿儿岛机场
-JP,RJSS,SDJ,Sendai,Sendai Airport,38.139721,140.916901,Asia/Tokyo,仙台,仙台机场
-JP,RJFT,KMJ,Kumamoto,Kumamoto Airport,32.837311,130.854996,Asia/Tokyo,熊本,熊本机场
-JP,RJFM,KMI,Miyazaki,Miyazaki Airport,31.87722,131.448593,Asia/Tokyo,宫崎,宫崎机场
-JP,RJBE,UKB,Kobe,Kobe Airport,34.632771,135.223801,Asia/Tokyo,神户,神户机场
-JP,RJFU,NGS,Nagasaki,Nagasaki Airport,32.916939,129.913605,Asia/Tokyo,长崎,长崎机场
-JP,RJOM,MYJ,Matsuyama,Matsuyama Airport,33.827221,132.699707,Asia/Tokyo,松山,松山机场
-JP,RJOA,HIJ,Hiroshima,Hiroshima Airport,34.436111,132.919403,Asia/Tokyo,广岛,广岛机场
-JP,ROIG,ISG,Ishigaki,Ishigaki New Airport,24.396389,124.245003,Asia/Tokyo,石垣,石垣机场
-JP,RJOT,TAK,Takamatsu,Takamatsu Airport,34.214161,134.015503,Asia/Tokyo,高松,高松机场
-JP,RJFO,OIT,Oita,Oita Airport,33.479439,131.737198,Asia/Tokyo,大分,大分机场
-JP,RJNK,KMQ,Komatsu,Komatsu Airport,36.394611,136.406494,Asia/Tokyo,小松,小松飞行场
-JP,ROMY,MMY,Miyako,Miyako Airport,24.782829,125.295097,Asia/Tokyo,宫古,宫古机场
-JP,RJCH,HKD,Hakodate,Hakodate Airport,41.77,140.821899,Asia/Tokyo,函馆,函馆机场
-JP,RJFR,KKJ,Kitakyushu,Kitakyushu Airport,33.84594,131.034607,Asia/Tokyo,北九州,北九州机场
-JP,RJOK,KCZ,Nankoku,Kochi Airport,33.546108,133.669403,Asia/Tokyo,高知,高知机场
-JP,RJOB,OKJ,Okayama,Okayama Airport,34.756939,133.855194,Asia/Tokyo,冈山,冈山机场
-JP,RJSK,AXT,Akita,Akita Airport,39.615551,140.218597,Asia/Tokyo,秋田,秋田机场
-JP,RJSA,AOJ,Aomori,Aomori Airport,40.734718,140.690796,Asia/Tokyo,青森,青森机场
-JP,RJOS,TKS,Tokushima,Tokushima Airport,34.132801,134.606598,Asia/Tokyo,德岛,德岛飞行场
-JP,RJAF,MMJ,Matsumoto,Matsumoto Airport,36.166752,137.922607,Asia/Tokyo,松本,松本机场
-JP,RJAH,IBR,Omitama,Omitama Ibaraki Airport,36.181667,140.414719,Asia/Tokyo,茨城,茨城机场
-JP,RJBD,SHM,Nanki Shirahama,Nanki Shirahama Airport,33.66222,135.364395,Asia/Tokyo,南纪白滨,南纪白滨机场
-JP,RJBT,TJH,Tajima,Tajima Airport,35.512798,134.787003,Asia/Tokyo,但马,但马飞行场
-JP,RJCB,OBO,Obihiro,Obihiro Tokachi Airport,42.73333,143.217194,Asia/Tokyo,带广,带广机场
-JP,RJCK,KUH,Kushiro,Kushiro Airport,43.040958,144.192902,Asia/Tokyo,钏路,钏路机场
-JP,RJCM,MMB,Memanbetsu,Memanbetsu Airport,43.8806,144.164001,Asia/Tokyo,女满别,女满别机场
-JP,RJCN,SHB,Nakashibetsu,Nakashibetsu Airport,43.577499,144.960007,Asia/Tokyo,中标津,中标津机场
-JP,RJCO,OKD,Sapporo,Sapporo Okadama Airport,43.1143,141.383102,Asia/Tokyo,札幌,札幌飞行场
-JP,RJCW,WKJ,Wakkanai,Wakkanai Airport,45.40416,141.800797,Asia/Tokyo,稚内,稚内机场
-JP,RJDA,AXJ,Amakusa,Amakusa Airport,32.483261,130.15564,Asia/Tokyo,天草,天草飞行场
-JP,RJDB,IKI,Iki,Iki Airport,33.74902,129.7854,Asia/Tokyo,壹岐,壹岐机场
-JP,RJDC,UBJ,Ube,Ube Yamaguchi Airport,33.93,131.278595,Asia/Tokyo,山口,山口宇部机场
-JP,RJDT,TSJ,Tsushima,Tsushima Airport,34.284882,129.330505,Asia/Tokyo,对马,对马机场
-JP,RJEB,MBE,Monbetsu,Monbetsu Airport,44.303909,143.404007,Asia/Tokyo,纹别,纹别机场
-JP,RJEC,AKJ,Asahikawa,Asahikawa Airport,43.67083,142.447495,Asia/Tokyo,旭川,旭川机场
+JP,RJTT,HND,Tokyo,Tokyo Haneda International Airport,35.55225,139.779602,Asia/Tokyo,东京,东京羽田国际机场
+JP,RJAA,NRT,Tokyo,Tokyo Narita International Airport,35.764721,140.386307,Asia/Tokyo,东京,东京成田国际机场
+JP,RJBB,KIX,Osaka,Osaka Kansai International Airport,34.427299,135.244003,Asia/Tokyo,大阪,关西国际机场
+JP,RJFF,FUK,Fukuoka,Fukuoka Airport,33.585941,130.450607,Asia/Tokyo,福冈,福冈机场
+JP,RJCC,CTS,Sapporo,Sapporo New Chitose Airport,42.7752,141.6922,Asia/Tokyo,札幌,札幌新千岁机场
+JP,ROAH,OKA,Naha,Naha Airport,26.19581,127.645798,Asia/Tokyo,那霸,那霸机场
+JP,RJOO,ITM,Osaka,Osaka International Airport,34.785519,135.438202,Asia/Tokyo,大阪,大阪伊丹机场
+JP,RJGG,NGO,Nagoya,Nagoya Chubu Centrair International Airport,34.85841,136.805405,Asia/Tokyo,名古屋,名古屋中部
+JP,RJFK,KOJ,Kagoshima,Kagoshima Airport,31.803391,130.719406,Asia/Tokyo,鹿儿岛,鹿儿岛机场
+JP,RJSS,SDJ,Sendai,Sendai Airport,38.139721,140.916901,Asia/Tokyo,仙台,仙台机场
+JP,RJFT,KMJ,Kumamoto,Kumamoto Airport,32.837311,130.854996,Asia/Tokyo,熊本,熊本机场
+JP,RJFM,KMI,Miyazaki,Miyazaki Airport,31.87722,131.448593,Asia/Tokyo,宫崎,宫崎机场
+JP,RJBE,UKB,Kobe,Kobe Airport,34.632771,135.223801,Asia/Tokyo,神户,神户机场
+JP,RJFU,NGS,Nagasaki,Nagasaki Airport,32.916939,129.913605,Asia/Tokyo,长崎,长崎机场
+JP,RJOM,MYJ,Matsuyama,Matsuyama Airport,33.827221,132.699707,Asia/Tokyo,松山,松山机场
+JP,RJOA,HIJ,Hiroshima,Hiroshima Airport,34.436111,132.919403,Asia/Tokyo,广岛,广岛机场
+JP,ROIG,ISG,Ishigaki,Ishigaki New Airport,24.396389,124.245003,Asia/Tokyo,石垣,石垣机场
+JP,RJOT,TAK,Takamatsu,Takamatsu Airport,34.214161,134.015503,Asia/Tokyo,高松,高松机场
+JP,RJFO,OIT,Oita,Oita Airport,33.479439,131.737198,Asia/Tokyo,大分,大分机场
+JP,RJNK,KMQ,Komatsu,Komatsu Airport,36.394611,136.406494,Asia/Tokyo,小松,小松飞行场
+JP,ROMY,MMY,Miyako,Miyako Airport,24.782829,125.295097,Asia/Tokyo,宫古,宫古机场
+JP,RJCH,HKD,Hakodate,Hakodate Airport,41.77,140.821899,Asia/Tokyo,函馆,函馆机场
+JP,RJFR,KKJ,Kitakyushu,Kitakyushu Airport,33.84594,131.034607,Asia/Tokyo,北九州,北九州机场
+JP,RJOK,KCZ,Nankoku,Kochi Airport,33.546108,133.669403,Asia/Tokyo,高知,高知机场
+JP,RJOB,OKJ,Okayama,Okayama Airport,34.756939,133.855194,Asia/Tokyo,冈山,冈山机场
+JP,RJSK,AXT,Akita,Akita Airport,39.615551,140.218597,Asia/Tokyo,秋田,秋田机场
+JP,RJSA,AOJ,Aomori,Aomori Airport,40.734718,140.690796,Asia/Tokyo,青森,青森机场
+JP,RJOS,TKS,Tokushima,Tokushima Airport,34.132801,134.606598,Asia/Tokyo,德岛,德岛飞行场
+JP,RJAF,MMJ,Matsumoto,Matsumoto Airport,36.166752,137.922607,Asia/Tokyo,松本,松本机场
+JP,RJAH,IBR,Omitama,Omitama Ibaraki Airport,36.181667,140.414719,Asia/Tokyo,茨城,茨城机场
+JP,RJBD,SHM,Nanki Shirahama,Nanki Shirahama Airport,33.66222,135.364395,Asia/Tokyo,南纪白滨,南纪白滨机场
+JP,RJBT,TJH,Tajima,Tajima Airport,35.512798,134.787003,Asia/Tokyo,但马,但马飞行场
+JP,RJCB,OBO,Obihiro,Obihiro Tokachi Airport,42.73333,143.217194,Asia/Tokyo,带广,带广机场
+JP,RJCK,KUH,Kushiro,Kushiro Airport,43.040958,144.192902,Asia/Tokyo,钏路,钏路机场
+JP,RJCM,MMB,Memanbetsu,Memanbetsu Airport,43.8806,144.164001,Asia/Tokyo,女满别,女满别机场
+JP,RJCN,SHB,Nakashibetsu,Nakashibetsu Airport,43.577499,144.960007,Asia/Tokyo,中标津,中标津机场
+JP,RJCO,OKD,Sapporo,Sapporo Okadama Airport,43.1143,141.383102,Asia/Tokyo,札幌,札幌飞行场
+JP,RJCW,WKJ,Wakkanai,Wakkanai Airport,45.40416,141.800797,Asia/Tokyo,稚内,稚内机场
+JP,RJDA,AXJ,Amakusa,Amakusa Airport,32.483261,130.15564,Asia/Tokyo,天草,天草飞行场
+JP,RJDB,IKI,Iki,Iki Airport,33.74902,129.7854,Asia/Tokyo,壹岐,壹岐机场
+JP,RJDC,UBJ,Ube,Ube Yamaguchi Airport,33.93,131.278595,Asia/Tokyo,山口,山口宇部机场
+JP,RJDT,TSJ,Tsushima,Tsushima Airport,34.284882,129.330505,Asia/Tokyo,对马,对马机场
+JP,RJEB,MBE,Monbetsu,Monbetsu Airport,44.303909,143.404007,Asia/Tokyo,纹别,纹别机场
+JP,RJEC,AKJ,Asahikawa,Asahikawa Airport,43.67083,142.447495,Asia/Tokyo,旭川,旭川机场
 JP,RJEO,OIR,Okushiri,Okushiri,42.071659,139.432907,Asia/Tokyo,奥尻,奥尻机场
-JP,RJER,RIS,Rishiri,Rishiri Airport,45.242001,141.186401,Asia/Tokyo,利尻,利尻机场
-JP,RJFC,KUM,Yakushima,Yakushima Airport,30.385559,130.658997,Asia/Tokyo,屋久岛,屋久岛机场
-JP,RJFE,FUJ,Fukue,Fukue Airport,32.66626,128.832794,Asia/Tokyo,福江,福江机场
-JP,RJFG,TNE,Tanegashima,Tanegashima Airport,30.605061,130.991196,Asia/Tokyo,种子岛,种子岛机场
-JP,RJFS,HSG,Saga,Saga Airport,33.153828,130.30278,Asia/Tokyo,佐贺,佐贺机场
-JP,RJKA,ASJ,Amami,Amami Airport,28.43063,129.712494,Asia/Tokyo,奄美,奄美机场
-JP,RJKB,OKE,Okierabu,Okierabu Airport,27.425501,128.701004,Asia/Tokyo,冲永良部,冲永良部机场
-JP,RJKI,KKX,Kikai,Kikai Airport,28.321301,129.927994,Asia/Tokyo,喜界,喜界机场
-JP,RJKN,TKN,Tokunoshima,Tokunoshima Airport,27.83638,128.881195,Asia/Tokyo,德之岛,德之岛机场
-JP,RJNA,NKM,Nagoya,Nagoya Komaki Airport,35.25,136.919998,Asia/Tokyo,名古屋,名古屋飞行场
-JP,RJNO,OKI,Oki,Oki Airport,36.181122,133.324799,Asia/Tokyo,隐岐,隐岐机场
-JP,RJNS,FSZ,Shizuoka,Shizuoka Airport,34.796108,138.189407,Asia/Tokyo,静冈,静冈机场
-JP,RJNT,TOY,Toyama,Toyama Airport,36.648331,137.1875,Asia/Tokyo,富山,富山机场
-JP,RJNW,NTQ,Wajima,Noto Airport,37.293098,136.961853,Asia/Tokyo,轮岛,能登机场
-JP,RJOC,IZO,Izumo,Izumo Airport,35.413609,132.889893,Asia/Tokyo,出云,出云机场
-JP,RJOH,YGJ,Yonago,Yonago Miho Airport,35.492222,133.236298,Asia/Tokyo,米子,米子机场
-JP,RJOI,IWK,Iwakuni,Iwakuni Kintaikyo Airport,34.135277,132.23555,Asia/Tokyo,岩国,岩国飞行场
-JP,RJOR,TTJ,Tottori,Tottori Airport,35.53006,134.166504,Asia/Tokyo,鸟取,鸟取机场
-JP,RJOW,IWJ,Masuda,Masuda Hagi Iwami Airport,34.676388,131.790283,Asia/Tokyo,石见,石见机场
-JP,RJSC,GAJ,Yamagata,Yamagata Airport,38.411888,140.371307,Asia/Tokyo,山形,山形机场
-JP,RJSF,FKS,Sukagawa,Fukushima Airport,37.227428,140.430603,Asia/Tokyo,福岛,福岛机场
-JP,RJSI,HNA,Hanamaki,Hanamaki Airport,39.428612,141.135193,Asia/Tokyo,花卷,花卷机场
-JP,RJSM,MSJ,Misawa,Misawa Airport,40.70322,141.368301,Asia/Tokyo,三泽,三泽机场
-JP,RJSN,KIJ,Niigata,Niigata Airport,37.955891,139.120697,Asia/Tokyo,新潟,新潟机场
-JP,RJSR,ONJ,Kitaakita,Kitaakita Odate Noshiro Airport,40.196415,140.373825,Asia/Tokyo,大馆能代,大馆能代机场
-JP,RJSY,SYO,Sakata,Sakata Shonai Airport,38.809444,139.790558,Asia/Tokyo,庄内,庄内机场
-JP,RJTH,HAC,Hachijojima,Hachijojima Airport,33.115002,139.785797,Asia/Tokyo,八丈岛,八丈岛机场
-JP,ROKJ,UEO,Kumejima,Kumejima Airport,26.363501,126.713799,Asia/Tokyo,久米岛,久米岛机场
+JP,RJER,RIS,Rishiri,Rishiri Airport,45.242001,141.186401,Asia/Tokyo,利尻,利尻机场
+JP,RJFC,KUM,Yakushima,Yakushima Airport,30.385559,130.658997,Asia/Tokyo,屋久岛,屋久岛机场
+JP,RJFE,FUJ,Fukue,Fukue Airport,32.66626,128.832794,Asia/Tokyo,福江,福江机场
+JP,RJFG,TNE,Tanegashima,Tanegashima Airport,30.605061,130.991196,Asia/Tokyo,种子岛,种子岛机场
+JP,RJFS,HSG,Saga,Saga Airport,33.153828,130.30278,Asia/Tokyo,佐贺,佐贺机场
+JP,RJKA,ASJ,Amami,Amami Airport,28.43063,129.712494,Asia/Tokyo,奄美,奄美机场
+JP,RJKB,OKE,Okierabu,Okierabu Airport,27.425501,128.701004,Asia/Tokyo,冲永良部,冲永良部机场
+JP,RJKI,KKX,Kikai,Kikai Airport,28.321301,129.927994,Asia/Tokyo,喜界,喜界机场
+JP,RJKN,TKN,Tokunoshima,Tokunoshima Airport,27.83638,128.881195,Asia/Tokyo,德之岛,德之岛机场
+JP,RJNA,NKM,Nagoya,Nagoya Komaki Airport,35.25,136.919998,Asia/Tokyo,名古屋,名古屋飞行场
+JP,RJNO,OKI,Oki,Oki Airport,36.181122,133.324799,Asia/Tokyo,隐岐,隐岐机场
+JP,RJNS,FSZ,Shizuoka,Shizuoka Airport,34.796108,138.189407,Asia/Tokyo,静冈,静冈机场
+JP,RJNT,TOY,Toyama,Toyama Airport,36.648331,137.1875,Asia/Tokyo,富山,富山机场
+JP,RJNW,NTQ,Wajima,Noto Airport,37.293098,136.961853,Asia/Tokyo,轮岛,能登机场
+JP,RJOC,IZO,Izumo,Izumo Airport,35.413609,132.889893,Asia/Tokyo,出云,出云机场
+JP,RJOH,YGJ,Yonago,Yonago Miho Airport,35.492222,133.236298,Asia/Tokyo,米子,米子机场
+JP,RJOI,IWK,Iwakuni,Iwakuni Kintaikyo Airport,34.135277,132.23555,Asia/Tokyo,岩国,岩国飞行场
+JP,RJOR,TTJ,Tottori,Tottori Airport,35.53006,134.166504,Asia/Tokyo,鸟取,鸟取机场
+JP,RJOW,IWJ,Masuda,Masuda Hagi Iwami Airport,34.676388,131.790283,Asia/Tokyo,石见,石见机场
+JP,RJSC,GAJ,Yamagata,Yamagata Airport,38.411888,140.371307,Asia/Tokyo,山形,山形机场
+JP,RJSF,FKS,Sukagawa,Fukushima Airport,37.227428,140.430603,Asia/Tokyo,福岛,福岛机场
+JP,RJSI,HNA,Hanamaki,Hanamaki Airport,39.428612,141.135193,Asia/Tokyo,花卷,花卷机场
+JP,RJSM,MSJ,Misawa,Misawa Airport,40.70322,141.368301,Asia/Tokyo,三泽,三泽机场
+JP,RJSN,KIJ,Niigata,Niigata Airport,37.955891,139.120697,Asia/Tokyo,新潟,新潟机场
+JP,RJSR,ONJ,Kitaakita,Kitaakita Odate Noshiro Airport,40.196415,140.373825,Asia/Tokyo,大馆能代,大馆能代机场
+JP,RJSY,SYO,Sakata,Sakata Shonai Airport,38.809444,139.790558,Asia/Tokyo,庄内,庄内机场
+JP,RJTH,HAC,Hachijojima,Hachijojima Airport,33.115002,139.785797,Asia/Tokyo,八丈岛,八丈岛机场
+JP,ROKJ,UEO,Kumejima,Kumejima Airport,26.363501,126.713799,Asia/Tokyo,久米岛,久米岛机场
 JP,ROMD,MMD,Minamidaito,Minami-daito,25.846531,131.263397,Asia/Tokyo,南大东岛,南大东岛机场
-JP,RORK,KTD,Kitadaito,Kitadaito Airport,25.944719,131.326904,Asia/Tokyo,北大东,北大东机场
-JP,RORS,SHI,Shimojishima,Shimojishima Airport,24.82666,125.144699,Asia/Tokyo,下地岛,下地岛机场
-JP,RORT,TRA,Tarama,Tarama Airport,24.6539,124.675003,Asia/Tokyo,多良间,多良间机场
-JP,RORY,RNJ,Yoronjima,Yoronjima Yoron Airport,27.043961,128.401505,Asia/Tokyo,与论,与论机场
-JP,ROYN,OGN,Yonaguni,Yonaguni Airport,24.46694,122.977699,Asia/Tokyo,与那国,与那国机场
+JP,RORK,KTD,Kitadaito,Kitadaito Airport,25.944719,131.326904,Asia/Tokyo,北大东,北大东机场
+JP,RORS,SHI,Shimojishima,Shimojishima Airport,24.82666,125.144699,Asia/Tokyo,下地岛,下地岛机场
+JP,RORT,TRA,Tarama,Tarama Airport,24.6539,124.675003,Asia/Tokyo,多良间,多良间机场
+JP,RORY,RNJ,Yoronjima,Yoronjima Yoron Airport,27.043961,128.401505,Asia/Tokyo,与论,与论机场
+JP,ROYN,OGN,Yonaguni,Yonaguni Airport,24.46694,122.977699,Asia/Tokyo,与那国,与那国机场
