@@ -2,7 +2,7 @@ country,ICAO,IATA,city_en,name_en,latitude,longitude,timezone,city,name
 CH,LSGG,GVA,Geneva,Geneva International Airport,46.23806,6.10895,Europe/Zurich,日内瓦,日内瓦国际机场
 CH,LSZH,ZRH,Zurich,Zurich Airport,47.464722,8.549167,Europe/Zurich,苏黎世,苏黎世机场
 DE,EDAH,HDF,Heringsdorf,Heringsdorf Airport,53.87825,14.138242,Europe/Berlin
-DE,EDDB,SXF,Berlin,Berlin Schonefeld Airport,52.380001,13.5225,Europe/Berlin,柏林,柏林-舍讷费尔德机场
+DE,EDDB,BER,Berlin,Berlin Brandenburg Airport,52.366667,13.503333,Europe/Berlin,柏林,柏林勃兰登堡机场
 DE,EDDC,DRS,Dresden,Dresden Airport,51.132759,13.76716,Europe/Berlin,德累斯顿,德累斯顿机场
 DE,EDDF,FRA,Frankfurt,Frankfurt Airport,50.037796,8.555783,Europe/Berlin,法兰克福,法兰克福机场
 DE,EDDG,FMO,Munster,Munster Osnabruck International Airport,52.13464,7.684831,Europe/Berlin,明斯特,明斯特奥斯纳布吕克国际机场
@@ -13,7 +13,6 @@ DE,EDDM,MUC,Munich,Munich Airport,48.353779,11.78608,Europe/Berlin,慕尼黑,慕
 DE,EDDN,NUE,Nurnberg,Nuremberg Airport,49.498699,11.06689,Europe/Berlin,纽伦堡,纽伦堡机场
 DE,EDDR,SCN,Saarbrucken,Saarbrucken Airport,49.21455,7.109508,Europe/Berlin,萨尔布吕肯,萨尔布吕肯机场
 DE,EDDS,STR,Stuttgart,Stuttgart Airport,48.689869,9.221964,Europe/Berlin,斯图加特,斯图加特机场
-DE,EDDT,TXL,Berlin,Berlin Tegel Airport,52.560001,13.288,Europe/Berlin,柏林,柏林-泰格尔奥托·利林塔尔机场
 DE,EDDV,HAJ,Hannover,Hannover Langenhagen Airport,52.461048,9.685078,Europe/Berlin,汉诺威,汉诺威-朗根哈根机场
 DE,EDDW,BRE,Bremen,Bremen Airport,53.047501,8.786667,Europe/Berlin,不来梅,不来梅机场
 DE,EDFM,MHG,Mannheim,Mannheim City Airport,49.472698,8.514264,Europe/Berlin
