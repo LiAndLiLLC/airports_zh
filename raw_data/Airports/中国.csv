@@ -238,6 +238,7 @@ code,province,city,country,ICAO,IATA,city_en,name_en,latitude,longitude,timezone
 5110,四川,甘孜,CN,ZUGZ,GZG,Garze (Ganzi),Garze (Ganzi) Gesar Airport,31.755,99.55361,Asia/Shanghai,4C,西南,甘孜格萨尔机场,9601,,0.8,,104,
 2110,辽宁,长海,CN,ZYCH,CNI,Changhai,Dalian Changhai Airport,39.268055,122.670277,Asia/Shanghai,1B,东北,大连长海机场,3260,2720,,,436,432
 6110,陕西,安康,CN,ZLAK,AKA,,,32.708099,108.931,Asia/Shanghai,3C,西北,安康五里铺机场,,,,,109351,81767
+4510,广西,玉林,CN,ZGYL,YLX,Yulin,Yulin Fumian Airport,22.437222,110.128333,Asia/Shanghai,4C,中南,玉林福绵机场,0,0,0,0,0,0
 8101,香港,香港,HK,VHHH,HKG,Hong Kong,Hong Kong International Airport,22.309616,113.916237,Asia/Hong_Kong,4F,港澳台,香港国际机场,,,,,,
 8102,香港,香港,HK,VHSS,HHP,Hong Kong,Hong Kong–Macau Ferry Terminal,22.289371,114.152153,Asia/Hong_Kong,,港澳台,港澳客运码头,,,,,,
 8201,澳门,澳门,MO,VMMC,MFM,Macau,Macau International Airport,22.149549,113.591499,Asia/Macau,4E,港澳台,澳门国际机场,,,,,,
