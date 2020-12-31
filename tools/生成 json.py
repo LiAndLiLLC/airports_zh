@@ -26,11 +26,7 @@ def msp(li, filename="../airports.json"):
             v[a['IATA']]['region'] = a['region']
 
     with open(filename, "w", encoding="utf-8") as w:
-        json.dump(
-            v, w,
-            separators=(',', ':'),
-            # ensure_ascii=False
-        )
+        json.dump(v, w, separators=(',', ':'))
 
 
 if __name__ == "__main__":
